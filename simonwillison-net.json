@@ -4,7 +4,7 @@
         "title": "Show HN: Instantly create a GitHub repository to take screenshots of a web page",
         "url": "https://simonwillison.net/2022/Mar/14/shot-scraper-template/",
         "dt": "2022-03-14T17:34:33",
-        "points": 55,
+        "points": 75,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30675357",
         "numComments": 13
@@ -14,7 +14,7 @@
         "title": "Scraping web pages from the command-line with shot-scraper",
         "url": "https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/",
         "dt": "2022-03-14T01:33:25",
-        "points": 8,
+        "points": 10,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30667588",
         "numComments": 1
@@ -87,7 +87,7 @@
         "points": 2,
         "submitter": "edward",
         "commentsUrl": "https://news.ycombinator.com/item?id=30225818",
-        "numComments": 36
+        "numComments": 37
     },
     {
         "id": "30186110",
@@ -137,7 +137,7 @@
         "points": 26,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=29940362",
-        "numComments": 58
+        "numComments": 59
     },
     {
         "id": "29910776",
@@ -157,7 +157,7 @@
         "points": 3,
         "submitter": "nalgeon",
         "commentsUrl": "https://news.ycombinator.com/item?id=29898140",
-        "numComments": 61
+        "numComments": 62
     },
     {
         "id": "29811154",
