@@ -3,6 +3,9 @@ name: Scrape Hacker News
 on:
   push:
   workflow_dispatch:
+  schedule:
+  - cron:  '17 * * * *'
+
 
 jobs:
   shot-scraper:
