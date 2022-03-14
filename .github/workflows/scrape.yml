@@ -39,6 +39,10 @@ jobs:
         shot-scraper javascript \
           "https://news.ycombinator.com/from?site=simonwillison.net" \
           -i scrape.js -o simonwillison-net.json
+        sleep 5
+        shot-scraper javascript \
+          "https://news.ycombinator.com/from?site=datasette.io" \
+          -i scrape.js -o datasette-io.json
     - name: Commit and push
       run: |-
         git config user.name "Automated"
