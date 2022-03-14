@@ -1,0 +1,272 @@
+[
+    {
+        "id": "30658310",
+        "title": "Track changes to CLI tools by recording their help output",
+        "url": "https://simonwillison.net/2022/Feb/2/help-scraping/",
+        "dt": "2022-03-13T05:36:13",
+        "submitter": "appwiz",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30658310",
+        "numComments": 18
+    },
+    {
+        "id": "30621802",
+        "title": "Shot-scraper: automated screenshots for documentation, built on Playwright",
+        "url": "https://simonwillison.net/2022/Mar/10/shot-scraper/",
+        "dt": "2022-03-10T00:27:02",
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30621802",
+        "numComments": 4
+    },
+    {
+        "id": "30572384",
+        "title": "I invented a \u201cdash encoding\u201d, a new encoding scheme for URL paths",
+        "url": "https://simonwillison.net/2022/Mar/5/dash-encoding/",
+        "dt": "2022-03-05T22:02:50",
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30572384",
+        "numComments": 8
+    },
+    {
+        "id": "30446039",
+        "title": "Support open source that you use by paying the maintainers to talk to your team",
+        "url": "https://simonwillison.net/2022/Feb/23/support-open-source/",
+        "dt": "2022-02-23T20:33:06",
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30446039",
+        "numComments": 18
+    },
+    {
+        "id": "30417411",
+        "title": "Show HN: Google Drive to SQLite",
+        "url": "https://simonwillison.net/2022/Feb/20/google-drive-to-sqlite/",
+        "dt": "2022-02-21T16:12:19",
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30417411",
+        "numComments": 20
+    },
+    {
+        "id": "30341885",
+        "title": "Using SQLite and Datasette with Fly Volumes",
+        "url": "https://simonwillison.net/2022/Feb/15/fly-volumes/",
+        "dt": "2022-02-15T02:27:17",
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30341885",
+        "numComments": 26
+    },
+    {
+        "id": "30225818",
+        "title": "Help scraping: track changes to CLI tools by recording their \u2013help using Git",
+        "url": "https://simonwillison.net/2022/Feb/2/help-scraping/",
+        "dt": "2022-02-05T20:48:46",
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30225818",
+        "numComments": 36
+    },
+    {
+        "id": "30186110",
+        "title": "Help scraping: track changes to CLI tools by recording their \u2013help using Git",
+        "url": "https://simonwillison.net/2022/Feb/2/help-scraping/",
+        "dt": "2022-02-02T23:51:37",
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30186110",
+        "numComments": 39
+    },
+    {
+        "id": "30178057",
+        "title": "Using SQL to find my best photo of a pelican according to Apple Photos",
+        "url": "https://simonwillison.net/2020/May/21/dogsheep-photos/",
+        "dt": "2022-02-02T14:33:04",
+        "submitter": "marcobambini",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30178057",
+        "numComments": 39
+    },
+    {
+        "id": "30154442",
+        "title": "Writing Better Release Notes",
+        "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
+        "dt": "2022-01-31T21:13:02",
+        "submitter": "BerislavLopac",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30154442",
+        "numComments": 41
+    },
+    {
+        "id": "29984227",
+        "title": "Datasette 0.60: The annotated release notes",
+        "url": "https://simonwillison.net/2022/Jan/14/datasette-060/",
+        "dt": "2022-01-18T19:15:08",
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29984227",
+        "numComments": 54
+    },
+    {
+        "id": "29940362",
+        "title": "What\u2019s New in SQLite-Utils",
+        "url": "https://simonwillison.net/2022/Jan/11/sqlite-utils/",
+        "dt": "2022-01-14T21:00:22",
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29940362",
+        "numComments": 58
+    },
+    {
+        "id": "29910776",
+        "title": "My process for building a feature",
+        "url": "https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/",
+        "dt": "2022-01-12T18:20:10",
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29910776",
+        "numComments": 60
+    },
+    {
+        "id": "29898140",
+        "title": "What's New in SQLite-Utils",
+        "url": "https://simonwillison.net/2022/Jan/11/sqlite-utils/",
+        "dt": "2022-01-11T21:22:51",
+        "submitter": "nalgeon",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29898140",
+        "numComments": 61
+    },
+    {
+        "id": "29811154",
+        "title": "Problems once solved by a metaclass can be solved by __init_subclass__",
+        "url": "https://til.simonwillison.net/python/init-subclass",
+        "dt": "2022-01-05T16:35:08",
+        "submitter": "imaurer",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29811154",
+        "numComments": 67
+    },
+    {
+        "id": "29802158",
+        "title": "Taking a Break in Moss Landing",
+        "url": "https://simonwillison.net/2022/Jan/4/moss-landing/",
+        "dt": "2022-01-04T23:04:40",
+        "submitter": "chmaynard",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29802158",
+        "numComments": 68
+    },
+    {
+        "id": "29671142",
+        "title": "Weeknotes: Datasette-Tiddlywiki, Filters_from_request",
+        "url": "https://simonwillison.net/2021/Dec/24/datasette-tiddlywiki/",
+        "dt": "2021-12-24T07:11:11",
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29671142",
+        "numComments": 79
+    },
+    {
+        "id": "29621716",
+        "title": "Annotated explanation of David Beazley's dataklasses",
+        "url": "https://til.simonwillison.net/python/annotated-dataklasses",
+        "dt": "2021-12-20T04:59:22",
+        "submitter": "jonahbenton",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29621716",
+        "numComments": 83
+    },
+    {
+        "id": "29479258",
+        "title": "Show HN: git-history, for analyzing scraped data collected using Git and SQLite",
+        "url": "https://simonwillison.net/2021/Dec/7/git-history/",
+        "dt": "2021-12-07T22:57:24",
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29479258",
+        "numComments": 3
+    },
+    {
+        "id": "29376191",
+        "title": "Publishing a Web Component to npm",
+        "url": "https://til.simonwillison.net/npm/publish-web-component",
+        "dt": "2021-11-29T03:54:24",
+        "submitter": "chmaynard",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29376191",
+        "numComments": 3
+    },
+    {
+        "id": "29227100",
+        "title": "git-history, a new tool created for a Git scraping workshop",
+        "url": "https://simonwillison.net/2021/Nov/15/weeknotes-git-history/",
+        "dt": "2021-11-15T13:31:25",
+        "submitter": "chmaynard",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29227100",
+        "numComments": 3
+    },
+    {
+        "id": "29141055",
+        "title": "S3-credentials: a tool for creating credentials for S3 buckets",
+        "url": "https://simonwillison.net/2021/Nov/3/s3-credentials/",
+        "dt": "2021-11-07T16:50:16",
+        "submitter": "mariuz",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29141055",
+        "numComments": 4
+    },
+    {
+        "id": "29138078",
+        "title": "Annotated code for a demo of WebSocket chat in Deno Deploy",
+        "url": "https://til.simonwillison.net/deno/annotated-deno-deploy-demo",
+        "dt": "2021-11-07T10:22:37",
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29138078",
+        "numComments": 4
+    },
+    {
+        "id": "29116107",
+        "title": "How to build, test and publish an open source Python library",
+        "url": "https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/",
+        "dt": "2021-11-05T06:37:40",
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29116107",
+        "numComments": 4
+    },
+    {
+        "id": "29096139",
+        "title": "S3-credentials: a tool for creating credentials for S3 buckets",
+        "url": "https://simonwillison.net/2021/Nov/3/s3-credentials/",
+        "dt": "2021-11-03T15:36:43",
+        "submitter": "vmoore",
+        "commentsUrl": "https://news.ycombinator.com/item?id=29096139",
+        "numComments": 4
+    },
+    {
+        "id": "28915582",
+        "title": "Datasette 0.59: The annotated release notes",
+        "url": "https://simonwillison.net/2021/Oct/19/datasette-059/",
+        "dt": "2021-10-19T07:10:09",
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=28915582",
+        "numComments": 4
+    },
+    {
+        "id": "28808497",
+        "title": "Finding and reporting an asyncio bug in Python 3.10",
+        "url": "https://simonwillison.net/2021/Oct/9/finding-and-reporting-a-bug/",
+        "dt": "2021-10-09T10:15:35",
+        "submitter": "chmaynard",
+        "commentsUrl": "https://news.ycombinator.com/item?id=28808497",
+        "numComments": 5
+    },
+    {
+        "id": "28468964",
+        "title": "Bundling Python inside an Electron app",
+        "url": "https://til.simonwillison.net/electron/python-inside-electron",
+        "dt": "2021-09-09T12:35:25",
+        "submitter": "chmaynard",
+        "commentsUrl": "https://news.ycombinator.com/item?id=28468964",
+        "numComments": 6
+    },
+    {
+        "id": "28467517",
+        "title": "Datasette Desktop\u2013a macOS desktop application for Datasette",
+        "url": "https://simonwillison.net/2021/Sep/8/datasette-desktop/",
+        "dt": "2021-09-09T08:28:16",
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=28467517",
+        "numComments": 6
+    },
+    {
+        "id": "28464481",
+        "title": "Datasette Desktop\u2013a macOS desktop application for Datasette",
+        "url": "https://simonwillison.net/2021/Sep/8/datasette-desktop/",
+        "dt": "2021-09-08T23:52:06",
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=28464481",
+        "numComments": 6
+    }
+]
