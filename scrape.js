@@ -10,6 +10,6 @@ Array.from(document.querySelectorAll('.itemlist .athing')).map(el => {
     Array.from(
       el.nextSibling.querySelectorAll('.subtext a[href^=item]')
     ).slice(-1)[0].innerText.split()[0]
-  );
+  ) || 0;
   return {id, title, url, dt, points, submitter, commentsUrl, numComments};
 })
