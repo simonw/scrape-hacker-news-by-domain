@@ -1,5 +1,15 @@
 [
     {
+        "id": "30667588",
+        "title": "Scraping web pages from the command-line with shot-scraper",
+        "url": "https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/",
+        "dt": "2022-03-14T01:33:25",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30667588",
+        "numComments": 1
+    },
+    {
         "id": "30658310",
         "title": "Track changes to CLI tools by recording their help output",
         "url": "https://simonwillison.net/2022/Feb/2/help-scraping/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=28467517",
-        "numComments": 6
-    },
-    {
-        "id": "28464481",
-        "title": "Datasette Desktop\u2013a macOS desktop application for Datasette",
-        "url": "https://simonwillison.net/2021/Sep/8/datasette-desktop/",
-        "dt": "2021-09-08T23:52:06",
-        "points": 12,
-        "submitter": "todsacerdoti",
-        "commentsUrl": "https://news.ycombinator.com/item?id=28464481",
         "numComments": 6
     }
 ]
