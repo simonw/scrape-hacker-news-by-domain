@@ -7,7 +7,7 @@
         "points": 1,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30667588",
-        "numComments": 7
+        "numComments": NaN
     },
     {
         "id": "30658310",
@@ -17,7 +17,7 @@
         "points": 9,
         "submitter": "appwiz",
         "commentsUrl": "https://news.ycombinator.com/item?id=30658310",
-        "numComments": 20
+        "numComments": 6
     },
     {
         "id": "30621802",
@@ -27,7 +27,7 @@
         "points": 65,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30621802",
-        "numComments": 4
+        "numComments": 12
     },
     {
         "id": "30572384",
@@ -37,7 +37,7 @@
         "points": 36,
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=30572384",
-        "numComments": 8
+        "numComments": 22
     },
     {
         "id": "30446039",
@@ -47,7 +47,7 @@
         "points": 213,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30446039",
-        "numComments": 18
+        "numComments": 64
     },
     {
         "id": "30417411",
@@ -57,7 +57,7 @@
         "points": 305,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30417411",
-        "numComments": 20
+        "numComments": 32
     },
     {
         "id": "30341885",
@@ -87,7 +87,7 @@
         "points": 8,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30186110",
-        "numComments": 39
+        "numComments": 1
     },
     {
         "id": "30178057",
@@ -107,7 +107,7 @@
         "points": 24,
         "submitter": "BerislavLopac",
         "commentsUrl": "https://news.ycombinator.com/item?id=30154442",
-        "numComments": 41
+        "numComments": 1
     },
     {
         "id": "29984227",
@@ -137,7 +137,7 @@
         "points": 100,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=29910776",
-        "numComments": 60
+        "numComments": 8
     },
     {
         "id": "29898140",
@@ -157,7 +157,7 @@
         "points": 211,
         "submitter": "imaurer",
         "commentsUrl": "https://news.ycombinator.com/item?id=29811154",
-        "numComments": 67
+        "numComments": 124
     },
     {
         "id": "29802158",
@@ -187,7 +187,7 @@
         "points": 108,
         "submitter": "jonahbenton",
         "commentsUrl": "https://news.ycombinator.com/item?id=29621716",
-        "numComments": 83
+        "numComments": 16
     },
     {
         "id": "29479258",
@@ -197,7 +197,7 @@
         "points": 108,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=29479258",
-        "numComments": 3
+        "numComments": 19
     },
     {
         "id": "29376191",
@@ -237,7 +237,7 @@
         "points": 51,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=29138078",
-        "numComments": 4
+        "numComments": 3
     },
     {
         "id": "29116107",
