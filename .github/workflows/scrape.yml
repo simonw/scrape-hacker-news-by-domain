@@ -1,0 +1,56 @@
+name: Scrape Hacker News
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  shot-scraper:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.10"
+    - uses: actions/cache@v2
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Cache Playwright browsers
+      uses: actions/cache@v2
+      with:
+        path: ~/.cache/ms-playwright/
+        key: ${{ runner.os }}-browsers
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Install Playwright dependencies
+      run: |
+        shot-scraper install
+    - name: Scrape
+      run: |        
+        shot-scraper javascript "https://news.ycombinator.com/from?site=simonwillison.net" "
+        Array.from(document.querySelectorAll('.itemlist .athing')).map(el => {
+          const title = el.querySelector('a.titlelink').innerText;
+          const url = el.querySelector('a.titlelink').href;
+          const dt = el.nextSibling.querySelector('.age').title;
+          const submitter = el.nextSibling.querySelector('.hnuser').innerText;
+          const commentsUrl = el.nextSibling.querySelector('.subtext a:last-child').href;
+          const id = commentsUrl.split('?id=')[1];
+          const numComments = parseInt(el.nextSibling.querySelectorAll('.subtext a[href^=item]')[0].innerText.split()[0]);
+          return {id, title, url, dt, submitter, commentsUrl, numComments};
+        })
+        " > simonwillison-net.json
+    - name: Commit and push
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "${timestamp}" || exit 0
+        git pull --rebase
+        git push
