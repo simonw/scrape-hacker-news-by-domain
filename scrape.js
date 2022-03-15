@@ -4,12 +4,15 @@ Array.from(document.querySelectorAll('.itemlist .athing')).map(el => {
   const url = el.querySelector('a.titlelink').href;
   const dt = el.nextSibling.querySelector('.age').title;
   const submitter = el.nextSibling.querySelector('.hnuser').innerText;
-  const commentsUrl = el.nextSibling.querySelector('.subtext a:last-child').href;
+  const commentsUrl = el.nextSibling.querySelector('.age a').href;
   const id = commentsUrl.split('?id=')[1];
-  const numComments = parseInt(
-    Array.from(
-      el.nextSibling.querySelectorAll('.subtext a[href^=item]')
-    ).slice(-1)[0].innerText.split()[0]
-  ) || 0;
+  // Only posts with comments have a comments link
+  const commentsLink = Array.from(
+    el.nextSibling.querySelectorAll('a')
+  ).filter(el => el && el.innerText.includes('comment'))[0];
+  let numComments = 0;
+  if (commentsLink) {
+    numComments = parseInt(commentsLink.innerText.split()[0]);
+  }
   return {id, title, url, dt, points, submitter, commentsUrl, numComments};
 })
