@@ -4,10 +4,10 @@
         "title": "Show HN: Instantly create a GitHub repository to take screenshots of a web page",
         "url": "https://simonwillison.net/2022/Mar/14/shot-scraper-template/",
         "dt": "2022-03-14T17:34:33",
-        "points": 119,
+        "points": 125,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30675357",
-        "numComments": 17
+        "numComments": 18
     },
     {
         "id": "30667588",
@@ -77,7 +77,7 @@
         "points": 8,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30341885",
-        "numComments": 27
+        "numComments": 0
     },
     {
         "id": "30225818",
@@ -87,7 +87,7 @@
         "points": 2,
         "submitter": "edward",
         "commentsUrl": "https://news.ycombinator.com/item?id=30225818",
-        "numComments": 37
+        "numComments": 0
     },
     {
         "id": "30186110",
@@ -107,7 +107,7 @@
         "points": 2,
         "submitter": "marcobambini",
         "commentsUrl": "https://news.ycombinator.com/item?id=30178057",
-        "numComments": 40
+        "numComments": 0
     },
     {
         "id": "30154442",
@@ -127,7 +127,7 @@
         "points": 7,
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=29984227",
-        "numComments": 55
+        "numComments": 0
     },
     {
         "id": "29940362",
@@ -137,7 +137,7 @@
         "points": 26,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=29940362",
-        "numComments": 59
+        "numComments": 0
     },
     {
         "id": "29910776",
@@ -157,7 +157,7 @@
         "points": 3,
         "submitter": "nalgeon",
         "commentsUrl": "https://news.ycombinator.com/item?id=29898140",
-        "numComments": 62
+        "numComments": 0
     },
     {
         "id": "29811154",
@@ -177,7 +177,7 @@
         "points": 1,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=29802158",
-        "numComments": 69
+        "numComments": 0
     },
     {
         "id": "29671142",
@@ -187,7 +187,7 @@
         "points": 1,
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=29671142",
-        "numComments": 80
+        "numComments": 0
     },
     {
         "id": "29621716",
@@ -217,7 +217,7 @@
         "points": 18,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=29376191",
-        "numComments": 3
+        "numComments": 0
     },
     {
         "id": "29227100",
@@ -227,7 +227,7 @@
         "points": 3,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=29227100",
-        "numComments": 3
+        "numComments": 0
     },
     {
         "id": "29141055",
@@ -237,7 +237,7 @@
         "points": 1,
         "submitter": "mariuz",
         "commentsUrl": "https://news.ycombinator.com/item?id=29141055",
-        "numComments": 4
+        "numComments": 0
     },
     {
         "id": "29138078",
@@ -257,7 +257,7 @@
         "points": 4,
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=29116107",
-        "numComments": 4
+        "numComments": 0
     },
     {
         "id": "29096139",
@@ -267,7 +267,7 @@
         "points": 3,
         "submitter": "vmoore",
         "commentsUrl": "https://news.ycombinator.com/item?id=29096139",
-        "numComments": 4
+        "numComments": 0
     },
     {
         "id": "28915582",
@@ -277,7 +277,7 @@
         "points": 2,
         "submitter": "edward",
         "commentsUrl": "https://news.ycombinator.com/item?id=28915582",
-        "numComments": 4
+        "numComments": 0
     },
     {
         "id": "28808497",
@@ -287,7 +287,7 @@
         "points": 29,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=28808497",
-        "numComments": 5
+        "numComments": 0
     },
     {
         "id": "28468964",
@@ -297,6 +297,6 @@
         "points": 2,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=28468964",
-        "numComments": 6
+        "numComments": 0
     }
 ]
