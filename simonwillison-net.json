@@ -1,5 +1,15 @@
 [
     {
+        "id": "30795254",
+        "title": "Extracting web page content using Readability.js and shot-scraper",
+        "url": "https://til.simonwillison.net/shot-scraper/readability",
+        "dt": "2022-03-24T20:58:58",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30795254",
+        "numComments": 1
+    },
+    {
         "id": "30675357",
         "title": "Show HN: Instantly create a GitHub repository to take screenshots of a web page",
         "url": "https://simonwillison.net/2022/Mar/14/shot-scraper-template/",
@@ -287,16 +297,6 @@
         "points": 29,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=28808497",
-        "numComments": 0
-    },
-    {
-        "id": "28468964",
-        "title": "Bundling Python inside an Electron app",
-        "url": "https://til.simonwillison.net/electron/python-inside-electron",
-        "dt": "2021-09-09T12:35:25",
-        "points": 2,
-        "submitter": "chmaynard",
-        "commentsUrl": "https://news.ycombinator.com/item?id=28468964",
         "numComments": 0
     }
 ]
