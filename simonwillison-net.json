@@ -1,5 +1,15 @@
 [
     {
+        "id": "30910562",
+        "title": "Enabling WAL mode for SQLite database files",
+        "url": "https://til.simonwillison.net/sqlite/enabling-wal-mode",
+        "dt": "2022-04-04T18:49:36",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30910562",
+        "numComments": 0
+    },
+    {
         "id": "30886723",
         "title": "The interesting ideas in Datasette (2018)",
         "url": "https://simonwillison.net/2018/Oct/4/datasette-ideas/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "vmoore",
         "commentsUrl": "https://news.ycombinator.com/item?id=29096139",
-        "numComments": 0
-    },
-    {
-        "id": "28915582",
-        "title": "Datasette 0.59: The annotated release notes",
-        "url": "https://simonwillison.net/2021/Oct/19/datasette-059/",
-        "dt": "2021-10-19T07:10:09",
-        "points": 2,
-        "submitter": "edward",
-        "commentsUrl": "https://news.ycombinator.com/item?id=28915582",
         "numComments": 0
     }
 ]
