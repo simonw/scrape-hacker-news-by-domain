@@ -4,7 +4,7 @@
         "title": "Enabling WAL mode for SQLite database files",
         "url": "https://til.simonwillison.net/sqlite/enabling-wal-mode",
         "dt": "2022-04-04T18:49:36",
-        "points": 18,
+        "points": 19,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=30910562",
         "numComments": 1
@@ -14,7 +14,7 @@
         "title": "The interesting ideas in Datasette (2018)",
         "url": "https://simonwillison.net/2018/Oct/4/datasette-ideas/",
         "dt": "2022-04-02T08:31:26",
-        "points": 65,
+        "points": 72,
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=30886723",
         "numComments": 8
