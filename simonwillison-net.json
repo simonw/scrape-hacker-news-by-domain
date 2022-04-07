@@ -4,7 +4,7 @@
         "title": "Enabling WAL mode for SQLite database files",
         "url": "https://til.simonwillison.net/sqlite/enabling-wal-mode",
         "dt": "2022-04-04T18:49:36",
-        "points": 27,
+        "points": 28,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=30910562",
         "numComments": 1
@@ -17,7 +17,7 @@
         "points": 86,
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=30886723",
-        "numComments": 13
+        "numComments": 14
     },
     {
         "id": "30795254",
