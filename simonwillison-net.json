@@ -1,5 +1,15 @@
 [
     {
+        "id": "31043458",
+        "title": "Executing advanced ALTER TABLE operations in SQLite",
+        "url": "https://simonwillison.net/2020/Sep/23/sqlite-advanced-alter-table/",
+        "dt": "2022-04-15T18:00:48",
+        "points": 1,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31043458",
+        "numComments": 0
+    },
+    {
         "id": "30910562",
         "title": "Enabling WAL mode for SQLite database files",
         "url": "https://til.simonwillison.net/sqlite/enabling-wal-mode",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=29116107",
-        "numComments": 0
-    },
-    {
-        "id": "29096139",
-        "title": "S3-credentials: a tool for creating credentials for S3 buckets",
-        "url": "https://simonwillison.net/2021/Nov/3/s3-credentials/",
-        "dt": "2021-11-03T15:36:43",
-        "points": 3,
-        "submitter": "vmoore",
-        "commentsUrl": "https://news.ycombinator.com/item?id=29096139",
         "numComments": 0
     }
 ]
