@@ -1,10 +1,20 @@
 [
     {
+        "id": "31185496",
+        "title": "Parallel SQL Queries in Datasette",
+        "url": "https://simonwillison.net/2022/Apr/27/parallel-queries/",
+        "dt": "2022-04-27T20:39:50",
+        "points": 1,
+        "submitter": "frogger8",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31185496",
+        "numComments": 0
+    },
+    {
         "id": "31177943",
         "title": "Atuin for zsh shell history in SQLite",
         "url": "https://til.simonwillison.net/macos/atuin",
         "dt": "2022-04-27T09:19:42",
-        "points": 2,
+        "points": 3,
         "submitter": "ellieh",
         "commentsUrl": "https://news.ycombinator.com/item?id=31177943",
         "numComments": 1
@@ -288,15 +298,5 @@
         "submitter": "jonahbenton",
         "commentsUrl": "https://news.ycombinator.com/item?id=29621716",
         "numComments": 16
-    },
-    {
-        "id": "29479258",
-        "title": "Show HN: git-history, for analyzing scraped data collected using Git and SQLite",
-        "url": "https://simonwillison.net/2021/Dec/7/git-history/",
-        "dt": "2021-12-07T22:57:24",
-        "points": 108,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=29479258",
-        "numComments": 19
     }
 ]
