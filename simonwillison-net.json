@@ -1,5 +1,15 @@
 [
     {
+        "id": "31195431",
+        "title": "Automatically filing issues when tracked file content changes",
+        "url": "https://simonwillison.net/2022/Apr/28/issue-on-changes/",
+        "dt": "2022-04-28T17:29:37",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31195431",
+        "numComments": 0
+    },
+    {
         "id": "31185496",
         "title": "Parallel SQL Queries in Datasette",
         "url": "https://simonwillison.net/2022/Apr/27/parallel-queries/",
@@ -288,15 +298,5 @@
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=29671142",
         "numComments": 0
-    },
-    {
-        "id": "29621716",
-        "title": "Annotated explanation of David Beazley's dataklasses",
-        "url": "https://til.simonwillison.net/python/annotated-dataklasses",
-        "dt": "2021-12-20T04:59:22",
-        "points": 108,
-        "submitter": "jonahbenton",
-        "commentsUrl": "https://news.ycombinator.com/item?id=29621716",
-        "numComments": 16
     }
 ]
