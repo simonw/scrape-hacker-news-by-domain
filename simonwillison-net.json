@@ -4,7 +4,7 @@
         "title": "Speeding up Datasette by removing the GIL",
         "url": "https://simonwillison.net/2022/Apr/29/nogil/",
         "dt": "2022-04-30T14:12:54",
-        "points": 1,
+        "points": 2,
         "submitter": "pcr910303",
         "commentsUrl": "https://news.ycombinator.com/item?id=31216215",
         "numComments": 1
