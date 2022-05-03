@@ -1,5 +1,15 @@
 [
     {
+        "id": "31252325",
+        "title": "Executing advanced ALTER TABLE operations in SQLite",
+        "url": "https://simonwillison.net/2020/Sep/23/sqlite-advanced-alter-table/",
+        "dt": "2022-05-03T19:18:47",
+        "points": 1,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31252325",
+        "numComments": 0
+    },
+    {
         "id": "31216215",
         "title": "Speeding up Datasette by removing the GIL",
         "url": "https://simonwillison.net/2022/Apr/29/nogil/",
@@ -288,15 +298,5 @@
         "submitter": "nalgeon",
         "commentsUrl": "https://news.ycombinator.com/item?id=29898140",
         "numComments": 0
-    },
-    {
-        "id": "29811154",
-        "title": "Problems once solved by a metaclass can be solved by __init_subclass__",
-        "url": "https://til.simonwillison.net/python/init-subclass",
-        "dt": "2022-01-05T16:35:08",
-        "points": 211,
-        "submitter": "imaurer",
-        "commentsUrl": "https://news.ycombinator.com/item?id=29811154",
-        "numComments": 124
     }
 ]
