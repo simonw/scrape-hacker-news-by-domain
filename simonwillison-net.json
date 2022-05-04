@@ -1,5 +1,15 @@
 [
     {
+        "id": "31261777",
+        "title": "Datasette Lite: a server-side Python web application running in a browser",
+        "url": "https://simonwillison.net/2022/May/4/datasette-lite/",
+        "dt": "2022-05-04T15:22:52",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31261777",
+        "numComments": 1
+    },
+    {
         "id": "31252325",
         "title": "Executing advanced ALTER TABLE operations in SQLite",
         "url": "https://simonwillison.net/2020/Sep/23/sqlite-advanced-alter-table/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=29910776",
         "numComments": 8
-    },
-    {
-        "id": "29898140",
-        "title": "What's New in SQLite-Utils",
-        "url": "https://simonwillison.net/2022/Jan/11/sqlite-utils/",
-        "dt": "2022-01-11T21:22:51",
-        "points": 3,
-        "submitter": "nalgeon",
-        "commentsUrl": "https://news.ycombinator.com/item?id=29898140",
-        "numComments": 0
     }
 ]
