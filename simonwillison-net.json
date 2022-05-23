@@ -1,5 +1,15 @@
 [
     {
+        "id": "31480577",
+        "title": "Bundling binary tools in Python wheels",
+        "url": "https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/",
+        "dt": "2022-05-23T15:50:24",
+        "points": 2,
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31480577",
+        "numComments": 0
+    },
+    {
         "id": "31466744",
         "title": "Paint Holding \u2013 reducing the flash of white on same-origin navigations",
         "url": "https://simonwillison.net/2022/May/22/paint-holding/",
@@ -287,16 +297,6 @@
         "points": 7,
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=29984227",
-        "numComments": 0
-    },
-    {
-        "id": "29940362",
-        "title": "What\u2019s New in SQLite-Utils",
-        "url": "https://simonwillison.net/2022/Jan/11/sqlite-utils/",
-        "dt": "2022-01-14T21:00:22",
-        "points": 26,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=29940362",
         "numComments": 0
     }
 ]
