@@ -1,5 +1,15 @@
 [
     {
+        "id": "31641009",
+        "title": "How to play with the GPT-3 language model",
+        "url": "https://simonwillison.net/2022/Jun/5/play-with-gpt3/",
+        "dt": "2022-06-06T14:33:29",
+        "points": 1,
+        "submitter": "sebg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31641009",
+        "numComments": 0
+    },
+    {
         "id": "31634527",
         "title": "A Datasette tutorial written by GPT-3",
         "url": "https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/",
@@ -287,16 +297,6 @@
         "points": 8,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30341885",
-        "numComments": 0
-    },
-    {
-        "id": "30225818",
-        "title": "Help scraping: track changes to CLI tools by recording their \u2013help using Git",
-        "url": "https://simonwillison.net/2022/Feb/2/help-scraping/",
-        "dt": "2022-02-05T20:48:46",
-        "points": 2,
-        "submitter": "edward",
-        "commentsUrl": "https://news.ycombinator.com/item?id=30225818",
         "numComments": 0
     }
 ]
