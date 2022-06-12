@@ -1,5 +1,15 @@
 [
     {
+        "id": "31712807",
+        "title": "How to play with the GPT-3 language model",
+        "url": "https://simonwillison.net/2022/Jun/5/play-with-gpt3/",
+        "dt": "2022-06-12T08:32:53",
+        "points": 2,
+        "submitter": "fauigerzigerk",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31712807",
+        "numComments": 0
+    },
+    {
         "id": "31641009",
         "title": "How to play with the GPT-3 language model",
         "url": "https://simonwillison.net/2022/Jun/5/play-with-gpt3/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30417411",
         "numComments": 32
-    },
-    {
-        "id": "30341885",
-        "title": "Using SQLite and Datasette with Fly Volumes",
-        "url": "https://simonwillison.net/2022/Feb/15/fly-volumes/",
-        "dt": "2022-02-15T02:27:17",
-        "points": 8,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=30341885",
-        "numComments": 0
     }
 ]
