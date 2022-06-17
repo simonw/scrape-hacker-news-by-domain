@@ -4,10 +4,10 @@
         "title": "Bundling binary tools in Python wheels",
         "url": "https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/",
         "dt": "2022-06-17T12:00:43",
-        "points": 50,
+        "points": 61,
         "submitter": "pcr910303",
         "commentsUrl": "https://news.ycombinator.com/item?id=31776873",
-        "numComments": 15
+        "numComments": 18
     },
     {
         "id": "31727464",
