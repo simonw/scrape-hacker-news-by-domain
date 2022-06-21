@@ -1,5 +1,15 @@
 [
     {
+        "id": "31824030",
+        "title": "One-liner for running queries against CSV files with SQLite",
+        "url": "https://til.simonwillison.net/sqlite/one-line-csv-operations",
+        "dt": "2022-06-21T13:59:36",
+        "points": 38,
+        "submitter": "jdblair",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31824030",
+        "numComments": 3
+    },
+    {
         "id": "31818939",
         "title": "One-liner for running queries against CSV files with SQLite",
         "url": "https://til.simonwillison.net/sqlite/one-line-csv-operations",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30667588",
         "numComments": 1
-    },
-    {
-        "id": "30658310",
-        "title": "Track changes to CLI tools by recording their help output",
-        "url": "https://simonwillison.net/2022/Feb/2/help-scraping/",
-        "dt": "2022-03-13T05:36:13",
-        "points": 10,
-        "submitter": "appwiz",
-        "commentsUrl": "https://news.ycombinator.com/item?id=30658310",
-        "numComments": 6
     }
 ]
