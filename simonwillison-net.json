@@ -1,13 +1,23 @@
 [
     {
+        "id": "31825556",
+        "title": "Implementing a \u201cCopy to Clipboard\u201d Button",
+        "url": "https://til.simonwillison.net/javascript/copy-button",
+        "dt": "2022-06-21T16:06:44",
+        "points": 1,
+        "submitter": "Brajeshwar",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31825556",
+        "numComments": 0
+    },
+    {
         "id": "31824030",
         "title": "One-liner for running queries against CSV files with SQLite",
         "url": "https://til.simonwillison.net/sqlite/one-line-csv-operations",
         "dt": "2022-06-21T13:59:36",
-        "points": 192,
+        "points": 306,
         "submitter": "jdblair",
         "commentsUrl": "https://news.ycombinator.com/item?id=31824030",
-        "numComments": 27
+        "numComments": 53
     },
     {
         "id": "31818939",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=30675357",
         "numComments": 36
-    },
-    {
-        "id": "30667588",
-        "title": "Scraping web pages from the command-line with shot-scraper",
-        "url": "https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/",
-        "dt": "2022-03-14T01:33:25",
-        "points": 18,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=30667588",
-        "numComments": 1
     }
 ]
