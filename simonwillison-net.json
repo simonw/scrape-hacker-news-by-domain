@@ -4,10 +4,10 @@
         "title": "One-liner for running queries against CSV files with SQLite",
         "url": "https://til.simonwillison.net/sqlite/one-line-csv-operations",
         "dt": "2022-06-21T13:59:36",
-        "points": 38,
+        "points": 192,
         "submitter": "jdblair",
         "commentsUrl": "https://news.ycombinator.com/item?id=31824030",
-        "numComments": 3
+        "numComments": 27
     },
     {
         "id": "31818939",
