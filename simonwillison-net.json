@@ -1,5 +1,15 @@
 [
     {
+        "id": "31861082",
+        "title": "First impressions of DALL-E, generating images from text",
+        "url": "https://simonwillison.net/2022/Jun/23/dall-e/",
+        "dt": "2022-06-24T13:00:13",
+        "points": 1,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31861082",
+        "numComments": 0
+    },
+    {
         "id": "31831145",
         "title": "Simon Willison's cool categorised TIL page",
         "url": "https://til.simonwillison.net/",
@@ -288,15 +298,5 @@
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=30886723",
         "numComments": 15
-    },
-    {
-        "id": "30795254",
-        "title": "Extracting web page content using Readability.js and shot-scraper",
-        "url": "https://til.simonwillison.net/shot-scraper/readability",
-        "dt": "2022-03-24T20:58:58",
-        "points": 39,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=30795254",
-        "numComments": 5
     }
 ]
