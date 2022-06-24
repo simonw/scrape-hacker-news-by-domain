@@ -4,7 +4,7 @@
         "title": "First impressions of DALL-E, generating images from text",
         "url": "https://simonwillison.net/2022/Jun/23/dall-e/",
         "dt": "2022-06-24T13:00:13",
-        "points": 1,
+        "points": 2,
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=31861082",
         "numComments": 0
@@ -34,7 +34,7 @@
         "title": "One-liner for running queries against CSV files with SQLite",
         "url": "https://til.simonwillison.net/sqlite/one-line-csv-operations",
         "dt": "2022-06-21T13:59:36",
-        "points": 735,
+        "points": 736,
         "submitter": "jdblair",
         "commentsUrl": "https://news.ycombinator.com/item?id=31824030",
         "numComments": 122
