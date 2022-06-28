@@ -1,5 +1,15 @@
 [
     {
+        "id": "31912171",
+        "title": "Running OCR Against a Scanned PDF with AWS Textract",
+        "url": "https://til.simonwillison.net/aws/ocr-pdf-textract",
+        "dt": "2022-06-28T19:49:30",
+        "points": 1,
+        "submitter": "amrrs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31912171",
+        "numComments": 0
+    },
+    {
         "id": "31861082",
         "title": "First impressions of DALL-E, generating images from text",
         "url": "https://simonwillison.net/2022/Jun/23/dall-e/",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=30910562",
         "numComments": 1
-    },
-    {
-        "id": "30886723",
-        "title": "The interesting ideas in Datasette (2018)",
-        "url": "https://simonwillison.net/2018/Oct/4/datasette-ideas/",
-        "dt": "2022-04-02T08:31:26",
-        "points": 86,
-        "submitter": "Tomte",
-        "commentsUrl": "https://news.ycombinator.com/item?id=30886723",
-        "numComments": 15
     }
 ]
