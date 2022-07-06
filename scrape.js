@@ -1,4 +1,4 @@
-Array.from(document.querySelectorAll('.itemlist .athing')).map(el => {
+Array.from(document.querySelectorAll('.itemlist .athing'), el => {
   const title = el.querySelector('a.titlelink').innerText;
   const points = parseInt(el.nextSibling.querySelector('.score').innerText);
   const url = el.querySelector('a.titlelink').href;
