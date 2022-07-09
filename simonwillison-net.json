@@ -1,5 +1,15 @@
 [
     {
+        "id": "32036224",
+        "title": "Using GPT-3 to explain how code works",
+        "url": "https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/",
+        "dt": "2022-07-09T15:53:35",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32036224",
+        "numComments": 0
+    },
+    {
         "id": "31939094",
         "title": "Show HN: S3-OCR: Extract text from PDF files stored in an S3 bucket",
         "url": "https://simonwillison.net/2022/Jun/30/s3-ocr/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=31067201",
         "numComments": 1
-    },
-    {
-        "id": "31043458",
-        "title": "Executing advanced ALTER TABLE operations in SQLite",
-        "url": "https://simonwillison.net/2020/Sep/23/sqlite-advanced-alter-table/",
-        "dt": "2022-04-15T18:00:48",
-        "points": 2,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=31043458",
-        "numComments": 0
     }
 ]
