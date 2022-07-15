@@ -1,5 +1,15 @@
 [
     {
+        "id": "32105129",
+        "title": "Freezing Requirements with Pip-Tools",
+        "url": "https://til.simonwillison.net/python/pip-tools",
+        "dt": "2022-07-15T06:12:15",
+        "points": 2,
+        "submitter": "BerislavLopac",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32105129",
+        "numComments": 0
+    },
+    {
         "id": "32036224",
         "title": "Using GPT-3 to explain how code works",
         "url": "https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=31136456",
         "numComments": 0
-    },
-    {
-        "id": "31067201",
-        "title": "Show HN: I built a Covid sewage numbers Twitter bot",
-        "url": "https://simonwillison.net/2022/Apr/18/covid-sewage/",
-        "dt": "2022-04-18T03:50:39",
-        "points": 16,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=31067201",
-        "numComments": 1
     }
 ]
