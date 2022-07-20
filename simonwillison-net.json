@@ -1,5 +1,15 @@
 [
     {
+        "id": "32173700",
+        "title": "Weeknotes: Datasette, SQLite-utils, Datasette Desktop",
+        "url": "https://simonwillison.net/2022/Jul/20/weeknotes/",
+        "dt": "2022-07-20T23:20:17",
+        "points": 1,
+        "submitter": "ghuntley",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32173700",
+        "numComments": 0
+    },
+    {
         "id": "32105129",
         "title": "Freezing Requirements with Pip-Tools",
         "url": "https://til.simonwillison.net/python/pip-tools",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=31145624",
-        "numComments": 0
-    },
-    {
-        "id": "31136456",
-        "title": "Scraping web pages from the command line with shot-scraper",
-        "url": "https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/",
-        "dt": "2022-04-23T17:46:11",
-        "points": 2,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=31136456",
         "numComments": 0
     }
 ]
