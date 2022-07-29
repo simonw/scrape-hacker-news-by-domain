@@ -4,10 +4,10 @@
         "title": "Struct Endianness in Python",
         "url": "https://til.simonwillison.net/python/struct-endianness",
         "dt": "2022-07-28T16:56:50",
-        "points": 59,
+        "points": 60,
         "submitter": "revorad",
         "commentsUrl": "https://news.ycombinator.com/item?id=32267008",
-        "numComments": 5
+        "numComments": 6
     },
     {
         "id": "32173700",
