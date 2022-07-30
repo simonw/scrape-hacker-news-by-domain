@@ -4,7 +4,7 @@
         "title": "Emulating a big-endian s390x with QEMU",
         "url": "https://til.simonwillison.net/docker/emulate-s390x-with-qemu",
         "dt": "2022-07-30T06:05:54",
-        "points": 5,
+        "points": 6,
         "submitter": "robin_reala",
         "commentsUrl": "https://news.ycombinator.com/item?id=32284661",
         "numComments": 1
