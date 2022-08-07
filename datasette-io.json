@@ -1,1 +1,112 @@
-[]
+[
+    {
+        "id": "32300050",
+        "title": "Cleaning data with SQLite-utils and Datasette",
+        "url": "https://datasette.io/tutorials/clean-data",
+        "dt": "2022-07-31T23:49:00",
+        "points": 3,
+        "submitter": "ghuntley",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32300050",
+        "numComments": 0
+    },
+    {
+        "id": "31176054",
+        "title": "The Datasette Ecosystem",
+        "url": "https://docs.datasette.io/en/stable/ecosystem.html",
+        "dt": "2022-04-27T03:43:29",
+        "points": 186,
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31176054",
+        "numComments": 22
+    },
+    {
+        "id": "30575225",
+        "title": "Learn SQL with Datasette",
+        "url": "https://datasette.io/tutorials/learn-sql",
+        "dt": "2022-03-06T05:15:00",
+        "points": 5,
+        "submitter": "JNRowe",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30575225",
+        "numComments": 0
+    },
+    {
+        "id": "30446530",
+        "title": "sqlite-utils - CLI & Python utility functions for manipulating SQLite databases",
+        "url": "https://sqlite-utils.datasette.io/en/stable/index.html",
+        "dt": "2022-02-23T21:13:36",
+        "points": 134,
+        "submitter": "punnerud",
+        "commentsUrl": "https://news.ycombinator.com/item?id=30446530",
+        "numComments": 16
+    },
+    {
+        "id": "28527978",
+        "title": "Show HN: Datasette Desktop, macOS App for SQLite and CSVs",
+        "url": "https://datasette.io/desktop",
+        "dt": "2021-09-14T17:30:14",
+        "points": 22,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=28527978",
+        "numComments": 2
+    },
+    {
+        "id": "28268484",
+        "title": "The Datasette Ecosystem",
+        "url": "https://docs.datasette.io/en/stable/ecosystem.html",
+        "dt": "2021-08-22T19:07:33",
+        "points": 4,
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=28268484",
+        "numComments": 0
+    },
+    {
+        "id": "27732281",
+        "title": "Django SQL Dashboard",
+        "url": "https://django-sql-dashboard.datasette.io/en/stable/",
+        "dt": "2021-07-04T20:16:01",
+        "points": 2,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=27732281",
+        "numComments": 0
+    },
+    {
+        "id": "27107428",
+        "title": "Show HN: Django SQL Dashboard",
+        "url": "https://django-sql-dashboard.datasette.io/en/latest/",
+        "dt": "2021-05-10T15:53:54",
+        "points": 204,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=27107428",
+        "numComments": 27
+    },
+    {
+        "id": "25385296",
+        "title": "Datasette: An open source multi-tool for exploring and publishing data",
+        "url": "https://datasette.io/",
+        "dt": "2020-12-11T13:09:55",
+        "points": 285,
+        "submitter": "robin_reala",
+        "commentsUrl": "https://news.ycombinator.com/item?id=25385296",
+        "numComments": 22
+    },
+    {
+        "id": "24734230",
+        "title": "Datasette 0.50",
+        "url": "https://docs.datasette.io/en/stable/changelog.html#v0-50",
+        "dt": "2020-10-09T20:41:53",
+        "points": 5,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=24734230",
+        "numComments": 0
+    },
+    {
+        "id": "21389850",
+        "title": "SQL Murder Mystery",
+        "url": "https://sql-murder-mystery.datasette.io/sql-murder-mystery",
+        "dt": "2019-10-29T17:36:37",
+        "points": 4,
+        "submitter": "kickscondor",
+        "commentsUrl": "https://news.ycombinator.com/item?id=21389850",
+        "numComments": 0
+    }
+]
