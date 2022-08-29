@@ -1,5 +1,15 @@
 [
     {
+        "id": "32636760",
+        "title": "Stable Diffusion is a big deal",
+        "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
+        "dt": "2022-08-29T11:13:47",
+        "points": 2,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32636760",
+        "numComments": 1
+    },
+    {
         "id": "32634074",
         "title": "Stable Diffusion is a big deal",
         "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=31261777",
         "numComments": 34
-    },
-    {
-        "id": "31252325",
-        "title": "Executing advanced ALTER TABLE operations in SQLite",
-        "url": "https://simonwillison.net/2020/Sep/23/sqlite-advanced-alter-table/",
-        "dt": "2022-05-03T19:18:47",
-        "points": 2,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=31252325",
-        "numComments": 0
     }
 ]
