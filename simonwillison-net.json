@@ -1,5 +1,15 @@
 [
     {
+        "id": "32634074",
+        "title": "Stable Diffusion is a big deal",
+        "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
+        "dt": "2022-08-29T02:03:19",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32634074",
+        "numComments": 0
+    },
+    {
         "id": "32597270",
         "title": "Building a Searchable Archive for the San Francisco Microscopical Society",
         "url": "https://simonwillison.net/2022/Aug/25/sfms-archive/",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=31252325",
         "numComments": 0
-    },
-    {
-        "id": "31216215",
-        "title": "Speeding up Datasette by removing the GIL",
-        "url": "https://simonwillison.net/2022/Apr/29/nogil/",
-        "dt": "2022-04-30T14:12:54",
-        "points": 2,
-        "submitter": "pcr910303",
-        "commentsUrl": "https://news.ycombinator.com/item?id=31216215",
-        "numComments": 1
     }
 ]
