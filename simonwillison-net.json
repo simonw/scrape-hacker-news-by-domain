@@ -1,5 +1,15 @@
 [
     {
+        "id": "32684424",
+        "title": "Notes on the SQLite DuckDB Paper",
+        "url": "https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/",
+        "dt": "2022-09-01T22:52:55",
+        "points": 2,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32684424",
+        "numComments": 1
+    },
+    {
         "id": "32650858",
         "title": "Stable Diffusion is a big deal",
         "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
@@ -34,7 +44,7 @@
         "title": "Stable Diffusion is a big deal",
         "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
         "dt": "2022-08-29T02:03:19",
-        "points": 828,
+        "points": 830,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32634074",
         "numComments": 464
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=31575999",
         "numComments": 1
-    },
-    {
-        "id": "31480577",
-        "title": "Bundling binary tools in Python wheels",
-        "url": "https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/",
-        "dt": "2022-05-23T15:50:24",
-        "points": 2,
-        "submitter": "Tomte",
-        "commentsUrl": "https://news.ycombinator.com/item?id=31480577",
-        "numComments": 0
     }
 ]
