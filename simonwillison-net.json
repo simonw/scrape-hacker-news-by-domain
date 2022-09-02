@@ -1,13 +1,23 @@
 [
     {
+        "id": "32685316",
+        "title": "Deploying a Redbean App to Fly",
+        "url": "https://til.simonwillison.net/fly/redbean-on-fly",
+        "dt": "2022-09-02T00:49:16",
+        "points": 1,
+        "submitter": "indigodaddy",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32685316",
+        "numComments": 0
+    },
+    {
         "id": "32684424",
         "title": "Notes on the SQLite DuckDB Paper",
         "url": "https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/",
         "dt": "2022-09-01T22:52:55",
-        "points": 11,
+        "points": 39,
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=32684424",
-        "numComments": 4
+        "numComments": 8
     },
     {
         "id": "32650858",
@@ -44,10 +54,10 @@
         "title": "Stable Diffusion is a big deal",
         "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
         "dt": "2022-08-29T02:03:19",
-        "points": 830,
+        "points": 832,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32634074",
-        "numComments": 465
+        "numComments": 466
     },
     {
         "id": "32597270",
@@ -288,15 +298,5 @@
         "submitter": "BerislavLopac",
         "commentsUrl": "https://news.ycombinator.com/item?id=31579302",
         "numComments": 0
-    },
-    {
-        "id": "31575999",
-        "title": "A Datasette tutorial written by GPT-3",
-        "url": "https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/",
-        "dt": "2022-05-31T23:08:12",
-        "points": 3,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=31575999",
-        "numComments": 1
     }
 ]
