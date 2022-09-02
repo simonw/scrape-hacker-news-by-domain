@@ -4,10 +4,10 @@
         "title": "Notes on the SQLite DuckDB Paper",
         "url": "https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/",
         "dt": "2022-09-01T22:52:55",
-        "points": 2,
+        "points": 11,
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=32684424",
-        "numComments": 1
+        "numComments": 4
     },
     {
         "id": "32650858",
@@ -47,7 +47,7 @@
         "points": 830,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32634074",
-        "numComments": 464
+        "numComments": 465
     },
     {
         "id": "32597270",
