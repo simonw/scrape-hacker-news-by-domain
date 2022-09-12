@@ -1,5 +1,15 @@
 [
     {
+        "id": "32817941",
+        "title": "Prompt injection attacks against GPT-3",
+        "url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
+        "dt": "2022-09-12T22:25:06",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32817941",
+        "numComments": 0
+    },
+    {
         "id": "32685316",
         "title": "Deploying a Redbean App to Fly",
         "url": "https://til.simonwillison.net/fly/redbean-on-fly",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "pcr910303",
         "commentsUrl": "https://news.ycombinator.com/item?id=31617445",
-        "numComments": 0
-    },
-    {
-        "id": "31579302",
-        "title": "A Datasette tutorial written by GPT-3",
-        "url": "https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/",
-        "dt": "2022-06-01T08:01:15",
-        "points": 1,
-        "submitter": "BerislavLopac",
-        "commentsUrl": "https://news.ycombinator.com/item?id=31579302",
         "numComments": 0
     }
 ]
