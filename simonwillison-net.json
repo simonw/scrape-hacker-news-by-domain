@@ -4,17 +4,17 @@
         "title": "Prompt injection attacks against GPT-3",
         "url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
         "dt": "2022-09-12T22:25:06",
-        "points": 42,
+        "points": 62,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32817941",
-        "numComments": 14
+        "numComments": 26
     },
     {
         "id": "32685316",
         "title": "Deploying a Redbean App to Fly",
         "url": "https://til.simonwillison.net/fly/redbean-on-fly",
         "dt": "2022-09-02T00:49:16",
-        "points": 1,
+        "points": 2,
         "submitter": "indigodaddy",
         "commentsUrl": "https://news.ycombinator.com/item?id=32685316",
         "numComments": 0
@@ -64,7 +64,7 @@
         "title": "Stable Diffusion is a big deal",
         "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
         "dt": "2022-08-29T02:03:19",
-        "points": 871,
+        "points": 872,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32634074",
         "numComments": 473
