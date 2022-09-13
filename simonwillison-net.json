@@ -4,10 +4,10 @@
         "title": "Prompt injection attacks against GPT-3",
         "url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
         "dt": "2022-09-12T22:25:06",
-        "points": 73,
+        "points": 82,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32817941",
-        "numComments": 41
+        "numComments": 46
     },
     {
         "id": "32685316",
@@ -64,7 +64,7 @@
         "title": "Stable Diffusion is a big deal",
         "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
         "dt": "2022-08-29T02:03:19",
-        "points": 872,
+        "points": 873,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32634074",
         "numComments": 473
