@@ -1,5 +1,15 @@
 [
     {
+        "id": "32882496",
+        "title": "You can\u2019t solve AI security problems with more AI",
+        "url": "https://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/",
+        "dt": "2022-09-17T23:04:39",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32882496",
+        "numComments": 0
+    },
+    {
         "id": "32868622",
         "title": "I don\u2019t know how to solve prompt injection",
         "url": "https://simonwillison.net/2022/Sep/16/prompt-injection-solutions/",
@@ -287,16 +297,6 @@
         "points": 12,
         "submitter": "fauigerzigerk",
         "commentsUrl": "https://news.ycombinator.com/item?id=31712807",
-        "numComments": 0
-    },
-    {
-        "id": "31641009",
-        "title": "How to play with the GPT-3 language model",
-        "url": "https://simonwillison.net/2022/Jun/5/play-with-gpt3/",
-        "dt": "2022-06-06T14:33:29",
-        "points": 2,
-        "submitter": "sebg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=31641009",
         "numComments": 0
     }
 ]
