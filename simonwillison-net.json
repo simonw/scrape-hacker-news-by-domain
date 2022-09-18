@@ -4,7 +4,7 @@
         "title": "You can\u2019t solve AI security problems with more AI",
         "url": "https://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/",
         "dt": "2022-09-17T23:04:39",
-        "points": 6,
+        "points": 9,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32882496",
         "numComments": 0
@@ -34,10 +34,10 @@
         "title": "Prompt injection attacks against GPT-3",
         "url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
         "dt": "2022-09-12T22:25:06",
-        "points": 204,
+        "points": 205,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32817941",
-        "numComments": 108
+        "numComments": 109
     },
     {
         "id": "32685316",
