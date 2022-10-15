@@ -1,5 +1,15 @@
 [
     {
+        "id": "33216789",
+        "title": "Automating screenshots for the Datasette documentation using shot-scraper",
+        "url": "https://simonwillison.net/2022/Oct/14/automating-screenshots/",
+        "dt": "2022-10-15T17:33:36",
+        "points": 3,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33216789",
+        "numComments": 0
+    },
+    {
         "id": "33205453",
         "title": "Exploring the training data behind Stable Diffusion",
         "url": "https://simonwillison.net/2022/Sep/5/laion-aesthetics-weeknotes/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "tony-allan",
         "commentsUrl": "https://news.ycombinator.com/item?id=31831145",
-        "numComments": 0
-    },
-    {
-        "id": "31825556",
-        "title": "Implementing a \u201cCopy to Clipboard\u201d Button",
-        "url": "https://til.simonwillison.net/javascript/copy-button",
-        "dt": "2022-06-21T16:06:44",
-        "points": 1,
-        "submitter": "Brajeshwar",
-        "commentsUrl": "https://news.ycombinator.com/item?id=31825556",
         "numComments": 0
     }
 ]
