@@ -1,1 +1,302 @@
-[]
+[
+    {
+        "id": "33264578",
+        "title": "Measuring Traffic During the Half Moon Bay Pumpkin Festival",
+        "url": "https://simonwillison.net/2022/Oct/19/measuring-traffic/",
+        "dt": "2022-10-19T16:32:32",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33264578",
+        "numComments": 0
+    },
+    {
+        "id": "33231335",
+        "title": "PAGNIs: Probably Are Gonna Need Its (2021)",
+        "url": "https://simonwillison.net/2021/Jul/1/pagnis/",
+        "dt": "2022-10-17T09:18:05",
+        "points": 149,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33231335",
+        "numComments": 97
+    },
+    {
+        "id": "33216789",
+        "title": "Shot-scraper: Automating screenshots for documentation",
+        "url": "https://simonwillison.net/2022/Oct/14/automating-screenshots/",
+        "dt": "2022-10-15T17:33:36",
+        "points": 63,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33216789",
+        "numComments": 15
+    },
+    {
+        "id": "33205453",
+        "title": "Exploring the training data behind Stable Diffusion",
+        "url": "https://simonwillison.net/2022/Sep/5/laion-aesthetics-weeknotes/",
+        "dt": "2022-10-14T16:13:48",
+        "points": 2,
+        "submitter": "BudaDude",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33205453",
+        "numComments": 0
+    },
+    {
+        "id": "33190167",
+        "title": "Writing pytest tests against tools written with argparse \u2013 Simon Willison\u2019s TILs",
+        "url": "https://til.simonwillison.net/pytest/pytest-argparse",
+        "dt": "2022-10-13T12:38:58",
+        "points": 1,
+        "submitter": "yaph",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33190167",
+        "numComments": 0
+    },
+    {
+        "id": "33102512",
+        "title": "Is the AI spell-casting metaphor harmful or helpful?",
+        "url": "https://simonwillison.net/2022/Oct/5/spell-casting/",
+        "dt": "2022-10-05T23:28:26",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33102512",
+        "numComments": 1
+    },
+    {
+        "id": "33051621",
+        "title": "Software Engineering Practices",
+        "url": "https://simonwillison.net/2022/Oct/1/software-engineering-practices/",
+        "dt": "2022-10-02T00:47:53",
+        "points": 41,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33051621",
+        "numComments": 0
+    },
+    {
+        "id": "33035369",
+        "title": "A tool for capturing captions and transcripts from online videos",
+        "url": "https://simonwillison.net/2022/Sep/30/action-transcription/",
+        "dt": "2022-09-30T14:31:29",
+        "points": 123,
+        "submitter": "mzs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33035369",
+        "numComments": 28
+    },
+    {
+        "id": "33025974",
+        "title": "Exploring 10M scraped Shutterstock videos used to train Meta\u2019s Make-A-Video",
+        "url": "https://simonwillison.net/2022/Sep/29/webvid/",
+        "dt": "2022-09-29T19:38:46",
+        "points": 6,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33025974",
+        "numComments": 0
+    },
+    {
+        "id": "32882496",
+        "title": "You can\u2019t solve AI security problems with more AI",
+        "url": "https://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/",
+        "dt": "2022-09-17T23:04:39",
+        "points": 21,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32882496",
+        "numComments": 13
+    },
+    {
+        "id": "32868622",
+        "title": "I don\u2019t know how to solve prompt injection",
+        "url": "https://simonwillison.net/2022/Sep/16/prompt-injection-solutions/",
+        "dt": "2022-09-16T16:36:28",
+        "points": 7,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32868622",
+        "numComments": 0
+    },
+    {
+        "id": "32829227",
+        "title": "Prompt injection attacks against GPT-3",
+        "url": "http://simonwillison.net/2022/Sep/12/prompt-injection/#atom-everything",
+        "dt": "2022-09-13T19:37:42",
+        "points": 2,
+        "submitter": "danhon",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32829227",
+        "numComments": 0
+    },
+    {
+        "id": "32817941",
+        "title": "Prompt injection attacks against GPT-3",
+        "url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
+        "dt": "2022-09-12T22:25:06",
+        "points": 208,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32817941",
+        "numComments": 113
+    },
+    {
+        "id": "32685316",
+        "title": "Deploying a Redbean App to Fly",
+        "url": "https://til.simonwillison.net/fly/redbean-on-fly",
+        "dt": "2022-09-02T00:49:16",
+        "points": 2,
+        "submitter": "indigodaddy",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32685316",
+        "numComments": 0
+    },
+    {
+        "id": "32684424",
+        "title": "Notes on the SQLite DuckDB Paper",
+        "url": "https://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/",
+        "dt": "2022-09-01T22:52:55",
+        "points": 195,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32684424",
+        "numComments": 28
+    },
+    {
+        "id": "32650858",
+        "title": "Stable Diffusion is a big deal",
+        "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
+        "dt": "2022-08-30T14:23:12",
+        "points": 2,
+        "submitter": "rmujica",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32650858",
+        "numComments": 0
+    },
+    {
+        "id": "32639643",
+        "title": "Image generation ethics: Will you be an AI vegan?",
+        "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/#ai-vegan",
+        "dt": "2022-08-29T15:48:18",
+        "points": 112,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32639643",
+        "numComments": 194
+    },
+    {
+        "id": "32636760",
+        "title": "Stable Diffusion is a big deal",
+        "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
+        "dt": "2022-08-29T11:13:47",
+        "points": 16,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32636760",
+        "numComments": 1
+    },
+    {
+        "id": "32634074",
+        "title": "Stable Diffusion is a big deal",
+        "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
+        "dt": "2022-08-29T02:03:19",
+        "points": 874,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32634074",
+        "numComments": 473
+    },
+    {
+        "id": "32597270",
+        "title": "Building a Searchable Archive for the San Francisco Microscopical Society",
+        "url": "https://simonwillison.net/2022/Aug/25/sfms-archive/",
+        "dt": "2022-08-25T17:44:43",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32597270",
+        "numComments": 1
+    },
+    {
+        "id": "32536808",
+        "title": "Hacking around with the ScotRail audio announcements",
+        "url": "https://simonwillison.net/2022/Aug/21/scotrail/",
+        "dt": "2022-08-21T02:10:55",
+        "points": 139,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32536808",
+        "numComments": 30
+    },
+    {
+        "id": "32500120",
+        "title": "Plugin Support for Datasette Lite (Datasette in the Browser with WebAssembly)",
+        "url": "https://simonwillison.net/2022/Aug/17/datasette-lite-plugins/",
+        "dt": "2022-08-17T18:43:52",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32500120",
+        "numComments": 0
+    },
+    {
+        "id": "32386558",
+        "title": "Microsoft Open Source Software Secure Supply Chain Framework Requirements",
+        "url": "https://simonwillison.net/2022/Aug/6/secure-supply-chain/",
+        "dt": "2022-08-08T15:22:40",
+        "points": 3,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32386558",
+        "numComments": 0
+    },
+    {
+        "id": "32284661",
+        "title": "Emulating a big-endian s390x with QEMU",
+        "url": "https://til.simonwillison.net/docker/emulate-s390x-with-qemu",
+        "dt": "2022-07-30T06:05:54",
+        "points": 7,
+        "submitter": "robin_reala",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32284661",
+        "numComments": 1
+    },
+    {
+        "id": "32267008",
+        "title": "Struct Endianness in Python",
+        "url": "https://til.simonwillison.net/python/struct-endianness",
+        "dt": "2022-07-28T16:56:50",
+        "points": 75,
+        "submitter": "revorad",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32267008",
+        "numComments": 7
+    },
+    {
+        "id": "32173700",
+        "title": "Weeknotes: Datasette, SQLite-utils, Datasette Desktop",
+        "url": "https://simonwillison.net/2022/Jul/20/weeknotes/",
+        "dt": "2022-07-20T23:20:17",
+        "points": 29,
+        "submitter": "ghuntley",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32173700",
+        "numComments": 0
+    },
+    {
+        "id": "32105129",
+        "title": "Freezing Requirements with Pip-Tools",
+        "url": "https://til.simonwillison.net/python/pip-tools",
+        "dt": "2022-07-15T06:12:15",
+        "points": 55,
+        "submitter": "BerislavLopac",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32105129",
+        "numComments": 57
+    },
+    {
+        "id": "32036224",
+        "title": "Using GPT-3 to explain how code works",
+        "url": "https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/",
+        "dt": "2022-07-09T15:53:35",
+        "points": 385,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=32036224",
+        "numComments": 147
+    },
+    {
+        "id": "31939094",
+        "title": "Show HN: S3-OCR: Extract text from PDF files stored in an S3 bucket",
+        "url": "https://simonwillison.net/2022/Jun/30/s3-ocr/",
+        "dt": "2022-06-30T21:50:05",
+        "points": 6,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31939094",
+        "numComments": 0
+    },
+    {
+        "id": "31912171",
+        "title": "Running OCR Against a Scanned PDF with AWS Textract",
+        "url": "https://til.simonwillison.net/aws/ocr-pdf-textract",
+        "dt": "2022-06-28T19:49:30",
+        "points": 2,
+        "submitter": "amrrs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=31912171",
+        "numComments": 0
+    }
+]
