@@ -1,5 +1,15 @@
 [
     {
+        "id": "33495295",
+        "title": "What to Blog About",
+        "url": "https://simonwillison.net/2022/Nov/6/what-to-blog-about/",
+        "dt": "2022-11-06T17:57:08",
+        "points": 2,
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33495295",
+        "numComments": 0
+    },
+    {
         "id": "33478570",
         "title": "It looks like I\u2019m moving to Mastodon",
         "url": "https://simonwillison.net/2022/Nov/5/mastodon/",
@@ -7,7 +17,7 @@
         "points": 253,
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=33478570",
-        "numComments": 430
+        "numComments": 431
     },
     {
         "id": "33416803",
@@ -288,15 +298,5 @@
         "submitter": "ghuntley",
         "commentsUrl": "https://news.ycombinator.com/item?id=32173700",
         "numComments": 0
-    },
-    {
-        "id": "32105129",
-        "title": "Freezing Requirements with Pip-Tools",
-        "url": "https://til.simonwillison.net/python/pip-tools",
-        "dt": "2022-07-15T06:12:15",
-        "points": 55,
-        "submitter": "BerislavLopac",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32105129",
-        "numComments": 57
     }
 ]
