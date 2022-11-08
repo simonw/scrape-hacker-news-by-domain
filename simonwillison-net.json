@@ -1,5 +1,15 @@
 [
     {
+        "id": "33520382",
+        "title": "Mastodon Is Just Blogs",
+        "url": "https://simonwillison.net/2022/Nov/8/mastodon-is-just-blogs/",
+        "dt": "2022-11-08T15:57:09",
+        "points": 3,
+        "submitter": "fariszr",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33520382",
+        "numComments": 0
+    },
+    {
         "id": "33495295",
         "title": "What to blog about",
         "url": "https://simonwillison.net/2022/Nov/6/what-to-blog-about/",
@@ -17,7 +27,7 @@
         "points": 258,
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=33478570",
-        "numComments": 443
+        "numComments": 444
     },
     {
         "id": "33416803",
@@ -288,15 +298,5 @@
         "submitter": "revorad",
         "commentsUrl": "https://news.ycombinator.com/item?id=32267008",
         "numComments": 7
-    },
-    {
-        "id": "32173700",
-        "title": "Weeknotes: Datasette, SQLite-utils, Datasette Desktop",
-        "url": "https://simonwillison.net/2022/Jul/20/weeknotes/",
-        "dt": "2022-07-20T23:20:17",
-        "points": 29,
-        "submitter": "ghuntley",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32173700",
-        "numComments": 0
     }
 ]
