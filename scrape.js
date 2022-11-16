@@ -1,5 +1,5 @@
 () => {
-  var items = Array.from(document.querySelectorAll('.itemlist .athing'), el => {
+  var items = Array.from(document.querySelectorAll('.athing'), el => {
     const title = el.querySelector('.titleline a').innerText;
     const points = parseInt(el.nextSibling.querySelector('.score').innerText);
     const url = el.querySelector('.titleline a').href;
