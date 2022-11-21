@@ -1,5 +1,15 @@
 [
     {
+        "id": "33687843",
+        "title": "Deploying Python web apps as AWS Lambda functions",
+        "url": "https://til.simonwillison.net/awslambda/asgi-mangum",
+        "dt": "2022-11-21T02:10:16",
+        "points": 1,
+        "submitter": "indigodaddy",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33687843",
+        "numComments": 0
+    },
+    {
         "id": "33679028",
         "title": "Tracking Mastodon user numbers over time with a bucket of tricks",
         "url": "https://simonwillison.net/2022/Nov/20/tracking-mastodon/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32536808",
         "numComments": 30
-    },
-    {
-        "id": "32500120",
-        "title": "Plugin Support for Datasette Lite (Datasette in the Browser with WebAssembly)",
-        "url": "https://simonwillison.net/2022/Aug/17/datasette-lite-plugins/",
-        "dt": "2022-08-17T18:43:52",
-        "points": 2,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32500120",
-        "numComments": 0
     }
 ]
