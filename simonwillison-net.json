@@ -1,5 +1,45 @@
 [
     {
+        "id": "33753990",
+        "title": "Increase your productivity on personal projects",
+        "url": "https://simonwillison.net/2022/Nov/26/productivity/",
+        "dt": "2022-11-26T16:25:38",
+        "points": 1,
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33753990",
+        "numComments": 0
+    },
+    {
+        "id": "33753871",
+        "title": "Increase your productivity with comprehensive documentation and automated tests",
+        "url": "https://simonwillison.net/2022/Nov/26/productivity/",
+        "dt": "2022-11-26T16:16:00",
+        "points": 2,
+        "submitter": "Amorymeltzer",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33753871",
+        "numComments": 0
+    },
+    {
+        "id": "33753842",
+        "title": "Massively increase your productivity on personal projects with docs and tests",
+        "url": "https://simonwillison.net/2022/Nov/26/productivity/",
+        "dt": "2022-11-26T16:13:16",
+        "points": 2,
+        "submitter": "rahimnathwani",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33753842",
+        "numComments": 0
+    },
+    {
+        "id": "33753590",
+        "title": "Increased productivity on personal projects with comprehensive docs and tests",
+        "url": "https://simonwillison.net/2022/Nov/26/productivity/",
+        "dt": "2022-11-26T15:51:23",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33753590",
+        "numComments": 0
+    },
+    {
         "id": "33687843",
         "title": "Deploying Python web apps as AWS Lambda functions",
         "url": "https://til.simonwillison.net/awslambda/asgi-mangum",
@@ -258,45 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32639643",
         "numComments": 194
-    },
-    {
-        "id": "32636760",
-        "title": "Stable Diffusion is a big deal",
-        "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
-        "dt": "2022-08-29T11:13:47",
-        "points": 16,
-        "submitter": "edward",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32636760",
-        "numComments": 1
-    },
-    {
-        "id": "32634074",
-        "title": "Stable Diffusion is a big deal",
-        "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
-        "dt": "2022-08-29T02:03:19",
-        "points": 874,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32634074",
-        "numComments": 473
-    },
-    {
-        "id": "32597270",
-        "title": "Building a Searchable Archive for the San Francisco Microscopical Society",
-        "url": "https://simonwillison.net/2022/Aug/25/sfms-archive/",
-        "dt": "2022-08-25T17:44:43",
-        "points": 3,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32597270",
-        "numComments": 1
-    },
-    {
-        "id": "32536808",
-        "title": "Hacking around with the ScotRail audio announcements",
-        "url": "https://simonwillison.net/2022/Aug/21/scotrail/",
-        "dt": "2022-08-21T02:10:55",
-        "points": 139,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32536808",
-        "numComments": 30
     }
 ]
