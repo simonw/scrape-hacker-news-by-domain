@@ -1,5 +1,15 @@
 [
     {
+        "id": "33762438",
+        "title": "Coping strategies for the serial project hoarder",
+        "url": "https://simonwillison.net/2022/Nov/26/productivity/",
+        "dt": "2022-11-27T12:12:56",
+        "points": 1,
+        "submitter": "usrme",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33762438",
+        "numComments": 0
+    },
+    {
         "id": "33753990",
         "title": "Increase your productivity on personal projects",
         "url": "https://simonwillison.net/2022/Nov/26/productivity/",
@@ -288,15 +298,5 @@
         "submitter": "rmujica",
         "commentsUrl": "https://news.ycombinator.com/item?id=32650858",
         "numComments": 0
-    },
-    {
-        "id": "32639643",
-        "title": "Image generation ethics: Will you be an AI vegan?",
-        "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/#ai-vegan",
-        "dt": "2022-08-29T15:48:18",
-        "points": 112,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32639643",
-        "numComments": 194
     }
 ]
