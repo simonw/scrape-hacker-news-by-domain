@@ -1,5 +1,15 @@
 [
     {
+        "id": "33792855",
+        "title": "First alpha release of Datasette 1.0 intros new APIs for writing to the db",
+        "url": "https://docs.datasette.io/en/latest/changelog.html#a0-2022-11-29",
+        "dt": "2022-11-29T20:31:21",
+        "points": 2,
+        "submitter": "ghuntley",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33792855",
+        "numComments": 0
+    },
+    {
         "id": "33221723",
         "title": "Random ScotRail Apology Generator",
         "url": "https://scotrail.datasette.io/scotrail/random_apology",
