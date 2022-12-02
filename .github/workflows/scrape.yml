@@ -43,6 +43,28 @@ jobs:
         shot-scraper javascript \
           "https://news.ycombinator.com/from?site=datasette.io" \
           -i scrape.js -o datasette-io.json
+    - name: Submit fresh data to my Datasette Cloud space
+      env:
+        DS_TOKEN: ${{ secrets.SIMON_DS_WRITE_TOKEN }}
+      run: |-
+        export SIMONWILLISON_ROWS=$(
+          jq -n --argjson rows "$(cat simonwillison-net.json)" \
+          '{ "rows": $rows, "replace": true }'
+        )
+        export DATASETTE_ROWS=$(
+          jq -n --argjson rows "$(cat datasette-io.json)" \
+          '{ "rows": $rows, "replace": true }'
+        )
+        curl -X POST \
+          https://simon.datasette.cloud/data/hacker_news_posts/-/insert \
+          -H "Content-Type: application/json" \
+          -H "Authorization: Bearer $DS_TOKEN" \
+          -d $SIMONWILLISON_ROWS
+        curl -X POST \
+          https://simon.datasette.cloud/data/hacker_news_posts/-/insert \
+          -H "Content-Type: application/json" \
+          -H "Authorization: Bearer $DS_TOKEN" \
+          -d $DATASETTE_ROWS
     - name: Commit and push
       run: |-
         git config user.name "Automated"
