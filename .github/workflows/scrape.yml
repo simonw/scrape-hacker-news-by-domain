@@ -55,6 +55,8 @@ jobs:
           jq -n --argjson rows "$(cat datasette-io.json)" \
           '{ "rows": $rows, "replace": true }'
         )
+        echo "SIMONWILLISON_ROWS: $SIMONWILLISON_ROWS"
+        echo "DATASETTE_ROWS: $DATASETTE_ROWS"
         curl -X POST \
           https://simon.datasette.cloud/data/hacker_news_posts/-/insert \
           -H "Content-Type: application/json" \
