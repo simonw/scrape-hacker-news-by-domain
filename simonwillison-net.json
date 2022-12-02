@@ -1,5 +1,15 @@
 [
     {
+        "id": "33838341",
+        "title": "Datasette\u2019s new JSON write API: The first alpha of Datasette 1.0",
+        "url": "https://simonwillison.net/2022/Dec/2/datasette-write-api/",
+        "dt": "2022-12-02T23:23:15",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33838341",
+        "numComments": 0
+    },
+    {
         "id": "33762438",
         "title": "Coping strategies for the serial project hoarder",
         "url": "https://simonwillison.net/2022/Nov/26/productivity/",
@@ -288,15 +298,5 @@
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=32684424",
         "numComments": 28
-    },
-    {
-        "id": "32650858",
-        "title": "Stable Diffusion is a big deal",
-        "url": "https://simonwillison.net/2022/Aug/29/stable-diffusion/",
-        "dt": "2022-08-30T14:23:12",
-        "points": 2,
-        "submitter": "rmujica",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32650858",
-        "numComments": 0
     }
 ]
