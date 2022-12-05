@@ -1,5 +1,15 @@
 [
     {
+        "id": "33872369",
+        "title": "Learning Rust with ChatGPT, Copilot and Advent of Code",
+        "url": "https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/",
+        "dt": "2022-12-05T21:47:56",
+        "points": 5,
+        "submitter": "sean_lynch",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33872369",
+        "numComments": 1
+    },
+    {
         "id": "33854385",
         "title": "A new AI game: Give me ideas for crimes to do",
         "url": "https://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32817941",
         "numComments": 113
-    },
-    {
-        "id": "32685316",
-        "title": "Deploying a Redbean App to Fly",
-        "url": "https://til.simonwillison.net/fly/redbean-on-fly",
-        "dt": "2022-09-02T00:49:16",
-        "points": 2,
-        "submitter": "indigodaddy",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32685316",
-        "numComments": 0
     }
 ]
