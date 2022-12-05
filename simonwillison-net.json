@@ -4,10 +4,10 @@
         "title": "Learning Rust with ChatGPT, Copilot and Advent of Code",
         "url": "https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/",
         "dt": "2022-12-05T21:47:56",
-        "points": 5,
+        "points": 37,
         "submitter": "sean_lynch",
         "commentsUrl": "https://news.ycombinator.com/item?id=33872369",
-        "numComments": 1
+        "numComments": 17
     },
     {
         "id": "33854385",
@@ -17,7 +17,7 @@
         "points": 103,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=33854385",
-        "numComments": 63
+        "numComments": 64
     },
     {
         "id": "33838341",
