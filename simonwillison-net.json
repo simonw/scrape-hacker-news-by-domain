@@ -1,5 +1,15 @@
 [
     {
+        "id": "33939474",
+        "title": "Over-Engineering Secret Santa with Python Cryptography and Datasette",
+        "url": "https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/",
+        "dt": "2022-12-11T02:34:00",
+        "points": 1,
+        "submitter": "Amorymeltzer",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33939474",
+        "numComments": 0
+    },
+    {
         "id": "33872369",
         "title": "Learning Rust with ChatGPT, Copilot and Advent of Code",
         "url": "https://simonwillison.net/2022/Dec/5/rust-chatgpt-copilot/",
@@ -288,15 +298,5 @@
         "submitter": "danhon",
         "commentsUrl": "https://news.ycombinator.com/item?id=32829227",
         "numComments": 0
-    },
-    {
-        "id": "32817941",
-        "title": "Prompt injection attacks against GPT-3",
-        "url": "https://simonwillison.net/2022/Sep/12/prompt-injection/",
-        "dt": "2022-09-12T22:25:06",
-        "points": 208,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32817941",
-        "numComments": 113
     }
 ]
