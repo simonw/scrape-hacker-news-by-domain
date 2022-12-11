@@ -1,5 +1,15 @@
 [
     {
+        "id": "33946214",
+        "title": "Over-Engineering Secret Santa with Python Cryptography and Datasette",
+        "url": "https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/",
+        "dt": "2022-12-11T18:58:31",
+        "points": 1,
+        "submitter": "djha-skin",
+        "commentsUrl": "https://news.ycombinator.com/item?id=33946214",
+        "numComments": 0
+    },
+    {
         "id": "33939474",
         "title": "Over-Engineering Secret Santa with Python Cryptography and Datasette",
         "url": "https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/",
@@ -287,16 +297,6 @@
         "points": 7,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32868622",
-        "numComments": 0
-    },
-    {
-        "id": "32829227",
-        "title": "Prompt injection attacks against GPT-3",
-        "url": "http://simonwillison.net/2022/Sep/12/prompt-injection/#atom-everything",
-        "dt": "2022-09-13T19:37:42",
-        "points": 2,
-        "submitter": "danhon",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32829227",
         "numComments": 0
     }
 ]
