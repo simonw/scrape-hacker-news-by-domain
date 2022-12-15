@@ -1,5 +1,15 @@
 [
     {
+        "id": "34003252",
+        "title": "Datasette 1.0a2: Upserts and finely grained permissions",
+        "url": "https://simonwillison.net/2022/Dec/15/datasette-1a2/",
+        "dt": "2022-12-15T18:03:07",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34003252",
+        "numComments": 0
+    },
+    {
         "id": "33946214",
         "title": "Over-Engineering Secret Santa with Python Cryptography and Datasette",
         "url": "https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=32882496",
         "numComments": 13
-    },
-    {
-        "id": "32868622",
-        "title": "I don\u2019t know how to solve prompt injection",
-        "url": "https://simonwillison.net/2022/Sep/16/prompt-injection-solutions/",
-        "dt": "2022-09-16T16:36:28",
-        "points": 7,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32868622",
-        "numComments": 0
     }
 ]
