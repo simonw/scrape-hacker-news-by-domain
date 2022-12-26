@@ -1,5 +1,15 @@
 [
     {
+        "id": "34138020",
+        "title": "Software Engineering Practices",
+        "url": "https://simonwillison.net/2022/Oct/1/software-engineering-practices#",
+        "dt": "2022-12-26T14:52:14",
+        "points": 1,
+        "submitter": "fagnerbrack",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34138020",
+        "numComments": 0
+    },
+    {
         "id": "34003252",
         "title": "Datasette 1.0a2: Upserts and finely grained permissions",
         "url": "https://simonwillison.net/2022/Dec/15/datasette-1a2/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=33025974",
         "numComments": 0
-    },
-    {
-        "id": "32882496",
-        "title": "You can\u2019t solve AI security problems with more AI",
-        "url": "https://simonwillison.net/2022/Sep/17/prompt-injection-more-ai/",
-        "dt": "2022-09-17T23:04:39",
-        "points": 21,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=32882496",
-        "numComments": 13
     }
 ]
