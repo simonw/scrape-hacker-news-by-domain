@@ -1,5 +1,15 @@
 [
     {
+        "id": "34207883",
+        "title": "Querying the GitHub archive with the ClickHouse playground",
+        "url": "https://til.simonwillison.net/clickhouse/github-explorer",
+        "dt": "2023-01-01T16:45:56",
+        "points": 10,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34207883",
+        "numComments": 0
+    },
+    {
         "id": "34138020",
         "title": "Software Engineering Practices",
         "url": "https://simonwillison.net/2022/Oct/1/software-engineering-practices#",
@@ -288,15 +298,5 @@
         "submitter": "mzs",
         "commentsUrl": "https://news.ycombinator.com/item?id=33035369",
         "numComments": 28
-    },
-    {
-        "id": "33025974",
-        "title": "Exploring 10M scraped Shutterstock videos used to train Meta\u2019s Make-A-Video",
-        "url": "https://simonwillison.net/2022/Sep/29/webvid/",
-        "dt": "2022-09-29T19:38:46",
-        "points": 6,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33025974",
-        "numComments": 0
     }
 ]
