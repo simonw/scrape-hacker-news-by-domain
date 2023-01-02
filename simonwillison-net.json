@@ -4,7 +4,7 @@
         "title": "Querying the GitHub archive with the ClickHouse playground",
         "url": "https://til.simonwillison.net/clickhouse/github-explorer",
         "dt": "2023-01-01T16:45:56",
-        "points": 103,
+        "points": 105,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=34207883",
         "numComments": 5
