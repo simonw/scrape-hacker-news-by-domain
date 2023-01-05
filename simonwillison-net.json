@@ -1,5 +1,15 @@
 [
     {
+        "id": "34255831",
+        "title": "Geopoly in SQLite",
+        "url": "https://til.simonwillison.net/sqlite/geopoly",
+        "dt": "2023-01-05T04:08:41",
+        "points": 1,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34255831",
+        "numComments": 0
+    },
+    {
         "id": "34207883",
         "title": "Querying the GitHub archive with the ClickHouse playground",
         "url": "https://til.simonwillison.net/clickhouse/github-explorer",
@@ -288,15 +298,5 @@
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=33051621",
         "numComments": 0
-    },
-    {
-        "id": "33035369",
-        "title": "A tool for capturing captions and transcripts from online videos",
-        "url": "https://simonwillison.net/2022/Sep/30/action-transcription/",
-        "dt": "2022-09-30T14:31:29",
-        "points": 123,
-        "submitter": "mzs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33035369",
-        "numComments": 28
     }
 ]
