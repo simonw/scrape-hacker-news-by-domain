@@ -1,5 +1,15 @@
 [
     {
+        "id": "34371086",
+        "title": "Is the AI spell-casting metaphor harmful or helpful?",
+        "url": "https://simonwillison.net/2022/Oct/5/spell-casting/",
+        "dt": "2023-01-13T17:42:17",
+        "points": 1,
+        "submitter": "DerekBickerton",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34371086",
+        "numComments": 0
+    },
+    {
         "id": "34331122",
         "title": "Scraping the Sky News Westminster Accounts, a Flourish Application",
         "url": "https://til.simonwillison.net/shot-scraper/scraping-flourish",
@@ -288,15 +298,5 @@
         "submitter": "yaph",
         "commentsUrl": "https://news.ycombinator.com/item?id=33190167",
         "numComments": 0
-    },
-    {
-        "id": "33102512",
-        "title": "Is the AI spell-casting metaphor harmful or helpful?",
-        "url": "https://simonwillison.net/2022/Oct/5/spell-casting/",
-        "dt": "2022-10-05T23:28:26",
-        "points": 2,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33102512",
-        "numComments": 1
     }
 ]
