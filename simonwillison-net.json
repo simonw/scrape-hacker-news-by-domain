@@ -1,5 +1,15 @@
 [
     {
+        "id": "34375536",
+        "title": "Semantic search answers: Q&A against documentation with GPT3+OpenAI embeddings",
+        "url": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
+        "dt": "2023-01-13T23:51:57",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34375536",
+        "numComments": 0
+    },
+    {
         "id": "34371086",
         "title": "Is the AI spell-casting metaphor harmful or helpful?",
         "url": "https://simonwillison.net/2022/Oct/5/spell-casting/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "BudaDude",
         "commentsUrl": "https://news.ycombinator.com/item?id=33205453",
-        "numComments": 0
-    },
-    {
-        "id": "33190167",
-        "title": "Writing pytest tests against tools written with argparse \u2013 Simon Willison\u2019s TILs",
-        "url": "https://til.simonwillison.net/pytest/pytest-argparse",
-        "dt": "2022-10-13T12:38:58",
-        "points": 1,
-        "submitter": "yaph",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33190167",
         "numComments": 0
     }
 ]
