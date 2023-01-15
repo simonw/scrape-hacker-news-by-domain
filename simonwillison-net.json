@@ -1,5 +1,15 @@
 [
     {
+        "id": "34389864",
+        "title": "Implement Q&A against your documentation with GPT3",
+        "url": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
+        "dt": "2023-01-15T14:57:50",
+        "points": 1,
+        "submitter": "cjg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34389864",
+        "numComments": 0
+    },
+    {
         "id": "34375536",
         "title": "Semantic search answers: Q&A against documentation with GPT3+OpenAI embeddings",
         "url": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
@@ -288,15 +298,5 @@
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=33216789",
         "numComments": 15
-    },
-    {
-        "id": "33205453",
-        "title": "Exploring the training data behind Stable Diffusion",
-        "url": "https://simonwillison.net/2022/Sep/5/laion-aesthetics-weeknotes/",
-        "dt": "2022-10-14T16:13:48",
-        "points": 2,
-        "submitter": "BudaDude",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33205453",
-        "numComments": 0
     }
 ]
