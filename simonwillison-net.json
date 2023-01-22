@@ -1,5 +1,15 @@
 [
     {
+        "id": "34477543",
+        "title": "How to implement Q&A against your docs with GPT3 embeddings and Datasette",
+        "url": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
+        "dt": "2023-01-22T14:11:18",
+        "points": 1,
+        "submitter": "swyx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34477543",
+        "numComments": 0
+    },
+    {
         "id": "34389864",
         "title": "Implement Q&A against your documentation with GPT3",
         "url": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=33231335",
         "numComments": 97
-    },
-    {
-        "id": "33216789",
-        "title": "Shot-scraper: Automating screenshots for documentation",
-        "url": "https://simonwillison.net/2022/Oct/14/automating-screenshots/",
-        "dt": "2022-10-15T17:33:36",
-        "points": 63,
-        "submitter": "todsacerdoti",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33216789",
-        "numComments": 15
     }
 ]
