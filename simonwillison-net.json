@@ -1,10 +1,20 @@
 [
     {
+        "id": "34552374",
+        "title": "Exploring MusicCaps, the training data behind Google\u2019s MusicLM text2music model",
+        "url": "https://simonwillison.net/2023/Jan/27/exploring-musiccaps/",
+        "dt": "2023-01-27T21:50:34",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34552374",
+        "numComments": 0
+    },
+    {
         "id": "34477543",
         "title": "How to implement Q&A against your docs with GPT3 embeddings and Datasette",
         "url": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
         "dt": "2023-01-22T14:11:18",
-        "points": 163,
+        "points": 164,
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=34477543",
         "numComments": 31
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=33264578",
         "numComments": 0
-    },
-    {
-        "id": "33231335",
-        "title": "PAGNIs: Probably Are Gonna Need Its (2021)",
-        "url": "https://simonwillison.net/2021/Jul/1/pagnis/",
-        "dt": "2022-10-17T09:18:05",
-        "points": 150,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33231335",
-        "numComments": 97
     }
 ]
