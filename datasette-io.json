@@ -1,5 +1,15 @@
 [
     {
+        "id": "34689624",
+        "title": "OpenAI-to-SQLite by Simonw",
+        "url": "https://datasette.io/tools/openai-to-sqlite",
+        "dt": "2023-02-07T06:57:40",
+        "points": 1,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34689624",
+        "numComments": 0
+    },
+    {
         "id": "34317898",
         "title": "Building a location to time zone API with SpatiaLite and Datasette",
         "url": "https://datasette.io/tutorials/spatialite",
