@@ -1,5 +1,15 @@
 [
     {
+        "id": "34804874",
+        "title": "Bing: \u201cI will not harm you unless you harm me first\u201d",
+        "url": "https://simonwillison.net/2023/Feb/15/bing/",
+        "dt": "2023-02-15T15:14:15",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34804874",
+        "numComments": 1
+    },
+    {
         "id": "34552374",
         "title": "Exploring MusicCaps, the training data behind Google\u2019s MusicLM text2music model",
         "url": "https://simonwillison.net/2023/Jan/27/exploring-musiccaps/",
@@ -288,15 +298,5 @@
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=33387855",
         "numComments": 219
-    },
-    {
-        "id": "33264578",
-        "title": "Measuring Traffic During the Half Moon Bay Pumpkin Festival",
-        "url": "https://simonwillison.net/2022/Oct/19/measuring-traffic/",
-        "dt": "2022-10-19T16:32:32",
-        "points": 1,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33264578",
-        "numComments": 0
     }
 ]
