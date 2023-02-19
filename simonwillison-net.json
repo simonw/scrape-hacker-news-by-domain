@@ -1,5 +1,15 @@
 [
     {
+        "id": "34861549",
+        "title": "I talked about Bing and tried to explain language models on live TV",
+        "url": "https://simonwillison.net/2023/Feb/19/live-tv/",
+        "dt": "2023-02-19T20:32:25",
+        "points": 1,
+        "submitter": "Amorymeltzer",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34861549",
+        "numComments": 0
+    },
+    {
         "id": "34849734",
         "title": "Sips: Scriptable Image Processing System",
         "url": "https://til.simonwillison.net/macos/sips",
@@ -14,7 +24,7 @@
         "title": "Analytics: Hacker News v.s. a tweet from Elon Musk",
         "url": "https://simonwillison.net/2023/Feb/17/analytics/",
         "dt": "2023-02-17T22:18:12",
-        "points": 158,
+        "points": 159,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=34841382",
         "numComments": 53
@@ -27,7 +37,7 @@
         "points": 3351,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=34804874",
-        "numComments": 1669
+        "numComments": 1670
     },
     {
         "id": "34552374",
@@ -288,15 +298,5 @@
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=33495295",
         "numComments": 90
-    },
-    {
-        "id": "33478570",
-        "title": "It looks like I\u2019m moving to Mastodon",
-        "url": "https://simonwillison.net/2022/Nov/5/mastodon/",
-        "dt": "2022-11-05T06:33:10",
-        "points": 258,
-        "submitter": "swyx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33478570",
-        "numComments": 447
     }
 ]
