@@ -1,5 +1,15 @@
 [
     {
+        "id": "34892549",
+        "title": "In Defense of Prompt Engineering",
+        "url": "https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/",
+        "dt": "2023-02-22T07:01:52",
+        "points": 1,
+        "submitter": "taubek",
+        "commentsUrl": "https://news.ycombinator.com/item?id=34892549",
+        "numComments": 0
+    },
+    {
         "id": "34884822",
         "title": "In Defense of Prompt Engineering",
         "url": "https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/",
@@ -288,15 +298,5 @@
         "submitter": "ghuntley",
         "commentsUrl": "https://news.ycombinator.com/item?id=33587293",
         "numComments": 0
-    },
-    {
-        "id": "33520382",
-        "title": "Mastodon Is Just Blogs",
-        "url": "https://simonwillison.net/2022/Nov/8/mastodon-is-just-blogs/",
-        "dt": "2022-11-08T15:57:09",
-        "points": 69,
-        "submitter": "fariszr",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33520382",
-        "numComments": 34
     }
 ]
