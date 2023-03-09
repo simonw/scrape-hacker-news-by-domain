@@ -1,5 +1,15 @@
 [
     {
+        "id": "35080406",
+        "title": "Using ChatGPT to write AppleScript, the notoriously read-only language",
+        "url": "https://til.simonwillison.net/gpt3/chatgpt-applescript",
+        "dt": "2023-03-09T12:01:27",
+        "points": 1,
+        "submitter": "goranmoomin",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35080406",
+        "numComments": 0
+    },
+    {
         "id": "34997454",
         "title": "A simple Python wrapper for the ChatGPT API",
         "url": "https://til.simonwillison.net/gpt3/chatgpt-api",
@@ -288,15 +298,5 @@
         "submitter": "indigodaddy",
         "commentsUrl": "https://news.ycombinator.com/item?id=33687843",
         "numComments": 0
-    },
-    {
-        "id": "33679028",
-        "title": "Tracking Mastodon user numbers over time with a bucket of tricks",
-        "url": "https://simonwillison.net/2022/Nov/20/tracking-mastodon/",
-        "dt": "2022-11-20T07:19:14",
-        "points": 35,
-        "submitter": "edward",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33679028",
-        "numComments": 10
     }
 ]
