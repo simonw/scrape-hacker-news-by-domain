@@ -1,5 +1,15 @@
 [
     {
+        "id": "35094284",
+        "title": "I promise ChatGPT can\u2019t access the internet, even though it looks like it can",
+        "url": "https://simonwillison.net/2023/Mar/10/chatgpt-internet-access/",
+        "dt": "2023-03-10T13:51:17",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35094284",
+        "numComments": 0
+    },
+    {
         "id": "35080406",
         "title": "Using ChatGPT to write AppleScript, the notoriously read-only language",
         "url": "https://til.simonwillison.net/gpt3/chatgpt-applescript",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=33753590",
-        "numComments": 0
-    },
-    {
-        "id": "33687843",
-        "title": "Deploying Python web apps as AWS Lambda functions",
-        "url": "https://til.simonwillison.net/awslambda/asgi-mangum",
-        "dt": "2022-11-21T02:10:16",
-        "points": 2,
-        "submitter": "indigodaddy",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33687843",
         "numComments": 0
     }
 ]
