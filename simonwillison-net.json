@@ -14,10 +14,10 @@
         "title": "Running LLaMA 7B on a 64GB M2 MacBook Pro with Llama.cpp",
         "url": "https://til.simonwillison.net/llms/llama-7b-m2",
         "dt": "2023-03-11T04:32:22",
-        "points": 30,
+        "points": 44,
         "submitter": "marban",
         "commentsUrl": "https://news.ycombinator.com/item?id=35105364",
-        "numComments": 5
+        "numComments": 10
     },
     {
         "id": "35094284",
