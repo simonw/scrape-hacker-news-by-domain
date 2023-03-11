@@ -1,5 +1,15 @@
 [
     {
+        "id": "35105364",
+        "title": "Running LLaMA 7B on a 64GB M2 MacBook Pro with Llama.cpp",
+        "url": "https://til.simonwillison.net/llms/llama-7b-m2",
+        "dt": "2023-03-11T04:32:22",
+        "points": 2,
+        "submitter": "marban",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35105364",
+        "numComments": 0
+    },
+    {
         "id": "35094284",
         "title": "I promise ChatGPT can\u2019t access the internet, even though it looks like it can",
         "url": "https://simonwillison.net/2023/Mar/10/chatgpt-internet-access/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "rahimnathwani",
         "commentsUrl": "https://news.ycombinator.com/item?id=33753842",
-        "numComments": 0
-    },
-    {
-        "id": "33753590",
-        "title": "Increased productivity on personal projects with comprehensive docs and tests",
-        "url": "https://simonwillison.net/2022/Nov/26/productivity/",
-        "dt": "2022-11-26T15:51:23",
-        "points": 2,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33753590",
         "numComments": 0
     }
 ]
