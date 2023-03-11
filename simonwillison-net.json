@@ -1,5 +1,15 @@
 [
     {
+        "id": "35111646",
+        "title": "Large language models are having their Stable Diffusion moment",
+        "url": "https://simonwillison.net/2023/Mar/11/llama/",
+        "dt": "2023-03-11T19:19:19",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35111646",
+        "numComments": 0
+    },
+    {
         "id": "35105794",
         "title": "ChatGPT can\u2019t access the internet, even though it looks like it can",
         "url": "https://simonwillison.net/2023/Mar/10/chatgpt-internet-access/",
@@ -14,10 +24,10 @@
         "title": "Running LLaMA 7B on a 64GB M2 MacBook Pro with Llama.cpp",
         "url": "https://til.simonwillison.net/llms/llama-7b-m2",
         "dt": "2023-03-11T04:32:22",
-        "points": 160,
+        "points": 172,
         "submitter": "marban",
         "commentsUrl": "https://news.ycombinator.com/item?id=35105364",
-        "numComments": 56
+        "numComments": 59
     },
     {
         "id": "35094284",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=33753990",
-        "numComments": 0
-    },
-    {
-        "id": "33753871",
-        "title": "Increase your productivity with comprehensive documentation and automated tests",
-        "url": "https://simonwillison.net/2022/Nov/26/productivity/",
-        "dt": "2022-11-26T16:16:00",
-        "points": 3,
-        "submitter": "Amorymeltzer",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33753871",
         "numComments": 0
     }
 ]
