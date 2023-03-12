@@ -1,13 +1,23 @@
 [
     {
+        "id": "35126011",
+        "title": "How to read Hacker News threads with most recent comments first",
+        "url": "https://til.simonwillison.net/hacker-news/recent-comments",
+        "dt": "2023-03-12T20:43:41",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35126011",
+        "numComments": 2
+    },
+    {
         "id": "35111646",
         "title": "Large language models are having their Stable Diffusion moment",
         "url": "https://simonwillison.net/2023/Mar/11/llama/",
         "dt": "2023-03-11T19:19:19",
-        "points": 750,
+        "points": 754,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35111646",
-        "numComments": 337
+        "numComments": 339
     },
     {
         "id": "35105794",
@@ -288,15 +298,5 @@
         "submitter": "usrme",
         "commentsUrl": "https://news.ycombinator.com/item?id=33762438",
         "numComments": 38
-    },
-    {
-        "id": "33753990",
-        "title": "Increase your productivity on personal projects",
-        "url": "https://simonwillison.net/2022/Nov/26/productivity/",
-        "dt": "2022-11-26T16:25:38",
-        "points": 2,
-        "submitter": "Tomte",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33753990",
-        "numComments": 0
     }
 ]
