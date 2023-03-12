@@ -1,4 +1,6 @@
 #!/bin/bash
+set -euo pipefail
+
 export SIMONWILLISON_ROWS=$(
   jq -n --argjson rows "$(cat simonwillison-net.json)" \
   '{ "rows": $rows, "replace": true }'
