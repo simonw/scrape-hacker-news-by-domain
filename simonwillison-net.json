@@ -14,10 +14,10 @@
         "title": "Large language models are having their Stable Diffusion moment",
         "url": "https://simonwillison.net/2023/Mar/11/llama/",
         "dt": "2023-03-11T19:19:19",
-        "points": 768,
+        "points": 772,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35111646",
-        "numComments": 343
+        "numComments": 345
     },
     {
         "id": "35105794",
@@ -34,7 +34,7 @@
         "title": "Running LLaMA 7B on a 64GB M2 MacBook Pro with Llama.cpp",
         "url": "https://til.simonwillison.net/llms/llama-7b-m2",
         "dt": "2023-03-11T04:32:22",
-        "points": 218,
+        "points": 219,
         "submitter": "marban",
         "commentsUrl": "https://news.ycombinator.com/item?id=35105364",
         "numComments": 71
