@@ -1,5 +1,15 @@
 [
     {
+        "id": "35141531",
+        "title": "Stanford Alpaca, and the acceleration of on-device LLM development",
+        "url": "https://simonwillison.net/2023/Mar/13/alpaca/",
+        "dt": "2023-03-13T19:54:37",
+        "points": 20,
+        "submitter": "Kye",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35141531",
+        "numComments": 5
+    },
+    {
         "id": "35132960",
         "title": "Spent a time figuring out how to read the Hacker News comments in order",
         "url": "https://til.simonwillison.net/hacker-news/recent-comments",
@@ -24,7 +34,7 @@
         "title": "Large language models are having their Stable Diffusion moment",
         "url": "https://simonwillison.net/2023/Mar/11/llama/",
         "dt": "2023-03-11T19:19:19",
-        "points": 785,
+        "points": 786,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35111646",
         "numComments": 355
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=33854385",
         "numComments": 66
-    },
-    {
-        "id": "33838341",
-        "title": "Datasette\u2019s new JSON write API: The first alpha of Datasette 1.0",
-        "url": "https://simonwillison.net/2022/Dec/2/datasette-write-api/",
-        "dt": "2022-12-02T23:23:15",
-        "points": 226,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33838341",
-        "numComments": 18
     }
 ]
