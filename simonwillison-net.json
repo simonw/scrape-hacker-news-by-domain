@@ -1,5 +1,15 @@
 [
     {
+        "id": "35172645",
+        "title": "ChatGPT can\u2019t access the internet, even though it looks like it can",
+        "url": "https://simonwillison.net/2023/Mar/10/chatgpt-internet-access/",
+        "dt": "2023-03-15T18:31:13",
+        "points": 1,
+        "submitter": "mzs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35172645",
+        "numComments": 0
+    },
+    {
         "id": "35141531",
         "title": "Stanford Alpaca, and the acceleration of on-device LLM development",
         "url": "https://simonwillison.net/2023/Mar/13/alpaca/",
@@ -34,7 +44,7 @@
         "title": "Large language models are having their Stable Diffusion moment",
         "url": "https://simonwillison.net/2023/Mar/11/llama/",
         "dt": "2023-03-11T19:19:19",
-        "points": 804,
+        "points": 805,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35111646",
         "numComments": 363
@@ -288,15 +298,5 @@
         "submitter": "sean_lynch",
         "commentsUrl": "https://news.ycombinator.com/item?id=33872369",
         "numComments": 41
-    },
-    {
-        "id": "33854385",
-        "title": "A new AI game: Give me ideas for crimes to do",
-        "url": "https://simonwillison.net/2022/Dec/4/give-me-ideas-for-crimes-to-do/",
-        "dt": "2022-12-04T15:14:45",
-        "points": 106,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33854385",
-        "numComments": 66
     }
 ]
