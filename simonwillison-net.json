@@ -1,5 +1,15 @@
 [
     {
+        "id": "35203245",
+        "title": "Scraping Reddit and writing data to the Datasette write API",
+        "url": "https://til.simonwillison.net/datasette/reddit-datasette-write",
+        "dt": "2023-03-17T21:36:37",
+        "points": 2,
+        "submitter": "saeedesmaili",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35203245",
+        "numComments": 0
+    },
+    {
         "id": "35200290",
         "title": "A simple Python implementation of the ReAct pattern for LLMs",
         "url": "https://til.simonwillison.net/llms/python-react-pattern",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=34003252",
-        "numComments": 0
-    },
-    {
-        "id": "33946214",
-        "title": "Over-Engineering Secret Santa with Python Cryptography and Datasette",
-        "url": "https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/",
-        "dt": "2022-12-11T18:58:31",
-        "points": 2,
-        "submitter": "djha-skin",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33946214",
         "numComments": 0
     }
 ]
