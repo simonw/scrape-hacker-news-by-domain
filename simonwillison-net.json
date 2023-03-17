@@ -4,10 +4,10 @@
         "title": "A simple Python implementation of the ReAct pattern for LLMs",
         "url": "https://til.simonwillison.net/llms/python-react-pattern",
         "dt": "2023-03-17T17:42:39",
-        "points": 1,
+        "points": 2,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35200290",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "35198592",
@@ -67,7 +67,7 @@
         "points": 808,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35111646",
-        "numComments": 364
+        "numComments": 365
     },
     {
         "id": "35105794",
