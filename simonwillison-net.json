@@ -1,5 +1,15 @@
 [
     {
+        "id": "35200290",
+        "title": "A simple Python implementation of the ReAct pattern for LLMs",
+        "url": "https://til.simonwillison.net/llms/python-react-pattern",
+        "dt": "2023-03-17T17:42:39",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35200290",
+        "numComments": 0
+    },
+    {
         "id": "35198592",
         "title": "Could you train a ChatGPT-beating model for $85,000 and run it in a browser?",
         "url": "https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "djha-skin",
         "commentsUrl": "https://news.ycombinator.com/item?id=33946214",
-        "numComments": 0
-    },
-    {
-        "id": "33939474",
-        "title": "Over-Engineering Secret Santa with Python Cryptography and Datasette",
-        "url": "https://simonwillison.net/2022/Dec/11/over-engineering-secret-santa/",
-        "dt": "2022-12-11T02:34:00",
-        "points": 11,
-        "submitter": "Amorymeltzer",
-        "commentsUrl": "https://news.ycombinator.com/item?id=33939474",
         "numComments": 0
     }
 ]
