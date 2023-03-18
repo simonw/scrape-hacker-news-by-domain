@@ -4,10 +4,10 @@
         "title": "Scraping Reddit and writing data to the Datasette write API",
         "url": "https://til.simonwillison.net/datasette/reddit-datasette-write",
         "dt": "2023-03-17T21:36:37",
-        "points": 3,
+        "points": 4,
         "submitter": "saeedesmaili",
         "commentsUrl": "https://news.ycombinator.com/item?id=35203245",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "35200290",
@@ -74,7 +74,7 @@
         "title": "Large language models are having their Stable Diffusion moment",
         "url": "https://simonwillison.net/2023/Mar/11/llama/",
         "dt": "2023-03-11T19:19:19",
-        "points": 808,
+        "points": 809,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35111646",
         "numComments": 365
