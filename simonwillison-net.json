@@ -1,5 +1,15 @@
 [
     {
+        "id": "35205666",
+        "title": "Blogging Ain't Easy (2002)",
+        "url": "https://simonwillison.net/2002/Jun/12/bloggingAintEasy/",
+        "dt": "2023-03-18T03:09:39",
+        "points": 1,
+        "submitter": "nigamanth",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35205666",
+        "numComments": 0
+    },
+    {
         "id": "35203245",
         "title": "Scraping Reddit and writing data to the Datasette write API",
         "url": "https://til.simonwillison.net/datasette/reddit-datasette-write",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "fagnerbrack",
         "commentsUrl": "https://news.ycombinator.com/item?id=34138020",
-        "numComments": 0
-    },
-    {
-        "id": "34003252",
-        "title": "Datasette 1.0a2: Upserts and finely grained permissions",
-        "url": "https://simonwillison.net/2022/Dec/15/datasette-1a2/",
-        "dt": "2022-12-15T18:03:07",
-        "points": 2,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=34003252",
         "numComments": 0
     }
 ]
