@@ -1,5 +1,15 @@
 [
     {
+        "id": "35244446",
+        "title": "ChatGPT can\u2019t access the internet, even though it looks like it can",
+        "url": "https://simonwillison.net/2023/Mar/10/chatgpt-internet-access/",
+        "dt": "2023-03-21T10:28:02",
+        "points": 2,
+        "submitter": "redocecin",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35244446",
+        "numComments": 0
+    },
+    {
         "id": "35236491",
         "title": "In Defense of Prompt Engineering",
         "url": "https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=34255831",
         "numComments": 0
-    },
-    {
-        "id": "34207883",
-        "title": "Querying the GitHub archive with the ClickHouse playground",
-        "url": "https://til.simonwillison.net/clickhouse/github-explorer",
-        "dt": "2023-01-01T16:45:56",
-        "points": 116,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=34207883",
-        "numComments": 13
     }
 ]
