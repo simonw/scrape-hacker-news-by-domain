@@ -1,5 +1,15 @@
 [
     {
+        "id": "35256496",
+        "title": "Don\u2019t trust AI to talk accurately about itself: Bard wasn\u2019t trained on Gmail",
+        "url": "https://simonwillison.net/2023/Mar/22/dont-trust-ai-to-talk-about-itself/",
+        "dt": "2023-03-22T03:36:16",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35256496",
+        "numComments": 1
+    },
+    {
         "id": "35244446",
         "title": "ChatGPT can\u2019t access the internet, even though it looks like it can",
         "url": "https://simonwillison.net/2023/Mar/10/chatgpt-internet-access/",
@@ -74,7 +84,7 @@
         "title": "Stanford Alpaca, and the acceleration of on-device LLM development",
         "url": "https://simonwillison.net/2023/Mar/13/alpaca/",
         "dt": "2023-03-13T19:54:37",
-        "points": 220,
+        "points": 221,
         "submitter": "Kye",
         "commentsUrl": "https://news.ycombinator.com/item?id=35141531",
         "numComments": 66
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "edward",
         "commentsUrl": "https://news.ycombinator.com/item?id=34331122",
-        "numComments": 0
-    },
-    {
-        "id": "34255831",
-        "title": "Geopoly in SQLite",
-        "url": "https://til.simonwillison.net/sqlite/geopoly",
-        "dt": "2023-01-05T04:08:41",
-        "points": 4,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=34255831",
         "numComments": 0
     }
 ]
