@@ -1,10 +1,20 @@
 [
     {
+        "id": "35290896",
+        "title": "I built a ChatGPT plugin to answer questions about data hosted in Datasette",
+        "url": "https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/",
+        "dt": "2023-03-24T15:57:56",
+        "points": 4,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35290896",
+        "numComments": 0
+    },
+    {
         "id": "35282815",
         "title": "How to read Hacker News threads with most recent comments first",
         "url": "https://til.simonwillison.net/hacker-news/recent-comments",
         "dt": "2023-03-23T23:12:08",
-        "points": 119,
+        "points": 122,
         "submitter": "sebg",
         "commentsUrl": "https://news.ycombinator.com/item?id=35282815",
         "numComments": 23
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=34375536",
-        "numComments": 0
-    },
-    {
-        "id": "34371086",
-        "title": "Is the AI spell-casting metaphor harmful or helpful?",
-        "url": "https://simonwillison.net/2022/Oct/5/spell-casting/",
-        "dt": "2023-01-13T17:42:17",
-        "points": 1,
-        "submitter": "DerekBickerton",
-        "commentsUrl": "https://news.ycombinator.com/item?id=34371086",
         "numComments": 0
     }
 ]
