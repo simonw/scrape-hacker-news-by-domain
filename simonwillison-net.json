@@ -1,5 +1,15 @@
 [
     {
+        "id": "35327277",
+        "title": "AI-enhanced development makes me more ambitious with my projects",
+        "url": "https://simonwillison.net/2023/Mar/27/ai-enhanced-development/",
+        "dt": "2023-03-27T14:41:34",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35327277",
+        "numComments": 1
+    },
+    {
         "id": "35290896",
         "title": "I built a ChatGPT plugin to answer questions about data hosted in Datasette",
         "url": "https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/",
@@ -288,15 +298,5 @@
         "submitter": "cjg",
         "commentsUrl": "https://news.ycombinator.com/item?id=34389864",
         "numComments": 1
-    },
-    {
-        "id": "34375536",
-        "title": "Semantic search answers: Q&A against documentation with GPT3+OpenAI embeddings",
-        "url": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
-        "dt": "2023-01-13T23:51:57",
-        "points": 2,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=34375536",
-        "numComments": 0
     }
 ]
