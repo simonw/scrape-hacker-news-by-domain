@@ -1,5 +1,15 @@
 [
     {
+        "id": "35336863",
+        "title": "AI-enhanced development makes me more ambitious with my projects",
+        "url": "https://simonwillison.net/2023/Mar/27/ai-enhanced-development/",
+        "dt": "2023-03-28T06:51:18",
+        "points": 1,
+        "submitter": "ABS",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35336863",
+        "numComments": 0
+    },
+    {
         "id": "35327277",
         "title": "AI-enhanced development makes me more ambitious with my projects",
         "url": "https://simonwillison.net/2023/Mar/27/ai-enhanced-development/",
@@ -288,15 +298,5 @@
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=34477543",
         "numComments": 31
-    },
-    {
-        "id": "34389864",
-        "title": "Implement Q&A against your documentation with GPT3",
-        "url": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
-        "dt": "2023-01-15T14:57:50",
-        "points": 2,
-        "submitter": "cjg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=34389864",
-        "numComments": 1
     }
 ]
