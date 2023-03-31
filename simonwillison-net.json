@@ -1,13 +1,23 @@
 [
     {
+        "id": "35391115",
+        "title": "Could you train a ChatGPT-beating model for $85,000 and run it in a browser?",
+        "url": "https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/",
+        "dt": "2023-03-31T18:21:07",
+        "points": 3,
+        "submitter": "sirteno",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35391115",
+        "numComments": 0
+    },
+    {
         "id": "35382698",
         "title": "AI-enhanced development makes me more ambitious with my projects",
         "url": "https://simonwillison.net/2023/Mar/27/ai-enhanced-development/",
         "dt": "2023-03-31T04:45:55",
-        "points": 566,
+        "points": 596,
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=35382698",
-        "numComments": 433
+        "numComments": 460
     },
     {
         "id": "35336863",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=34804874",
         "numComments": 1676
-    },
-    {
-        "id": "34552374",
-        "title": "Exploring MusicCaps, the training data behind Google\u2019s MusicLM text2music model",
-        "url": "https://simonwillison.net/2023/Jan/27/exploring-musiccaps/",
-        "dt": "2023-01-27T21:50:34",
-        "points": 1,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=34552374",
-        "numComments": 0
     }
 ]
