@@ -1,5 +1,15 @@
 [
     {
+        "id": "35412296",
+        "title": "ChatGPT as a Calculator for Words",
+        "url": "https://simonwillison.net/2023/Apr/2/calculator-for-words/",
+        "dt": "2023-04-02T16:29:21",
+        "points": 6,
+        "submitter": "stevefink",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35412296",
+        "numComments": 0
+    },
+    {
         "id": "35406195",
         "title": "If foxes can learn Ruby, why can\u2019t you?",
         "url": "https://simonwillison.net/2004/Feb/20/foxes/",
@@ -17,14 +27,14 @@
         "points": 425,
         "submitter": "sirteno",
         "commentsUrl": "https://news.ycombinator.com/item?id=35391115",
-        "numComments": 168
+        "numComments": 169
     },
     {
         "id": "35382698",
         "title": "AI-enhanced development makes me more ambitious with my projects",
         "url": "https://simonwillison.net/2023/Mar/27/ai-enhanced-development/",
         "dt": "2023-03-31T04:45:55",
-        "points": 687,
+        "points": 689,
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=35382698",
         "numComments": 500
@@ -288,15 +298,5 @@
         "submitter": "Amorymeltzer",
         "commentsUrl": "https://news.ycombinator.com/item?id=34849734",
         "numComments": 32
-    },
-    {
-        "id": "34841382",
-        "title": "Analytics: Hacker News v.s. a tweet from Elon Musk",
-        "url": "https://simonwillison.net/2023/Feb/17/analytics/",
-        "dt": "2023-02-17T22:18:12",
-        "points": 159,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=34841382",
-        "numComments": 53
     }
 ]
