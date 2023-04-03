@@ -4,10 +4,10 @@
         "title": "ChatGPT as a Calculator for Words",
         "url": "https://simonwillison.net/2023/Apr/2/calculator-for-words/",
         "dt": "2023-04-02T16:29:21",
-        "points": 147,
+        "points": 157,
         "submitter": "stevefink",
         "commentsUrl": "https://news.ycombinator.com/item?id=35412296",
-        "numComments": 53
+        "numComments": 60
     },
     {
         "id": "35406195",
@@ -24,7 +24,7 @@
         "title": "Could you train a ChatGPT-beating model for $85k and run it in a browser?",
         "url": "https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/",
         "dt": "2023-03-31T18:21:07",
-        "points": 426,
+        "points": 427,
         "submitter": "sirteno",
         "commentsUrl": "https://news.ycombinator.com/item?id=35391115",
         "numComments": 169
