@@ -1,10 +1,20 @@
 [
     {
+        "id": "35443573",
+        "title": "Semi-automating a Substack newsletter with an Observable notebook",
+        "url": "https://simonwillison.net/2023/Apr/4/substack-observable/",
+        "dt": "2023-04-04T17:58:59",
+        "points": 1,
+        "submitter": "stevefink",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35443573",
+        "numComments": 0
+    },
+    {
         "id": "35437401",
         "title": "In Defense of Prompt Engineering",
         "url": "https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/",
         "dt": "2023-04-04T10:17:22",
-        "points": 6,
+        "points": 7,
         "submitter": "ritzaco",
         "commentsUrl": "https://news.ycombinator.com/item?id=35437401",
         "numComments": 1
@@ -54,10 +64,10 @@
         "title": "AI-enhanced development makes me more ambitious with my projects",
         "url": "https://simonwillison.net/2023/Mar/27/ai-enhanced-development/",
         "dt": "2023-03-31T04:45:55",
-        "points": 698,
+        "points": 699,
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=35382698",
-        "numComments": 504
+        "numComments": 505
     },
     {
         "id": "35336863",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "taubek",
         "commentsUrl": "https://news.ycombinator.com/item?id=34892549",
-        "numComments": 0
-    },
-    {
-        "id": "34884822",
-        "title": "In Defense of Prompt Engineering",
-        "url": "https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/",
-        "dt": "2023-02-21T18:30:37",
-        "points": 3,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=34884822",
         "numComments": 0
     }
 ]
