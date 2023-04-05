@@ -1,5 +1,15 @@
 [
     {
+        "id": "35448033",
+        "title": "Weeknotes: A new LLM CLI tool, plus automating my weeknotes and newsletter",
+        "url": "https://simonwillison.net/2023/Apr/4/llm/",
+        "dt": "2023-04-05T01:19:00",
+        "points": 1,
+        "submitter": "ghuntley",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35448033",
+        "numComments": 0
+    },
+    {
         "id": "35443573",
         "title": "Semi-automating a Substack newsletter with an Observable notebook",
         "url": "https://simonwillison.net/2023/Apr/4/substack-observable/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "rbanffy",
         "commentsUrl": "https://news.ycombinator.com/item?id=34931091",
-        "numComments": 0
-    },
-    {
-        "id": "34892549",
-        "title": "In Defense of Prompt Engineering",
-        "url": "https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/",
-        "dt": "2023-02-22T07:01:52",
-        "points": 2,
-        "submitter": "taubek",
-        "commentsUrl": "https://news.ycombinator.com/item?id=34892549",
         "numComments": 0
     }
 ]
