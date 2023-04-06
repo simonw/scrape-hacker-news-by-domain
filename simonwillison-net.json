@@ -1,5 +1,15 @@
 [
     {
+        "id": "35473840",
+        "title": "GPT-4 for API design research",
+        "url": "https://til.simonwillison.net/gpt3/gpt4-api-design",
+        "dt": "2023-04-06T20:20:42",
+        "points": 1,
+        "submitter": "amrrs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35473840",
+        "numComments": 0
+    },
+    {
         "id": "35448033",
         "title": "Weeknotes: A new LLM CLI tool, plus automating my weeknotes and newsletter",
         "url": "https://simonwillison.net/2023/Apr/4/llm/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "samwillis",
         "commentsUrl": "https://news.ycombinator.com/item?id=34997454",
-        "numComments": 0
-    },
-    {
-        "id": "34931091",
-        "title": "Thoughts and impressions of AI-assisted search from Bing",
-        "url": "https://simonwillison.net/2023/Feb/24/impressions-of-bing/",
-        "dt": "2023-02-24T22:32:42",
-        "points": 4,
-        "submitter": "rbanffy",
-        "commentsUrl": "https://news.ycombinator.com/item?id=34931091",
         "numComments": 0
     }
 ]
