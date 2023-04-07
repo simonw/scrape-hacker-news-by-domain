@@ -1,5 +1,15 @@
 [
     {
+        "id": "35483823",
+        "title": "We need to tell people ChatGPT will lie to them, not debate linguistics",
+        "url": "https://simonwillison.net/2023/Apr/7/chatgpt-lies/",
+        "dt": "2023-04-07T16:48:31",
+        "points": 35,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35483823",
+        "numComments": 17
+    },
+    {
         "id": "35478714",
         "title": "GPT-4 for API design research",
         "url": "https://til.simonwillison.net/gpt3/gpt4-api-design",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35094284",
-        "numComments": 0
-    },
-    {
-        "id": "35080406",
-        "title": "Using ChatGPT to write AppleScript, the notoriously read-only language",
-        "url": "https://til.simonwillison.net/gpt3/chatgpt-applescript",
-        "dt": "2023-03-09T12:01:27",
-        "points": 1,
-        "submitter": "goranmoomin",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35080406",
         "numComments": 0
     }
 ]
