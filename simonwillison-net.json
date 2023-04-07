@@ -1,5 +1,15 @@
 [
     {
+        "id": "35478714",
+        "title": "GPT-4 for API design research",
+        "url": "https://til.simonwillison.net/gpt3/gpt4-api-design",
+        "dt": "2023-04-07T06:24:49",
+        "points": 1,
+        "submitter": "saeedesmaili",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35478714",
+        "numComments": 0
+    },
+    {
         "id": "35473840",
         "title": "GPT-4 for API design research",
         "url": "https://til.simonwillison.net/gpt3/gpt4-api-design",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "goranmoomin",
         "commentsUrl": "https://news.ycombinator.com/item?id=35080406",
-        "numComments": 0
-    },
-    {
-        "id": "34997454",
-        "title": "A simple Python wrapper for the ChatGPT API",
-        "url": "https://til.simonwillison.net/gpt3/chatgpt-api",
-        "dt": "2023-03-02T16:06:32",
-        "points": 2,
-        "submitter": "samwillis",
-        "commentsUrl": "https://news.ycombinator.com/item?id=34997454",
         "numComments": 0
     }
 ]
