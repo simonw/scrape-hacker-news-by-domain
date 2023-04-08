@@ -4,17 +4,17 @@
         "title": "We need to tell people ChatGPT will lie to them, not debate linguistics",
         "url": "https://simonwillison.net/2023/Apr/7/chatgpt-lies/",
         "dt": "2023-04-07T16:48:31",
-        "points": 454,
+        "points": 479,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35483823",
-        "numComments": 362
+        "numComments": 382
     },
     {
         "id": "35478714",
         "title": "GPT-4 for API design research",
         "url": "https://til.simonwillison.net/gpt3/gpt4-api-design",
         "dt": "2023-04-07T06:24:49",
-        "points": 1,
+        "points": 2,
         "submitter": "saeedesmaili",
         "commentsUrl": "https://news.ycombinator.com/item?id=35478714",
         "numComments": 0
@@ -34,7 +34,7 @@
         "title": "Weeknotes: A new LLM CLI tool, plus automating my weeknotes and newsletter",
         "url": "https://simonwillison.net/2023/Apr/4/llm/",
         "dt": "2023-04-05T01:19:00",
-        "points": 2,
+        "points": 3,
         "submitter": "ghuntley",
         "commentsUrl": "https://news.ycombinator.com/item?id=35448033",
         "numComments": 0
@@ -44,7 +44,7 @@
         "title": "Semi-automating a Substack newsletter with an Observable notebook",
         "url": "https://simonwillison.net/2023/Apr/4/substack-observable/",
         "dt": "2023-04-04T17:58:59",
-        "points": 2,
+        "points": 3,
         "submitter": "stevefink",
         "commentsUrl": "https://news.ycombinator.com/item?id=35443573",
         "numComments": 0
@@ -64,7 +64,7 @@
         "title": "Reading thermometer temperatures over time from a video",
         "url": "https://til.simonwillison.net/googlecloud/video-frame-ocr",
         "dt": "2023-04-04T06:48:21",
-        "points": 29,
+        "points": 30,
         "submitter": "saeedesmaili",
         "commentsUrl": "https://news.ycombinator.com/item?id=35435979",
         "numComments": 18
