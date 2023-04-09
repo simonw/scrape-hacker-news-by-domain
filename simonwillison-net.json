@@ -1,5 +1,15 @@
 [
     {
+        "id": "35502156",
+        "title": "GPT-4 for API design research",
+        "url": "https://til.simonwillison.net/gpt3/gpt4-api-design",
+        "dt": "2023-04-09T12:37:00",
+        "points": 1,
+        "submitter": "kiyanwang",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35502156",
+        "numComments": 0
+    },
+    {
         "id": "35483823",
         "title": "We need to tell people ChatGPT will lie to them, not debate linguistics",
         "url": "https://simonwillison.net/2023/Apr/7/chatgpt-lies/",
@@ -288,15 +298,5 @@
         "submitter": "marban",
         "commentsUrl": "https://news.ycombinator.com/item?id=35105364",
         "numComments": 76
-    },
-    {
-        "id": "35094284",
-        "title": "I promise ChatGPT can\u2019t access the internet, even though it looks like it can",
-        "url": "https://simonwillison.net/2023/Mar/10/chatgpt-internet-access/",
-        "dt": "2023-03-10T13:51:17",
-        "points": 4,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35094284",
-        "numComments": 0
     }
 ]
