@@ -1,5 +1,15 @@
 [
     {
+        "id": "35516714",
+        "title": "Thoughts on AI safety in this era of increasingly powerful open-source LLMs",
+        "url": "https://simonwillison.net/2023/Apr/10/ai-safety/",
+        "dt": "2023-04-10T19:59:31",
+        "points": 1,
+        "submitter": "tim_sw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35516714",
+        "numComments": 0
+    },
+    {
         "id": "35502156",
         "title": "GPT-4 for API design research",
         "url": "https://til.simonwillison.net/gpt3/gpt4-api-design",
@@ -14,7 +24,7 @@
         "title": "We need to tell people ChatGPT will lie to them, not debate linguistics",
         "url": "https://simonwillison.net/2023/Apr/7/chatgpt-lies/",
         "dt": "2023-04-07T16:48:31",
-        "points": 538,
+        "points": 539,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35483823",
         "numComments": 452
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35105794",
         "numComments": 1
-    },
-    {
-        "id": "35105364",
-        "title": "Running LLaMA 7B on a 64GB M2 MacBook Pro with Llama.cpp",
-        "url": "https://til.simonwillison.net/llms/llama-7b-m2",
-        "dt": "2023-03-11T04:32:22",
-        "points": 225,
-        "submitter": "marban",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35105364",
-        "numComments": 76
     }
 ]
