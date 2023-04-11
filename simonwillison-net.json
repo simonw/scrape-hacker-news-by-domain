@@ -1,5 +1,15 @@
 [
     {
+        "id": "35520836",
+        "title": "Thoughts on AI safety in this era of increasingly powerful open source LLMs",
+        "url": "https://simonwillison.net/2023/Apr/10/ai-safety/",
+        "dt": "2023-04-11T04:28:10",
+        "points": 1,
+        "submitter": "duck",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35520836",
+        "numComments": 0
+    },
+    {
         "id": "35516714",
         "title": "Thoughts on AI safety in this era of increasingly powerful open-source LLMs",
         "url": "https://simonwillison.net/2023/Apr/10/ai-safety/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35111646",
         "numComments": 369
-    },
-    {
-        "id": "35105794",
-        "title": "ChatGPT can\u2019t access the internet, even though it looks like it can",
-        "url": "https://simonwillison.net/2023/Mar/10/chatgpt-internet-access/",
-        "dt": "2023-03-11T05:42:03",
-        "points": 3,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35105794",
-        "numComments": 1
     }
 ]
