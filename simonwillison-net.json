@@ -1,5 +1,15 @@
 [
     {
+        "id": "35532337",
+        "title": "Path to Citus Con: Working in Public",
+        "url": "https://simonwillison.net/2023/Apr/8/working-in-public/",
+        "dt": "2023-04-11T22:14:17",
+        "points": 1,
+        "submitter": "petercooper",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35532337",
+        "numComments": 0
+    },
+    {
         "id": "35520836",
         "title": "Thoughts on AI safety in this era of increasingly powerful open source LLMs",
         "url": "https://simonwillison.net/2023/Apr/10/ai-safety/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35126011",
         "numComments": 3
-    },
-    {
-        "id": "35111646",
-        "title": "Large language models are having their Stable Diffusion moment",
-        "url": "https://simonwillison.net/2023/Mar/11/llama/",
-        "dt": "2023-03-11T19:19:19",
-        "points": 811,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35111646",
-        "numComments": 369
     }
 ]
