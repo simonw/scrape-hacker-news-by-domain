@@ -1,5 +1,15 @@
 [
     {
+        "id": "35534290",
+        "title": "Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha",
+        "url": "https://simonwillison.net/2023/Apr/12/code-interpreter/",
+        "dt": "2023-04-12T02:20:49",
+        "points": 1,
+        "submitter": "srijan4",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35534290",
+        "numComments": 0
+    },
+    {
         "id": "35532337",
         "title": "Path to Citus Con: Working in Public",
         "url": "https://simonwillison.net/2023/Apr/8/working-in-public/",
@@ -47,7 +57,7 @@
         "points": 541,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35483823",
-        "numComments": 455
+        "numComments": 456
     },
     {
         "id": "35478714",
@@ -288,15 +298,5 @@
         "submitter": "b3nji",
         "commentsUrl": "https://news.ycombinator.com/item?id=35132960",
         "numComments": 1
-    },
-    {
-        "id": "35126011",
-        "title": "How to read Hacker News threads with most recent comments first",
-        "url": "https://til.simonwillison.net/hacker-news/recent-comments",
-        "dt": "2023-03-12T20:43:41",
-        "points": 4,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35126011",
-        "numComments": 3
     }
 ]
