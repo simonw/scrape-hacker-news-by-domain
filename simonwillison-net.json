@@ -1,5 +1,15 @@
 [
     {
+        "id": "35572290",
+        "title": "Prompt injection: what\u2019s the worst that can happen?",
+        "url": "https://simonwillison.net/2023/Apr/14/worst-that-can-happen/",
+        "dt": "2023-04-14T17:37:24",
+        "points": 4,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35572290",
+        "numComments": 1
+    },
+    {
         "id": "35550530",
         "title": "Running Dolly 2.0 on Paperspace",
         "url": "https://til.simonwillison.net/llms/dolly-2",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35198592",
         "numComments": 1
-    },
-    {
-        "id": "35172645",
-        "title": "ChatGPT can\u2019t access the internet, even though it looks like it can",
-        "url": "https://simonwillison.net/2023/Mar/10/chatgpt-internet-access/",
-        "dt": "2023-03-15T18:31:13",
-        "points": 1,
-        "submitter": "mzs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35172645",
-        "numComments": 0
     }
 ]
