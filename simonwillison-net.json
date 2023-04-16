@@ -1,5 +1,15 @@
 [
     {
+        "id": "35590687",
+        "title": "Web LLM runs the vicuna-7B LLM in the browser and it\u2019s impressive",
+        "url": "https://simonwillison.net/2023/Apr/16/web-llm/",
+        "dt": "2023-04-16T15:16:06",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35590687",
+        "numComments": 0
+    },
+    {
         "id": "35583516",
         "title": "SQLite-history: tracking changes to SQLite tables using triggers",
         "url": "https://simonwillison.net/2023/Apr/15/sqlite-history/",
@@ -287,16 +297,6 @@
         "points": 5,
         "submitter": "saeedesmaili",
         "commentsUrl": "https://news.ycombinator.com/item?id=35203245",
-        "numComments": 1
-    },
-    {
-        "id": "35200290",
-        "title": "A simple Python implementation of the ReAct pattern for LLMs",
-        "url": "https://til.simonwillison.net/llms/python-react-pattern",
-        "dt": "2023-03-17T17:42:39",
-        "points": 2,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35200290",
         "numComments": 1
     }
 ]
