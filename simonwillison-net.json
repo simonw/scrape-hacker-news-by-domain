@@ -4,10 +4,10 @@
         "title": "Web LLM runs the vicuna-7B LLM in the browser and it\u2019s impressive",
         "url": "https://simonwillison.net/2023/Apr/16/web-llm/",
         "dt": "2023-04-16T15:16:06",
-        "points": 2,
+        "points": 28,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35590687",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "35583516",
@@ -24,10 +24,10 @@
         "title": "Prompt injection: what\u2019s the worst that can happen?",
         "url": "https://simonwillison.net/2023/Apr/14/worst-that-can-happen/",
         "dt": "2023-04-14T17:37:24",
-        "points": 445,
+        "points": 447,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35572290",
-        "numComments": 198
+        "numComments": 199
     },
     {
         "id": "35550530",
