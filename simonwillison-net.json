@@ -14,7 +14,7 @@
         "title": "SQLite-history: tracking changes to SQLite tables using triggers",
         "url": "https://simonwillison.net/2023/Apr/15/sqlite-history/",
         "dt": "2023-04-15T18:59:40",
-        "points": 5,
+        "points": 6,
         "submitter": "iamwil",
         "commentsUrl": "https://news.ycombinator.com/item?id=35583516",
         "numComments": 0
@@ -24,10 +24,10 @@
         "title": "Prompt injection: what\u2019s the worst that can happen?",
         "url": "https://simonwillison.net/2023/Apr/14/worst-that-can-happen/",
         "dt": "2023-04-14T17:37:24",
-        "points": 441,
+        "points": 444,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35572290",
-        "numComments": 197
+        "numComments": 198
     },
     {
         "id": "35550530",
