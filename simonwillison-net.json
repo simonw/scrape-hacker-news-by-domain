@@ -1,10 +1,20 @@
 [
     {
+        "id": "35610297",
+        "title": "What\u2019s in the RedPajama-Data-1T LLM training set",
+        "url": "https://simonwillison.net/2023/Apr/17/redpajama-data/",
+        "dt": "2023-04-18T05:29:44",
+        "points": 2,
+        "submitter": "notmysql_",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35610297",
+        "numComments": 0
+    },
+    {
         "id": "35590687",
         "title": "Web LLM runs the vicuna-7B LLM in the browser and it\u2019s impressive",
         "url": "https://simonwillison.net/2023/Apr/16/web-llm/",
         "dt": "2023-04-16T15:16:06",
-        "points": 59,
+        "points": 60,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35590687",
         "numComments": 4
@@ -288,15 +298,5 @@
         "submitter": "nigamanth",
         "commentsUrl": "https://news.ycombinator.com/item?id=35205666",
         "numComments": 0
-    },
-    {
-        "id": "35203245",
-        "title": "Scraping Reddit and writing data to the Datasette write API",
-        "url": "https://til.simonwillison.net/datasette/reddit-datasette-write",
-        "dt": "2023-03-17T21:36:37",
-        "points": 5,
-        "submitter": "saeedesmaili",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35203245",
-        "numComments": 1
     }
 ]
