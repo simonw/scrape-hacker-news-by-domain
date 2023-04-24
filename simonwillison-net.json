@@ -1,5 +1,15 @@
 [
     {
+        "id": "35690942",
+        "title": "Git scraping: track changes over time by scraping to a Git repository (2020)",
+        "url": "https://simonwillison.net/2020/Oct/9/git-scraping/",
+        "dt": "2023-04-24T17:58:38",
+        "points": 3,
+        "submitter": "gstipi",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35690942",
+        "numComments": 1
+    },
+    {
         "id": "35610297",
         "title": "What\u2019s in the RedPajama-Data-1T LLM training set",
         "url": "https://simonwillison.net/2023/Apr/17/redpajama-data/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "sebg",
         "commentsUrl": "https://news.ycombinator.com/item?id=35236491",
-        "numComments": 0
-    },
-    {
-        "id": "35205666",
-        "title": "Blogging Ain't Easy (2002)",
-        "url": "https://simonwillison.net/2002/Jun/12/bloggingAintEasy/",
-        "dt": "2023-03-18T03:09:39",
-        "points": 2,
-        "submitter": "nigamanth",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35205666",
         "numComments": 0
     }
 ]
