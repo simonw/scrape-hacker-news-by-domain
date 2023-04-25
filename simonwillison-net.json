@@ -1,5 +1,15 @@
 [
     {
+        "id": "35705159",
+        "title": "The Dual LLM pattern for building AI assistants that can resist prompt injection",
+        "url": "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/",
+        "dt": "2023-04-25T19:07:42",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35705159",
+        "numComments": 0
+    },
+    {
         "id": "35690942",
         "title": "Git scraping: track changes over time by scraping to a Git repository (2020)",
         "url": "https://simonwillison.net/2020/Oct/9/git-scraping/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "redocecin",
         "commentsUrl": "https://news.ycombinator.com/item?id=35244446",
-        "numComments": 0
-    },
-    {
-        "id": "35236491",
-        "title": "In Defense of Prompt Engineering",
-        "url": "https://simonwillison.net/2023/Feb/21/in-defense-of-prompt-engineering/",
-        "dt": "2023-03-20T18:40:39",
-        "points": 2,
-        "submitter": "sebg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35236491",
         "numComments": 0
     }
 ]
