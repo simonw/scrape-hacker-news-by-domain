@@ -1,5 +1,15 @@
 [
     {
+        "id": "35795539",
+        "title": "Download-esm: a tool for downloading ECMAScript modules",
+        "url": "https://simonwillison.net/2023/May/2/download-esm/",
+        "dt": "2023-05-02T23:20:16",
+        "points": 1,
+        "submitter": "otterwise",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35795539",
+        "numComments": 0
+    },
+    {
         "id": "35785877",
         "title": "Download-esm: a tool for downloading ECMAScript modules",
         "url": "https://simonwillison.net/2023/May/2/download-esm/",
@@ -288,15 +298,5 @@
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=35382698",
         "numComments": 505
-    },
-    {
-        "id": "35336863",
-        "title": "AI-enhanced development makes me more ambitious with my projects",
-        "url": "https://simonwillison.net/2023/Mar/27/ai-enhanced-development/",
-        "dt": "2023-03-28T06:51:18",
-        "points": 1,
-        "submitter": "ABS",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35336863",
-        "numComments": 0
     }
 ]
