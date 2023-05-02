@@ -1,5 +1,15 @@
 [
     {
+        "id": "35784633",
+        "title": "Let's Be Bear or Bunny",
+        "url": "https://simonwillison.net/2023/May/1/lets-be-bear-or-bunny/",
+        "dt": "2023-05-02T08:02:29",
+        "points": 2,
+        "submitter": "anst",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35784633",
+        "numComments": 0
+    },
+    {
         "id": "35769599",
         "title": "Expanding ChatGPT Code Interpreter with Python Packages, Deno and Lua",
         "url": "https://til.simonwillison.net/llms/code-interpreter-expansions",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35327277",
         "numComments": 1
-    },
-    {
-        "id": "35290896",
-        "title": "I built a ChatGPT plugin to answer questions about data hosted in Datasette",
-        "url": "https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/",
-        "dt": "2023-03-24T15:57:56",
-        "points": 6,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35290896",
-        "numComments": 3
     }
 ]
