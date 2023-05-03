@@ -1,5 +1,15 @@
 [
     {
+        "id": "35802166",
+        "title": "I Don\u2019t Know How to Solve Prompt Injection (2022)",
+        "url": "https://simonwillison.net/2022/Sep/16/prompt-injection-solutions/",
+        "dt": "2023-05-03T13:31:22",
+        "points": 1,
+        "submitter": "belter",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35802166",
+        "numComments": 0
+    },
+    {
         "id": "35798815",
         "title": "Let\u2019s be bear or bunny",
         "url": "https://simonwillison.net/2023/May/1/lets-be-bear-or-bunny/",
@@ -288,15 +298,5 @@
         "submitter": "stevefink",
         "commentsUrl": "https://news.ycombinator.com/item?id=35412296",
         "numComments": 79
-    },
-    {
-        "id": "35406195",
-        "title": "If foxes can learn Ruby, why can\u2019t you?",
-        "url": "https://simonwillison.net/2004/Feb/20/foxes/",
-        "dt": "2023-04-02T01:38:35",
-        "points": 3,
-        "submitter": "nigamanth",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35406195",
-        "numComments": 0
     }
 ]
