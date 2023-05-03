@@ -1,5 +1,15 @@
 [
     {
+        "id": "35803564",
+        "title": "Prompt injection explained, with video, slides, and a transcript",
+        "url": "https://simonwillison.net/2023/May/2/prompt-injection-explained/",
+        "dt": "2023-05-03T15:28:35",
+        "points": 2,
+        "submitter": "sebg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35803564",
+        "numComments": 0
+    },
+    {
         "id": "35802166",
         "title": "I Don\u2019t Know How to Solve Prompt Injection (2022)",
         "url": "https://simonwillison.net/2022/Sep/16/prompt-injection-solutions/",
@@ -288,15 +298,5 @@
         "submitter": "saeedesmaili",
         "commentsUrl": "https://news.ycombinator.com/item?id=35435979",
         "numComments": 18
-    },
-    {
-        "id": "35412296",
-        "title": "ChatGPT as a Calculator for Words",
-        "url": "https://simonwillison.net/2023/Apr/2/calculator-for-words/",
-        "dt": "2023-04-02T16:29:21",
-        "points": 201,
-        "submitter": "stevefink",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35412296",
-        "numComments": 79
     }
 ]
