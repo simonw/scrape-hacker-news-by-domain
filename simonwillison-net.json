@@ -1,5 +1,15 @@
 [
     {
+        "id": "35818009",
+        "title": "Leaked Google Document \u2013 We Have No Moat, and Neither Does OpenAI",
+        "url": "https://simonwillison.net/2023/May/4/no-moat/",
+        "dt": "2023-05-04T16:26:33",
+        "points": 2,
+        "submitter": "cube2222",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35818009",
+        "numComments": 1
+    },
+    {
         "id": "35803564",
         "title": "Prompt injection explained, with video, slides, and a transcript",
         "url": "https://simonwillison.net/2023/May/2/prompt-injection-explained/",
@@ -288,15 +298,5 @@
         "submitter": "ritzaco",
         "commentsUrl": "https://news.ycombinator.com/item?id=35437401",
         "numComments": 1
-    },
-    {
-        "id": "35435979",
-        "title": "Reading thermometer temperatures over time from a video",
-        "url": "https://til.simonwillison.net/googlecloud/video-frame-ocr",
-        "dt": "2023-04-04T06:48:21",
-        "points": 31,
-        "submitter": "saeedesmaili",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35435979",
-        "numComments": 18
     }
 ]
