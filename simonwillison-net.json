@@ -1,5 +1,15 @@
 [
     {
+        "id": "35885237",
+        "title": "Some Notes on How Deno KV Works on Local Machine",
+        "url": "https://til.simonwillison.net/deno/deno-kv",
+        "dt": "2023-05-10T09:05:16",
+        "points": 1,
+        "submitter": "lemper",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35885237",
+        "numComments": 0
+    },
+    {
         "id": "35834916",
         "title": "Simon Willison: Deno KV",
         "url": "https://til.simonwillison.net/deno/deno-kv?",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "ghuntley",
         "commentsUrl": "https://news.ycombinator.com/item?id=35448033",
-        "numComments": 0
-    },
-    {
-        "id": "35443573",
-        "title": "Semi-automating a Substack newsletter with an Observable notebook",
-        "url": "https://simonwillison.net/2023/Apr/4/substack-observable/",
-        "dt": "2023-04-04T17:58:59",
-        "points": 3,
-        "submitter": "stevefink",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35443573",
         "numComments": 0
     }
 ]
