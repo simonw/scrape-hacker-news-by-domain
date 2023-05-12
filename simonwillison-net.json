@@ -1,5 +1,15 @@
 [
     {
+        "id": "35911595",
+        "title": "Delimiters won\u2019t save you from prompt injection",
+        "url": "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/",
+        "dt": "2023-05-12T03:38:52",
+        "points": 1,
+        "submitter": "eiiot",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35911595",
+        "numComments": 0
+    },
+    {
         "id": "35904361",
         "title": "Delimiters won\u2019t save you from prompt injection",
         "url": "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "saeedesmaili",
         "commentsUrl": "https://news.ycombinator.com/item?id=35478714",
-        "numComments": 0
-    },
-    {
-        "id": "35473840",
-        "title": "GPT-4 for API design research",
-        "url": "https://til.simonwillison.net/gpt3/gpt4-api-design",
-        "dt": "2023-04-06T20:20:42",
-        "points": 4,
-        "submitter": "amrrs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35473840",
         "numComments": 0
     }
 ]
