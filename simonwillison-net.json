@@ -4,10 +4,10 @@
         "title": "Prompt injection explained, with video, slides, and a transcript",
         "url": "https://simonwillison.net/2023/May/2/prompt-injection-explained/",
         "dt": "2023-05-13T15:11:11",
-        "points": 189,
+        "points": 226,
         "submitter": "sebg",
         "commentsUrl": "https://news.ycombinator.com/item?id=35929122",
-        "numComments": 66
+        "numComments": 86
     },
     {
         "id": "35925758",
@@ -24,7 +24,7 @@
         "title": "GitHub Copilot Leaked Prompt",
         "url": "https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/",
         "dt": "2023-05-13T00:44:53",
-        "points": 246,
+        "points": 247,
         "submitter": "tim_sw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35924293",
         "numComments": 4
@@ -37,7 +37,7 @@
         "points": 198,
         "submitter": "eiiot",
         "commentsUrl": "https://news.ycombinator.com/item?id=35911595",
-        "numComments": 99
+        "numComments": 102
     },
     {
         "id": "35904361",
