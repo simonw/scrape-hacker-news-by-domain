@@ -1,5 +1,15 @@
 [
     {
+        "id": "35929122",
+        "title": "Prompt injection explained, with video, slides, and a transcript",
+        "url": "https://simonwillison.net/2023/May/2/prompt-injection-explained/",
+        "dt": "2023-05-13T15:11:11",
+        "points": 2,
+        "submitter": "sebg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35929122",
+        "numComments": 0
+    },
+    {
         "id": "35925758",
         "title": "The Dual LLM pattern for building AI assistants that can resist prompt injection",
         "url": "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/",
@@ -24,10 +34,10 @@
         "title": "Delimiters won\u2019t save you from prompt injection",
         "url": "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/",
         "dt": "2023-05-12T03:38:52",
-        "points": 173,
+        "points": 182,
         "submitter": "eiiot",
         "commentsUrl": "https://news.ycombinator.com/item?id=35911595",
-        "numComments": 80
+        "numComments": 88
     },
     {
         "id": "35904361",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "tim_sw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35516714",
-        "numComments": 0
-    },
-    {
-        "id": "35502156",
-        "title": "GPT-4 for API design research",
-        "url": "https://til.simonwillison.net/gpt3/gpt4-api-design",
-        "dt": "2023-04-09T12:37:00",
-        "points": 2,
-        "submitter": "kiyanwang",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35502156",
         "numComments": 0
     }
 ]
