@@ -14,7 +14,7 @@
         "title": "GitHub Copilot Leaked Prompt",
         "url": "https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/",
         "dt": "2023-05-13T00:44:53",
-        "points": 240,
+        "points": 241,
         "submitter": "tim_sw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35924293",
         "numComments": 4
@@ -24,10 +24,10 @@
         "title": "Delimiters won\u2019t save you from prompt injection",
         "url": "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/",
         "dt": "2023-05-12T03:38:52",
-        "points": 95,
+        "points": 110,
         "submitter": "eiiot",
         "commentsUrl": "https://news.ycombinator.com/item?id=35911595",
-        "numComments": 35
+        "numComments": 47
     },
     {
         "id": "35904361",
