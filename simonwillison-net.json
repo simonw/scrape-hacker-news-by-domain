@@ -1,5 +1,15 @@
 [
     {
+        "id": "35924293",
+        "title": "GitHub Copilot Leaked Prompt",
+        "url": "https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/",
+        "dt": "2023-05-13T00:44:53",
+        "points": 17,
+        "submitter": "tim_sw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35924293",
+        "numComments": 11
+    },
+    {
         "id": "35911595",
         "title": "Delimiters won\u2019t save you from prompt injection",
         "url": "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35483823",
         "numComments": 457
-    },
-    {
-        "id": "35478714",
-        "title": "GPT-4 for API design research",
-        "url": "https://til.simonwillison.net/gpt3/gpt4-api-design",
-        "dt": "2023-04-07T06:24:49",
-        "points": 2,
-        "submitter": "saeedesmaili",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35478714",
-        "numComments": 0
     }
 ]
