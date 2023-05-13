@@ -1,33 +1,43 @@
 [
     {
+        "id": "35925758",
+        "title": "The Dual LLM pattern for building AI assistants that can resist prompt injection",
+        "url": "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/",
+        "dt": "2023-05-13T05:08:06",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=35925758",
+        "numComments": 0
+    },
+    {
         "id": "35924293",
         "title": "GitHub Copilot Leaked Prompt",
         "url": "https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/",
         "dt": "2023-05-13T00:44:53",
-        "points": 226,
+        "points": 238,
         "submitter": "tim_sw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35924293",
-        "numComments": 154
+        "numComments": 4
     },
     {
         "id": "35911595",
         "title": "Delimiters won\u2019t save you from prompt injection",
         "url": "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/",
         "dt": "2023-05-12T03:38:52",
-        "points": 2,
+        "points": 17,
         "submitter": "eiiot",
         "commentsUrl": "https://news.ycombinator.com/item?id=35911595",
-        "numComments": 0
+        "numComments": 8
     },
     {
         "id": "35904361",
         "title": "Delimiters won\u2019t save you from prompt injection",
         "url": "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/",
         "dt": "2023-05-11T16:17:56",
-        "points": 13,
+        "points": 17,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35904361",
-        "numComments": 6
+        "numComments": 1
     },
     {
         "id": "35885237",
@@ -288,15 +298,5 @@
         "submitter": "kiyanwang",
         "commentsUrl": "https://news.ycombinator.com/item?id=35502156",
         "numComments": 0
-    },
-    {
-        "id": "35483823",
-        "title": "We need to tell people ChatGPT will lie to them, not debate linguistics",
-        "url": "https://simonwillison.net/2023/Apr/7/chatgpt-lies/",
-        "dt": "2023-04-07T16:48:31",
-        "points": 546,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35483823",
-        "numComments": 457
     }
 ]
