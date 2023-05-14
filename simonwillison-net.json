@@ -4,7 +4,7 @@
         "title": "Prompt injection explained, with video, slides, and a transcript",
         "url": "https://simonwillison.net/2023/May/2/prompt-injection-explained/",
         "dt": "2023-05-13T15:11:11",
-        "points": 485,
+        "points": 486,
         "submitter": "sebg",
         "commentsUrl": "https://news.ycombinator.com/item?id=35929122",
         "numComments": 170
@@ -14,17 +14,17 @@
         "title": "The Dual LLM pattern for building AI assistants that can resist prompt injection",
         "url": "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/",
         "dt": "2023-05-13T05:08:06",
-        "points": 27,
+        "points": 48,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35925758",
-        "numComments": 1
+        "numComments": 8
     },
     {
         "id": "35924293",
         "title": "GitHub Copilot Leaked Prompt",
         "url": "https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/",
         "dt": "2023-05-13T00:44:53",
-        "points": 248,
+        "points": 249,
         "submitter": "tim_sw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35924293",
         "numComments": 4
@@ -34,7 +34,7 @@
         "title": "Delimiters won\u2019t save you from prompt injection",
         "url": "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/",
         "dt": "2023-05-12T03:38:52",
-        "points": 209,
+        "points": 210,
         "submitter": "eiiot",
         "commentsUrl": "https://news.ycombinator.com/item?id=35911595",
         "numComments": 110
@@ -94,7 +94,7 @@
         "title": "I Don\u2019t Know How to Solve Prompt Injection (2022)",
         "url": "https://simonwillison.net/2022/Sep/16/prompt-injection-solutions/",
         "dt": "2023-05-03T13:31:22",
-        "points": 1,
+        "points": 2,
         "submitter": "belter",
         "commentsUrl": "https://news.ycombinator.com/item?id=35802166",
         "numComments": 0
