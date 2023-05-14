@@ -4,7 +4,7 @@
         "title": "Prompt injection explained, with video, slides, and a transcript",
         "url": "https://simonwillison.net/2023/May/2/prompt-injection-explained/",
         "dt": "2023-05-13T15:11:11",
-        "points": 477,
+        "points": 479,
         "submitter": "sebg",
         "commentsUrl": "https://news.ycombinator.com/item?id=35929122",
         "numComments": 168
@@ -44,7 +44,7 @@
         "title": "Delimiters won\u2019t save you from prompt injection",
         "url": "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/",
         "dt": "2023-05-11T16:17:56",
-        "points": 17,
+        "points": 18,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35904361",
         "numComments": 1
