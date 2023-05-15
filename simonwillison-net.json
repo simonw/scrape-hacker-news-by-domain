@@ -14,10 +14,10 @@
         "title": "The Dual LLM pattern for building AI assistants that can resist prompt injection",
         "url": "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/",
         "dt": "2023-05-13T05:08:06",
-        "points": 109,
+        "points": 117,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35925758",
-        "numComments": 49
+        "numComments": 56
     },
     {
         "id": "35924293",
@@ -34,7 +34,7 @@
         "title": "Delimiters won\u2019t save you from prompt injection",
         "url": "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/",
         "dt": "2023-05-12T03:38:52",
-        "points": 210,
+        "points": 211,
         "submitter": "eiiot",
         "commentsUrl": "https://news.ycombinator.com/item?id=35911595",
         "numComments": 110
