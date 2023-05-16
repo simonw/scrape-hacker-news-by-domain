@@ -14,7 +14,7 @@
         "title": "The Dual LLM pattern for building AI assistants that can resist prompt injection",
         "url": "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/",
         "dt": "2023-05-13T05:08:06",
-        "points": 194,
+        "points": 195,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35925758",
         "numComments": 102
@@ -37,7 +37,7 @@
         "points": 211,
         "submitter": "eiiot",
         "commentsUrl": "https://news.ycombinator.com/item?id=35911595",
-        "numComments": 110
+        "numComments": 111
     },
     {
         "id": "35904361",
