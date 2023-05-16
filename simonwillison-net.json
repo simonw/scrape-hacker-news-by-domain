@@ -4,7 +4,7 @@
         "title": "Prompt injection explained, with video, slides, and a transcript",
         "url": "https://simonwillison.net/2023/May/2/prompt-injection-explained/",
         "dt": "2023-05-13T15:11:11",
-        "points": 495,
+        "points": 496,
         "submitter": "sebg",
         "commentsUrl": "https://news.ycombinator.com/item?id=35929122",
         "numComments": 175
@@ -14,7 +14,7 @@
         "title": "The Dual LLM pattern for building AI assistants that can resist prompt injection",
         "url": "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/",
         "dt": "2023-05-13T05:08:06",
-        "points": 195,
+        "points": 196,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35925758",
         "numComments": 103
