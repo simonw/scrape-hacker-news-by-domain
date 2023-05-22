@@ -1,5 +1,15 @@
 [
     {
+        "id": "36035778",
+        "title": "Mlc-Chat \u2013 RedPajama-Incite-Chat-3B on macOS",
+        "url": "https://til.simonwillison.net/llms/mlc-chat-redpajama",
+        "dt": "2023-05-22T19:43:35",
+        "points": 3,
+        "submitter": "swyx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=36035778",
+        "numComments": 0
+    },
+    {
         "id": "35994037",
         "title": "CLI tools for working with ChatGPT and other LLMs",
         "url": "https://simonwillison.net/2023/May/18/cli-tools-for-llms/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "petercooper",
         "commentsUrl": "https://news.ycombinator.com/item?id=35532337",
-        "numComments": 0
-    },
-    {
-        "id": "35520836",
-        "title": "Thoughts on AI safety in this era of increasingly powerful open source LLMs",
-        "url": "https://simonwillison.net/2023/Apr/10/ai-safety/",
-        "dt": "2023-04-11T04:28:10",
-        "points": 3,
-        "submitter": "duck",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35520836",
         "numComments": 0
     }
 ]
