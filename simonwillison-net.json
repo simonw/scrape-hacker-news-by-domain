@@ -1,5 +1,15 @@
 [
     {
+        "id": "36097900",
+        "title": "Lawyer cites fake cases invented by ChatGPT, judge is not amused",
+        "url": "https://simonwillison.net/2023/May/27/lawyer-chatgpt/",
+        "dt": "2023-05-27T20:19:41",
+        "points": 1,
+        "submitter": "scraptor",
+        "commentsUrl": "https://news.ycombinator.com/item?id=36097900",
+        "numComments": 0
+    },
+    {
         "id": "36035778",
         "title": "Mlc-Chat \u2013 RedPajama-Incite-Chat-3B on macOS",
         "url": "https://til.simonwillison.net/llms/mlc-chat-redpajama",
@@ -288,15 +298,5 @@
         "submitter": "srijan4",
         "commentsUrl": "https://news.ycombinator.com/item?id=35534290",
         "numComments": 46
-    },
-    {
-        "id": "35532337",
-        "title": "Path to Citus Con: Working in Public",
-        "url": "https://simonwillison.net/2023/Apr/8/working-in-public/",
-        "dt": "2023-04-11T22:14:17",
-        "points": 1,
-        "submitter": "petercooper",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35532337",
-        "numComments": 0
     }
 ]
