@@ -1,5 +1,15 @@
 [
     {
+        "id": "36130620",
+        "title": "ChatGPT should include inline tips",
+        "url": "https://simonwillison.net/2023/May/30/chatgpt-inline-tips/",
+        "dt": "2023-05-30T20:53:41",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=36130620",
+        "numComments": 2
+    },
+    {
         "id": "36097900",
         "title": "Lawyer cites fake cases invented by ChatGPT, judge is not amused",
         "url": "https://simonwillison.net/2023/May/27/lawyer-chatgpt/",
@@ -288,15 +298,5 @@
         "submitter": "clairegiordano",
         "commentsUrl": "https://news.ycombinator.com/item?id=35535897",
         "numComments": 0
-    },
-    {
-        "id": "35534290",
-        "title": "Running Python micro-benchmarks using the ChatGPT Code Interpreter alpha",
-        "url": "https://simonwillison.net/2023/Apr/12/code-interpreter/",
-        "dt": "2023-04-12T02:20:49",
-        "points": 65,
-        "submitter": "srijan4",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35534290",
-        "numComments": 46
     }
 ]
