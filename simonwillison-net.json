@@ -1,5 +1,15 @@
 [
     {
+        "id": "36167533",
+        "title": "ChatGPT should include inline tips",
+        "url": "https://simonwillison.net/2023/May/30/chatgpt-inline-tips/",
+        "dt": "2023-06-02T16:48:28",
+        "points": 1,
+        "submitter": "telotortium",
+        "commentsUrl": "https://news.ycombinator.com/item?id=36167533",
+        "numComments": 0
+    },
+    {
         "id": "36130620",
         "title": "ChatGPT should include inline tips",
         "url": "https://simonwillison.net/2023/May/30/chatgpt-inline-tips/",
@@ -288,15 +298,5 @@
         "submitter": "l2dy",
         "commentsUrl": "https://news.ycombinator.com/item?id=35550530",
         "numComments": 13
-    },
-    {
-        "id": "35535897",
-        "title": "Working in public conversation at Path To Citus Con",
-        "url": "https://simonwillison.net/2023/Apr/8/working-in-public/",
-        "dt": "2023-04-12T06:53:01",
-        "points": 1,
-        "submitter": "clairegiordano",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35535897",
-        "numComments": 0
     }
 ]
