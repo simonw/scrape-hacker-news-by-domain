@@ -4,7 +4,7 @@
         "title": "ChatGPT should include inline tips",
         "url": "https://simonwillison.net/2023/May/30/chatgpt-inline-tips/",
         "dt": "2023-06-05T04:57:40",
-        "points": 1,
+        "points": 2,
         "submitter": "colinprince",
         "commentsUrl": "https://news.ycombinator.com/item?id=36192479",
         "numComments": 0
@@ -14,10 +14,10 @@
         "title": "It\u2019s infuriatingly hard to understand how closed models train on their input",
         "url": "https://simonwillison.net/2023/Jun/4/closed-model-training/",
         "dt": "2023-06-04T18:16:40",
-        "points": 294,
+        "points": 295,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=36187994",
-        "numComments": 199
+        "numComments": 200
     },
     {
         "id": "36167533",
