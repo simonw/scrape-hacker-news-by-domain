@@ -1,5 +1,15 @@
 [
     {
+        "id": "36386262",
+        "title": "Symbex: Search Python code then pipe it into an LLM",
+        "url": "https://simonwillison.net/2023/Jun/18/symbex/",
+        "dt": "2023-06-19T01:23:06",
+        "points": 1,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=36386262",
+        "numComments": 0
+    },
+    {
         "id": "36334454",
         "title": "Running OpenAI's large context models using LLM",
         "url": "https://til.simonwillison.net/llms/larger-context-openai-models-llm",
@@ -288,15 +298,5 @@
         "submitter": "gstipi",
         "commentsUrl": "https://news.ycombinator.com/item?id=35690942",
         "numComments": 1
-    },
-    {
-        "id": "35610297",
-        "title": "What\u2019s in the RedPajama-Data-1T LLM training set",
-        "url": "https://simonwillison.net/2023/Apr/17/redpajama-data/",
-        "dt": "2023-04-18T05:29:44",
-        "points": 3,
-        "submitter": "notmysql_",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35610297",
-        "numComments": 0
     }
 ]
