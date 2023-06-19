@@ -1,5 +1,15 @@
 [
     {
+        "id": "36394578",
+        "title": "Symbex: Search Python code for functions and classes, then pipe them into a LLM",
+        "url": "https://simonwillison.net/2023/Jun/18/symbex/",
+        "dt": "2023-06-19T18:12:00",
+        "points": 2,
+        "submitter": "marban",
+        "commentsUrl": "https://news.ycombinator.com/item?id=36394578",
+        "numComments": 0
+    },
+    {
         "id": "36386262",
         "title": "Symbex: Search Python code then pipe it into an LLM",
         "url": "https://simonwillison.net/2023/Jun/18/symbex/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35705159",
         "numComments": 0
-    },
-    {
-        "id": "35690942",
-        "title": "Git scraping: track changes over time by scraping to a Git repository (2020)",
-        "url": "https://simonwillison.net/2020/Oct/9/git-scraping/",
-        "dt": "2023-04-24T17:58:38",
-        "points": 5,
-        "submitter": "gstipi",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35690942",
-        "numComments": 1
     }
 ]
