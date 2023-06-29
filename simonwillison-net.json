@@ -4,10 +4,10 @@
         "title": "CLI tools hidden in the Python standard library",
         "url": "https://til.simonwillison.net/python/stdlib-cli-tools",
         "dt": "2023-06-29T02:15:16",
-        "points": 103,
+        "points": 141,
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=36515531",
-        "numComments": 21
+        "numComments": 35
     },
     {
         "id": "36394578",
