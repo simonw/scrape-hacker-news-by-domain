@@ -4,7 +4,7 @@
         "title": "Symbex: Extract Python functions and classes by wildcard",
         "url": "https://simonwillison.net/2023/Jun/18/symbex/",
         "dt": "2023-06-29T17:20:46",
-        "points": 1,
+        "points": 3,
         "submitter": "goranmoomin",
         "commentsUrl": "https://news.ycombinator.com/item?id=36523507",
         "numComments": 0
@@ -14,10 +14,10 @@
         "title": "CLI tools hidden in the Python standard library",
         "url": "https://til.simonwillison.net/python/stdlib-cli-tools",
         "dt": "2023-06-29T02:15:16",
-        "points": 427,
+        "points": 446,
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=36515531",
-        "numComments": 110
+        "numComments": 117
     },
     {
         "id": "36394578",
