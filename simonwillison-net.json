@@ -1,5 +1,15 @@
 [
     {
+        "id": "36749911",
+        "title": "LLM CLI tool now supports self-hosted language models via plugins",
+        "url": "https://simonwillison.net/2023/Jul/12/llm/",
+        "dt": "2023-07-16T18:10:30",
+        "points": 1,
+        "submitter": "CharlesW",
+        "commentsUrl": "https://news.ycombinator.com/item?id=36749911",
+        "numComments": 0
+    },
+    {
         "id": "36720171",
         "title": "Using the tree-sitter parser generator with Python",
         "url": "https://til.simonwillison.net/python/tree-sitter",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "otterwise",
         "commentsUrl": "https://news.ycombinator.com/item?id=35795539",
-        "numComments": 0
-    },
-    {
-        "id": "35785877",
-        "title": "Download-esm: a tool for downloading ECMAScript modules",
-        "url": "https://simonwillison.net/2023/May/2/download-esm/",
-        "dt": "2023-05-02T11:19:40",
-        "points": 5,
-        "submitter": "mgrayson",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35785877",
         "numComments": 0
     }
 ]
