@@ -1,5 +1,15 @@
 [
     {
+        "id": "36778041",
+        "title": "Accessing Llama 2 from the command-line with the LLM-replicate plugin",
+        "url": "https://simonwillison.net/2023/Jul/18/accessing-llama-2/",
+        "dt": "2023-07-18T19:33:33",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=36778041",
+        "numComments": 0
+    },
+    {
         "id": "36749911",
         "title": "LLM CLI tool now supports self-hosted language models via plugins",
         "url": "https://simonwillison.net/2023/Jul/12/llm/",
@@ -288,15 +298,5 @@
         "submitter": "bx376",
         "commentsUrl": "https://news.ycombinator.com/item?id=35795955",
         "numComments": 1
-    },
-    {
-        "id": "35795539",
-        "title": "Download-esm: a tool for downloading ECMAScript modules",
-        "url": "https://simonwillison.net/2023/May/2/download-esm/",
-        "dt": "2023-05-02T23:20:16",
-        "points": 2,
-        "submitter": "otterwise",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35795539",
-        "numComments": 0
     }
 ]
