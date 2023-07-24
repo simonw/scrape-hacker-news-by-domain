@@ -1,5 +1,15 @@
 [
     {
+        "id": "36851204",
+        "title": "SQLite-utils now supports plugins",
+        "url": "https://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/",
+        "dt": "2023-07-24T17:12:39",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=36851204",
+        "numComments": 0
+    },
+    {
         "id": "36843484",
         "title": "It doesn\u2019t take much public creativity to stand out as a job candidate",
         "url": "https://simonwillison.net/2021/Jul/17/standing-out/",
@@ -288,15 +298,5 @@
         "submitter": "belter",
         "commentsUrl": "https://news.ycombinator.com/item?id=35802166",
         "numComments": 0
-    },
-    {
-        "id": "35798815",
-        "title": "Let\u2019s be bear or bunny",
-        "url": "https://simonwillison.net/2023/May/1/lets-be-bear-or-bunny/",
-        "dt": "2023-05-03T06:35:08",
-        "points": 1,
-        "submitter": "mitjam",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35798815",
-        "numComments": 1
     }
 ]
