@@ -4,7 +4,7 @@
         "title": "Exploring the Overture Maps places data using DuckDB, SQLite-utils and Datasette",
         "url": "https://til.simonwillison.net/overture-maps/overture-maps-parquet",
         "dt": "2023-07-27T17:46:20",
-        "points": 1,
+        "points": 2,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=36897426",
         "numComments": 0
