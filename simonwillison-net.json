@@ -1,5 +1,15 @@
 [
     {
+        "id": "36897426",
+        "title": "Exploring the Overture Maps places data using DuckDB, SQLite-utils and Datasette",
+        "url": "https://til.simonwillison.net/overture-maps/overture-maps-parquet",
+        "dt": "2023-07-27T17:46:20",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=36897426",
+        "numComments": 0
+    },
+    {
         "id": "36851204",
         "title": "SQLite-utils now supports plugins",
         "url": "https://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/",
@@ -17,7 +27,7 @@
         "points": 276,
         "submitter": "nithinbekal",
         "commentsUrl": "https://news.ycombinator.com/item?id=36843484",
-        "numComments": 376
+        "numComments": 378
     },
     {
         "id": "36778041",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "sebg",
         "commentsUrl": "https://news.ycombinator.com/item?id=35803564",
-        "numComments": 0
-    },
-    {
-        "id": "35802166",
-        "title": "I Don\u2019t Know How to Solve Prompt Injection (2022)",
-        "url": "https://simonwillison.net/2022/Sep/16/prompt-injection-solutions/",
-        "dt": "2023-05-03T13:31:22",
-        "points": 2,
-        "submitter": "belter",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35802166",
         "numComments": 0
     }
 ]
