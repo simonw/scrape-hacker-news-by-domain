@@ -1,5 +1,15 @@
 [
     {
+        "id": "36960874",
+        "title": "Run Llama 2 on your own Mac using LLM and Homebrew",
+        "url": "https://simonwillison.net/2023/Aug/1/llama-2-mac/",
+        "dt": "2023-08-01T19:03:27",
+        "points": 9,
+        "submitter": "samwillis",
+        "commentsUrl": "https://news.ycombinator.com/item?id=36960874",
+        "numComments": 4
+    },
+    {
         "id": "36911273",
         "title": "Exploring the Overture Maps places data using DuckDB, SQLite-utils and Datasette",
         "url": "https://til.simonwillison.net/overture-maps/overture-maps-parquet",
@@ -288,15 +298,5 @@
         "submitter": "rmason",
         "commentsUrl": "https://news.ycombinator.com/item?id=35834916",
         "numComments": 0
-    },
-    {
-        "id": "35818009",
-        "title": "Leaked Google document: \u201cWe Have No Moat, And Neither Does OpenAI\u201d",
-        "url": "https://simonwillison.net/2023/May/4/no-moat/",
-        "dt": "2023-05-04T16:26:33",
-        "points": 113,
-        "submitter": "cube2222",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35818009",
-        "numComments": 5
     }
 ]
