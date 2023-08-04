@@ -1,5 +1,15 @@
 [
     {
+        "id": "36994532",
+        "title": "Catching up on the weird world of LLMs",
+        "url": "https://simonwillison.net/2023/Aug/3/weird-world-of-llms/",
+        "dt": "2023-08-04T01:59:31",
+        "points": 1,
+        "submitter": "benwerd",
+        "commentsUrl": "https://news.ycombinator.com/item?id=36994532",
+        "numComments": 0
+    },
+    {
         "id": "36988145",
         "title": "Catching up on the weird world of LLMs",
         "url": "https://simonwillison.net/2023/Aug/3/weird-world-of-llms/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35904361",
         "numComments": 1
-    },
-    {
-        "id": "35885237",
-        "title": "Some Notes on How Deno KV Works on Local Machine",
-        "url": "https://til.simonwillison.net/deno/deno-kv",
-        "dt": "2023-05-10T09:05:16",
-        "points": 2,
-        "submitter": "lemper",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35885237",
-        "numComments": 0
     }
 ]
