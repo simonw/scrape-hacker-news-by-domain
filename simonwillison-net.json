@@ -1,10 +1,10 @@
 [
     {
         "id": "37024398",
-        "title": "I Make Annotated Presentations",
+        "title": "How I make annotated presentations",
         "url": "https://simonwillison.net/2023/Aug/6/annotated-presentations/",
         "dt": "2023-08-06T17:26:06",
-        "points": 13,
+        "points": 17,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=37024398",
         "numComments": 0
@@ -14,10 +14,10 @@
         "title": "Catching up on the weird world of LLMs",
         "url": "https://simonwillison.net/2023/Aug/3/weird-world-of-llms/",
         "dt": "2023-08-04T01:59:31",
-        "points": 90,
+        "points": 104,
         "submitter": "benwerd",
         "commentsUrl": "https://news.ycombinator.com/item?id=36994532",
-        "numComments": 8
+        "numComments": 10
     },
     {
         "id": "36988145",
