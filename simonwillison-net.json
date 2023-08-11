@@ -4,10 +4,10 @@
         "title": "Git scraping: track changes over time by scraping to a Git repository",
         "url": "https://simonwillison.net/2020/Oct/9/git-scraping/",
         "dt": "2023-08-10T21:57:24",
-        "points": 67,
+        "points": 79,
         "submitter": "ekiauhce",
         "commentsUrl": "https://news.ycombinator.com/item?id=37082289",
-        "numComments": 29
+        "numComments": 31
     },
     {
         "id": "37072442",
@@ -34,7 +34,7 @@
         "title": "Catching up on the weird world of LLMs",
         "url": "https://simonwillison.net/2023/Aug/3/weird-world-of-llms/",
         "dt": "2023-08-04T01:59:31",
-        "points": 192,
+        "points": 193,
         "submitter": "benwerd",
         "commentsUrl": "https://news.ycombinator.com/item?id=36994532",
         "numComments": 38
