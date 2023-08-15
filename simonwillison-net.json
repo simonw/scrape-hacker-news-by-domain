@@ -1,5 +1,15 @@
 [
     {
+        "id": "37137454",
+        "title": "Building a Blog in Django",
+        "url": "https://til.simonwillison.net/django/building-a-blog-in-django",
+        "dt": "2023-08-15T18:24:44",
+        "points": 1,
+        "submitter": "chazeon",
+        "commentsUrl": "https://news.ycombinator.com/item?id=37137454",
+        "numComments": 0
+    },
+    {
         "id": "37090181",
         "title": "Catching Up with the Cosmopolitan Ecosystem",
         "url": "https://til.simonwillison.net/cosmopolitan/ecosystem",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=35994037",
         "numComments": 51
-    },
-    {
-        "id": "35929122",
-        "title": "Prompt injection explained, with video, slides, and a transcript",
-        "url": "https://simonwillison.net/2023/May/2/prompt-injection-explained/",
-        "dt": "2023-05-13T15:11:11",
-        "points": 508,
-        "submitter": "sebg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35929122",
-        "numComments": 175
     }
 ]
