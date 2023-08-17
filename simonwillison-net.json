@@ -1,5 +1,15 @@
 [
     {
+        "id": "37163465",
+        "title": "Storing and serving related documents with OpenAI-to-SQLite and embeddings",
+        "url": "https://til.simonwillison.net/llms/openai-embeddings-related-content",
+        "dt": "2023-08-17T15:46:27",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=37163465",
+        "numComments": 0
+    },
+    {
         "id": "37137454",
         "title": "Building a Blog in Django",
         "url": "https://til.simonwillison.net/django/building-a-blog-in-django",
@@ -288,15 +298,5 @@
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=36035778",
         "numComments": 0
-    },
-    {
-        "id": "35994037",
-        "title": "CLI tools for working with ChatGPT and other LLMs",
-        "url": "https://simonwillison.net/2023/May/18/cli-tools-for-llms/",
-        "dt": "2023-05-18T21:05:26",
-        "points": 204,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=35994037",
-        "numComments": 51
     }
 ]
