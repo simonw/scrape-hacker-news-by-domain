@@ -1,13 +1,13 @@
 [
     {
         "id": "37482220",
-        "title": "Building a Blog in Django",
+        "title": "Notes from building a blog in Django",
         "url": "https://til.simonwillison.net/django/building-a-blog-in-django",
         "dt": "2023-09-12T14:53:36",
-        "points": 66,
+        "points": 79,
         "submitter": "theptip",
         "commentsUrl": "https://news.ycombinator.com/item?id=37482220",
-        "numComments": 36
+        "numComments": 48
     },
     {
         "id": "37458122",
