@@ -1,5 +1,15 @@
 [
     {
+        "id": "37482220",
+        "title": "Building a Blog in Django",
+        "url": "https://til.simonwillison.net/django/building-a-blog-in-django",
+        "dt": "2023-09-12T14:53:36",
+        "points": 2,
+        "submitter": "theptip",
+        "commentsUrl": "https://news.ycombinator.com/item?id=37482220",
+        "numComments": 0
+    },
+    {
         "id": "37458122",
         "title": "Summarizing Hacker News Discussion Themes with Claude and LLM",
         "url": "https://til.simonwillison.net/llms/claude-hacker-news-themes",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=36248633",
         "numComments": 130
-    },
-    {
-        "id": "36192479",
-        "title": "ChatGPT should include inline tips",
-        "url": "https://simonwillison.net/2023/May/30/chatgpt-inline-tips/",
-        "dt": "2023-06-05T04:57:40",
-        "points": 2,
-        "submitter": "colinprince",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36192479",
-        "numComments": 0
     }
 ]
