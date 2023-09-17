@@ -1,5 +1,15 @@
 [
     {
+        "id": "37541681",
+        "title": "CPython Implements and Uses Bloom Filters for String Processing",
+        "url": "http://simonwillison.net/2023/Sep/16/how-cpython-implements-and-uses-bloom-filters-for-string-process/#atom-blogmarks",
+        "dt": "2023-09-17T05:02:20",
+        "points": 1,
+        "submitter": "genericlemon24",
+        "commentsUrl": "https://news.ycombinator.com/item?id=37541681",
+        "numComments": 0
+    },
+    {
         "id": "37482220",
         "title": "Notes from building a blog in Django",
         "url": "https://til.simonwillison.net/django/building-a-blog-in-django",
@@ -288,15 +298,5 @@
         "submitter": "madacol",
         "commentsUrl": "https://news.ycombinator.com/item?id=36334454",
         "numComments": 0
-    },
-    {
-        "id": "36248633",
-        "title": "Understanding GPT tokenizers",
-        "url": "https://simonwillison.net/2023/Jun/8/gpt-tokenizers/",
-        "dt": "2023-06-08T20:40:30",
-        "points": 432,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36248633",
-        "numComments": 130
     }
 ]
