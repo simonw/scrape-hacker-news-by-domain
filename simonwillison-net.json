@@ -1,5 +1,15 @@
 [
     {
+        "id": "37649868",
+        "title": "Geospatial SQL queries in SQLite using TG, SQLite-tg and datasette-SQLite-tg",
+        "url": "https://til.simonwillison.net/sqlite/sqlite-tg",
+        "dt": "2023-09-25T20:09:11",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=37649868",
+        "numComments": 0
+    },
+    {
         "id": "37541681",
         "title": "CPython Implements and Uses Bloom Filters for String Processing",
         "url": "http://simonwillison.net/2023/Sep/16/how-cpython-implements-and-uses-bloom-filters-for-string-process/#atom-blogmarks",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=36386262",
-        "numComments": 0
-    },
-    {
-        "id": "36334454",
-        "title": "Running OpenAI's large context models using LLM",
-        "url": "https://til.simonwillison.net/llms/larger-context-openai-models-llm",
-        "dt": "2023-06-14T23:43:07",
-        "points": 1,
-        "submitter": "madacol",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36334454",
         "numComments": 0
     }
 ]
