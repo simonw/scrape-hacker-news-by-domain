@@ -1,5 +1,15 @@
 [
     {
+        "id": "37711756",
+        "title": "Things I\u2019ve learned about building CLI tools in Python",
+        "url": "https://simonwillison.net/2023/Sep/30/cli-tools-python/",
+        "dt": "2023-09-30T00:32:18",
+        "points": 1,
+        "submitter": "chmaynard",
+        "commentsUrl": "https://news.ycombinator.com/item?id=37711756",
+        "numComments": 0
+    },
+    {
         "id": "37649868",
         "title": "Geospatial SQL queries in SQLite using TG, SQLite-tg and datasette-SQLite-tg",
         "url": "https://til.simonwillison.net/sqlite/sqlite-tg",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "marban",
         "commentsUrl": "https://news.ycombinator.com/item?id=36394578",
-        "numComments": 0
-    },
-    {
-        "id": "36386262",
-        "title": "Symbex: Search Python code then pipe it into an LLM",
-        "url": "https://simonwillison.net/2023/Jun/18/symbex/",
-        "dt": "2023-06-19T01:23:06",
-        "points": 2,
-        "submitter": "todsacerdoti",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36386262",
         "numComments": 0
     }
 ]
