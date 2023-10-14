@@ -1,5 +1,15 @@
 [
     {
+        "id": "37877605",
+        "title": "Multi-modal prompt injection image attacks against GPT-4V",
+        "url": "https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/",
+        "dt": "2023-10-14T02:26:40",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=37877605",
+        "numComments": 0
+    },
+    {
         "id": "37711756",
         "title": "Things I\u2019ve learned about building CLI tools in Python",
         "url": "https://simonwillison.net/2023/Sep/30/cli-tools-python/",
@@ -288,15 +298,5 @@
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=36515531",
         "numComments": 154
-    },
-    {
-        "id": "36394578",
-        "title": "Symbex: Search Python code for functions and classes, then pipe them into a LLM",
-        "url": "https://simonwillison.net/2023/Jun/18/symbex/",
-        "dt": "2023-06-19T18:12:00",
-        "points": 3,
-        "submitter": "marban",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36394578",
-        "numComments": 0
     }
 ]
