@@ -1,5 +1,15 @@
 [
     {
+        "id": "37985489",
+        "title": "Embeddings: What they are and why they matter",
+        "url": "https://simonwillison.net/2023/Oct/23/embeddings/",
+        "dt": "2023-10-23T13:42:12",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=37985489",
+        "numComments": 0
+    },
+    {
         "id": "37917668",
         "title": "Open Questions for AI Engineering",
         "url": "https://simonwillison.net/2023/Oct/17/open-questions/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=36643532",
-        "numComments": 0
-    },
-    {
-        "id": "36523507",
-        "title": "Symbex: Extract Python functions and classes by wildcard",
-        "url": "https://simonwillison.net/2023/Jun/18/symbex/",
-        "dt": "2023-06-29T17:20:46",
-        "points": 3,
-        "submitter": "goranmoomin",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36523507",
         "numComments": 0
     }
 ]
