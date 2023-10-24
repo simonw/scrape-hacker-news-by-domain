@@ -1,5 +1,15 @@
 [
     {
+        "id": "38006251",
+        "title": "Embeddings: What they are and why they matter",
+        "url": "https://simonwillison.net/2023/Oct/23/embeddings/",
+        "dt": "2023-10-24T21:58:24",
+        "points": 1,
+        "submitter": "mpweiher",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38006251",
+        "numComments": 0
+    },
+    {
         "id": "37998983",
         "title": "Embeddings: What they are and why they matter",
         "url": "https://simonwillison.net/2023/Oct/23/embeddings/",
@@ -288,15 +298,5 @@
         "submitter": "CharlesW",
         "commentsUrl": "https://news.ycombinator.com/item?id=36749911",
         "numComments": 1
-    },
-    {
-        "id": "36720171",
-        "title": "Using the tree-sitter parser generator with Python",
-        "url": "https://til.simonwillison.net/python/tree-sitter",
-        "dt": "2023-07-14T06:28:13",
-        "points": 4,
-        "submitter": "chmaynard",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36720171",
-        "numComments": 0
     }
 ]
