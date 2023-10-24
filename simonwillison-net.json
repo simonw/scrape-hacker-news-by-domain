@@ -1,5 +1,15 @@
 [
     {
+        "id": "37993985",
+        "title": "Embeddings: What they are and why they matter",
+        "url": "https://simonwillison.net/2023/Oct/23/embeddings/",
+        "dt": "2023-10-24T01:42:02",
+        "points": 1,
+        "submitter": "jonbaer",
+        "commentsUrl": "https://news.ycombinator.com/item?id=37993985",
+        "numComments": 0
+    },
+    {
         "id": "37985489",
         "title": "Embeddings: What they are and why they matter",
         "url": "https://simonwillison.net/2023/Oct/23/embeddings/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=36695226",
         "numComments": 1
-    },
-    {
-        "id": "36643532",
-        "title": "Python packages with pyproject.toml and nothing else",
-        "url": "https://til.simonwillison.net/python/pyproject",
-        "dt": "2023-07-08T11:55:29",
-        "points": 3,
-        "submitter": "chmaynard",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36643532",
-        "numComments": 0
     }
 ]
