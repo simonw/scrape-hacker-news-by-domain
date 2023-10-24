@@ -1,5 +1,15 @@
 [
     {
+        "id": "37998983",
+        "title": "Embeddings: What they are and why they matter",
+        "url": "https://simonwillison.net/2023/Oct/23/embeddings/",
+        "dt": "2023-10-24T13:35:42",
+        "points": 2,
+        "submitter": "rrampage",
+        "commentsUrl": "https://news.ycombinator.com/item?id=37998983",
+        "numComments": 0
+    },
+    {
         "id": "37993985",
         "title": "Embeddings: What they are and why they matter",
         "url": "https://simonwillison.net/2023/Oct/23/embeddings/",
@@ -288,15 +298,5 @@
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=36720171",
         "numComments": 0
-    },
-    {
-        "id": "36695226",
-        "title": "Show HN: LLM CLI tool now supports self-hosted language models via plugins",
-        "url": "https://simonwillison.net/2023/Jul/12/llm/",
-        "dt": "2023-07-12T14:39:47",
-        "points": 6,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36695226",
-        "numComments": 1
     }
 ]
