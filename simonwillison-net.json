@@ -4,10 +4,10 @@
         "title": "Things I've learned about building CLI tools in Python",
         "url": "https://simonwillison.net/2023/Sep/30/cli-tools-python/",
         "dt": "2023-10-25T03:59:49",
-        "points": 115,
+        "points": 117,
         "submitter": "gilad",
         "commentsUrl": "https://news.ycombinator.com/item?id=38008987",
-        "numComments": 67
+        "numComments": 70
     },
     {
         "id": "38006251",
@@ -44,10 +44,10 @@
         "title": "Embeddings: What they are and why they matter",
         "url": "https://simonwillison.net/2023/Oct/23/embeddings/",
         "dt": "2023-10-23T13:42:12",
-        "points": 615,
+        "points": 619,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=37985489",
-        "numComments": 121
+        "numComments": 123
     },
     {
         "id": "37917668",
