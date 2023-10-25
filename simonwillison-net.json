@@ -1,5 +1,15 @@
 [
     {
+        "id": "38008987",
+        "title": "Things I've learned about building CLI tools in Python",
+        "url": "https://simonwillison.net/2023/Sep/30/cli-tools-python/",
+        "dt": "2023-10-25T03:59:49",
+        "points": 1,
+        "submitter": "gilad",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38008987",
+        "numComments": 0
+    },
+    {
         "id": "38006251",
         "title": "Embeddings: What they are and why they matter",
         "url": "https://simonwillison.net/2023/Oct/23/embeddings/",
@@ -34,10 +44,10 @@
         "title": "Embeddings: What they are and why they matter",
         "url": "https://simonwillison.net/2023/Oct/23/embeddings/",
         "dt": "2023-10-23T13:42:12",
-        "points": 10,
+        "points": 44,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=37985489",
-        "numComments": 5
+        "numComments": 11
     },
     {
         "id": "37917668",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=36778041",
         "numComments": 43
-    },
-    {
-        "id": "36749911",
-        "title": "LLM CLI tool now supports self-hosted language models via plugins",
-        "url": "https://simonwillison.net/2023/Jul/12/llm/",
-        "dt": "2023-07-16T18:10:30",
-        "points": 5,
-        "submitter": "CharlesW",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36749911",
-        "numComments": 1
     }
 ]
