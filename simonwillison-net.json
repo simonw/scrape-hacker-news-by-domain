@@ -1,5 +1,15 @@
 [
     {
+        "id": "38031839",
+        "title": "Now add a walrus: Prompt engineering in DALL-E 3",
+        "url": "https://simonwillison.net/2023/Oct/26/add-a-walrus/",
+        "dt": "2023-10-26T21:19:22",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38031839",
+        "numComments": 0
+    },
+    {
         "id": "38008987",
         "title": "Things I've learned about building CLI tools in Python",
         "url": "https://simonwillison.net/2023/Sep/30/cli-tools-python/",
@@ -288,15 +298,5 @@
         "submitter": "nithinbekal",
         "commentsUrl": "https://news.ycombinator.com/item?id=36843484",
         "numComments": 378
-    },
-    {
-        "id": "36778041",
-        "title": "Accessing Llama 2 from the command-line with the LLM-replicate plugin",
-        "url": "https://simonwillison.net/2023/Jul/18/accessing-llama-2/",
-        "dt": "2023-07-18T19:33:33",
-        "points": 200,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36778041",
-        "numComments": 43
     }
 ]
