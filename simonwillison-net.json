@@ -7,14 +7,14 @@
         "points": 287,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38031839",
-        "numComments": 71
+        "numComments": 72
     },
     {
         "id": "38008987",
         "title": "Things I've learned about building CLI tools in Python",
         "url": "https://simonwillison.net/2023/Sep/30/cli-tools-python/",
         "dt": "2023-10-25T03:59:49",
-        "points": 121,
+        "points": 122,
         "submitter": "gilad",
         "commentsUrl": "https://news.ycombinator.com/item?id=38008987",
         "numComments": 82
