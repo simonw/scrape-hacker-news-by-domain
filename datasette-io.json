@@ -1,5 +1,15 @@
 [
     {
+        "id": "38097642",
+        "title": "LLM CLI tool (can connect to public and self-hosted LLMs)",
+        "url": "https://llm.datasette.io/en/stable/",
+        "dt": "2023-11-01T13:03:51",
+        "points": 1,
+        "submitter": "tmsh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38097642",
+        "numComments": 0
+    },
+    {
         "id": "36914612",
         "title": "SQLite-Utils",
         "url": "https://sqlite-utils.datasette.io/en/stable/index.html",
