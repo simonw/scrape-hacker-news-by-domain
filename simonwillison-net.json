@@ -1,5 +1,15 @@
 [
     {
+        "id": "38182236",
+        "title": "Ospeak: A CLI tool for speaking text in the terminal via OpenAI",
+        "url": "https://simonwillison.net/2023/Nov/7/ospeak/",
+        "dt": "2023-11-07T20:21:07",
+        "points": 1,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38182236",
+        "numComments": 0
+    },
+    {
         "id": "38174249",
         "title": "Ospeak: A CLI tool for speaking text in the terminal via OpenAI",
         "url": "http://simonwillison.net/2023/Nov/7/ospeak/#atom-everything",
@@ -288,15 +298,5 @@
         "submitter": "CharlesW",
         "commentsUrl": "https://news.ycombinator.com/item?id=36911273",
         "numComments": 1
-    },
-    {
-        "id": "36897426",
-        "title": "Exploring the Overture Maps places data using DuckDB, SQLite-utils and Datasette",
-        "url": "https://til.simonwillison.net/overture-maps/overture-maps-parquet",
-        "dt": "2023-07-27T17:46:20",
-        "points": 4,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36897426",
-        "numComments": 0
     }
 ]
