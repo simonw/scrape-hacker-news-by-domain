@@ -1,5 +1,15 @@
 [
     {
+        "id": "38174249",
+        "title": "Ospeak: A CLI tool for speaking text in the terminal via OpenAI",
+        "url": "http://simonwillison.net/2023/Nov/7/ospeak/#atom-everything",
+        "dt": "2023-11-07T07:49:05",
+        "points": 1,
+        "submitter": "meatjuice",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38174249",
+        "numComments": 0
+    },
+    {
         "id": "38078200",
         "title": "DALL-E 3, GPT4All, PMTiles, SQLite-migrate, datasette-edit-schema",
         "url": "https://simonwillison.net/2023/Oct/30/weeknotes/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=36897426",
-        "numComments": 0
-    },
-    {
-        "id": "36851204",
-        "title": "SQLite-utils now supports plugins",
-        "url": "https://simonwillison.net/2023/Jul/24/sqlite-utils-plugins/",
-        "dt": "2023-07-24T17:12:39",
-        "points": 6,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36851204",
         "numComments": 0
     }
 ]
