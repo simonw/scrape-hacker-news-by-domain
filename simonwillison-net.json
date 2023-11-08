@@ -1,5 +1,15 @@
 [
     {
+        "id": "38190443",
+        "title": "Using llama-cpp-Python grammars to generate JSON",
+        "url": "https://til.simonwillison.net/llms/llama-cpp-python-grammars",
+        "dt": "2023-11-08T14:05:22",
+        "points": 2,
+        "submitter": "yeesian",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38190443",
+        "numComments": 0
+    },
+    {
         "id": "38182236",
         "title": "Ospeak: A CLI tool for speaking text in the terminal via OpenAI",
         "url": "https://simonwillison.net/2023/Nov/7/ospeak/",
@@ -288,15 +298,5 @@
         "submitter": "samwillis",
         "commentsUrl": "https://news.ycombinator.com/item?id=36960874",
         "numComments": 6
-    },
-    {
-        "id": "36911273",
-        "title": "Exploring the Overture Maps places data using DuckDB, SQLite-utils and Datasette",
-        "url": "https://til.simonwillison.net/overture-maps/overture-maps-parquet",
-        "dt": "2023-07-28T18:39:36",
-        "points": 4,
-        "submitter": "CharlesW",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36911273",
-        "numComments": 1
     }
 ]
