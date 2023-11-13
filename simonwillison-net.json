@@ -1,5 +1,15 @@
 [
     {
+        "id": "38247810",
+        "title": "The point of \"Open\" in OpenID (2008)",
+        "url": "https://simonwillison.net/2008/Jun/24/openid/",
+        "dt": "2023-11-13T07:21:40",
+        "points": 1,
+        "submitter": "liumaiyi",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38247810",
+        "numComments": 0
+    },
+    {
         "id": "38190443",
         "title": "Using llama-cpp-Python grammars to generate JSON",
         "url": "https://til.simonwillison.net/llms/llama-cpp-python-grammars",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=36988145",
         "numComments": 0
-    },
-    {
-        "id": "36960874",
-        "title": "Run Llama 2 on your own Mac using LLM and Homebrew",
-        "url": "https://simonwillison.net/2023/Aug/1/llama-2-mac/",
-        "dt": "2023-08-01T19:03:27",
-        "points": 22,
-        "submitter": "samwillis",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36960874",
-        "numComments": 6
     }
 ]
