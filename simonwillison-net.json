@@ -1,5 +1,15 @@
 [
     {
+        "id": "38271082",
+        "title": "Summing columns in remote Parquet files using DuckDB",
+        "url": "https://til.simonwillison.net/duckdb/remote-parquet",
+        "dt": "2023-11-14T23:03:08",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38271082",
+        "numComments": 2
+    },
+    {
         "id": "38247810",
         "title": "The point of \"Open\" in OpenID (2008)",
         "url": "https://simonwillison.net/2008/Jun/24/openid/",
@@ -288,15 +298,5 @@
         "submitter": "benwerd",
         "commentsUrl": "https://news.ycombinator.com/item?id=36994532",
         "numComments": 38
-    },
-    {
-        "id": "36988145",
-        "title": "Catching up on the weird world of LLMs",
-        "url": "https://simonwillison.net/2023/Aug/3/weird-world-of-llms/",
-        "dt": "2023-08-03T16:34:52",
-        "points": 3,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=36988145",
-        "numComments": 0
     }
 ]
