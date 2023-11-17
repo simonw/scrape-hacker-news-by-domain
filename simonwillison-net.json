@@ -17,7 +17,7 @@
         "points": 482,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38277926",
-        "numComments": 197
+        "numComments": 198
     },
     {
         "id": "38277706",
@@ -34,10 +34,10 @@
         "title": "Summing columns in remote Parquet files using DuckDB",
         "url": "https://til.simonwillison.net/duckdb/remote-parquet",
         "dt": "2023-11-14T23:03:08",
-        "points": 30,
+        "points": 41,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38271082",
-        "numComments": 8
+        "numComments": 18
     },
     {
         "id": "38247810",
