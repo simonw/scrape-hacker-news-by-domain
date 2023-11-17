@@ -14,10 +14,10 @@
         "title": "Exploring GPTs: ChatGPT in a trench coat?",
         "url": "https://simonwillison.net/2023/Nov/15/gpts/",
         "dt": "2023-11-15T15:44:23",
-        "points": 482,
+        "points": 483,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38277926",
-        "numComments": 198
+        "numComments": 199
     },
     {
         "id": "38277706",
@@ -34,10 +34,10 @@
         "title": "Summing columns in remote Parquet files using DuckDB",
         "url": "https://til.simonwillison.net/duckdb/remote-parquet",
         "dt": "2023-11-14T23:03:08",
-        "points": 41,
+        "points": 57,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38271082",
-        "numComments": 18
+        "numComments": 27
     },
     {
         "id": "38247810",
