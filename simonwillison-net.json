@@ -34,10 +34,10 @@
         "title": "Summing columns in remote Parquet files using DuckDB",
         "url": "https://til.simonwillison.net/duckdb/remote-parquet",
         "dt": "2023-11-14T23:03:08",
-        "points": 79,
+        "points": 84,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38271082",
-        "numComments": 41
+        "numComments": 47
     },
     {
         "id": "38247810",
