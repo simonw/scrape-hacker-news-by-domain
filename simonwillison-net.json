@@ -1,5 +1,15 @@
 [
     {
+        "id": "38472936",
+        "title": "Llamafile is the new best way to run a LLM on your own computer",
+        "url": "https://simonwillison.net/2023/Nov/29/llamafile/",
+        "dt": "2023-11-30T13:01:10",
+        "points": 1,
+        "submitter": "Anon84",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38472936",
+        "numComments": 0
+    },
+    {
         "id": "38429182",
         "title": "Cryptography in Pyiodide",
         "url": "https://til.simonwillison.net/pyodide/cryptography-in-pyodide",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "atomlib",
         "commentsUrl": "https://news.ycombinator.com/item?id=37280873",
-        "numComments": 0
-    },
-    {
-        "id": "37163465",
-        "title": "Storing and serving related documents with OpenAI-to-SQLite and embeddings",
-        "url": "https://til.simonwillison.net/llms/openai-embeddings-related-content",
-        "dt": "2023-08-17T15:46:27",
-        "points": 1,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37163465",
         "numComments": 0
     }
 ]
