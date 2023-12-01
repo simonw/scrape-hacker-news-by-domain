@@ -1,13 +1,23 @@
 [
     {
+        "id": "38493628",
+        "title": "Datasette Enrichments: a new plugin framework for augmenting your data",
+        "url": "https://simonwillison.net/2023/Dec/1/datasette-enrichments/",
+        "dt": "2023-12-01T22:48:15",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38493628",
+        "numComments": 0
+    },
+    {
         "id": "38489533",
         "title": "Llamafile is the new best way to run a LLM on your own computer",
         "url": "http://simonwillison.net/2023/Nov/29/llamafile/#atom-everything",
         "dt": "2023-12-01T17:36:50",
-        "points": 135,
+        "points": 140,
         "submitter": "djha-skin",
         "commentsUrl": "https://news.ycombinator.com/item?id=38489533",
-        "numComments": 32
+        "numComments": 34
     },
     {
         "id": "38483908",
@@ -288,15 +298,5 @@
         "submitter": "pieterr",
         "commentsUrl": "https://news.ycombinator.com/item?id=37423081",
         "numComments": 0
-    },
-    {
-        "id": "37384797",
-        "title": "LLM Python/CLI tool adds support for embeddings",
-        "url": "https://simonwillison.net/2023/Sep/4/llm-embeddings/",
-        "dt": "2023-09-04T20:37:49",
-        "points": 161,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37384797",
-        "numComments": 46
     }
 ]
