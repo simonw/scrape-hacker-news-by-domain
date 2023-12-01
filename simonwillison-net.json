@@ -1,5 +1,15 @@
 [
     {
+        "id": "38483908",
+        "title": "Llamafile is the new best way to run a LLM on your own computer",
+        "url": "https://simonwillison.net/2023/Nov/29/llamafile/",
+        "dt": "2023-12-01T06:44:40",
+        "points": 2,
+        "submitter": "alexzeitler",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38483908",
+        "numComments": 0
+    },
+    {
         "id": "38472936",
         "title": "Llamafile is the new best way to run a LLM on your own computer",
         "url": "https://simonwillison.net/2023/Nov/29/llamafile/",
@@ -288,15 +298,5 @@
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=37283391",
         "numComments": 1
-    },
-    {
-        "id": "37280873",
-        "title": "Downloading partial YouTube videos with FFmpeg",
-        "url": "https://til.simonwillison.net/macos/downloading-partial-youtube-videos",
-        "dt": "2023-08-27T09:17:28",
-        "points": 3,
-        "submitter": "atomlib",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37280873",
-        "numComments": 0
     }
 ]
