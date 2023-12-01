@@ -1,5 +1,15 @@
 [
     {
+        "id": "38489533",
+        "title": "Llamafile is the new best way to run a LLM on your own computer",
+        "url": "http://simonwillison.net/2023/Nov/29/llamafile/#atom-everything",
+        "dt": "2023-12-01T17:36:50",
+        "points": 2,
+        "submitter": "djha-skin",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38489533",
+        "numComments": 0
+    },
+    {
         "id": "38483908",
         "title": "Llamafile is the new best way to run a LLM on your own computer",
         "url": "https://simonwillison.net/2023/Nov/29/llamafile/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=37384797",
         "numComments": 46
-    },
-    {
-        "id": "37283391",
-        "title": "Making Large Language Models work for you",
-        "url": "https://simonwillison.net/2023/Aug/27/wordcamp-llms/",
-        "dt": "2023-08-27T15:06:35",
-        "points": 38,
-        "submitter": "Tomte",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37283391",
-        "numComments": 1
     }
 ]
