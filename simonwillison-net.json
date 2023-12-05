@@ -1,5 +1,15 @@
 [
     {
+        "id": "38535472",
+        "title": "Catching Up with the Cosmopolitan Ecosystem",
+        "url": "https://til.simonwillison.net/cosmopolitan/ecosystem",
+        "dt": "2023-12-05T19:08:07",
+        "points": 2,
+        "submitter": "wrycoder",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38535472",
+        "numComments": 1
+    },
+    {
         "id": "38525645",
         "title": "Llamafile is the new best way to run a LLM on your own computer",
         "url": "https://simonwillison.net/2023/Nov/29/llamafile/",
@@ -288,15 +298,5 @@
         "submitter": "theptip",
         "commentsUrl": "https://news.ycombinator.com/item?id=37482220",
         "numComments": 136
-    },
-    {
-        "id": "37458122",
-        "title": "Summarizing Hacker News Discussion Themes with Claude and LLM",
-        "url": "https://til.simonwillison.net/llms/claude-hacker-news-themes",
-        "dt": "2023-09-10T17:42:25",
-        "points": 3,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37458122",
-        "numComments": 0
     }
 ]
