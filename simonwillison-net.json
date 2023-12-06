@@ -4,7 +4,7 @@
         "title": "Catching Up with the Cosmopolitan Ecosystem",
         "url": "https://til.simonwillison.net/cosmopolitan/ecosystem",
         "dt": "2023-12-05T19:08:07",
-        "points": 12,
+        "points": 17,
         "submitter": "wrycoder",
         "commentsUrl": "https://news.ycombinator.com/item?id=38535472",
         "numComments": 1
@@ -24,7 +24,7 @@
         "title": "Datasette Enrichments: a new plugin framework for augmenting your data",
         "url": "https://simonwillison.net/2023/Dec/1/datasette-enrichments/",
         "dt": "2023-12-01T22:48:15",
-        "points": 3,
+        "points": 4,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38493628",
         "numComments": 0
