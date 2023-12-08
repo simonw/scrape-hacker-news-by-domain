@@ -1,5 +1,15 @@
 [
     {
+        "id": "38571019",
+        "title": "Datasette Enrichments: a new plugin framework for augmenting your data",
+        "url": "https://simonwillison.net/2023/Dec/1/datasette-enrichments/",
+        "dt": "2023-12-08T16:44:49",
+        "points": 2,
+        "submitter": "PaulHoule",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38571019",
+        "numComments": 0
+    },
+    {
         "id": "38535472",
         "title": "Catching Up with the Cosmopolitan Ecosystem",
         "url": "https://til.simonwillison.net/cosmopolitan/ecosystem",
@@ -288,15 +298,5 @@
         "submitter": "genericlemon24",
         "commentsUrl": "https://news.ycombinator.com/item?id=37541681",
         "numComments": 0
-    },
-    {
-        "id": "37482220",
-        "title": "Notes from building a blog in Django",
-        "url": "https://til.simonwillison.net/django/building-a-blog-in-django",
-        "dt": "2023-09-12T14:53:36",
-        "points": 214,
-        "submitter": "theptip",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37482220",
-        "numComments": 136
     }
 ]
