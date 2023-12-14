@@ -1,5 +1,15 @@
 [
     {
+        "id": "38643046",
+        "title": "The AI Trust Crisis",
+        "url": "https://simonwillison.net/2023/Dec/14/ai-trust-crisis/",
+        "dt": "2023-12-14T16:22:36",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38643046",
+        "numComments": 0
+    },
+    {
         "id": "38571019",
         "title": "Datasette Enrichments: a new plugin framework for augmenting your data",
         "url": "https://simonwillison.net/2023/Dec/1/datasette-enrichments/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=37649868",
         "numComments": 1
-    },
-    {
-        "id": "37541681",
-        "title": "CPython Implements and Uses Bloom Filters for String Processing",
-        "url": "http://simonwillison.net/2023/Sep/16/how-cpython-implements-and-uses-bloom-filters-for-string-process/#atom-blogmarks",
-        "dt": "2023-09-17T05:02:20",
-        "points": 3,
-        "submitter": "genericlemon24",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37541681",
-        "numComments": 0
     }
 ]
