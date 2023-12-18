@@ -1,5 +1,15 @@
 [
     {
+        "id": "38686221",
+        "title": "Many options for running Mistral models in your terminal using LLM",
+        "url": "https://simonwillison.net/2023/Dec/18/mistral/",
+        "dt": "2023-12-18T18:27:35",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38686221",
+        "numComments": 0
+    },
+    {
         "id": "38643046",
         "title": "The AI Trust Crisis",
         "url": "https://simonwillison.net/2023/Dec/14/ai-trust-crisis/",
@@ -288,15 +298,5 @@
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=37711756",
         "numComments": 0
-    },
-    {
-        "id": "37649868",
-        "title": "Geospatial SQL queries in SQLite using TG, SQLite-tg and datasette-SQLite-tg",
-        "url": "https://til.simonwillison.net/sqlite/sqlite-tg",
-        "dt": "2023-09-25T20:09:11",
-        "points": 5,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37649868",
-        "numComments": 1
     }
 ]
