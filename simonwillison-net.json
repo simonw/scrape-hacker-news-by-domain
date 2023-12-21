@@ -1,5 +1,15 @@
 [
     {
+        "id": "38722242",
+        "title": "Running Steampipe extensions in SQLite-utils and Datasette",
+        "url": "https://til.simonwillison.net/sqlite/steampipe",
+        "dt": "2023-12-21T16:05:09",
+        "points": 3,
+        "submitter": "judell",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38722242",
+        "numComments": 1
+    },
+    {
         "id": "38686221",
         "title": "Many options for running Mistral models in your terminal using LLM",
         "url": "https://simonwillison.net/2023/Dec/18/mistral/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=37877605",
         "numComments": 67
-    },
-    {
-        "id": "37711756",
-        "title": "Things I\u2019ve learned about building CLI tools in Python",
-        "url": "https://simonwillison.net/2023/Sep/30/cli-tools-python/",
-        "dt": "2023-09-30T00:32:18",
-        "points": 5,
-        "submitter": "chmaynard",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37711756",
-        "numComments": 0
     }
 ]
