@@ -4,7 +4,7 @@
         "title": "Running Steampipe extensions in SQLite-utils and Datasette",
         "url": "https://til.simonwillison.net/sqlite/steampipe",
         "dt": "2023-12-21T16:05:09",
-        "points": 7,
+        "points": 8,
         "submitter": "judell",
         "commentsUrl": "https://news.ycombinator.com/item?id=38722242",
         "numComments": 1
