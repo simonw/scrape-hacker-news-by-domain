@@ -1,5 +1,15 @@
 [
     {
+        "id": "38828594",
+        "title": "Stuff we figured out about AI in 2023",
+        "url": "https://simonwillison.net/2023/Dec/31/ai-in-2023/",
+        "dt": "2024-01-01T00:08:38",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38828594",
+        "numComments": 0
+    },
+    {
         "id": "38722242",
         "title": "Running Steampipe extensions in SQLite-utils and Datasette",
         "url": "https://til.simonwillison.net/sqlite/steampipe",
@@ -288,15 +298,5 @@
         "submitter": "udev4096",
         "commentsUrl": "https://news.ycombinator.com/item?id=37917668",
         "numComments": 0
-    },
-    {
-        "id": "37877605",
-        "title": "Multi-modal prompt injection image attacks against GPT-4V",
-        "url": "https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/",
-        "dt": "2023-10-14T02:26:40",
-        "points": 222,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37877605",
-        "numComments": 67
     }
 ]
