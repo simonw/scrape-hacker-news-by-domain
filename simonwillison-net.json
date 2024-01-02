@@ -1,13 +1,23 @@
 [
     {
+        "id": "38847086",
+        "title": "Tom Scott, and the formidable power of escalating streaks",
+        "url": "https://simonwillison.net/2024/Jan/2/escalating-streaks/",
+        "dt": "2024-01-02T20:58:11",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38847086",
+        "numComments": 0
+    },
+    {
         "id": "38828594",
         "title": "Stuff we figured out about AI in 2023",
         "url": "https://simonwillison.net/2023/Dec/31/ai-in-2023/",
         "dt": "2024-01-01T00:08:38",
-        "points": 197,
+        "points": 198,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38828594",
-        "numComments": 124
+        "numComments": 125
     },
     {
         "id": "38722242",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=37985489",
         "numComments": 131
-    },
-    {
-        "id": "37917668",
-        "title": "Open Questions for AI Engineering",
-        "url": "https://simonwillison.net/2023/Oct/17/open-questions/",
-        "dt": "2023-10-17T16:32:47",
-        "points": 23,
-        "submitter": "udev4096",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37917668",
-        "numComments": 0
     }
 ]
