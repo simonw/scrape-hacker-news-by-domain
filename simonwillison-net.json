@@ -1,5 +1,15 @@
 [
     {
+        "id": "38866945",
+        "title": "Tom Scott, and the formidable power of escalating streaks",
+        "url": "https://simonwillison.net/2024/Jan/2/escalating-streaks/",
+        "dt": "2024-01-04T13:51:25",
+        "points": 1,
+        "submitter": "sebg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38866945",
+        "numComments": 0
+    },
+    {
         "id": "38847086",
         "title": "Tom Scott, and the formidable power of escalating streaks",
         "url": "https://simonwillison.net/2024/Jan/2/escalating-streaks/",
@@ -288,15 +298,5 @@
         "submitter": "jonbaer",
         "commentsUrl": "https://news.ycombinator.com/item?id=37993985",
         "numComments": 1
-    },
-    {
-        "id": "37985489",
-        "title": "Embeddings: What they are and why they matter",
-        "url": "https://simonwillison.net/2023/Oct/23/embeddings/",
-        "dt": "2023-10-23T13:42:12",
-        "points": 668,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37985489",
-        "numComments": 131
     }
 ]
