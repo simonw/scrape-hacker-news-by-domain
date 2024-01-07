@@ -1,5 +1,15 @@
 [
     {
+        "id": "38897131",
+        "title": "It's OK to call it Artificial Intelligence",
+        "url": "https://simonwillison.net/2024/Jan/7/call-it-ai/",
+        "dt": "2024-01-07T00:39:57",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=38897131",
+        "numComments": 3
+    },
+    {
         "id": "38866945",
         "title": "Tom Scott, and the formidable power of escalating streaks",
         "url": "https://simonwillison.net/2024/Jan/2/escalating-streaks/",
@@ -288,15 +298,5 @@
         "submitter": "rrampage",
         "commentsUrl": "https://news.ycombinator.com/item?id=37998983",
         "numComments": 0
-    },
-    {
-        "id": "37993985",
-        "title": "Embeddings: What they are and why they matter",
-        "url": "https://simonwillison.net/2023/Oct/23/embeddings/",
-        "dt": "2023-10-24T01:42:02",
-        "points": 1,
-        "submitter": "jonbaer",
-        "commentsUrl": "https://news.ycombinator.com/item?id=37993985",
-        "numComments": 1
     }
 ]
