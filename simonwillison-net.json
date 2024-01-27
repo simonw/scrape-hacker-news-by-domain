@@ -1,5 +1,15 @@
 [
     {
+        "id": "39154500",
+        "title": "Talking about Open Source LLMs on Oxide and Friends",
+        "url": "https://simonwillison.net/2024/Jan/17/oxide-and-friends/",
+        "dt": "2024-01-27T10:56:33",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39154500",
+        "numComments": 0
+    },
+    {
         "id": "38907696",
         "title": "It's OK to call it Artificial Intelligence",
         "url": "https://simonwillison.net/2024/Jan/7/call-it-ai/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38031839",
         "numComments": 72
-    },
-    {
-        "id": "38008987",
-        "title": "Things I've learned about building CLI tools in Python",
-        "url": "https://simonwillison.net/2023/Sep/30/cli-tools-python/",
-        "dt": "2023-10-25T03:59:49",
-        "points": 123,
-        "submitter": "gilad",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38008987",
-        "numComments": 83
     }
 ]
