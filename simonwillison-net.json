@@ -1,5 +1,15 @@
 [
     {
+        "id": "39355041",
+        "title": "2.5G Home networking via eathernet over coaxial",
+        "url": "https://til.simonwillison.net/networking/ethernet-over-coaxial-cable",
+        "dt": "2024-02-13T06:15:46",
+        "points": 1,
+        "submitter": "finallyy",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39355041",
+        "numComments": 0
+    },
+    {
         "id": "39253368",
         "title": "Copy Rich Text to the Clipboard",
         "url": "https://til.simonwillison.net/javascript/copy-rich-text-to-clipboard",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "yeesian",
         "commentsUrl": "https://news.ycombinator.com/item?id=38190443",
-        "numComments": 0
-    },
-    {
-        "id": "38182236",
-        "title": "Ospeak: A CLI tool for speaking text in the terminal via OpenAI",
-        "url": "https://simonwillison.net/2023/Nov/7/ospeak/",
-        "dt": "2023-11-07T20:21:07",
-        "points": 3,
-        "submitter": "edward",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38182236",
         "numComments": 0
     }
 ]
