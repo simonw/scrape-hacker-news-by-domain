@@ -1,13 +1,23 @@
 [
     {
+        "id": "39358222",
+        "title": "Running Ethernet over existing coaxial cable",
+        "url": "https://til.simonwillison.net/networking/ethernet-over-coaxial-cable",
+        "dt": "2024-02-13T15:03:07",
+        "points": 1,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39358222",
+        "numComments": 2
+    },
+    {
         "id": "39355041",
         "title": "2.5G Home networking via eathernet over coaxial",
         "url": "https://til.simonwillison.net/networking/ethernet-over-coaxial-cable",
         "dt": "2024-02-13T06:15:46",
-        "points": 17,
+        "points": 18,
         "submitter": "finallyy",
         "commentsUrl": "https://news.ycombinator.com/item?id=39355041",
-        "numComments": 9
+        "numComments": 12
     },
     {
         "id": "39253368",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "liumaiyi",
         "commentsUrl": "https://news.ycombinator.com/item?id=38247810",
-        "numComments": 0
-    },
-    {
-        "id": "38190443",
-        "title": "Using llama-cpp-Python grammars to generate JSON",
-        "url": "https://til.simonwillison.net/llms/llama-cpp-python-grammars",
-        "dt": "2023-11-08T14:05:22",
-        "points": 2,
-        "submitter": "yeesian",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38190443",
         "numComments": 0
     }
 ]
