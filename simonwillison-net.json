@@ -1,5 +1,15 @@
 [
     {
+        "id": "39458264",
+        "title": "The killer app of Gemini Pro 1.5 is video",
+        "url": "https://simonwillison.net/2024/Feb/21/gemini-pro-video/",
+        "dt": "2024-02-21T19:23:06",
+        "points": 144,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39458264",
+        "numComments": 25
+    },
+    {
         "id": "39457759",
         "title": "Running a scheduled function on ValTown to import Atom feeds into Datasette",
         "url": "https://til.simonwillison.net/valtown/scheduled",
@@ -288,15 +298,5 @@
         "submitter": "severo_bo",
         "commentsUrl": "https://news.ycombinator.com/item?id=38277706",
         "numComments": 1
-    },
-    {
-        "id": "38271082",
-        "title": "Summing columns in remote Parquet files using DuckDB",
-        "url": "https://til.simonwillison.net/duckdb/remote-parquet",
-        "dt": "2023-11-14T23:03:08",
-        "points": 146,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38271082",
-        "numComments": 75
     }
 ]
