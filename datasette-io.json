@@ -1,5 +1,15 @@
 [
     {
+        "id": "39504750",
+        "title": "Shot-scraper: Scraping pages using JavaScript",
+        "url": "https://shot-scraper.datasette.io/en/stable/javascript.html",
+        "dt": "2024-02-25T21:05:57",
+        "points": 1,
+        "submitter": "stefankuehnel",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39504750",
+        "numComments": 0
+    },
+    {
         "id": "38097642",
         "title": "LLM CLI tool (can connect to public and self-hosted LLMs)",
         "url": "https://llm.datasette.io/en/stable/",
