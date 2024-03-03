@@ -1,5 +1,15 @@
 [
     {
+        "id": "39582745",
+        "title": "Interesting Ideas in Observable Framework",
+        "url": "https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/",
+        "dt": "2024-03-03T18:01:13",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39582745",
+        "numComments": 0
+    },
+    {
         "id": "39458264",
         "title": "The killer app of Gemini Pro 1.5 is using video as an input",
         "url": "https://simonwillison.net/2024/Feb/21/gemini-pro-video/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38277926",
         "numComments": 203
-    },
-    {
-        "id": "38277706",
-        "title": "Summing columns in remote Parquet files using DuckDB",
-        "url": "https://til.simonwillison.net/duckdb/remote-parquet",
-        "dt": "2023-11-15T15:29:57",
-        "points": 4,
-        "submitter": "severo_bo",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38277706",
-        "numComments": 1
     }
 ]
