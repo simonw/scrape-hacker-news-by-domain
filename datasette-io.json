@@ -1,5 +1,15 @@
 [
     {
+        "id": "39591769",
+        "title": "Shot-Scraper",
+        "url": "https://shot-scraper.datasette.io/en/stable/",
+        "dt": "2024-03-04T15:44:51",
+        "points": 1,
+        "submitter": "brk",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39591769",
+        "numComments": 0
+    },
+    {
         "id": "39504750",
         "title": "Shot-scraper: Scraping pages using JavaScript",
         "url": "https://shot-scraper.datasette.io/en/stable/javascript.html",
