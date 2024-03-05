@@ -1,5 +1,15 @@
 [
     {
+        "id": "39605438",
+        "title": "Prompt injection and jailbreaking are not the same thing",
+        "url": "https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/",
+        "dt": "2024-03-05T16:10:20",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39605438",
+        "numComments": 0
+    },
+    {
         "id": "39582745",
         "title": "Interesting ideas in Observable Framework",
         "url": "https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=38287731",
         "numComments": 0
-    },
-    {
-        "id": "38277926",
-        "title": "Exploring GPTs: ChatGPT in a trench coat?",
-        "url": "https://simonwillison.net/2023/Nov/15/gpts/",
-        "dt": "2023-11-15T15:44:23",
-        "points": 503,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38277926",
-        "numComments": 203
     }
 ]
