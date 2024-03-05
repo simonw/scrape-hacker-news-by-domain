@@ -4,17 +4,17 @@
         "title": "Prompt injection and jailbreaking are not the same thing",
         "url": "https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/",
         "dt": "2024-03-05T16:10:20",
-        "points": 13,
+        "points": 29,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=39605438",
-        "numComments": 0
+        "numComments": 2
     },
     {
         "id": "39582745",
         "title": "Interesting ideas in Observable Framework",
         "url": "https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/",
         "dt": "2024-03-03T18:01:13",
-        "points": 345,
+        "points": 346,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=39582745",
         "numComments": 61
@@ -24,7 +24,7 @@
         "title": "The killer app of Gemini Pro 1.5 is using video as an input",
         "url": "https://simonwillison.net/2024/Feb/21/gemini-pro-video/",
         "dt": "2024-02-21T19:23:06",
-        "points": 1135,
+        "points": 1136,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=39458264",
         "numComments": 484
