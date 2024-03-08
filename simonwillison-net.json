@@ -1,5 +1,15 @@
 [
     {
+        "id": "39643894",
+        "title": "Four new models that are benchmarking near or above GPT-4",
+        "url": "https://simonwillison.net/2024/Mar/8/gpt-4-barrier/",
+        "dt": "2024-03-08T18:05:58",
+        "points": 20,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39643894",
+        "numComments": 1
+    },
+    {
         "id": "39605438",
         "title": "Prompt injection and jailbreaking are not the same thing",
         "url": "https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/",
@@ -287,16 +297,6 @@
         "points": 12,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38373709",
-        "numComments": 0
-    },
-    {
-        "id": "38287731",
-        "title": "Add a Walrus",
-        "url": "https://simonwillison.net/2023/Nov/15/gpts/#add-a-walrus",
-        "dt": "2023-11-16T10:14:30",
-        "points": 3,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38287731",
         "numComments": 0
     }
 ]
