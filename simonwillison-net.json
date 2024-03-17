@@ -1,5 +1,15 @@
 [
     {
+        "id": "39733605",
+        "title": "Google Scholar search: \"certainly, here is\" -ChatGPT -LLM",
+        "url": "https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/",
+        "dt": "2024-03-17T11:14:56",
+        "points": 1,
+        "submitter": "wanderingmind",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39733605",
+        "numComments": 0
+    },
+    {
         "id": "39643894",
         "title": "Four new models that are benchmarking near or above GPT-4",
         "url": "https://simonwillison.net/2024/Mar/8/gpt-4-barrier/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "meatjuice",
         "commentsUrl": "https://news.ycombinator.com/item?id=38390789",
-        "numComments": 0
-    },
-    {
-        "id": "38373709",
-        "title": "Deciphering clues in a news article to understand how it was reported",
-        "url": "https://simonwillison.net/2023/Nov/22/deciphering-clues/",
-        "dt": "2023-11-22T02:07:59",
-        "points": 12,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38373709",
         "numComments": 0
     }
 ]
