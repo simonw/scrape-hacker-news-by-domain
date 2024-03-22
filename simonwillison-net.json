@@ -1,5 +1,15 @@
 [
     {
+        "id": "39794179",
+        "title": "Claude and ChatGPT for ad-hoc tasks",
+        "url": "https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/",
+        "dt": "2024-03-22T19:54:47",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39794179",
+        "numComments": 0
+    },
+    {
         "id": "39733605",
         "title": "Google Scholar search: \"certainly, here is\" -chatgpt -llm",
         "url": "https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "atg_abhishek",
         "commentsUrl": "https://news.ycombinator.com/item?id=38429182",
-        "numComments": 0
-    },
-    {
-        "id": "38390789",
-        "title": "Fleet Context: ChatGPT with top 1221 popular python libraries",
-        "url": "http://simonwillison.net/2023/Nov/23/fleet-context/#atom-everything",
-        "dt": "2023-11-23T08:49:42",
-        "points": 2,
-        "submitter": "meatjuice",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38390789",
         "numComments": 0
     }
 ]
