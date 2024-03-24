@@ -1,5 +1,15 @@
 [
     {
+        "id": "39806310",
+        "title": "Claude and ChatGPT for ad-hoc sidequests",
+        "url": "https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/",
+        "dt": "2024-03-24T10:45:07",
+        "points": 3,
+        "submitter": "SupremumLimit",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39806310",
+        "numComments": 0
+    },
+    {
         "id": "39801938",
         "title": "Building and testing C Extensions for SQLite with ChatGPT Code Interpreter",
         "url": "https://simonwillison.net/2024/Mar/23/building-c-extensions-for-sqlite-with-chatgpt-code-interpreter/",
@@ -288,15 +298,5 @@
         "submitter": "djha-skin",
         "commentsUrl": "https://news.ycombinator.com/item?id=38489533",
         "numComments": 47
-    },
-    {
-        "id": "38483908",
-        "title": "Llamafile is the new best way to run a LLM on your own computer",
-        "url": "https://simonwillison.net/2023/Nov/29/llamafile/",
-        "dt": "2023-12-01T06:44:40",
-        "points": 3,
-        "submitter": "alexzeitler",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38483908",
-        "numComments": 1
     }
 ]
