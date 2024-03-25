@@ -1,5 +1,15 @@
 [
     {
+        "id": "39816988",
+        "title": "Building and testing C extensions for SQLite with ChatGPT Code Interpreter",
+        "url": "https://simonwillison.net/2024/Mar/23/building-c-extensions-for-sqlite-with-chatgpt-code-interpreter/",
+        "dt": "2024-03-25T14:46:10",
+        "points": 1,
+        "submitter": "synergy20",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39816988",
+        "numComments": 0
+    },
+    {
         "id": "39814754",
         "title": "Google Chrome \u2013Headless Mode",
         "url": "https://til.simonwillison.net/chrome/headless",
@@ -288,15 +298,5 @@
         "submitter": "colinbartlett",
         "commentsUrl": "https://news.ycombinator.com/item?id=38525645",
         "numComments": 1
-    },
-    {
-        "id": "38493628",
-        "title": "Datasette Enrichments: a new plugin framework for augmenting your data",
-        "url": "https://simonwillison.net/2023/Dec/1/datasette-enrichments/",
-        "dt": "2023-12-01T22:48:15",
-        "points": 4,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38493628",
-        "numComments": 0
     }
 ]
