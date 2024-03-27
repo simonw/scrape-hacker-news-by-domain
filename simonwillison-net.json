@@ -1,5 +1,15 @@
 [
     {
+        "id": "39836443",
+        "title": "Claude and ChatGPT for ad-hoc sidequests",
+        "url": "https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/",
+        "dt": "2024-03-27T07:29:54",
+        "points": 1,
+        "submitter": "kiyanwang",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39836443",
+        "numComments": 0
+    },
+    {
         "id": "39829894",
         "title": "Claude and ChatGPT for ad-hoc tasks",
         "url": "https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/",
@@ -288,15 +298,5 @@
         "submitter": "PaulHoule",
         "commentsUrl": "https://news.ycombinator.com/item?id=38571019",
         "numComments": 0
-    },
-    {
-        "id": "38535472",
-        "title": "Catching Up with the Cosmopolitan Ecosystem",
-        "url": "https://til.simonwillison.net/cosmopolitan/ecosystem",
-        "dt": "2023-12-05T19:08:07",
-        "points": 26,
-        "submitter": "wrycoder",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38535472",
-        "numComments": 1
     }
 ]
