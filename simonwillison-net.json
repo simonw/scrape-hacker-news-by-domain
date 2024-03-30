@@ -1,5 +1,15 @@
 [
     {
+        "id": "39877391",
+        "title": "Running OCR against PDFs and images directly in the browser",
+        "url": "https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/",
+        "dt": "2024-03-30T18:33:11",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39877391",
+        "numComments": 0
+    },
+    {
         "id": "39836443",
         "title": "Claude and ChatGPT for ad-hoc sidequests",
         "url": "https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38643046",
         "numComments": 276
-    },
-    {
-        "id": "38571019",
-        "title": "Datasette Enrichments: a new plugin framework for augmenting your data",
-        "url": "https://simonwillison.net/2023/Dec/1/datasette-enrichments/",
-        "dt": "2023-12-08T16:44:49",
-        "points": 2,
-        "submitter": "PaulHoule",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38571019",
-        "numComments": 0
     }
 ]
