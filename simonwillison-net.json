@@ -1,5 +1,15 @@
 [
     {
+        "id": "39926673",
+        "title": "Cally: Accessibility Statement",
+        "url": "https://simonwillison.net/2024/Apr/2/cally-accessibility-statement/",
+        "dt": "2024-04-04T04:53:26",
+        "points": 2,
+        "submitter": "asplake",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39926673",
+        "numComments": 0
+    },
+    {
         "id": "39877391",
         "title": "Running OCR against PDFs and images directly in the browser",
         "url": "https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38686221",
         "numComments": 99
-    },
-    {
-        "id": "38643046",
-        "title": "The AI Trust Crisis",
-        "url": "https://simonwillison.net/2023/Dec/14/ai-trust-crisis/",
-        "dt": "2023-12-14T16:22:36",
-        "points": 317,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38643046",
-        "numComments": 276
     }
 ]
