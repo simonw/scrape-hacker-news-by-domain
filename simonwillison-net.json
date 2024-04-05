@@ -1,5 +1,15 @@
 [
     {
+        "id": "39939849",
+        "title": "Processing a stream of chunks of JSON with ijson",
+        "url": "https://til.simonwillison.net/json/ijson-stream",
+        "dt": "2024-04-05T08:06:04",
+        "points": 2,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39939849",
+        "numComments": 0
+    },
+    {
         "id": "39926673",
         "title": "Cally: Accessibility Statement",
         "url": "https://simonwillison.net/2024/Apr/2/cally-accessibility-statement/",
@@ -14,7 +24,7 @@
         "title": "Running OCR against PDFs and images directly in the browser",
         "url": "https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/",
         "dt": "2024-03-30T18:33:11",
-        "points": 299,
+        "points": 300,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=39877391",
         "numComments": 59
@@ -288,15 +298,5 @@
         "submitter": "judell",
         "commentsUrl": "https://news.ycombinator.com/item?id=38722242",
         "numComments": 1
-    },
-    {
-        "id": "38686221",
-        "title": "Many options for running Mistral models in your terminal using LLM",
-        "url": "https://simonwillison.net/2023/Dec/18/mistral/",
-        "dt": "2023-12-18T18:27:35",
-        "points": 215,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38686221",
-        "numComments": 99
     }
 ]
