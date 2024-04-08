@@ -1,5 +1,15 @@
 [
     {
+        "id": "39971956",
+        "title": "Building and testing C extensions for SQLite with ChatGPT Code Interpreter",
+        "url": "https://simonwillison.net/2024/Mar/23/building-c-extensions-for-sqlite-with-chatgpt-code-interpreter/",
+        "dt": "2024-04-08T17:35:10",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39971956",
+        "numComments": 0
+    },
+    {
         "id": "39951423",
         "title": "Impaste: Pasting images to piped commands on macOS",
         "url": "https://til.simonwillison.net/macos/impaste",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38847086",
         "numComments": 2
-    },
-    {
-        "id": "38828594",
-        "title": "Stuff we figured out about AI in 2023",
-        "url": "https://simonwillison.net/2023/Dec/31/ai-in-2023/",
-        "dt": "2024-01-01T00:08:38",
-        "points": 210,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38828594",
-        "numComments": 132
     }
 ]
