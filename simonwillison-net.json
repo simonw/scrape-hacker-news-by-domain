@@ -1,5 +1,15 @@
 [
     {
+        "id": "39983219",
+        "title": "A solid pattern to build LLM Applications",
+        "url": "https://simonwillison.net/2024/Apr/9/a-solid-pattern-to-build-llm-applications/",
+        "dt": "2024-04-09T19:28:42",
+        "points": 3,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39983219",
+        "numComments": 0
+    },
+    {
         "id": "39979031",
         "title": "Building files-to-prompt using Claude 3 Opus",
         "url": "https://simonwillison.net/2024/Apr/8/files-to-prompt/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=38897131",
         "numComments": 4
-    },
-    {
-        "id": "38866945",
-        "title": "Tom Scott, and the formidable power of escalating streaks",
-        "url": "https://simonwillison.net/2024/Jan/2/escalating-streaks/",
-        "dt": "2024-01-04T13:51:25",
-        "points": 2,
-        "submitter": "sebg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38866945",
-        "numComments": 0
     }
 ]
