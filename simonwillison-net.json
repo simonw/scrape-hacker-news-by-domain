@@ -1,5 +1,15 @@
 [
     {
+        "id": "39979031",
+        "title": "Building files-to-prompt using Claude 3 Opus",
+        "url": "https://simonwillison.net/2024/Apr/8/files-to-prompt/",
+        "dt": "2024-04-09T13:07:49",
+        "points": 3,
+        "submitter": "chedar",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39979031",
+        "numComments": 0
+    },
+    {
         "id": "39971956",
         "title": "Building and testing C extensions for SQLite with ChatGPT Code Interpreter",
         "url": "https://simonwillison.net/2024/Mar/23/building-c-extensions-for-sqlite-with-chatgpt-code-interpreter/",
@@ -288,15 +298,5 @@
         "submitter": "sebg",
         "commentsUrl": "https://news.ycombinator.com/item?id=38866945",
         "numComments": 0
-    },
-    {
-        "id": "38847086",
-        "title": "Tom Scott, and the formidable power of escalating streaks",
-        "url": "https://simonwillison.net/2024/Jan/2/escalating-streaks/",
-        "dt": "2024-01-02T20:58:11",
-        "points": 7,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38847086",
-        "numComments": 2
     }
 ]
