@@ -1,5 +1,15 @@
 [
     {
+        "id": "39987769",
+        "title": "Three major LLM releases in 24 hours",
+        "url": "https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/",
+        "dt": "2024-04-10T07:01:34",
+        "points": 2,
+        "submitter": "helloplanets",
+        "commentsUrl": "https://news.ycombinator.com/item?id=39987769",
+        "numComments": 0
+    },
+    {
         "id": "39986741",
         "title": "A solid pattern to build LLM Applications (feat. Claude)",
         "url": "https://simonwillison.net/2024/Apr/9/a-solid-pattern-to-build-llm-applications/",
@@ -288,15 +298,5 @@
         "submitter": "takemine",
         "commentsUrl": "https://news.ycombinator.com/item?id=38907696",
         "numComments": 0
-    },
-    {
-        "id": "38899865",
-        "title": "It's OK to call it Artificial Intelligence",
-        "url": "https://simonwillison.net/2024/Jan/7/call-it-ai/",
-        "dt": "2024-01-07T09:39:46",
-        "points": 26,
-        "submitter": "helloplanets",
-        "commentsUrl": "https://news.ycombinator.com/item?id=38899865",
-        "numComments": 15
     }
 ]
