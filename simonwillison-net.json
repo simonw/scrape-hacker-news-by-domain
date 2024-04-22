@@ -1,13 +1,23 @@
 [
     {
+        "id": "40114311",
+        "title": "Options for accessing Llama 3 from the terminal using LLM",
+        "url": "https://simonwillison.net/2024/Apr/22/llama-3/",
+        "dt": "2024-04-22T13:45:33",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40114311",
+        "numComments": 2
+    },
+    {
         "id": "40111784",
         "title": "AI for Data Journalism: demonstrating what we can do with this stuff",
         "url": "https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/",
         "dt": "2024-04-22T06:09:34",
-        "points": 48,
+        "points": 73,
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=40111784",
-        "numComments": 1
+        "numComments": 12
     },
     {
         "id": "40070154",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "ekiauhce",
         "commentsUrl": "https://news.ycombinator.com/item?id=39253368",
-        "numComments": 0
-    },
-    {
-        "id": "39174324",
-        "title": "Exploring ColBERT with RAGatouille",
-        "url": "https://til.simonwillison.net/llms/colbert-ragatouille",
-        "dt": "2024-01-29T09:14:45",
-        "points": 1,
-        "submitter": "gone35",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39174324",
         "numComments": 0
     }
 ]
