@@ -1,5 +1,15 @@
 [
     {
+        "id": "40111784",
+        "title": "AI for Data Journalism: demonstrating what we can do with this stuff",
+        "url": "https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/",
+        "dt": "2024-04-22T06:09:34",
+        "points": 1,
+        "submitter": "duck",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40111784",
+        "numComments": 0
+    },
+    {
         "id": "40070154",
         "title": "AI for Data Journalism: demonstrating what we can do with this stuff",
         "url": "https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "gone35",
         "commentsUrl": "https://news.ycombinator.com/item?id=39174324",
-        "numComments": 0
-    },
-    {
-        "id": "39167570",
-        "title": "Exploring ColBERT with RAGatouille",
-        "url": "https://til.simonwillison.net/llms/colbert-ragatouille",
-        "dt": "2024-01-28T17:02:55",
-        "points": 2,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39167570",
         "numComments": 0
     }
 ]
