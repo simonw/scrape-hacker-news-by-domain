@@ -1,5 +1,15 @@
 [
     {
+        "id": "40157664",
+        "title": "Options for accessing Llama 3 from the terminal using LLM",
+        "url": "https://simonwillison.net/2024/Apr/22/llama-3/#fast-api-access-via-groq",
+        "dt": "2024-04-25T13:57:24",
+        "points": 1,
+        "submitter": "gmays",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40157664",
+        "numComments": 0
+    },
+    {
         "id": "40154978",
         "title": "Model behaviour is determined by your dataset, nothing else",
         "url": "https://simonwillison.net/2024/Apr/25/james-betker/",
@@ -7,7 +17,7 @@
         "points": 2,
         "submitter": "scarecrow112",
         "commentsUrl": "https://news.ycombinator.com/item?id=40154978",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "40114311",
@@ -288,15 +298,5 @@
         "submitter": "edward",
         "commentsUrl": "https://news.ycombinator.com/item?id=39358222",
         "numComments": 2
-    },
-    {
-        "id": "39355041",
-        "title": "Running Ethernet over existing coaxial cable",
-        "url": "https://til.simonwillison.net/networking/ethernet-over-coaxial-cable",
-        "dt": "2024-02-13T06:15:46",
-        "points": 45,
-        "submitter": "finallyy",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39355041",
-        "numComments": 63
     }
 ]
