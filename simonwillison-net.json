@@ -1,5 +1,15 @@
 [
     {
+        "id": "40167654",
+        "title": "Publish Python Packages to PyPI",
+        "url": "https://simonwillison.net/2024/Jan/16/python-lib-pypi/",
+        "dt": "2024-04-26T10:26:23",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40167654",
+        "numComments": 1
+    },
+    {
         "id": "40157664",
         "title": "Options for accessing Llama 3 from the terminal using LLM",
         "url": "https://simonwillison.net/2024/Apr/22/llama-3/#fast-api-access-via-groq",
@@ -288,15 +298,5 @@
         "submitter": "Glench",
         "commentsUrl": "https://news.ycombinator.com/item?id=39457759",
         "numComments": 0
-    },
-    {
-        "id": "39358222",
-        "title": "Running Ethernet over existing coaxial cable",
-        "url": "https://til.simonwillison.net/networking/ethernet-over-coaxial-cable",
-        "dt": "2024-02-13T15:03:07",
-        "points": 2,
-        "submitter": "edward",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39358222",
-        "numComments": 2
     }
 ]
