@@ -1,5 +1,15 @@
 [
     {
+        "id": "40207270",
+        "title": "Quoting Jeremy Howard: \"The creator of a model can not ensure \"",
+        "url": "https://simonwillison.net/2024/Apr/29/jeremy-howard/",
+        "dt": "2024-04-30T04:33:10",
+        "points": 1,
+        "submitter": "mdp2021",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40207270",
+        "numComments": 1
+    },
+    {
         "id": "40183125",
         "title": "Everything Google's Python team were responsible for",
         "url": "https://simonwillison.net/2024/Apr/27/everything-googles-python-team-were-responsible-for/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=39582745",
         "numComments": 63
-    },
-    {
-        "id": "39458264",
-        "title": "The killer app of Gemini Pro 1.5 is using video as an input",
-        "url": "https://simonwillison.net/2024/Feb/21/gemini-pro-video/",
-        "dt": "2024-02-21T19:23:06",
-        "points": 1136,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39458264",
-        "numComments": 484
     }
 ]
