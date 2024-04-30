@@ -1,5 +1,15 @@
 [
     {
+        "id": "40210534",
+        "title": "Building a self-updating profile README for GitHub (2020)",
+        "url": "https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/",
+        "dt": "2024-04-30T12:58:03",
+        "points": 1,
+        "submitter": "8organicbits",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40210534",
+        "numComments": 0
+    },
+    {
         "id": "40207270",
         "title": "Quoting Jeremy Howard: \"The creator of a model can not ensure \"",
         "url": "https://simonwillison.net/2024/Apr/29/jeremy-howard/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=39605438",
         "numComments": 11
-    },
-    {
-        "id": "39582745",
-        "title": "Interesting ideas in Observable Framework",
-        "url": "https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/",
-        "dt": "2024-03-03T18:01:13",
-        "points": 360,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39582745",
-        "numComments": 63
     }
 ]
