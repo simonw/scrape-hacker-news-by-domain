@@ -1,5 +1,15 @@
 [
     {
+        "id": "40301490",
+        "title": "Slop is the new name for unwanted AI-generated content",
+        "url": "https://simonwillison.net/2024/May/8/slop/",
+        "dt": "2024-05-08T18:37:23",
+        "points": 45,
+        "submitter": "beardicus",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40301490",
+        "numComments": 16
+    },
+    {
         "id": "40210534",
         "title": "Building a self-updating profile README for GitHub (2020)",
         "url": "https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=39643894",
         "numComments": 34
-    },
-    {
-        "id": "39605438",
-        "title": "Prompt injection and jailbreaking are not the same thing",
-        "url": "https://simonwillison.net/2024/Mar/5/prompt-injection-jailbreaking/",
-        "dt": "2024-03-05T16:10:20",
-        "points": 40,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39605438",
-        "numComments": 11
     }
 ]
