@@ -1,5 +1,15 @@
 [
     {
+        "id": "40351018",
+        "title": "Simon Willison thoughts on GPT-4o",
+        "url": "https://simonwillison.net/2024/May/13/gpt-4o/",
+        "dt": "2024-05-14T02:22:02",
+        "points": 1,
+        "submitter": "akulkarni",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40351018",
+        "numComments": 0
+    },
+    {
         "id": "40336679",
         "title": "How [simonw] Studied for a Ham radio general exam",
         "url": "https://til.simonwillison.net/ham-radio/general",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=39794179",
         "numComments": 1
-    },
-    {
-        "id": "39733605",
-        "title": "Google Scholar search: \"certainly, here is\" -chatgpt -llm",
-        "url": "https://simonwillison.net/2024/Mar/15/certainly-here-is-google-scholar/",
-        "dt": "2024-03-17T11:14:56",
-        "points": 194,
-        "submitter": "wanderingmind",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39733605",
-        "numComments": 94
     }
 ]
