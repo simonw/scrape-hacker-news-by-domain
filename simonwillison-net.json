@@ -1,5 +1,15 @@
 [
     {
+        "id": "40387343",
+        "title": "ChatGPT in \"4o\" mode is not running the new features yet",
+        "url": "https://simonwillison.net/2024/May/15/chatgpt-in-4o-mode/",
+        "dt": "2024-05-17T07:27:15",
+        "points": 2,
+        "submitter": "monkeydust",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40387343",
+        "numComments": 1
+    },
+    {
         "id": "40371087",
         "title": "ChatGPT in \"4o\" mode is not running the new features yet",
         "url": "https://simonwillison.net/2024/May/15/chatgpt-in-4o-mode/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=39801938",
         "numComments": 2
-    },
-    {
-        "id": "39798207",
-        "title": "Claude and ChatGPT Case Study",
-        "url": "https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/",
-        "dt": "2024-03-23T07:44:25",
-        "points": 4,
-        "submitter": "ridruejo",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39798207",
-        "numComments": 0
     }
 ]
