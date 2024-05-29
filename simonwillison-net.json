@@ -1,5 +1,15 @@
 [
     {
+        "id": "40510668",
+        "title": "Training /= chatting: ChatGPT and other LLMs don't remember everything you say",
+        "url": "https://simonwillison.net/2024/May/29/training-not-chatting/",
+        "dt": "2024-05-29T11:14:44",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40510668",
+        "numComments": 1
+    },
+    {
         "id": "40394281",
         "title": "A simple Python implementation of the ReAct pattern for LLMs (2023)",
         "url": "https://til.simonwillison.net/llms/python-react-pattern",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=39814754",
-        "numComments": 0
-    },
-    {
-        "id": "39806310",
-        "title": "Claude and ChatGPT for ad-hoc sidequests",
-        "url": "https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/",
-        "dt": "2024-03-24T10:45:07",
-        "points": 13,
-        "submitter": "SupremumLimit",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39806310",
         "numComments": 0
     }
 ]
