@@ -4,10 +4,10 @@
         "title": "Accidental prompt injection against RAG applications",
         "url": "https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/",
         "dt": "2024-06-06T14:09:02",
-        "points": 20,
+        "points": 22,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=40597587",
-        "numComments": 1
+        "numComments": 2
     },
     {
         "id": "40543990",
