@@ -1,5 +1,15 @@
 [
     {
+        "id": "40617385",
+        "title": "Learn SQL with Datasette",
+        "url": "https://datasette.io/tutorials/learn-sql",
+        "dt": "2024-06-08T13:22:16",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40617385",
+        "numComments": 0
+    },
+    {
         "id": "39591769",
         "title": "Shot-Scraper",
         "url": "https://shot-scraper.datasette.io/en/stable/",
