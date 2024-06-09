@@ -1,5 +1,15 @@
 [
     {
+        "id": "40627058",
+        "title": "Building and testing C extensions for SQLite with ChatGPT Code Interpreter",
+        "url": "https://simonwillison.net/2024/Mar/23/building-c-extensions-for-sqlite-with-chatgpt-code-interpreter/",
+        "dt": "2024-06-09T19:53:14",
+        "points": 2,
+        "submitter": "borisjabes",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40627058",
+        "numComments": 0
+    },
+    {
         "id": "40597587",
         "title": "Accidental prompt injection against RAG applications",
         "url": "https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/",
@@ -288,15 +298,5 @@
         "submitter": "kiyanwang",
         "commentsUrl": "https://news.ycombinator.com/item?id=39836443",
         "numComments": 0
-    },
-    {
-        "id": "39829894",
-        "title": "Claude and ChatGPT for ad-hoc tasks",
-        "url": "https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/",
-        "dt": "2024-03-26T16:40:18",
-        "points": 3,
-        "submitter": "PaulHoule",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39829894",
-        "numComments": 1
     }
 ]
