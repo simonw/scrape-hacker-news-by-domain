@@ -1,5 +1,15 @@
 [
     {
+        "id": "40639019",
+        "title": "Thoughts on the WWDC 2024 keynote on Apple Intelligence",
+        "url": "https://simonwillison.net/2024/Jun/10/apple-intelligence/",
+        "dt": "2024-06-10T20:59:32",
+        "points": 3,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40639019",
+        "numComments": 1
+    },
+    {
         "id": "40627058",
         "title": "Building and testing C extensions for SQLite with ChatGPT Code Interpreter",
         "url": "https://simonwillison.net/2024/Mar/23/building-c-extensions-for-sqlite-with-chatgpt-code-interpreter/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=39877391",
         "numComments": 59
-    },
-    {
-        "id": "39836443",
-        "title": "Claude and ChatGPT for ad-hoc sidequests",
-        "url": "https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/",
-        "dt": "2024-03-27T07:29:54",
-        "points": 5,
-        "submitter": "kiyanwang",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39836443",
-        "numComments": 0
     }
 ]
