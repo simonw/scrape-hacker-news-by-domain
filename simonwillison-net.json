@@ -1,5 +1,15 @@
 [
     {
+        "id": "40646235",
+        "title": "Simon Willison: Thoughts on the WWDC 2024 Keynote on Apple Intelligence",
+        "url": "https://simonwillison.net/2024/Jun/10/apple-intelligence/",
+        "dt": "2024-06-11T13:56:33",
+        "points": 2,
+        "submitter": "CharlesW",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40646235",
+        "numComments": 0
+    },
+    {
         "id": "40639019",
         "title": "Thoughts on the WWDC 2024 keynote on Apple Intelligence",
         "url": "https://simonwillison.net/2024/Jun/10/apple-intelligence/",
@@ -288,15 +298,5 @@
         "submitter": "asplake",
         "commentsUrl": "https://news.ycombinator.com/item?id=39926673",
         "numComments": 14
-    },
-    {
-        "id": "39877391",
-        "title": "Running OCR against PDFs and images directly in the browser",
-        "url": "https://simonwillison.net/2024/Mar/30/ocr-pdfs-images/",
-        "dt": "2024-03-30T18:33:11",
-        "points": 301,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39877391",
-        "numComments": 59
     }
 ]
