@@ -1,5 +1,15 @@
 [
     {
+        "id": "40677784",
+        "title": "Generative AI Is Not Going to Build Your Engineering Team for You",
+        "url": "https://simonwillison.net/2024/Jun/12/generative-ai-is-not-going-to-build-your-engineering-team/",
+        "dt": "2024-06-14T05:32:45",
+        "points": 1,
+        "submitter": "duck",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40677784",
+        "numComments": 0
+    },
+    {
         "id": "40646235",
         "title": "Simon Willison: Thoughts on the WWDC 2024 Keynote on Apple Intelligence",
         "url": "https://simonwillison.net/2024/Jun/10/apple-intelligence/",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=39939849",
         "numComments": 0
-    },
-    {
-        "id": "39926673",
-        "title": "Cally: Accessibility Statement",
-        "url": "https://simonwillison.net/2024/Apr/2/cally-accessibility-statement/",
-        "dt": "2024-04-04T04:53:26",
-        "points": 39,
-        "submitter": "asplake",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39926673",
-        "numComments": 14
     }
 ]
