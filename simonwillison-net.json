@@ -1,5 +1,15 @@
 [
     {
+        "id": "40753790",
+        "title": "Building search-based RAG using Claude, Datasette and Val.Town",
+        "url": "https://simonwillison.net/2024/Jun/21/search-based-rag/",
+        "dt": "2024-06-21T21:04:15",
+        "points": 2,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40753790",
+        "numComments": 0
+    },
+    {
         "id": "40677784",
         "title": "Generative AI Is Not Going to Build Your Engineering Team for You",
         "url": "https://simonwillison.net/2024/Jun/12/generative-ai-is-not-going-to-build-your-engineering-team/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "telotortium",
         "commentsUrl": "https://news.ycombinator.com/item?id=39951423",
-        "numComments": 0
-    },
-    {
-        "id": "39939849",
-        "title": "Processing a stream of chunks of JSON with ijson",
-        "url": "https://til.simonwillison.net/json/ijson-stream",
-        "dt": "2024-04-05T08:06:04",
-        "points": 2,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39939849",
         "numComments": 0
     }
 ]
