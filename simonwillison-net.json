@@ -1,5 +1,15 @@
 [
     {
+        "id": "40759547",
+        "title": "A homepage redesign for my blog's 22nd birthday",
+        "url": "https://simonwillison.net/2024/Jun/12/homepage-redesign/",
+        "dt": "2024-06-22T14:57:55",
+        "points": 1,
+        "submitter": "Bluestein",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40759547",
+        "numComments": 0
+    },
+    {
         "id": "40753790",
         "title": "Building search-based RAG using Claude, Datasette and Val.Town",
         "url": "https://simonwillison.net/2024/Jun/21/search-based-rag/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=39971956",
-        "numComments": 0
-    },
-    {
-        "id": "39951423",
-        "title": "Impaste: Pasting images to piped commands on macOS",
-        "url": "https://til.simonwillison.net/macos/impaste",
-        "dt": "2024-04-06T10:24:59",
-        "points": 2,
-        "submitter": "telotortium",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39951423",
         "numComments": 0
     }
 ]
