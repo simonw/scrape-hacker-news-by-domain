@@ -1,10 +1,30 @@
 [
     {
+        "id": "40769383",
+        "title": "The Perfect Commit (2022)",
+        "url": "https://simonwillison.net/2022/Oct/29/the-perfect-commit/",
+        "dt": "2024-06-23T18:15:44",
+        "points": 1,
+        "submitter": "saikatsg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40769383",
+        "numComments": 0
+    },
+    {
+        "id": "40769373",
+        "title": "Writing better release notes (2022)",
+        "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
+        "dt": "2024-06-23T18:14:05",
+        "points": 1,
+        "submitter": "saikatsg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40769373",
+        "numComments": 0
+    },
+    {
         "id": "40765000",
         "title": "Software Engineering Practices (2022)",
         "url": "https://simonwillison.net/2022/Oct/1/software-engineering-practices/",
         "dt": "2024-06-23T05:21:56",
-        "points": 10,
+        "points": 13,
         "submitter": "saikatsg",
         "commentsUrl": "https://news.ycombinator.com/item?id=40765000",
         "numComments": 0
@@ -24,7 +44,7 @@
         "title": "Building search-based RAG using Claude, Datasette and Val.Town",
         "url": "https://simonwillison.net/2024/Jun/21/search-based-rag/",
         "dt": "2024-06-21T21:04:15",
-        "points": 3,
+        "points": 4,
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=40753790",
         "numComments": 0
@@ -277,26 +297,6 @@
         "points": 1,
         "submitter": "hrishi",
         "commentsUrl": "https://news.ycombinator.com/item?id=39986741",
-        "numComments": 0
-    },
-    {
-        "id": "39983219",
-        "title": "A solid pattern to build LLM Applications",
-        "url": "https://simonwillison.net/2024/Apr/9/a-solid-pattern-to-build-llm-applications/",
-        "dt": "2024-04-09T19:28:42",
-        "points": 3,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39983219",
-        "numComments": 0
-    },
-    {
-        "id": "39979031",
-        "title": "Building files-to-prompt using Claude 3 Opus",
-        "url": "https://simonwillison.net/2024/Apr/8/files-to-prompt/",
-        "dt": "2024-04-09T13:07:49",
-        "points": 4,
-        "submitter": "chedar",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39979031",
         "numComments": 0
     }
 ]
