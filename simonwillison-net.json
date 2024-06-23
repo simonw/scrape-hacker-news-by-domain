@@ -1,5 +1,15 @@
 [
     {
+        "id": "40765000",
+        "title": "Software Engineering Practices (2022)",
+        "url": "https://simonwillison.net/2022/Oct/1/software-engineering-practices/",
+        "dt": "2024-06-23T05:21:56",
+        "points": 1,
+        "submitter": "saikatsg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40765000",
+        "numComments": 0
+    },
+    {
         "id": "40759547",
         "title": "A homepage redesign for my blog's 22nd birthday",
         "url": "https://simonwillison.net/2024/Jun/12/homepage-redesign/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "chedar",
         "commentsUrl": "https://news.ycombinator.com/item?id=39979031",
-        "numComments": 0
-    },
-    {
-        "id": "39971956",
-        "title": "Building and testing C extensions for SQLite with ChatGPT Code Interpreter",
-        "url": "https://simonwillison.net/2024/Mar/23/building-c-extensions-for-sqlite-with-chatgpt-code-interpreter/",
-        "dt": "2024-04-08T17:35:10",
-        "points": 2,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39971956",
         "numComments": 0
     }
 ]
