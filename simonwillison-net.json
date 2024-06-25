@@ -1,5 +1,15 @@
 [
     {
+        "id": "40782755",
+        "title": "LLMs on the Command Line",
+        "url": "https://simonwillison.net/2024/Jun/17/cli-language-models/",
+        "dt": "2024-06-25T00:18:08",
+        "points": 2,
+        "submitter": "rednafi",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40782755",
+        "numComments": 0
+    },
+    {
         "id": "40769383",
         "title": "The Perfect Commit (2022)",
         "url": "https://simonwillison.net/2022/Oct/29/the-perfect-commit/",
@@ -24,7 +34,7 @@
         "title": "Software Engineering Practices (2022)",
         "url": "https://simonwillison.net/2022/Oct/1/software-engineering-practices/",
         "dt": "2024-06-23T05:21:56",
-        "points": 34,
+        "points": 36,
         "submitter": "saikatsg",
         "commentsUrl": "https://news.ycombinator.com/item?id=40765000",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "helloplanets",
         "commentsUrl": "https://news.ycombinator.com/item?id=39987769",
         "numComments": 70
-    },
-    {
-        "id": "39986741",
-        "title": "A solid pattern to build LLM Applications (feat. Claude)",
-        "url": "https://simonwillison.net/2024/Apr/9/a-solid-pattern-to-build-llm-applications/",
-        "dt": "2024-04-10T03:44:03",
-        "points": 1,
-        "submitter": "hrishi",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39986741",
-        "numComments": 0
     }
 ]
