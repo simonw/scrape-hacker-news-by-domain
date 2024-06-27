@@ -1,5 +1,15 @@
 [
     {
+        "id": "40812813",
+        "title": "Open Challenges for AI Engineering",
+        "url": "https://simonwillison.net/2024/Jun/27/ai-worlds-fair/",
+        "dt": "2024-06-27T17:20:45",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40812813",
+        "numComments": 0
+    },
+    {
         "id": "40782755",
         "title": "Language models on the command line",
         "url": "https://simonwillison.net/2024/Jun/17/cli-language-models/",
@@ -288,15 +298,5 @@
         "submitter": "colinprince",
         "commentsUrl": "https://news.ycombinator.com/item?id=40052503",
         "numComments": 0
-    },
-    {
-        "id": "39987769",
-        "title": "Three major LLM releases in 24 hours",
-        "url": "https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/",
-        "dt": "2024-04-10T07:01:34",
-        "points": 129,
-        "submitter": "helloplanets",
-        "commentsUrl": "https://news.ycombinator.com/item?id=39987769",
-        "numComments": 70
     }
 ]
