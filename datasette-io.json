@@ -1,5 +1,15 @@
 [
     {
+        "id": "40909106",
+        "title": "CLI tool and Python library for manipulating SQLite databases",
+        "url": "https://sqlite-utils.datasette.io/en/stable/index.html#",
+        "dt": "2024-07-08T20:09:43",
+        "points": 2,
+        "submitter": "punnerud",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40909106",
+        "numComments": 0
+    },
+    {
         "id": "40617385",
         "title": "Learn SQL with Datasette",
         "url": "https://datasette.io/tutorials/learn-sql",
