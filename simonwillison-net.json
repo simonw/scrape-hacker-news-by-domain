@@ -1,15 +1,5 @@
 [
     {
-        "id": "40930923",
-        "title": "Google Chrome's hidden extension allows *.google.com to access private APIs",
-        "url": "https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/",
-        "dt": "2024-07-10T20:02:41",
-        "points": 16,
-        "submitter": "daxx909",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40930923",
-        "numComments": 2
-    },
-    {
         "id": "40868190",
         "title": "Chrome Prompt Playground",
         "url": "https://simonwillison.net/2024/Jul/3/chrome-prompt-playground/",
@@ -298,5 +288,15 @@
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=40111784",
         "numComments": 32
+    },
+    {
+        "id": "40070154",
+        "title": "AI for Data Journalism: demonstrating what we can do with this stuff",
+        "url": "https://simonwillison.net/2024/Apr/17/ai-for-data-journalism/",
+        "dt": "2024-04-17T21:19:46",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40070154",
+        "numComments": 0
     }
 ]
