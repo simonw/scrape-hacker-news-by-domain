@@ -1,5 +1,15 @@
 [
     {
+        "id": "40963336",
+        "title": "Imitation Intelligence, my keynote for PyCon US 2024",
+        "url": "https://simonwillison.net/2024/Jul/14/pycon/",
+        "dt": "2024-07-14T21:32:48",
+        "points": 3,
+        "submitter": "azhenley",
+        "commentsUrl": "https://news.ycombinator.com/item?id=40963336",
+        "numComments": 0
+    },
+    {
         "id": "40959401",
         "title": "Chrome makes CPU info available to code running on *.google.com",
         "url": "https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/",
@@ -288,15 +298,5 @@
         "submitter": "scarecrow112",
         "commentsUrl": "https://news.ycombinator.com/item?id=40154978",
         "numComments": 1
-    },
-    {
-        "id": "40114311",
-        "title": "Options for accessing Llama 3 from the terminal using LLM",
-        "url": "https://simonwillison.net/2024/Apr/22/llama-3/",
-        "dt": "2024-04-22T13:45:33",
-        "points": 3,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40114311",
-        "numComments": 2
     }
 ]
