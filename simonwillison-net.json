@@ -1,5 +1,15 @@
 [
     {
+        "id": "41000256",
+        "title": "GPT-4o Mini",
+        "url": "https://simonwillison.net/2024/Jul/18/gpt-4o-mini/",
+        "dt": "2024-07-18T22:15:17",
+        "points": 1,
+        "submitter": "rcarmo",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41000256",
+        "numComments": 1
+    },
+    {
         "id": "40993537",
         "title": "Blogmarks",
         "url": "https://simonwillison.net/2003/Nov/24/blogmarks/",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=40167654",
         "numComments": 1
-    },
-    {
-        "id": "40157664",
-        "title": "Options for accessing Llama 3 from the terminal using LLM",
-        "url": "https://simonwillison.net/2024/Apr/22/llama-3/#fast-api-access-via-groq",
-        "dt": "2024-04-25T13:57:24",
-        "points": 1,
-        "submitter": "gmays",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40157664",
-        "numComments": 0
     }
 ]
