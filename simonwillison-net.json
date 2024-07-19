@@ -1,5 +1,15 @@
 [
     {
+        "id": "41010159",
+        "title": "GitHub Actions: Faster Python runs with cached virtual environments",
+        "url": "https://simonwillison.net/2024/Jul/19/github-actions-faster-python/",
+        "dt": "2024-07-19T19:25:25",
+        "points": 1,
+        "submitter": "ulrischa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41010159",
+        "numComments": 0
+    },
+    {
         "id": "41000256",
         "title": "GPT-4o Mini",
         "url": "https://simonwillison.net/2024/Jul/18/gpt-4o-mini/",
@@ -288,15 +298,5 @@
         "submitter": "kryster",
         "commentsUrl": "https://news.ycombinator.com/item?id=40183125",
         "numComments": 15
-    },
-    {
-        "id": "40167654",
-        "title": "Publish Python Packages to PyPI",
-        "url": "https://simonwillison.net/2024/Jan/16/python-lib-pypi/",
-        "dt": "2024-04-26T10:26:23",
-        "points": 2,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40167654",
-        "numComments": 1
     }
 ]
