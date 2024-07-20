@@ -1,5 +1,15 @@
 [
     {
+        "id": "41016522",
+        "title": "Open Challenges for AI Engineering",
+        "url": "https://simonwillison.net/2024/Jun/27/ai-worlds-fair/",
+        "dt": "2024-07-20T13:54:49",
+        "points": 1,
+        "submitter": "rednafi",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41016522",
+        "numComments": 0
+    },
+    {
         "id": "41010159",
         "title": "GitHub Actions: Faster Python runs with cached virtual environments",
         "url": "https://simonwillison.net/2024/Jul/19/github-actions-faster-python/",
@@ -288,15 +298,5 @@
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=40207270",
         "numComments": 1
-    },
-    {
-        "id": "40183125",
-        "title": "Everything Google's Python team were responsible for",
-        "url": "https://simonwillison.net/2024/Apr/27/everything-googles-python-team-were-responsible-for/",
-        "dt": "2024-04-27T20:21:45",
-        "points": 57,
-        "submitter": "kryster",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40183125",
-        "numComments": 15
     }
 ]
