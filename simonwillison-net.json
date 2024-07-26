@@ -1,5 +1,15 @@
 [
     {
+        "id": "41081011",
+        "title": "Image Resize and Quality Comparison",
+        "url": "https://simonwillison.net/2024/Jul/26/image-resize-and-quality-comparison/",
+        "dt": "2024-07-26T18:31:22",
+        "points": 1,
+        "submitter": "memalign",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41081011",
+        "numComments": 0
+    },
+    {
         "id": "41016522",
         "title": "Open Challenges for AI Engineering",
         "url": "https://simonwillison.net/2024/Jun/27/ai-worlds-fair/",
@@ -288,15 +298,5 @@
         "submitter": "8organicbits",
         "commentsUrl": "https://news.ycombinator.com/item?id=40210534",
         "numComments": 0
-    },
-    {
-        "id": "40207270",
-        "title": "Quoting Jeremy Howard: \"The creator of a model can not ensure \"",
-        "url": "https://simonwillison.net/2024/Apr/29/jeremy-howard/",
-        "dt": "2024-04-30T04:33:10",
-        "points": 1,
-        "submitter": "mdp2021",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40207270",
-        "numComments": 1
     }
 ]
