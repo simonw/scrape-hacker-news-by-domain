@@ -4,7 +4,7 @@
         "title": "Imitation Intelligence, my keynote for PyCon US 2024",
         "url": "https://simonwillison.net/2024/Jul/14/pycon/",
         "dt": "2024-08-03T11:59:22",
-        "points": 45,
+        "points": 46,
         "submitter": "rednafi",
         "commentsUrl": "https://news.ycombinator.com/item?id=41146108",
         "numComments": 5
@@ -24,10 +24,10 @@
         "title": "Back dating Git commits based on file modification dates",
         "url": "https://til.simonwillison.net/git/backdate-git-commits",
         "dt": "2024-08-03T01:37:09",
-        "points": 42,
+        "points": 43,
         "submitter": "nailer",
         "commentsUrl": "https://news.ycombinator.com/item?id=41144072",
-        "numComments": 12
+        "numComments": 14
     },
     {
         "id": "41081011",
