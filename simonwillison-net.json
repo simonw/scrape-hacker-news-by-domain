@@ -1,5 +1,15 @@
 [
     {
+        "id": "41145744",
+        "title": "Back-dating Git commits based on file modification dates",
+        "url": "https://til.simonwillison.net/git/backdate-git-commits",
+        "dt": "2024-08-03T10:24:28",
+        "points": 1,
+        "submitter": "pabs3",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41145744",
+        "numComments": 0
+    },
+    {
         "id": "41144072",
         "title": "Back dating Git commits based on file modification dates",
         "url": "https://til.simonwillison.net/git/backdate-git-commits",
@@ -288,15 +298,5 @@
         "submitter": "JNRowe",
         "commentsUrl": "https://news.ycombinator.com/item?id=40336679",
         "numComments": 0
-    },
-    {
-        "id": "40301490",
-        "title": "Slop is the new name for unwanted AI-generated content",
-        "url": "https://simonwillison.net/2024/May/8/slop/",
-        "dt": "2024-05-08T18:37:23",
-        "points": 92,
-        "submitter": "beardicus",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40301490",
-        "numComments": 34
     }
 ]
