@@ -24,10 +24,10 @@
         "title": "Back dating Git commits based on file modification dates",
         "url": "https://til.simonwillison.net/git/backdate-git-commits",
         "dt": "2024-08-03T01:37:09",
-        "points": 43,
+        "points": 47,
         "submitter": "nailer",
         "commentsUrl": "https://news.ycombinator.com/item?id=41144072",
-        "numComments": 14
+        "numComments": 17
     },
     {
         "id": "41081011",
