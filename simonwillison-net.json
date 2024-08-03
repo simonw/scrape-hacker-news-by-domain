@@ -1,5 +1,15 @@
 [
     {
+        "id": "41146108",
+        "title": "Imitation Intelligence, my keynote for PyCon US 2024",
+        "url": "https://simonwillison.net/2024/Jul/14/pycon/",
+        "dt": "2024-08-03T11:59:22",
+        "points": 1,
+        "submitter": "rednafi",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41146108",
+        "numComments": 0
+    },
+    {
         "id": "41145744",
         "title": "Back-dating Git commits based on file modification dates",
         "url": "https://til.simonwillison.net/git/backdate-git-commits",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "akulkarni",
         "commentsUrl": "https://news.ycombinator.com/item?id=40351018",
-        "numComments": 0
-    },
-    {
-        "id": "40336679",
-        "title": "How [simonw] Studied for a Ham radio general exam",
-        "url": "https://til.simonwillison.net/ham-radio/general",
-        "dt": "2024-05-12T19:04:37",
-        "points": 3,
-        "submitter": "JNRowe",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40336679",
         "numComments": 0
     }
 ]
