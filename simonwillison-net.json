@@ -1,5 +1,15 @@
 [
     {
+        "id": "41144072",
+        "title": "Back dating Git commits based on file modification dates",
+        "url": "https://til.simonwillison.net/git/backdate-git-commits",
+        "dt": "2024-08-03T01:37:09",
+        "points": 1,
+        "submitter": "nailer",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41144072",
+        "numComments": 0
+    },
+    {
         "id": "41081011",
         "title": "Image Resize and Quality Comparison",
         "url": "https://simonwillison.net/2024/Jul/26/image-resize-and-quality-comparison/",
@@ -288,15 +298,5 @@
         "submitter": "beardicus",
         "commentsUrl": "https://news.ycombinator.com/item?id=40301490",
         "numComments": 34
-    },
-    {
-        "id": "40210534",
-        "title": "Building a self-updating profile README for GitHub (2020)",
-        "url": "https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/",
-        "dt": "2024-04-30T12:58:03",
-        "points": 2,
-        "submitter": "8organicbits",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40210534",
-        "numComments": 0
     }
 ]
