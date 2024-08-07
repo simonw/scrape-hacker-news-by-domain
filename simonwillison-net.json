@@ -1,5 +1,15 @@
 [
     {
+        "id": "41183988",
+        "title": "Google AI Studio data exfiltration demo",
+        "url": "https://simonwillison.net/2024/Aug/7/google-ai-studio-data-exfiltration-demo/",
+        "dt": "2024-08-07T18:28:38",
+        "points": 2,
+        "submitter": "ulrischa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41183988",
+        "numComments": 0
+    },
+    {
         "id": "41177507",
         "title": "OpenAI: Structured Outputs in the API",
         "url": "https://simonwillison.net/2024/Aug/6/openai-structured-outputs/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=40510668",
         "numComments": 138
-    },
-    {
-        "id": "40394281",
-        "title": "A simple Python implementation of the ReAct pattern for LLMs (2023)",
-        "url": "https://til.simonwillison.net/llms/python-react-pattern",
-        "dt": "2024-05-17T21:14:44",
-        "points": 1,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40394281",
-        "numComments": 0
     }
 ]
