@@ -1,5 +1,15 @@
 [
     {
+        "id": "41196181",
+        "title": "Share Claude conversations by converting their JSON to Markdown",
+        "url": "https://simonwillison.net/2024/Aug/8/convert-claude-json-to-markdown/",
+        "dt": "2024-08-08T20:57:54",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41196181",
+        "numComments": 0
+    },
+    {
         "id": "41183988",
         "title": "Google AI Studio data exfiltration demo",
         "url": "https://simonwillison.net/2024/Aug/7/google-ai-studio-data-exfiltration-demo/",
@@ -288,15 +298,5 @@
         "submitter": "serhack_",
         "commentsUrl": "https://news.ycombinator.com/item?id=40543990",
         "numComments": 22
-    },
-    {
-        "id": "40510668",
-        "title": "Training is not the same as chatting: LLMs don\u2019t remember everything you say",
-        "url": "https://simonwillison.net/2024/May/29/training-not-chatting/",
-        "dt": "2024-05-29T11:14:44",
-        "points": 201,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40510668",
-        "numComments": 138
     }
 ]
