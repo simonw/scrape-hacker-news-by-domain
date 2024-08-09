@@ -1,5 +1,15 @@
 [
     {
+        "id": "41198991",
+        "title": "Django-HTTP-debug, a new Django app mostly written by Claude",
+        "url": "https://simonwillison.net/2024/Aug/8/django-http-debug/",
+        "dt": "2024-08-09T05:22:43",
+        "points": 1,
+        "submitter": "xrd",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41198991",
+        "numComments": 0
+    },
+    {
         "id": "41196181",
         "title": "Share Claude conversations by converting their JSON to Markdown",
         "url": "https://simonwillison.net/2024/Aug/8/convert-claude-json-to-markdown/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=40597587",
         "numComments": 6
-    },
-    {
-        "id": "40543990",
-        "title": "Stealing everything you've ever typed on your Windows Recall PC is now possible",
-        "url": "https://simonwillison.net/2024/Jun/1/stealing-everything-youve-ever-typed/#atom-everything",
-        "dt": "2024-06-01T08:43:29",
-        "points": 165,
-        "submitter": "serhack_",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40543990",
-        "numComments": 22
     }
 ]
