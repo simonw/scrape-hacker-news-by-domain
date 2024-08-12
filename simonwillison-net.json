@@ -1,5 +1,15 @@
 [
     {
+        "id": "41220042",
+        "title": "Using SQLite-vec with embeddings in SQLite-utils and Datasette",
+        "url": "https://til.simonwillison.net/sqlite/sqlite-vec",
+        "dt": "2024-08-11T23:44:18",
+        "points": 1,
+        "submitter": "chmaynard",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41220042",
+        "numComments": 0
+    },
+    {
         "id": "41198991",
         "title": "Django-HTTP-debug, a new Django app mostly written by Claude",
         "url": "https://simonwillison.net/2024/Aug/8/django-http-debug/",
@@ -288,15 +298,5 @@
         "submitter": "borisjabes",
         "commentsUrl": "https://news.ycombinator.com/item?id=40627058",
         "numComments": 0
-    },
-    {
-        "id": "40597587",
-        "title": "Accidental prompt injection against RAG applications",
-        "url": "https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/",
-        "dt": "2024-06-06T14:09:02",
-        "points": 31,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40597587",
-        "numComments": 6
     }
 ]
