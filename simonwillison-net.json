@@ -4,10 +4,10 @@
         "title": "SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level",
         "url": "https://simonwillison.net/2024/Aug/12/smuggling-queries-at-the-protocol-level/",
         "dt": "2024-08-12T18:52:59",
-        "points": 76,
+        "points": 78,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41227987",
-        "numComments": 19
+        "numComments": 21
     },
     {
         "id": "41220042",
