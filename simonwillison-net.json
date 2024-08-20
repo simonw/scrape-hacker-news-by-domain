@@ -1,5 +1,15 @@
 [
     {
+        "id": "41299710",
+        "title": "Reckoning",
+        "url": "https://simonwillison.net/2024/Aug/18/reckoning/",
+        "dt": "2024-08-20T13:05:03",
+        "points": 1,
+        "submitter": "asplake",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41299710",
+        "numComments": 0
+    },
+    {
         "id": "41296867",
         "title": "Llamafile v0.8.13 (and Whisperfile)",
         "url": "https://simonwillison.net/2024/Aug/19/whisperfile/",
@@ -288,15 +298,5 @@
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=40677784",
         "numComments": 18
-    },
-    {
-        "id": "40646235",
-        "title": "Simon Willison: Thoughts on the WWDC 2024 Keynote on Apple Intelligence",
-        "url": "https://simonwillison.net/2024/Jun/10/apple-intelligence/",
-        "dt": "2024-06-11T13:56:33",
-        "points": 2,
-        "submitter": "CharlesW",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40646235",
-        "numComments": 0
     }
 ]
