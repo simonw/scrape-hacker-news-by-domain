@@ -1,5 +1,15 @@
 [
     {
+        "id": "41296867",
+        "title": "Llamafile v0.8.13 (and Whisperfile)",
+        "url": "https://simonwillison.net/2024/Aug/19/whisperfile/",
+        "dt": "2024-08-20T04:40:03",
+        "points": 1,
+        "submitter": "swyx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41296867",
+        "numComments": 0
+    },
+    {
         "id": "41227987",
         "title": "SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level",
         "url": "https://simonwillison.net/2024/Aug/12/smuggling-queries-at-the-protocol-level/",
@@ -288,15 +298,5 @@
         "submitter": "CharlesW",
         "commentsUrl": "https://news.ycombinator.com/item?id=40646235",
         "numComments": 0
-    },
-    {
-        "id": "40639019",
-        "title": "Thoughts on the WWDC 2024 keynote on Apple Intelligence",
-        "url": "https://simonwillison.net/2024/Jun/10/apple-intelligence/",
-        "dt": "2024-06-10T20:59:32",
-        "points": 5,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40639019",
-        "numComments": 3
     }
 ]
