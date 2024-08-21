@@ -1,5 +1,15 @@
 [
     {
+        "id": "41305828",
+        "title": "Recommendations to help mitigate prompt injection: limit the blast radius",
+        "url": "https://simonwillison.net/2023/Dec/20/mitigate-prompt-injection/",
+        "dt": "2024-08-21T01:18:59",
+        "points": 2,
+        "submitter": "cfcfcf",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41305828",
+        "numComments": 0
+    },
+    {
         "id": "41299710",
         "title": "Reckoning",
         "url": "https://simonwillison.net/2024/Aug/18/reckoning/",
@@ -288,15 +298,5 @@
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=40753790",
         "numComments": 0
-    },
-    {
-        "id": "40677784",
-        "title": "Generative AI Is Not Going to Build Your Engineering Team for You",
-        "url": "https://simonwillison.net/2024/Jun/12/generative-ai-is-not-going-to-build-your-engineering-team/",
-        "dt": "2024-06-14T05:32:45",
-        "points": 30,
-        "submitter": "duck",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40677784",
-        "numComments": 18
     }
 ]
