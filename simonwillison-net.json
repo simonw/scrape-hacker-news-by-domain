@@ -4,7 +4,7 @@
         "title": "Claude's API now supports CORS requests, enabling client-side applications",
         "url": "https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/",
         "dt": "2024-08-23T03:05:33",
-        "points": 334,
+        "points": 335,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=41325889",
         "numComments": 153
