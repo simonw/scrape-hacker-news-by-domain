@@ -1,5 +1,15 @@
 [
     {
+        "id": "41347188",
+        "title": "Google's New Pipe Syntax in SQL",
+        "url": "https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/",
+        "dt": "2024-08-25T13:33:23",
+        "points": 2,
+        "submitter": "heydenberk",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41347188",
+        "numComments": 0
+    },
+    {
         "id": "41341004",
         "title": "Top companies ground Microsoft Copilot over data governance concerns",
         "url": "https://simonwillison.net/2024/Aug/23/microsoft-copilot-data-governance/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "saikatsg",
         "commentsUrl": "https://news.ycombinator.com/item?id=40769383",
-        "numComments": 0
-    },
-    {
-        "id": "40769373",
-        "title": "Writing better release notes (2022)",
-        "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
-        "dt": "2024-06-23T18:14:05",
-        "points": 2,
-        "submitter": "saikatsg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40769373",
         "numComments": 0
     }
 ]
