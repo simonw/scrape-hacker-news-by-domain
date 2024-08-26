@@ -1,5 +1,15 @@
 [
     {
+        "id": "41359158",
+        "title": "A tool showing how Gemini Pro can return bounding boxes for objects in images",
+        "url": "https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/",
+        "dt": "2024-08-26T16:57:08",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41359158",
+        "numComments": 0
+    },
+    {
         "id": "41347188",
         "title": "Google's New Pipe Syntax in SQL",
         "url": "https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/",
@@ -288,15 +298,5 @@
         "submitter": "rednafi",
         "commentsUrl": "https://news.ycombinator.com/item?id=40782755",
         "numComments": 44
-    },
-    {
-        "id": "40769383",
-        "title": "The Perfect Commit (2022)",
-        "url": "https://simonwillison.net/2022/Oct/29/the-perfect-commit/",
-        "dt": "2024-06-23T18:15:44",
-        "points": 2,
-        "submitter": "saikatsg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40769383",
-        "numComments": 0
     }
 ]
