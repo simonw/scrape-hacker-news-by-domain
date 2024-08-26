@@ -1,5 +1,15 @@
 [
     {
+        "id": "41361427",
+        "title": "Data Exfiltration from Slack AI via indirect prompt injection",
+        "url": "https://simonwillison.net/2024/Aug/20/data-exfiltration-from-slack-ai/",
+        "dt": "2024-08-26T20:12:39",
+        "points": 1,
+        "submitter": "sabrina_ramonov",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41361427",
+        "numComments": 0
+    },
+    {
         "id": "41359158",
         "title": "A tool showing how Gemini Pro can return bounding boxes for objects in images",
         "url": "https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=40812813",
         "numComments": 0
-    },
-    {
-        "id": "40782755",
-        "title": "Language models on the command line",
-        "url": "https://simonwillison.net/2024/Jun/17/cli-language-models/",
-        "dt": "2024-06-25T00:18:08",
-        "points": 141,
-        "submitter": "rednafi",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40782755",
-        "numComments": 44
     }
 ]
