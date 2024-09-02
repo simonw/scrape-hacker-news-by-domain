@@ -1,5 +1,15 @@
 [
     {
+        "id": "41427834",
+        "title": "Building a tool for Gemini Pro to return bounding boxes for objects in images",
+        "url": "https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/",
+        "dt": "2024-09-02T18:45:05",
+        "points": 1,
+        "submitter": "PaulHoule",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41427834",
+        "numComments": 0
+    },
+    {
         "id": "41361427",
         "title": "Data Exfiltration from Slack AI via indirect prompt injection",
         "url": "https://simonwillison.net/2024/Aug/20/data-exfiltration-from-slack-ai/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "xnx",
         "commentsUrl": "https://news.ycombinator.com/item?id=40868190",
-        "numComments": 0
-    },
-    {
-        "id": "40812813",
-        "title": "Open Challenges for AI Engineering",
-        "url": "https://simonwillison.net/2024/Jun/27/ai-worlds-fair/",
-        "dt": "2024-06-27T17:20:45",
-        "points": 2,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40812813",
         "numComments": 0
     }
 ]
