@@ -1,5 +1,15 @@
 [
     {
+        "id": "41459472",
+        "title": "Uvtrick",
+        "url": "https://simonwillison.net/2024/Sep/1/uvtrick/",
+        "dt": "2024-09-05T18:55:02.000000Z",
+        "points": 1,
+        "submitter": "ulrischa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41459472",
+        "numComments": 0
+    },
+    {
         "id": "41434857",
         "title": "Gemini Pro Bounding Box Visualization",
         "url": "https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/",
@@ -288,15 +298,5 @@
         "submitter": "notpushkin",
         "commentsUrl": "https://news.ycombinator.com/item?id=40959401",
         "numComments": 1
-    },
-    {
-        "id": "40954879",
-        "title": "Give people something to link to",
-        "url": "https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/",
-        "dt": "2024-07-13T16:14:27.000000Z",
-        "points": 326,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40954879",
-        "numComments": 73
     }
 ]
