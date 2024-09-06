@@ -40,9 +40,9 @@ jobs:
       run: |
         echo "$(date -u)" > /tmp/commit.txt
         echo "" >> /tmp/commit.txt
-        csv-diff simonwillison-net.json simonwillison-net-new.json --format json >> /tmp/commit.txt
+        csv-diff simonwillison-net.json simonwillison-net-new.json --key id --format json >> /tmp/commit.txt
         echo "" >> /tmp/commit.txt
-        csv-diff datasette-io.json datasette-io-new.json --format json >> /tmp/commit.txt
+        csv-diff datasette-io.json datasette-io-new.json --key id --format json >> /tmp/commit.txt
     - name: Update data
       run: |
         mv simonwillison-net-new.json simonwillison-net.json
