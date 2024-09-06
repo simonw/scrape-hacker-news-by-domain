@@ -6,25 +6,18 @@ on:
   schedule:
   - cron:  '17 * * * *'
 
-
 jobs:
   shot-scraper:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v2
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v5
       with:
-        python-version: "3.10"
-    - uses: actions/cache@v2
-      name: Configure pip caching
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
+        python-version: "3.12"
+        cache: "pip"
     - name: Cache Playwright browsers
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
         path: ~/.cache/ms-playwright/
         key: ${{ runner.os }}-browsers
@@ -38,22 +31,32 @@ jobs:
       run: |        
         shot-scraper javascript \
           "https://news.ycombinator.com/from?site=simonwillison.net" \
-          -i scrape.js -o simonwillison-net.json
+          -i scrape.js -o simonwillison-net-new.json
         sleep 5
         shot-scraper javascript \
           "https://news.ycombinator.com/from?site=datasette.io" \
-          -i scrape.js -o datasette-io.json
+          -i scrape.js -o datasette-io-new.json
+    - name: Generate commit message
+      run: |
+        echo "$(date -u)" > /tmp/commit.txt
+        echo "" >> /tmp/commit.txt
+        csv-diff simonwillison-net.json simonwillison-net-new.json --format json >> /tmp/commit.txt
+        echo "" >> /tmp/commit.txt
+        csv-diff datasette-io.json datasette-io-new.json --format json >> /tmp/commit.txt
+    - name: Update data
+      run: |
+        mv simonwillison-net-new.json simonwillison-net.json
+        mv datasette-io-new.json datasette-io.json
     - name: Submit fresh data to my Datasette Cloud space
       env:
         DS_TOKEN: ${{ secrets.SIMON_DS_WRITE_TOKEN }}
-      run: |-
+      run: |
         ./submit-to-datasette-cloud.sh
     - name: Commit and push
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add -A
-        timestamp=$(date -u)
-        git commit -m "${timestamp}" || exit 0
+        git commit -F /tmp/commit.txt || exit 0
         git pull --rebase
         git push
