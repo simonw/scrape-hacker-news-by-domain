@@ -1,2 +1,2 @@
 shot-scraper
-csv-diff
+csv-diff>=1.2
