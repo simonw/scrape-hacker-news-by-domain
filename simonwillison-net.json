@@ -1,5 +1,15 @@
 [
     {
+        "id": "41493236",
+        "title": "Uv Under Discussion on Mastodon",
+        "url": "https://simonwillison.net/2024/Sep/8/uv-under-discussion-on-mastodon/",
+        "dt": "2024-09-09T20:23:08.000000Z",
+        "points": 1,
+        "submitter": "selectnull",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41493236",
+        "numComments": 0
+    },
+    {
         "id": "41459472",
         "title": "Uvtrick",
         "url": "https://simonwillison.net/2024/Sep/1/uvtrick/",
@@ -288,15 +298,5 @@
         "submitter": "azhenley",
         "commentsUrl": "https://news.ycombinator.com/item?id=40963336",
         "numComments": 0
-    },
-    {
-        "id": "40959401",
-        "title": "Chrome makes CPU info available to code running on *.google.com",
-        "url": "https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/",
-        "dt": "2024-07-14T07:24:16.000000Z",
-        "points": 2,
-        "submitter": "notpushkin",
-        "commentsUrl": "https://news.ycombinator.com/item?id=40959401",
-        "numComments": 1
     }
 ]
