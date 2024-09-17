@@ -1,13 +1,23 @@
 [
     {
+        "id": "41572108",
+        "title": "Excerpts from the discussion about uv on Mastodon",
+        "url": "https://simonwillison.net/2024/Sep/8/uv-under-discussion-on-mastodon/",
+        "dt": "2024-09-17T20:07:37.000000Z",
+        "points": 2,
+        "submitter": "BerislavLopac",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41572108",
+        "numComments": 0
+    },
+    {
         "id": "41549649",
         "title": "How to succeed in MrBeast production (Leaked PDF)",
         "url": "https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/",
         "dt": "2024-09-15T19:24:24.000000Z",
-        "points": 2016,
+        "points": 2019,
         "submitter": "babelfish",
         "commentsUrl": "https://news.ycombinator.com/item?id=41549649",
-        "numComments": 1302
+        "numComments": 1304
     },
     {
         "id": "41527143",
@@ -288,15 +298,5 @@
         "submitter": "rednafi",
         "commentsUrl": "https://news.ycombinator.com/item?id=41016522",
         "numComments": 0
-    },
-    {
-        "id": "41010159",
-        "title": "GitHub Actions: Faster Python runs with cached virtual environments",
-        "url": "https://simonwillison.net/2024/Jul/19/github-actions-faster-python/",
-        "dt": "2024-07-19T19:25:25.000000Z",
-        "points": 2,
-        "submitter": "ulrischa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41010159",
-        "numComments": 1
     }
 ]
