@@ -1,5 +1,15 @@
 [
     {
+        "id": "41580619",
+        "title": "Things I've learned serving on the board of the Python Software Foundation",
+        "url": "https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/",
+        "dt": "2024-09-18T15:03:41.000000Z",
+        "points": 3,
+        "submitter": "rednafi",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41580619",
+        "numComments": 0
+    },
+    {
         "id": "41572108",
         "title": "Excerpts from the discussion about uv on Mastodon",
         "url": "https://simonwillison.net/2024/Sep/8/uv-under-discussion-on-mastodon/",
@@ -14,7 +24,7 @@
         "title": "How to succeed in MrBeast production (Leaked PDF)",
         "url": "https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/",
         "dt": "2024-09-15T19:24:24.000000Z",
-        "points": 2058,
+        "points": 2060,
         "submitter": "babelfish",
         "commentsUrl": "https://news.ycombinator.com/item?id=41549649",
         "numComments": 1325
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "memalign",
         "commentsUrl": "https://news.ycombinator.com/item?id=41081011",
-        "numComments": 0
-    },
-    {
-        "id": "41016522",
-        "title": "Open Challenges for AI Engineering",
-        "url": "https://simonwillison.net/2024/Jun/27/ai-worlds-fair/",
-        "dt": "2024-07-20T13:54:49.000000Z",
-        "points": 3,
-        "submitter": "rednafi",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41016522",
         "numComments": 0
     }
 ]
