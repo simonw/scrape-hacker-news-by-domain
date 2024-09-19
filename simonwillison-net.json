@@ -1,5 +1,15 @@
 [
     {
+        "id": "41589586",
+        "title": "Things I've learned serving on the board of the Python Software Foundation",
+        "url": "https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/",
+        "dt": "2024-09-19T08:00:00.000000Z",
+        "points": 1,
+        "submitter": "saeedesmaili",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41589586",
+        "numComments": 0
+    },
+    {
         "id": "41580619",
         "title": "Things I've learned serving on the board of the Python Software Foundation",
         "url": "https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/",
@@ -24,7 +34,7 @@
         "title": "How to succeed in MrBeast production (Leaked PDF)",
         "url": "https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/",
         "dt": "2024-09-15T19:24:24.000000Z",
-        "points": 2079,
+        "points": 2080,
         "submitter": "babelfish",
         "commentsUrl": "https://news.ycombinator.com/item?id=41549649",
         "numComments": 1334
@@ -288,15 +298,5 @@
         "submitter": "nailer",
         "commentsUrl": "https://news.ycombinator.com/item?id=41144072",
         "numComments": 42
-    },
-    {
-        "id": "41081011",
-        "title": "Image Resize and Quality Comparison",
-        "url": "https://simonwillison.net/2024/Jul/26/image-resize-and-quality-comparison/",
-        "dt": "2024-07-26T18:31:22.000000Z",
-        "points": 1,
-        "submitter": "memalign",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41081011",
-        "numComments": 0
     }
 ]
