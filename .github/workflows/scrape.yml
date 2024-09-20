@@ -41,10 +41,12 @@ jobs:
         echo "$(date -u)" > /tmp/commit.txt
         echo "" >> /tmp/commit.txt
         csv-diff simonwillison-net.json simonwillison-net-new.json --key id --format json \
+          --extra title '{title}' \
           --extra latest 'https://news.ycombinator.com/latest?id={id}' \
           --extra item 'https://news.ycombinator.com/item?id={id}' >> /tmp/commit.txt
         echo "" >> /tmp/commit.txt
         csv-diff datasette-io.json datasette-io-new.json --key id --format json \
+          --extra title '{title}' \
           --extra latest 'https://news.ycombinator.com/latest?id={id}' \
           --extra item 'https://news.ycombinator.com/item?id={id}' >> /tmp/commit.txt
     - name: Update data
