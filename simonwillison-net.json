@@ -4,10 +4,10 @@
         "title": "Notes on Using LLMs for Code",
         "url": "https://simonwillison.net/2024/Sep/20/using-llms-for-code/",
         "dt": "2024-09-20T16:45:21.000000Z",
-        "points": 4,
+        "points": 11,
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=41603653",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "41589586",
@@ -24,7 +24,7 @@
         "title": "Things I've learned serving on the board of the Python Software Foundation",
         "url": "https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/",
         "dt": "2024-09-18T15:03:41.000000Z",
-        "points": 8,
+        "points": 9,
         "submitter": "rednafi",
         "commentsUrl": "https://news.ycombinator.com/item?id=41580619",
         "numComments": 1
