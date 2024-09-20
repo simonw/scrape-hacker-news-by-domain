@@ -1,5 +1,15 @@
 [
     {
+        "id": "41603653",
+        "title": "Notes on Using LLMs for Code",
+        "url": "https://simonwillison.net/2024/Sep/20/using-llms-for-code/",
+        "dt": "2024-09-20T16:45:21.000000Z",
+        "points": 4,
+        "submitter": "duck",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41603653",
+        "numComments": 0
+    },
+    {
         "id": "41589586",
         "title": "Things I've learned serving on the board of the Python Software Foundation",
         "url": "https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/",
@@ -288,15 +298,5 @@
         "submitter": "pabs3",
         "commentsUrl": "https://news.ycombinator.com/item?id=41145744",
         "numComments": 0
-    },
-    {
-        "id": "41144072",
-        "title": "Back dating Git commits based on file modification dates",
-        "url": "https://til.simonwillison.net/git/backdate-git-commits",
-        "dt": "2024-08-03T01:37:09.000000Z",
-        "points": 69,
-        "submitter": "nailer",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41144072",
-        "numComments": 42
     }
 ]
