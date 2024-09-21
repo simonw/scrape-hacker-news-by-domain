@@ -1,5 +1,15 @@
 [
     {
+        "id": "41612972",
+        "title": "How streaming LLM APIs work",
+        "url": "https://til.simonwillison.net/llms/streaming-llm-apis",
+        "dt": "2024-09-21T22:04:30.000000Z",
+        "points": 1,
+        "submitter": "swyx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41612972",
+        "numComments": 0
+    },
+    {
         "id": "41603653",
         "title": "Notes on Using LLMs for Code",
         "url": "https://simonwillison.net/2024/Sep/20/using-llms-for-code/",
@@ -288,15 +298,5 @@
         "submitter": "rednafi",
         "commentsUrl": "https://news.ycombinator.com/item?id=41146108",
         "numComments": 8
-    },
-    {
-        "id": "41145744",
-        "title": "Back-dating Git commits based on file modification dates",
-        "url": "https://til.simonwillison.net/git/backdate-git-commits",
-        "dt": "2024-08-03T10:24:28.000000Z",
-        "points": 1,
-        "submitter": "pabs3",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41145744",
-        "numComments": 0
     }
 ]
