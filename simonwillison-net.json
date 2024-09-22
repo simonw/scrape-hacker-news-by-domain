@@ -4,10 +4,10 @@
         "title": "How streaming LLM APIs work",
         "url": "https://til.simonwillison.net/llms/streaming-llm-apis",
         "dt": "2024-09-22T07:55:02.000000Z",
-        "points": 34,
+        "points": 36,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=41615404",
-        "numComments": 15
+        "numComments": 20
     },
     {
         "id": "41612972",
@@ -67,7 +67,7 @@
         "points": 2104,
         "submitter": "babelfish",
         "commentsUrl": "https://news.ycombinator.com/item?id=41549649",
-        "numComments": 1347
+        "numComments": 1348
     },
     {
         "id": "41527143",
