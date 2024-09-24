@@ -1,5 +1,15 @@
 [
     {
+        "id": "41638987",
+        "title": "Xkcd 1425 (Tasks) turns ten years old today",
+        "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
+        "dt": "2024-09-24T17:37:50.000000Z",
+        "points": 2,
+        "submitter": "ulrischa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41638987",
+        "numComments": 0
+    },
+    {
         "id": "41615404",
         "title": "How streaming LLM APIs work",
         "url": "https://til.simonwillison.net/llms/streaming-llm-apis",
@@ -47,7 +57,7 @@
         "points": 165,
         "submitter": "rednafi",
         "commentsUrl": "https://news.ycombinator.com/item?id=41580619",
-        "numComments": 93
+        "numComments": 100
     },
     {
         "id": "41572108",
@@ -288,15 +298,5 @@
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41168879",
         "numComments": 0
-    },
-    {
-        "id": "41168705",
-        "title": "macOS 15.1 Beta 1: Apple Intelligence Back End Prompts",
-        "url": "https://simonwillison.net/2024/Aug/6/apple-intelligence-prompts/",
-        "dt": "2024-08-06T07:54:49.000000Z",
-        "points": 5,
-        "submitter": "janandonly",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41168705",
-        "numComments": 1
     }
 ]
