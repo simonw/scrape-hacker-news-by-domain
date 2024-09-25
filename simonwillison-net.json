@@ -1,5 +1,15 @@
 [
     {
+        "id": "41644991",
+        "title": "Nanodjango",
+        "url": "https://simonwillison.net/2024/Sep/24/nanodjango/",
+        "dt": "2024-09-25T08:13:09.000000Z",
+        "points": 1,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41644991",
+        "numComments": 0
+    },
+    {
         "id": "41643828",
         "title": "Xkcd 1425 (Tasks) turns ten years old today",
         "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
@@ -67,7 +77,7 @@
         "points": 165,
         "submitter": "rednafi",
         "commentsUrl": "https://news.ycombinator.com/item?id=41580619",
-        "numComments": 101
+        "numComments": 102
     },
     {
         "id": "41572108",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41183988",
-        "numComments": 0
-    },
-    {
-        "id": "41177507",
-        "title": "OpenAI: Structured Outputs in the API",
-        "url": "https://simonwillison.net/2024/Aug/6/openai-structured-outputs/",
-        "dt": "2024-08-07T01:54:39.000000Z",
-        "points": 4,
-        "submitter": "swyx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41177507",
         "numComments": 0
     }
 ]
