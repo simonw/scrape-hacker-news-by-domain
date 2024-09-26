@@ -1,5 +1,15 @@
 [
     {
+        "id": "41654936",
+        "title": "DJP: A Plugin System for Django",
+        "url": "https://simonwillison.net/2024/Sep/25/djp-a-plugin-system-for-django/",
+        "dt": "2024-09-26T05:50:44.000000Z",
+        "points": 2,
+        "submitter": "Ch00k",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41654936",
+        "numComments": 0
+    },
+    {
         "id": "41648244",
         "title": "Xkcd 1425 (Tasks) turns ten years old today",
         "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
@@ -34,10 +44,10 @@
         "title": "Xkcd 1425 (Tasks) turns ten years old today",
         "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
         "dt": "2024-09-24T17:37:50.000000Z",
-        "points": 29,
+        "points": 83,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41638987",
-        "numComments": 2
+        "numComments": 27
     },
     {
         "id": "41615404",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "xrd",
         "commentsUrl": "https://news.ycombinator.com/item?id=41198991",
-        "numComments": 0
-    },
-    {
-        "id": "41196181",
-        "title": "Share Claude conversations by converting their JSON to Markdown",
-        "url": "https://simonwillison.net/2024/Aug/8/convert-claude-json-to-markdown/",
-        "dt": "2024-08-08T20:57:54.000000Z",
-        "points": 1,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41196181",
         "numComments": 0
     }
 ]
