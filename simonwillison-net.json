@@ -4,10 +4,10 @@
         "title": "DJP: A Plugin System for Django",
         "url": "https://simonwillison.net/2024/Sep/25/djp-a-plugin-system-for-django/",
         "dt": "2024-09-26T05:50:44.000000Z",
-        "points": 8,
+        "points": 9,
         "submitter": "Ch00k",
         "commentsUrl": "https://news.ycombinator.com/item?id=41654936",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "41648244",
@@ -44,10 +44,10 @@
         "title": "Xkcd 1425 (Tasks) turns ten years old today",
         "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
         "dt": "2024-09-24T17:37:50.000000Z",
-        "points": 942,
+        "points": 943,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41638987",
-        "numComments": 437
+        "numComments": 439
     },
     {
         "id": "41615404",
@@ -114,7 +114,7 @@
         "title": "How to succeed in MrBeast production (Leaked PDF)",
         "url": "https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/",
         "dt": "2024-09-15T19:24:24.000000Z",
-        "points": 2113,
+        "points": 2114,
         "submitter": "babelfish",
         "commentsUrl": "https://news.ycombinator.com/item?id=41549649",
         "numComments": 1350
@@ -124,7 +124,7 @@
         "title": "Notes on OpenAI's new o1 chain-of-thought models",
         "url": "https://simonwillison.net/2024/Sep/12/openai-o1/",
         "dt": "2024-09-13T00:48:01.000000Z",
-        "points": 698,
+        "points": 699,
         "submitter": "loganfrederick",
         "commentsUrl": "https://news.ycombinator.com/item?id=41527143",
         "numComments": 630
