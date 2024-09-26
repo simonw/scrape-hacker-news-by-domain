@@ -44,10 +44,10 @@
         "title": "Xkcd 1425 (Tasks) turns ten years old today",
         "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
         "dt": "2024-09-24T17:37:50.000000Z",
-        "points": 923,
+        "points": 939,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41638987",
-        "numComments": 428
+        "numComments": 432
     },
     {
         "id": "41615404",
@@ -124,7 +124,7 @@
         "title": "Notes on OpenAI's new o1 chain-of-thought models",
         "url": "https://simonwillison.net/2024/Sep/12/openai-o1/",
         "dt": "2024-09-13T00:48:01.000000Z",
-        "points": 697,
+        "points": 698,
         "submitter": "loganfrederick",
         "commentsUrl": "https://news.ycombinator.com/item?id=41527143",
         "numComments": 630
