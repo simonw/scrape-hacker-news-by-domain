@@ -1,5 +1,15 @@
 [
     {
+        "id": "41666256",
+        "title": "DJP: A Plugin System for Django",
+        "url": "https://simonwillison.net/2024/Sep/25/djp-a-plugin-system-for-django/",
+        "dt": "2024-09-27T04:28:30.000000Z",
+        "points": 1,
+        "submitter": "duck",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41666256",
+        "numComments": 0
+    },
+    {
         "id": "41654936",
         "title": "DJP: A Plugin System for Django",
         "url": "https://simonwillison.net/2024/Sep/25/djp-a-plugin-system-for-django/",
@@ -44,10 +54,10 @@
         "title": "Xkcd 1425 (Tasks) turns ten years old today",
         "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
         "dt": "2024-09-24T17:37:50.000000Z",
-        "points": 956,
+        "points": 957,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41638987",
-        "numComments": 441
+        "numComments": 442
     },
     {
         "id": "41615404",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=41220042",
-        "numComments": 0
-    },
-    {
-        "id": "41198991",
-        "title": "Django-HTTP-debug, a new Django app mostly written by Claude",
-        "url": "https://simonwillison.net/2024/Aug/8/django-http-debug/",
-        "dt": "2024-08-09T05:22:43.000000Z",
-        "points": 4,
-        "submitter": "xrd",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41198991",
         "numComments": 0
     }
 ]
