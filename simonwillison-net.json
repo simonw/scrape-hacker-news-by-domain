@@ -1,5 +1,15 @@
 [
     {
+        "id": "41676659",
+        "title": "Nanodjango",
+        "url": "https://simonwillison.net/2024/Sep/24/nanodjango/",
+        "dt": "2024-09-27T23:50:45.000000Z",
+        "points": 2,
+        "submitter": "ipmb",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41676659",
+        "numComments": 0
+    },
+    {
         "id": "41666256",
         "title": "DJP: A Plugin System for Django",
         "url": "https://simonwillison.net/2024/Sep/25/djp-a-plugin-system-for-django/",
@@ -54,7 +64,7 @@
         "title": "Xkcd 1425 (Tasks) turns ten years old today",
         "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
         "dt": "2024-09-24T17:37:50.000000Z",
-        "points": 979,
+        "points": 980,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41638987",
         "numComments": 458
@@ -288,15 +298,5 @@
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41227987",
         "numComments": 31
-    },
-    {
-        "id": "41220042",
-        "title": "Using SQLite-vec with embeddings in SQLite-utils and Datasette",
-        "url": "https://til.simonwillison.net/sqlite/sqlite-vec",
-        "dt": "2024-08-11T23:44:18.000000Z",
-        "points": 2,
-        "submitter": "chmaynard",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41220042",
-        "numComments": 0
     }
 ]
