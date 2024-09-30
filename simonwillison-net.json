@@ -4,10 +4,10 @@
         "title": "NotebookLM's automatically generated podcasts are surprisingly effective",
         "url": "https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/",
         "dt": "2024-09-30T02:58:02.000000Z",
-        "points": 236,
+        "points": 280,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=41693087",
-        "numComments": 95
+        "numComments": 124
     },
     {
         "id": "41676659",
@@ -74,7 +74,7 @@
         "title": "Xkcd 1425 (Tasks) turns ten years old today",
         "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
         "dt": "2024-09-24T17:37:50.000000Z",
-        "points": 995,
+        "points": 996,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41638987",
         "numComments": 466
@@ -84,7 +84,7 @@
         "title": "How streaming LLM APIs work",
         "url": "https://til.simonwillison.net/llms/streaming-llm-apis",
         "dt": "2024-09-22T07:55:02.000000Z",
-        "points": 40,
+        "points": 41,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=41615404",
         "numComments": 23
@@ -124,7 +124,7 @@
         "title": "Things I've learned serving on the board of the Python Software Foundation",
         "url": "https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/",
         "dt": "2024-09-18T15:03:41.000000Z",
-        "points": 168,
+        "points": 169,
         "submitter": "rednafi",
         "commentsUrl": "https://news.ycombinator.com/item?id=41580619",
         "numComments": 102
