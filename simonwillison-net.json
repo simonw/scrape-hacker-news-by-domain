@@ -4,10 +4,10 @@
         "title": "NotebookLM's automatically generated podcasts are surprisingly effective",
         "url": "https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/",
         "dt": "2024-09-30T02:58:02.000000Z",
-        "points": 95,
+        "points": 174,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=41693087",
-        "numComments": 41
+        "numComments": 71
     },
     {
         "id": "41676659",
@@ -24,7 +24,7 @@
         "title": "DJP: A Plugin System for Django",
         "url": "https://simonwillison.net/2024/Sep/25/djp-a-plugin-system-for-django/",
         "dt": "2024-09-27T04:28:30.000000Z",
-        "points": 1,
+        "points": 2,
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=41666256",
         "numComments": 0
@@ -34,7 +34,7 @@
         "title": "DJP: A Plugin System for Django",
         "url": "https://simonwillison.net/2024/Sep/25/djp-a-plugin-system-for-django/",
         "dt": "2024-09-26T05:50:44.000000Z",
-        "points": 15,
+        "points": 16,
         "submitter": "Ch00k",
         "commentsUrl": "https://news.ycombinator.com/item?id=41654936",
         "numComments": 2
