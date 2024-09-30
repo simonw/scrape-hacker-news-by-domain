@@ -1,5 +1,15 @@
 [
     {
+        "id": "41693087",
+        "title": "NotebookLM's automatically generated podcasts are surprisingly effective",
+        "url": "https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/",
+        "dt": "2024-09-30T02:58:02.000000Z",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41693087",
+        "numComments": 0
+    },
+    {
         "id": "41676659",
         "title": "Nanodjango",
         "url": "https://simonwillison.net/2024/Sep/24/nanodjango/",
@@ -288,15 +298,5 @@
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=41296867",
         "numComments": 0
-    },
-    {
-        "id": "41227987",
-        "title": "SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level",
-        "url": "https://simonwillison.net/2024/Aug/12/smuggling-queries-at-the-protocol-level/",
-        "dt": "2024-08-12T18:52:59.000000Z",
-        "points": 112,
-        "submitter": "ulrischa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41227987",
-        "numComments": 31
     }
 ]
