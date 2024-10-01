@@ -1,23 +1,33 @@
 [
     {
+        "id": "41714128",
+        "title": "OpenAI launches Whisper large-v3-turbo model",
+        "url": "https://simonwillison.net/2024/Oct/1/whisper-large-v3-turbo-model/",
+        "dt": "2024-10-01T21:03:36.000000Z",
+        "points": 1,
+        "submitter": "KenHV",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41714128",
+        "numComments": 0
+    },
+    {
         "id": "41711694",
         "title": "OpenAI DevDay 2024 live blog",
         "url": "https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/",
         "dt": "2024-10-01T17:45:22.000000Z",
-        "points": 115,
+        "points": 144,
         "submitter": "plurby",
         "commentsUrl": "https://news.ycombinator.com/item?id=41711694",
-        "numComments": 34
+        "numComments": 50
     },
     {
         "id": "41693087",
         "title": "NotebookLM's automatically generated podcasts are surprisingly effective",
         "url": "https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/",
         "dt": "2024-09-30T02:58:02.000000Z",
-        "points": 873,
+        "points": 875,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=41693087",
-        "numComments": 465
+        "numComments": 466
     },
     {
         "id": "41676659",
@@ -84,7 +94,7 @@
         "title": "Xkcd 1425 (Tasks) turns ten years old today",
         "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
         "dt": "2024-09-24T17:37:50.000000Z",
-        "points": 998,
+        "points": 999,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41638987",
         "numComments": 467
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "cfcfcf",
         "commentsUrl": "https://news.ycombinator.com/item?id=41305828",
-        "numComments": 0
-    },
-    {
-        "id": "41299710",
-        "title": "Reckoning",
-        "url": "https://simonwillison.net/2024/Aug/18/reckoning/",
-        "dt": "2024-08-20T13:05:03.000000Z",
-        "points": 1,
-        "submitter": "asplake",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41299710",
         "numComments": 0
     }
 ]
