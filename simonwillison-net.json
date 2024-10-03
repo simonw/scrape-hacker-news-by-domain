@@ -1,5 +1,15 @@
 [
     {
+        "id": "41735546",
+        "title": "Gemini 1.5 Flash-8B",
+        "url": "https://simonwillison.net/2024/Oct/3/gemini-15-flash-8b/",
+        "dt": "2024-10-03T22:03:52.000000Z",
+        "points": 1,
+        "submitter": "ankeshanand",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41735546",
+        "numComments": 0
+    },
+    {
         "id": "41726939",
         "title": "OpenAI DevDay: Let's build developer tools, not digital God",
         "url": "https://simonwillison.net/2024/Oct/2/not-digital-god/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=41325889",
         "numComments": 163
-    },
-    {
-        "id": "41322254",
-        "title": "Optimizing Datasette (and Other Weeknotes)",
-        "url": "https://simonwillison.net/2024/Aug/22/optimizing-datasette/",
-        "dt": "2024-08-22T17:05:40.000000Z",
-        "points": 1,
-        "submitter": "Tomte",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41322254",
-        "numComments": 0
     }
 ]
