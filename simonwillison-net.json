@@ -1,5 +1,15 @@
 [
     {
+        "id": "41726939",
+        "title": "OpenAI DevDay: Let's build developer tools, not digital God",
+        "url": "https://simonwillison.net/2024/Oct/2/not-digital-god/",
+        "dt": "2024-10-03T02:58:17.000000Z",
+        "points": 1,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41726939",
+        "numComments": 0
+    },
+    {
         "id": "41714128",
         "title": "OpenAI launches Whisper large-v3-turbo model",
         "url": "https://simonwillison.net/2024/Oct/1/whisper-large-v3-turbo-model/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=41322254",
-        "numComments": 0
-    },
-    {
-        "id": "41305828",
-        "title": "Recommendations to help mitigate prompt injection: limit the blast radius",
-        "url": "https://simonwillison.net/2023/Dec/20/mitigate-prompt-injection/",
-        "dt": "2024-08-21T01:18:59.000000Z",
-        "points": 4,
-        "submitter": "cfcfcf",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41305828",
         "numComments": 0
     }
 ]
