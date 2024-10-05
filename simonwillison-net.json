@@ -1,5 +1,15 @@
 [
     {
+        "id": "41749288",
+        "title": "Compiling and running sqlite3-rsync from a branch",
+        "url": "https://til.simonwillison.net/sqlite/compile-sqlite3-rsync",
+        "dt": "2024-10-05T11:59:09.000000Z",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41749288",
+        "numComments": 0
+    },
+    {
         "id": "41735546",
         "title": "Gemini 1.5 Flash-8B",
         "url": "https://simonwillison.net/2024/Oct/3/gemini-15-flash-8b/",
@@ -288,15 +298,5 @@
         "submitter": "janandonly",
         "commentsUrl": "https://news.ycombinator.com/item?id=41341004",
         "numComments": 1
-    },
-    {
-        "id": "41325889",
-        "title": "Claude's API now supports CORS requests, enabling client-side applications",
-        "url": "https://simonwillison.net/2024/Aug/23/anthropic-dangerous-direct-browser-access/",
-        "dt": "2024-08-23T03:05:33.000000Z",
-        "points": 349,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41325889",
-        "numComments": 163
     }
 ]
