@@ -4,7 +4,7 @@
         "title": "Compiling and running sqlite3-rsync from a branch",
         "url": "https://til.simonwillison.net/sqlite/compile-sqlite3-rsync",
         "dt": "2024-10-05T11:59:09.000000Z",
-        "points": 53,
+        "points": 56,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=41749288",
         "numComments": 15
@@ -54,7 +54,7 @@
         "title": "NotebookLM's automatically generated podcasts are surprisingly effective",
         "url": "https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/",
         "dt": "2024-09-30T02:58:02.000000Z",
-        "points": 899,
+        "points": 900,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=41693087",
         "numComments": 490
@@ -124,7 +124,7 @@
         "title": "Xkcd 1425 (Tasks) turns ten years old today",
         "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
         "dt": "2024-09-24T17:37:50.000000Z",
-        "points": 1001,
+        "points": 1002,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41638987",
         "numComments": 467
