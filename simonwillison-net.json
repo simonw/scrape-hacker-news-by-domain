@@ -1,10 +1,10 @@
 [
     {
         "id": "41792803",
-        "title": "Upgrading Homebrew and avoiding the failed to verify attestation error",
+        "title": "Upgrading Homebrew and avoiding the \"failed to verify attestation\" error",
         "url": "https://til.simonwillison.net/homebrew/no-verify-attestations",
         "dt": "2024-10-09T21:22:51.000000Z",
-        "points": 1,
+        "points": 8,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=41792803",
         "numComments": 0
