@@ -17,14 +17,14 @@
         "points": 47,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=41792803",
-        "numComments": 38
+        "numComments": 40
     },
     {
         "id": "41749288",
         "title": "Compiling and running sqlite3-rsync from a branch",
         "url": "https://til.simonwillison.net/sqlite/compile-sqlite3-rsync",
         "dt": "2024-10-05T11:59:09.000000Z",
-        "points": 62,
+        "points": 63,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=41749288",
         "numComments": 15
