@@ -1,5 +1,15 @@
 [
     {
+        "id": "41796723",
+        "title": "Livestreaming a community election event on YouTube",
+        "url": "https://til.simonwillison.net/youtube/livestreaming",
+        "dt": "2024-10-10T08:17:45.000000Z",
+        "points": 1,
+        "submitter": "chmaynard",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41796723",
+        "numComments": 0
+    },
+    {
         "id": "41792803",
         "title": "Upgrading Homebrew and avoiding the \"failed to verify attestation\" error",
         "url": "https://til.simonwillison.net/homebrew/no-verify-attestations",
@@ -7,7 +17,7 @@
         "points": 41,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=41792803",
-        "numComments": 29
+        "numComments": 30
     },
     {
         "id": "41749288",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=41359158",
         "numComments": 0
-    },
-    {
-        "id": "41347188",
-        "title": "Google's new pipe syntax in SQL",
-        "url": "https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/",
-        "dt": "2024-08-25T13:33:23.000000Z",
-        "points": 328,
-        "submitter": "heydenberk",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41347188",
-        "numComments": 182
     }
 ]
