@@ -14,10 +14,10 @@
         "title": "Upgrading Homebrew and avoiding the \"failed to verify attestation\" error",
         "url": "https://til.simonwillison.net/homebrew/no-verify-attestations",
         "dt": "2024-10-09T21:22:51.000000Z",
-        "points": 41,
+        "points": 43,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=41792803",
-        "numComments": 30
+        "numComments": 33
     },
     {
         "id": "41749288",
