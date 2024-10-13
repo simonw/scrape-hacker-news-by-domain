@@ -1,5 +1,15 @@
 [
     {
+        "id": "41832547",
+        "title": "Simonw's notes on Cloudflare's new SQLite-backed \"Durable Objects\" system",
+        "url": "https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/",
+        "dt": "2024-10-13T23:07:03.000000Z",
+        "points": 5,
+        "submitter": "ajhit406",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41832547",
+        "numComments": 0
+    },
+    {
         "id": "41796723",
         "title": "Livestreaming a community election event on YouTube",
         "url": "https://til.simonwillison.net/youtube/livestreaming",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "sabrina_ramonov",
         "commentsUrl": "https://news.ycombinator.com/item?id=41361427",
-        "numComments": 0
-    },
-    {
-        "id": "41359158",
-        "title": "A tool showing how Gemini Pro can return bounding boxes for objects in images",
-        "url": "https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/",
-        "dt": "2024-08-26T16:57:08.000000Z",
-        "points": 2,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41359158",
         "numComments": 0
     }
 ]
