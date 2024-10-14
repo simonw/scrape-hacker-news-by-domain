@@ -1,13 +1,13 @@
 [
     {
         "id": "41832547",
-        "title": "Notes on Zero-latency SQLite storage in every Durable Object",
+        "title": "Zero-latency SQLite storage in every Durable Object",
         "url": "https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/",
         "dt": "2024-10-13T23:07:03.000000Z",
-        "points": 44,
+        "points": 82,
         "submitter": "ajhit406",
         "commentsUrl": "https://news.ycombinator.com/item?id=41832547",
-        "numComments": 16
+        "numComments": 33
     },
     {
         "id": "41796723",
