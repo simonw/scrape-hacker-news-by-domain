@@ -4,7 +4,7 @@
         "title": "ChatGPT will happily write you a thinly disguised horoscope",
         "url": "https://simonwillison.net/2024/Oct/15/chatgpt-horoscopes/",
         "dt": "2024-10-15T14:00:34.000000Z",
-        "points": 3,
+        "points": 4,
         "submitter": "maxerickson",
         "commentsUrl": "https://news.ycombinator.com/item?id=41848695",
         "numComments": 1
@@ -24,7 +24,7 @@
         "title": "Zero-latency SQLite storage in every Durable Object",
         "url": "https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/",
         "dt": "2024-10-13T23:07:03.000000Z",
-        "points": 277,
+        "points": 278,
         "submitter": "ajhit406",
         "commentsUrl": "https://news.ycombinator.com/item?id=41832547",
         "numComments": 102
