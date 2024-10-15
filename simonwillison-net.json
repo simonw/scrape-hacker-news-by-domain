@@ -1,5 +1,15 @@
 [
     {
+        "id": "41848695",
+        "title": "ChatGPT will happily write you a thinly disguised horoscope",
+        "url": "https://simonwillison.net/2024/Oct/15/chatgpt-horoscopes/",
+        "dt": "2024-10-15T14:00:34.000000Z",
+        "points": 3,
+        "submitter": "maxerickson",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41848695",
+        "numComments": 1
+    },
+    {
         "id": "41845264",
         "title": "ChatGPT will happily write you a thinly disguised horoscope",
         "url": "https://simonwillison.net/2024/Oct/15/chatgpt-horoscopes/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "radeeyate",
         "commentsUrl": "https://news.ycombinator.com/item?id=41434857",
-        "numComments": 0
-    },
-    {
-        "id": "41427834",
-        "title": "Building a tool for Gemini Pro to return bounding boxes for objects in images",
-        "url": "https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/",
-        "dt": "2024-09-02T18:45:05.000000Z",
-        "points": 3,
-        "submitter": "PaulHoule",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41427834",
         "numComments": 0
     }
 ]
