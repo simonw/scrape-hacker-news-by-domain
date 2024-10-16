@@ -1,5 +1,15 @@
 [
     {
+        "id": "41859273",
+        "title": "ChatGPT will happily write you a thinly disguised horoscope",
+        "url": "https://simonwillison.net/2024/Oct/15/chatgpt-horoscopes/",
+        "dt": "2024-10-16T14:17:31.000000Z",
+        "points": 1,
+        "submitter": "isaacfrond",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41859273",
+        "numComments": 0
+    },
+    {
         "id": "41848695",
         "title": "ChatGPT will happily write you a thinly disguised horoscope",
         "url": "https://simonwillison.net/2024/Oct/15/chatgpt-horoscopes/",
@@ -24,7 +34,7 @@
         "title": "Zero-latency SQLite storage in every Durable Object",
         "url": "https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/",
         "dt": "2024-10-13T23:07:03.000000Z",
-        "points": 281,
+        "points": 282,
         "submitter": "ajhit406",
         "commentsUrl": "https://news.ycombinator.com/item?id=41832547",
         "numComments": 102
@@ -288,15 +298,5 @@
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41459472",
         "numComments": 15
-    },
-    {
-        "id": "41434857",
-        "title": "Gemini Pro Bounding Box Visualization",
-        "url": "https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/",
-        "dt": "2024-09-03T13:41:06.000000Z",
-        "points": 2,
-        "submitter": "radeeyate",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41434857",
-        "numComments": 0
     }
 ]
