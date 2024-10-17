@@ -1,5 +1,15 @@
 [
     {
+        "id": "41866792",
+        "title": "Gemini API Additional Terms of Service",
+        "url": "https://simonwillison.net/2024/Oct/17/gemini-terms-of-service/",
+        "dt": "2024-10-17T05:53:12.000000Z",
+        "points": 1,
+        "submitter": "KenHV",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41866792",
+        "numComments": 0
+    },
+    {
         "id": "41859273",
         "title": "ChatGPT will happily write you a thinly disguised horoscope",
         "url": "https://simonwillison.net/2024/Oct/15/chatgpt-horoscopes/",
@@ -288,15 +298,5 @@
         "submitter": "selectnull",
         "commentsUrl": "https://news.ycombinator.com/item?id=41493236",
         "numComments": 0
-    },
-    {
-        "id": "41459472",
-        "title": "Uvtrick",
-        "url": "https://simonwillison.net/2024/Sep/1/uvtrick/",
-        "dt": "2024-09-05T18:55:02.000000Z",
-        "points": 47,
-        "submitter": "ulrischa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41459472",
-        "numComments": 15
     }
 ]
