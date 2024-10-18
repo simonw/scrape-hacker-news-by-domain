@@ -1,13 +1,23 @@
 [
     {
+        "id": "41880341",
+        "title": "Experimenting with audio input and output for the OpenAI Chat Completion API",
+        "url": "https://simonwillison.net/2024/Oct/18/openai-audio/",
+        "dt": "2024-10-18T15:30:32.000000Z",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41880341",
+        "numComments": 0
+    },
+    {
         "id": "41869128",
         "title": "Video scraping: extracting JSON from a 35s screen capture for 1/10th of a cent",
         "url": "https://simonwillison.net/2024/Oct/17/video-scraping/",
         "dt": "2024-10-17T12:43:12.000000Z",
-        "points": 59,
+        "points": 61,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=41869128",
-        "numComments": 14
+        "numComments": 16
     },
     {
         "id": "41866792",
@@ -288,15 +298,5 @@
         "submitter": "loganfrederick",
         "commentsUrl": "https://news.ycombinator.com/item?id=41527143",
         "numComments": 630
-    },
-    {
-        "id": "41518803",
-        "title": "SQLite in Django, datasette-gunicorn (2022)",
-        "url": "https://simonwillison.net/2022/Oct/23/datasette-gunicorn/",
-        "dt": "2024-09-12T08:45:17.000000Z",
-        "points": 1,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41518803",
-        "numComments": 0
     }
 ]
