@@ -1,5 +1,15 @@
 [
     {
+        "id": "41889263",
+        "title": "LLM inference library written in Rust with mistral.rs",
+        "url": "https://simonwillison.net/2024/Oct/19/mistralrs/",
+        "dt": "2024-10-19T17:41:38.000000Z",
+        "points": 3,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41889263",
+        "numComments": 0
+    },
+    {
         "id": "41880341",
         "title": "Experimenting with audio input and output for the OpenAI Chat Completion API",
         "url": "https://simonwillison.net/2024/Oct/18/openai-audio/",
@@ -14,7 +24,7 @@
         "title": "Video scraping: extracting JSON from a 35s screen capture for 1/10th of a cent",
         "url": "https://simonwillison.net/2024/Oct/17/video-scraping/",
         "dt": "2024-10-17T12:43:12.000000Z",
-        "points": 73,
+        "points": 151,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=41869128",
         "numComments": 17
@@ -288,15 +298,5 @@
         "submitter": "babelfish",
         "commentsUrl": "https://news.ycombinator.com/item?id=41549649",
         "numComments": 1352
-    },
-    {
-        "id": "41527143",
-        "title": "Notes on OpenAI's new o1 chain-of-thought models",
-        "url": "https://simonwillison.net/2024/Sep/12/openai-o1/",
-        "dt": "2024-09-13T00:48:01.000000Z",
-        "points": 699,
-        "submitter": "loganfrederick",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41527143",
-        "numComments": 630
     }
 ]
