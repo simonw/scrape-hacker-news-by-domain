@@ -1,13 +1,23 @@
 [
     {
+        "id": "41904595",
+        "title": "Everything I built with Claude Artifacts this week",
+        "url": "https://simonwillison.net/2024/Oct/21/claude-artifacts/",
+        "dt": "2024-10-21T14:33:19.000000Z",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41904595",
+        "numComments": 0
+    },
+    {
         "id": "41899864",
         "title": "The 3 AI Use Cases: Gods, Interns, and Cogs",
         "url": "https://simonwillison.net/2024/Oct/20/gods-interns-and-cogs/",
         "dt": "2024-10-21T01:14:05.000000Z",
-        "points": 8,
+        "points": 10,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=41899864",
-        "numComments": 2
+        "numComments": 3
     },
     {
         "id": "41889263",
@@ -288,15 +298,5 @@
         "submitter": "rednafi",
         "commentsUrl": "https://news.ycombinator.com/item?id=41580619",
         "numComments": 102
-    },
-    {
-        "id": "41572108",
-        "title": "Excerpts from the discussion about uv on Mastodon",
-        "url": "https://simonwillison.net/2024/Sep/8/uv-under-discussion-on-mastodon/",
-        "dt": "2024-09-17T20:07:37.000000Z",
-        "points": 2,
-        "submitter": "BerislavLopac",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41572108",
-        "numComments": 0
     }
 ]
