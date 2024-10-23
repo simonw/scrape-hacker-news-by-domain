@@ -1,5 +1,15 @@
 [
     {
+        "id": "41920309",
+        "title": "Wayback Machine: Models \u2013 Anthropic (8th October 20240",
+        "url": "https://simonwillison.net/2024/Oct/22/opus/",
+        "dt": "2024-10-23T00:37:04.000000Z",
+        "points": 2,
+        "submitter": "RafelMri",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41920309",
+        "numComments": 0
+    },
+    {
         "id": "41916764",
         "title": "Initial explorations of Anthropic's new Computer Use capability",
         "url": "https://simonwillison.net/2024/Oct/22/computer-use/",
@@ -288,15 +298,5 @@
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=41612972",
         "numComments": 0
-    },
-    {
-        "id": "41603653",
-        "title": "Notes on Using LLMs for Code",
-        "url": "https://simonwillison.net/2024/Sep/20/using-llms-for-code/",
-        "dt": "2024-09-20T16:45:21.000000Z",
-        "points": 26,
-        "submitter": "duck",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41603653",
-        "numComments": 4
     }
 ]
