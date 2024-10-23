@@ -3,7 +3,7 @@
     const title = el.querySelector('.titleline a').innerText;
     const points = parseInt(el.nextSibling.querySelector('.score').innerText);
     const url = el.querySelector('.titleline a').href;
-    const dt = el.nextSibling.querySelector('.age').title;
+    const dt = el.nextSibling.querySelector('.age').title.split(' ')[0];
     const submitter = el.nextSibling.querySelector('.hnuser').innerText;
     const commentsUrl = el.nextSibling.querySelector('.age a').href;
     const id = commentsUrl.split('?id=')[1];
