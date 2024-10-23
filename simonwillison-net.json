@@ -1,5 +1,15 @@
 [
     {
+        "id": "41929174",
+        "title": "Everything I built with Claude Artifacts this week",
+        "url": "https://simonwillison.net/2024/Oct/21/claude-artifacts/",
+        "dt": "2024-10-23T20:52:13",
+        "points": 9,
+        "submitter": "recvonline",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41929174",
+        "numComments": 1
+    },
+    {
         "id": "41923448",
         "title": "The most basic possible Hugo site",
         "url": "https://til.simonwillison.net/hugo/basic",
@@ -288,15 +298,5 @@
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41638987",
         "numComments": 467
-    },
-    {
-        "id": "41615404",
-        "title": "How streaming LLM APIs work",
-        "url": "https://til.simonwillison.net/llms/streaming-llm-apis",
-        "dt": "2024-09-22T07:55:02",
-        "points": 41,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41615404",
-        "numComments": 23
     }
 ]
