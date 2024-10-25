@@ -14,10 +14,10 @@
         "title": "Notes on the new Claude analysis JavaScript code execution tool",
         "url": "https://simonwillison.net/2024/Oct/24/claude-analysis-tool/",
         "dt": "2024-10-25T09:40:59",
-        "points": 94,
+        "points": 106,
         "submitter": "bstsb",
         "commentsUrl": "https://news.ycombinator.com/item?id=41943662",
-        "numComments": 28
+        "numComments": 33
     },
     {
         "id": "41929174",
@@ -114,7 +114,7 @@
         "title": "Video scraping: extracting JSON from a 35s screen capture for 1/10th of a cent",
         "url": "https://simonwillison.net/2024/Oct/17/video-scraping/",
         "dt": "2024-10-17T12:43:12",
-        "points": 307,
+        "points": 308,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=41869128",
         "numComments": 45
