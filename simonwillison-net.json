@@ -1,13 +1,23 @@
 [
     {
+        "id": "41948410",
+        "title": "Executing advanced ALTER TABLE operations in SQLite (2020)",
+        "url": "https://simonwillison.net/2020/Sep/23/sqlite-advanced-alter-table/",
+        "dt": "2024-10-25T18:51:59",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41948410",
+        "numComments": 0
+    },
+    {
         "id": "41943662",
         "title": "Notes on the new Claude analysis JavaScript code execution tool",
         "url": "https://simonwillison.net/2024/Oct/24/claude-analysis-tool/",
         "dt": "2024-10-25T09:40:59",
-        "points": 85,
+        "points": 94,
         "submitter": "bstsb",
         "commentsUrl": "https://news.ycombinator.com/item?id=41943662",
-        "numComments": 23
+        "numComments": 28
     },
     {
         "id": "41929174",
@@ -17,7 +27,7 @@
         "points": 614,
         "submitter": "recvonline",
         "commentsUrl": "https://news.ycombinator.com/item?id=41929174",
-        "numComments": 456
+        "numComments": 457
     },
     {
         "id": "41923448",
@@ -288,15 +298,5 @@
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=41644991",
         "numComments": 0
-    },
-    {
-        "id": "41643828",
-        "title": "Xkcd 1425 (Tasks) turns ten years old today",
-        "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
-        "dt": "2024-09-25T04:57:10",
-        "points": 2,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41643828",
-        "numComments": 1
     }
 ]
