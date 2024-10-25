@@ -1,5 +1,15 @@
 [
     {
+        "id": "41943662",
+        "title": "Notes on the new Claude analysis JavaScript code execution tool",
+        "url": "https://simonwillison.net/2024/Oct/24/claude-analysis-tool/",
+        "dt": "2024-10-25T09:40:59",
+        "points": 2,
+        "submitter": "bstsb",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41943662",
+        "numComments": 0
+    },
+    {
         "id": "41929174",
         "title": "Everything I built with Claude Artifacts this week",
         "url": "https://simonwillison.net/2024/Oct/21/claude-artifacts/",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=41643828",
         "numComments": 1
-    },
-    {
-        "id": "41638987",
-        "title": "Xkcd 1425 (Tasks) turns ten years old today",
-        "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
-        "dt": "2024-09-24T17:37:50",
-        "points": 1003,
-        "submitter": "ulrischa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41638987",
-        "numComments": 467
     }
 ]
