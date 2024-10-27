@@ -14,7 +14,7 @@
         "title": "Run a prompt to generate and execute jq programs using LLM-jq",
         "url": "https://simonwillison.net/2024/Oct/27/llm-jq/",
         "dt": "2024-10-27T06:09:47",
-        "points": 3,
+        "points": 4,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=41960210",
         "numComments": 0
@@ -34,7 +34,7 @@
         "title": "Notes on the new Claude analysis JavaScript code execution tool",
         "url": "https://simonwillison.net/2024/Oct/24/claude-analysis-tool/",
         "dt": "2024-10-25T09:40:59",
-        "points": 162,
+        "points": 163,
         "submitter": "bstsb",
         "commentsUrl": "https://news.ycombinator.com/item?id=41943662",
         "numComments": 49
