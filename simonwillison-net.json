@@ -1,5 +1,15 @@
 [
     {
+        "id": "41964569",
+        "title": "ChatGPT advanced voice mode can attempt Spanish with a Russian accent",
+        "url": "https://simonwillison.net/2024/Oct/26/russian-spanish-pelican/",
+        "dt": "2024-10-27T18:31:31",
+        "points": 2,
+        "submitter": "ulrischa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41964569",
+        "numComments": 0
+    },
+    {
         "id": "41960482",
         "title": "Pelicans on a Bicycle [SVG LLMs benchmark]",
         "url": "https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/",
@@ -7,7 +17,7 @@
         "points": 2,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=41960482",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "41960210",
@@ -288,15 +298,5 @@
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=41666256",
         "numComments": 0
-    },
-    {
-        "id": "41654936",
-        "title": "DJP: A Plugin System for Django",
-        "url": "https://simonwillison.net/2024/Sep/25/djp-a-plugin-system-for-django/",
-        "dt": "2024-09-26T05:50:44",
-        "points": 16,
-        "submitter": "Ch00k",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41654936",
-        "numComments": 2
     }
 ]
