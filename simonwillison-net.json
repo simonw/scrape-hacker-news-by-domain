@@ -1,10 +1,20 @@
 [
     {
+        "id": "41960482",
+        "title": "Pelicans on a Bicycle [SVG LLMs benchmark]",
+        "url": "https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/",
+        "dt": "2024-10-27T07:21:40",
+        "points": 1,
+        "submitter": "mdp2021",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41960482",
+        "numComments": 0
+    },
+    {
         "id": "41960210",
         "title": "Run a prompt to generate and execute jq programs using LLM-jq",
         "url": "https://simonwillison.net/2024/Oct/27/llm-jq/",
         "dt": "2024-10-27T06:09:47",
-        "points": 2,
+        "points": 3,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=41960210",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "Ch00k",
         "commentsUrl": "https://news.ycombinator.com/item?id=41654936",
         "numComments": 2
-    },
-    {
-        "id": "41648244",
-        "title": "Xkcd 1425 (Tasks) turns ten years old today",
-        "url": "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/",
-        "dt": "2024-09-25T14:56:28",
-        "points": 3,
-        "submitter": "signa11",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41648244",
-        "numComments": 0
     }
 ]
