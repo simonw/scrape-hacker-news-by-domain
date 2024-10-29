@@ -1,5 +1,15 @@
 [
     {
+        "id": "41984681",
+        "title": "You can now run prompts against images, audio, video in your terminal using LLM",
+        "url": "https://simonwillison.net/2024/Oct/29/llm-multi-modal/",
+        "dt": "2024-10-29T15:14:00",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=41984681",
+        "numComments": 0
+    },
+    {
         "id": "41964569",
         "title": "ChatGPT advanced voice mode can attempt Spanish with a Russian accent",
         "url": "https://simonwillison.net/2024/Oct/26/russian-spanish-pelican/",
@@ -288,15 +298,5 @@
         "submitter": "ipmb",
         "commentsUrl": "https://news.ycombinator.com/item?id=41676659",
         "numComments": 3
-    },
-    {
-        "id": "41666256",
-        "title": "DJP: A Plugin System for Django",
-        "url": "https://simonwillison.net/2024/Sep/25/djp-a-plugin-system-for-django/",
-        "dt": "2024-09-27T04:28:30",
-        "points": 3,
-        "submitter": "duck",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41666256",
-        "numComments": 0
     }
 ]
