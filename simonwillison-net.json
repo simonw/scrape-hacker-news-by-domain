@@ -1,5 +1,15 @@
 [
     {
+        "id": "42019125",
+        "title": "You can now run prompts against images, audio and video in terminal using LLM",
+        "url": "https://simonwillison.net/2024/Oct/29/llm-multi-modal/",
+        "dt": "2024-11-01T17:05:37",
+        "points": 1,
+        "submitter": "mariuz",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42019125",
+        "numComments": 0
+    },
+    {
         "id": "42006784",
         "title": "Running prompts against images, PDFs, audio and video with Google Gemini",
         "url": "https://til.simonwillison.net/llms/prompt-gemini",
@@ -288,15 +298,5 @@
         "submitter": "KenHV",
         "commentsUrl": "https://news.ycombinator.com/item?id=41714128",
         "numComments": 0
-    },
-    {
-        "id": "41711694",
-        "title": "OpenAI DevDay 2024 live blog",
-        "url": "https://simonwillison.net/2024/Oct/1/openai-devday-2024-live-blog/",
-        "dt": "2024-10-01T17:45:22",
-        "points": 212,
-        "submitter": "plurby",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41711694",
-        "numComments": 97
     }
 ]
