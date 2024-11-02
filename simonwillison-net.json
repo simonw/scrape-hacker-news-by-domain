@@ -1,13 +1,23 @@
 [
     {
+        "id": "42026796",
+        "title": "Release of LLM-Claude with pdf support",
+        "url": "https://simonwillison.net/2024/Nov/1/claude-api-pdf-support-beta/",
+        "dt": "2024-11-02T15:05:07",
+        "points": 1,
+        "submitter": "pama",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42026796",
+        "numComments": 0
+    },
+    {
         "id": "42024661",
         "title": "SmolLM2",
         "url": "https://simonwillison.net/2024/Nov/2/smollm2/",
         "dt": "2024-11-02T07:31:00",
-        "points": 103,
+        "points": 107,
         "submitter": "edward",
         "commentsUrl": "https://news.ycombinator.com/item?id=42024661",
-        "numComments": 38
+        "numComments": 39
     },
     {
         "id": "42019125",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "ankeshanand",
         "commentsUrl": "https://news.ycombinator.com/item?id=41735546",
-        "numComments": 0
-    },
-    {
-        "id": "41726939",
-        "title": "OpenAI DevDay: Let's build developer tools, not digital God",
-        "url": "https://simonwillison.net/2024/Oct/2/not-digital-god/",
-        "dt": "2024-10-03T02:58:17",
-        "points": 4,
-        "submitter": "todsacerdoti",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41726939",
         "numComments": 0
     }
 ]
