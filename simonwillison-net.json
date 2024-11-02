@@ -1,5 +1,15 @@
 [
     {
+        "id": "42024661",
+        "title": "SmolLM2",
+        "url": "https://simonwillison.net/2024/Nov/2/smollm2/",
+        "dt": "2024-11-02T07:31:00",
+        "points": 9,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42024661",
+        "numComments": 0
+    },
+    {
         "id": "42019125",
         "title": "You can now run prompts against images, audio and video in terminal using LLM",
         "url": "https://simonwillison.net/2024/Oct/29/llm-multi-modal/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=41726939",
-        "numComments": 0
-    },
-    {
-        "id": "41714128",
-        "title": "OpenAI launches Whisper large-v3-turbo model",
-        "url": "https://simonwillison.net/2024/Oct/1/whisper-large-v3-turbo-model/",
-        "dt": "2024-10-01T21:03:36",
-        "points": 2,
-        "submitter": "KenHV",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41714128",
         "numComments": 0
     }
 ]
