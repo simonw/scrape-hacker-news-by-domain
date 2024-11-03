@@ -1,5 +1,15 @@
 [
     {
+        "id": "42031307",
+        "title": "Google is adding smart home integration to their Gemini chatbot",
+        "url": "https://simonwillison.net/2024/Nov/1/smart-home-prompt-injection/",
+        "dt": "2024-11-03T05:21:54",
+        "points": 1,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42031307",
+        "numComments": 0
+    },
+    {
         "id": "42026796",
         "title": "Release of LLM-Claude with pdf support",
         "url": "https://simonwillison.net/2024/Nov/1/claude-api-pdf-support-beta/",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=41749288",
         "numComments": 15
-    },
-    {
-        "id": "41735546",
-        "title": "Gemini 1.5 Flash-8B",
-        "url": "https://simonwillison.net/2024/Oct/3/gemini-15-flash-8b/",
-        "dt": "2024-10-03T22:03:52",
-        "points": 2,
-        "submitter": "ankeshanand",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41735546",
-        "numComments": 0
     }
 ]
