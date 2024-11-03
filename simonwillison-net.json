@@ -1,5 +1,15 @@
 [
     {
+        "id": "42032968",
+        "title": "Docling: Document extraction Python library from the Deep Search team at IBM",
+        "url": "https://simonwillison.net/2024/Nov/3/docling/",
+        "dt": "2024-11-03T13:31:40",
+        "points": 3,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42032968",
+        "numComments": 0
+    },
+    {
         "id": "42031307",
         "title": "Google is adding smart home integration to their Gemini chatbot",
         "url": "https://simonwillison.net/2024/Nov/1/smart-home-prompt-injection/",
@@ -288,15 +298,5 @@
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=41792803",
         "numComments": 41
-    },
-    {
-        "id": "41749288",
-        "title": "Compiling and running sqlite3-rsync from a branch",
-        "url": "https://til.simonwillison.net/sqlite/compile-sqlite3-rsync",
-        "dt": "2024-10-05T11:59:09",
-        "points": 63,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41749288",
-        "numComments": 15
     }
 ]
