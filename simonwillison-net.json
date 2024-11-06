@@ -1,5 +1,15 @@
 [
     {
+        "id": "42059138",
+        "title": "Generating documentation from tests using files-to-prompt and LLM",
+        "url": "https://til.simonwillison.net/llms/docs-from-tests",
+        "dt": "2024-11-06T10:07:12",
+        "points": 3,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42059138",
+        "numComments": 0
+    },
+    {
         "id": "42056341",
         "title": "Docling",
         "url": "https://simonwillison.net/2024/Nov/3/docling/",
@@ -288,15 +298,5 @@
         "submitter": "maxerickson",
         "commentsUrl": "https://news.ycombinator.com/item?id=41848695",
         "numComments": 1
-    },
-    {
-        "id": "41845264",
-        "title": "ChatGPT will happily write you a thinly disguised horoscope",
-        "url": "https://simonwillison.net/2024/Oct/15/chatgpt-horoscopes/",
-        "dt": "2024-10-15T05:38:07",
-        "points": 4,
-        "submitter": "ingve",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41845264",
-        "numComments": 0
     }
 ]
