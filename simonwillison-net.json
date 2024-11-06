@@ -1,5 +1,15 @@
 [
     {
+        "id": "42056341",
+        "title": "Docling",
+        "url": "https://simonwillison.net/2024/Nov/3/docling/",
+        "dt": "2024-11-06T00:06:30",
+        "points": 2,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42056341",
+        "numComments": 0
+    },
+    {
         "id": "42048160",
         "title": "New OpenAI Feature: Predicted Outputs",
         "url": "https://simonwillison.net/2024/Nov/4/predicted-outputs/",
@@ -288,15 +298,5 @@
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=41845264",
         "numComments": 0
-    },
-    {
-        "id": "41832547",
-        "title": "Zero-latency SQLite storage in every Durable Object",
-        "url": "https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/",
-        "dt": "2024-10-13T23:07:03",
-        "points": 285,
-        "submitter": "ajhit406",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41832547",
-        "numComments": 103
     }
 ]
