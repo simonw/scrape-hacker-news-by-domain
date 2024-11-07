@@ -1,5 +1,15 @@
 [
     {
+        "id": "42079597",
+        "title": "Project: Verdad\u2013tracking misinformation in radio broadcasts using Gemini 1.5",
+        "url": "https://simonwillison.net/2024/Nov/7/project-verdad/",
+        "dt": "2024-11-07T18:48:27",
+        "points": 2,
+        "submitter": "speckx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42079597",
+        "numComments": 0
+    },
+    {
         "id": "42076138",
         "title": "Generating documentation from tests using files-to-prompt and LLM",
         "url": "https://til.simonwillison.net/llms/docs-from-tests",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "KenHV",
         "commentsUrl": "https://news.ycombinator.com/item?id=41866792",
-        "numComments": 0
-    },
-    {
-        "id": "41859273",
-        "title": "ChatGPT will happily write you a thinly disguised horoscope",
-        "url": "https://simonwillison.net/2024/Oct/15/chatgpt-horoscopes/",
-        "dt": "2024-10-16T14:17:31",
-        "points": 3,
-        "submitter": "isaacfrond",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41859273",
         "numComments": 0
     }
 ]
