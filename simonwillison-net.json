@@ -1,5 +1,15 @@
 [
     {
+        "id": "42091379",
+        "title": "ChainForge",
+        "url": "https://simonwillison.net/2024/Nov/8/chainforge/",
+        "dt": "2024-11-08T23:48:33",
+        "points": 2,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42091379",
+        "numComments": 0
+    },
+    {
         "id": "42079597",
         "title": "Project: Verdad\u2013tracking misinformation in radio broadcasts using Gemini 1.5",
         "url": "https://simonwillison.net/2024/Nov/7/project-verdad/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=41869128",
         "numComments": 46
-    },
-    {
-        "id": "41866792",
-        "title": "Gemini API Additional Terms of Service",
-        "url": "https://simonwillison.net/2024/Oct/17/gemini-terms-of-service/",
-        "dt": "2024-10-17T05:53:12",
-        "points": 2,
-        "submitter": "KenHV",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41866792",
-        "numComments": 0
     }
 ]
