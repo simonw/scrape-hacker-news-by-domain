@@ -4,10 +4,10 @@
         "title": "Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac",
         "url": "https://simonwillison.net/2024/Nov/12/qwen25-coder/",
         "dt": "2024-11-13T08:16:47",
-        "points": 140,
+        "points": 146,
         "submitter": "pabs3",
         "commentsUrl": "https://news.ycombinator.com/item?id=42123909",
-        "numComments": 46
+        "numComments": 49
     },
     {
         "id": "42121422",
@@ -54,7 +54,7 @@
         "title": "Project: Verdad\u2013tracking misinformation in radio broadcasts using Gemini 1.5",
         "url": "https://simonwillison.net/2024/Nov/7/project-verdad/",
         "dt": "2024-11-07T18:48:27",
-        "points": 6,
+        "points": 7,
         "submitter": "speckx",
         "commentsUrl": "https://news.ycombinator.com/item?id=42079597",
         "numComments": 0
