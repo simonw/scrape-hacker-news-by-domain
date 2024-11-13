@@ -1,5 +1,15 @@
 [
     {
+        "id": "42123909",
+        "title": "Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac",
+        "url": "https://simonwillison.net/2024/Nov/12/qwen25-coder/",
+        "dt": "2024-11-13T08:16:47",
+        "points": 3,
+        "submitter": "pabs3",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42123909",
+        "numComments": 0
+    },
+    {
         "id": "42121422",
         "title": "Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac",
         "url": "https://simonwillison.net/2024/Nov/12/qwen25-coder/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=41904595",
         "numComments": 0
-    },
-    {
-        "id": "41899864",
-        "title": "The 3 AI Use Cases: Gods, Interns, and Cogs",
-        "url": "https://simonwillison.net/2024/Oct/20/gods-interns-and-cogs/",
-        "dt": "2024-10-21T01:14:05",
-        "points": 25,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41899864",
-        "numComments": 4
     }
 ]
