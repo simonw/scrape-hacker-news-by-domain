@@ -1,5 +1,15 @@
 [
     {
+        "id": "42121422",
+        "title": "Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac",
+        "url": "https://simonwillison.net/2024/Nov/12/qwen25-coder/",
+        "dt": "2024-11-13T00:04:19",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42121422",
+        "numComments": 1
+    },
+    {
         "id": "42104524",
         "title": "MDN Browser Support Timelines",
         "url": "https://tools.simonwillison.net/mdn-timelines",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=41899864",
         "numComments": 4
-    },
-    {
-        "id": "41889263",
-        "title": "LLM inference library written in Rust with mistral.rs",
-        "url": "https://simonwillison.net/2024/Oct/19/mistralrs/",
-        "dt": "2024-10-19T17:41:38",
-        "points": 4,
-        "submitter": "todsacerdoti",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41889263",
-        "numComments": 0
     }
 ]
