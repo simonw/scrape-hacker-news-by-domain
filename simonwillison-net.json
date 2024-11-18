@@ -1,5 +1,15 @@
 [
     {
+        "id": "42170328",
+        "title": "Claude Token Counter",
+        "url": "https://tools.simonwillison.net/claude-token-counter",
+        "dt": "2024-11-18T06:48:30",
+        "points": 2,
+        "submitter": "handfuloflight",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42170328",
+        "numComments": 0
+    },
+    {
         "id": "42132568",
         "title": "Project: Verdad \u2013 tracking misinformation in radio broadcasts using Gemini 1.5",
         "url": "https://simonwillison.net/2024/Nov/7/project-verdad/",
@@ -14,7 +24,7 @@
         "title": "Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac",
         "url": "https://simonwillison.net/2024/Nov/12/qwen25-coder/",
         "dt": "2024-11-13T08:16:47",
-        "points": 162,
+        "points": 163,
         "submitter": "pabs3",
         "commentsUrl": "https://news.ycombinator.com/item?id=42123909",
         "numComments": 65
@@ -288,15 +298,5 @@
         "submitter": "dtquad",
         "commentsUrl": "https://news.ycombinator.com/item?id=41916764",
         "numComments": 1
-    },
-    {
-        "id": "41913378",
-        "title": "Everything I built with Claude Artifacts this week",
-        "url": "https://simonwillison.net/2024/Oct/21/claude-artifacts/",
-        "dt": "2024-10-22T11:55:27",
-        "points": 15,
-        "submitter": "marban",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41913378",
-        "numComments": 0
     }
 ]
