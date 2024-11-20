@@ -1,5 +1,15 @@
 [
     {
+        "id": "42191781",
+        "title": "Foursquare Open Source Places: A new foundational dataset",
+        "url": "https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/",
+        "dt": "2024-11-20T08:19:39",
+        "points": 1,
+        "submitter": "po",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42191781",
+        "numComments": 0
+    },
+    {
         "id": "42191208",
         "title": "Bluesky WebSocket Firehose",
         "url": "https://simonwillison.net/2024/Nov/20/bluesky-websocket-firehose/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=41923448",
-        "numComments": 0
-    },
-    {
-        "id": "41920309",
-        "title": "Wayback Machine: Models \u2013 Anthropic (8th October 20240",
-        "url": "https://simonwillison.net/2024/Oct/22/opus/",
-        "dt": "2024-10-23T00:37:04",
-        "points": 2,
-        "submitter": "RafelMri",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41920309",
         "numComments": 0
     }
 ]
