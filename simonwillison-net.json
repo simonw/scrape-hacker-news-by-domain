@@ -1,5 +1,15 @@
 [
     {
+        "id": "42191208",
+        "title": "Bluesky WebSocket Firehose",
+        "url": "https://simonwillison.net/2024/Nov/20/bluesky-websocket-firehose/",
+        "dt": "2024-11-20T06:10:02",
+        "points": 1,
+        "submitter": "smy20011",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42191208",
+        "numComments": 0
+    },
+    {
         "id": "42170328",
         "title": "Claude Token Counter",
         "url": "https://tools.simonwillison.net/claude-token-counter",
@@ -288,15 +298,5 @@
         "submitter": "RafelMri",
         "commentsUrl": "https://news.ycombinator.com/item?id=41920309",
         "numComments": 0
-    },
-    {
-        "id": "41916764",
-        "title": "Initial explorations of Anthropic's new Computer Use capability",
-        "url": "https://simonwillison.net/2024/Oct/22/computer-use/",
-        "dt": "2024-10-22T17:46:36",
-        "points": 9,
-        "submitter": "dtquad",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41916764",
-        "numComments": 1
     }
 ]
