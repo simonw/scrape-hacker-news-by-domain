@@ -4,17 +4,17 @@
         "title": "/usr/bin/env -S uv run",
         "url": "https://simonwillison.net/2024/Aug/21/usrbinenv-uv-run/",
         "dt": "2024-11-20T21:22:36",
-        "points": 109,
+        "points": 110,
         "submitter": "jcbhmr",
         "commentsUrl": "https://news.ycombinator.com/item?id=42198256",
-        "numComments": 32
+        "numComments": 35
     },
     {
         "id": "42191781",
         "title": "Foursquare Open Source Places: A new foundational dataset",
         "url": "https://simonwillison.net/2024/Nov/20/foursquare-open-source-places/",
         "dt": "2024-11-20T08:19:39",
-        "points": 148,
+        "points": 149,
         "submitter": "po",
         "commentsUrl": "https://news.ycombinator.com/item?id=42191781",
         "numComments": 25
