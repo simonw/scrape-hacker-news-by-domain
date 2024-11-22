@@ -1,5 +1,15 @@
 [
     {
+        "id": "42215932",
+        "title": "Private School Labeler on Bluesky",
+        "url": "https://simonwillison.net/2024/Nov/22/private-school-labeler-on-bluesky/",
+        "dt": "2024-11-22T17:55:51",
+        "points": 23,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42215932",
+        "numComments": 0
+    },
+    {
         "id": "42215629",
         "title": "Gemini-Exp-1121",
         "url": "https://simonwillison.net/2024/Nov/22/gemini-exp-1121/",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=41948410",
         "numComments": 0
-    },
-    {
-        "id": "41943662",
-        "title": "Notes on the new Claude analysis JavaScript code execution tool",
-        "url": "https://simonwillison.net/2024/Oct/24/claude-analysis-tool/",
-        "dt": "2024-10-25T09:40:59",
-        "points": 179,
-        "submitter": "bstsb",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41943662",
-        "numComments": 53
     }
 ]
