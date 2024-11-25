@@ -1,5 +1,15 @@
 [
     {
+        "id": "42235796",
+        "title": "Ask questions of SQLite databases and CSV/JSON files in your terminal",
+        "url": "https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/",
+        "dt": "2024-11-25T12:42:07",
+        "points": 1,
+        "submitter": "redbell",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42235796",
+        "numComments": 0
+    },
+    {
         "id": "42233073",
         "title": "Open-Interpreter",
         "url": "https://simonwillison.net/2024/Nov/24/open-interpreter/",
@@ -288,15 +298,5 @@
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=41964569",
         "numComments": 0
-    },
-    {
-        "id": "41960482",
-        "title": "Pelicans on a Bicycle [SVG LLMs benchmark]",
-        "url": "https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/",
-        "dt": "2024-10-27T07:21:40",
-        "points": 2,
-        "submitter": "mdp2021",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41960482",
-        "numComments": 2
     }
 ]
