@@ -1,5 +1,15 @@
 [
     {
+        "id": "42259689",
+        "title": "Storing Times for Human Events",
+        "url": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
+        "dt": "2024-11-27T20:57:06",
+        "points": 2,
+        "submitter": "vimbtw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42259689",
+        "numComments": 0
+    },
+    {
         "id": "42240607",
         "title": "Leaked system prompts from Vercel v0",
         "url": "https://simonwillison.net/2024/Nov/25/leaked-system-prompts-from-vercel-v0/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "mariuz",
         "commentsUrl": "https://news.ycombinator.com/item?id=42006784",
-        "numComments": 0
-    },
-    {
-        "id": "41994017",
-        "title": "Monthnotes for October",
-        "url": "https://simonwillison.net/2024/Oct/30/monthnotes/",
-        "dt": "2024-10-30T12:12:12",
-        "points": 1,
-        "submitter": "wild_egg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=41994017",
         "numComments": 0
     }
 ]
