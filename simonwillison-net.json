@@ -1,10 +1,20 @@
 [
     {
+        "id": "42268506",
+        "title": "SmolVLM \u2013 small yet mighty Vision Language Model",
+        "url": "https://simonwillison.net/2024/Nov/28/smolvlm/",
+        "dt": "2024-11-28T21:02:16",
+        "points": 2,
+        "submitter": "amrrs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42268506",
+        "numComments": 0
+    },
+    {
         "id": "42259689",
         "title": "Storing Times for Human Events",
         "url": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
         "dt": "2024-11-27T20:57:06",
-        "points": 10,
+        "points": 11,
         "submitter": "vimbtw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42259689",
         "numComments": 3
@@ -288,15 +298,5 @@
         "submitter": "mariuz",
         "commentsUrl": "https://news.ycombinator.com/item?id=42019125",
         "numComments": 1
-    },
-    {
-        "id": "42006784",
-        "title": "Running prompts against images, PDFs, audio and video with Google Gemini",
-        "url": "https://til.simonwillison.net/llms/prompt-gemini",
-        "dt": "2024-10-31T13:38:01",
-        "points": 1,
-        "submitter": "mariuz",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42006784",
-        "numComments": 0
     }
 ]
