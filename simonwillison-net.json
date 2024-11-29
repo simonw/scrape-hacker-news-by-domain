@@ -1,5 +1,15 @@
 [
     {
+        "id": "42272894",
+        "title": "GitHub OAuth for a static site using Cloudflare Workers",
+        "url": "https://til.simonwillison.net/cloudflare/workers-github-oauth",
+        "dt": "2024-11-29T10:45:34",
+        "points": 3,
+        "submitter": "chmaynard",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42272894",
+        "numComments": 0
+    },
+    {
         "id": "42268506",
         "title": "SmolVLM \u2013 small yet mighty Vision Language Model",
         "url": "https://simonwillison.net/2024/Nov/28/smolvlm/",
@@ -288,15 +298,5 @@
         "submitter": "edward",
         "commentsUrl": "https://news.ycombinator.com/item?id=42024661",
         "numComments": 47
-    },
-    {
-        "id": "42019125",
-        "title": "You can now run prompts against images, audio and video in terminal using LLM",
-        "url": "https://simonwillison.net/2024/Oct/29/llm-multi-modal/",
-        "dt": "2024-11-01T17:05:37",
-        "points": 3,
-        "submitter": "mariuz",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42019125",
-        "numComments": 1
     }
 ]
