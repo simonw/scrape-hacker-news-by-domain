@@ -1,5 +1,15 @@
 [
     {
+        "id": "42281983",
+        "title": "Storing Times for Human Events",
+        "url": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
+        "dt": "2024-11-30T15:02:18",
+        "points": 1,
+        "submitter": "saikatsg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42281983",
+        "numComments": 0
+    },
+    {
         "id": "42277421",
         "title": "Structured Generation with SmolLM2 running in browser and WebGPU",
         "url": "https://simonwillison.net/2024/Nov/29/structured-generation-smollm2-webgpu/",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=42031307",
         "numComments": 0
-    },
-    {
-        "id": "42026796",
-        "title": "Release of LLM-Claude with pdf support",
-        "url": "https://simonwillison.net/2024/Nov/1/claude-api-pdf-support-beta/",
-        "dt": "2024-11-02T15:05:07",
-        "points": 2,
-        "submitter": "pama",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42026796",
-        "numComments": 1
     }
 ]
