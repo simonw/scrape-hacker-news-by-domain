@@ -94,10 +94,10 @@
         "title": "Ask questions of SQLite databases and CSV/JSON files in your terminal",
         "url": "https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/",
         "dt": "2024-11-25T12:42:07",
-        "points": 113,
+        "points": 114,
         "submitter": "redbell",
         "commentsUrl": "https://news.ycombinator.com/item?id=42235796",
-        "numComments": 46
+        "numComments": 48
     },
     {
         "id": "42233073",
@@ -124,7 +124,7 @@
         "title": "Private School Labeler on Bluesky",
         "url": "https://simonwillison.net/2024/Nov/22/private-school-labeler-on-bluesky/",
         "dt": "2024-11-22T17:55:51",
-        "points": 39,
+        "points": 40,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=42215932",
         "numComments": 13
