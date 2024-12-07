@@ -1,10 +1,20 @@
 [
     {
+        "id": "42352625",
+        "title": "Building an automatically updating live blog in Django",
+        "url": "https://til.simonwillison.net/django/live-blog",
+        "dt": "2024-12-07T20:27:46",
+        "points": 2,
+        "submitter": "indigodaddy",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42352625",
+        "numComments": 0
+    },
+    {
         "id": "42352344",
         "title": "The most basic possible Hugo site",
         "url": "https://til.simonwillison.net/hugo/basic",
         "dt": "2024-12-07T19:49:50",
-        "points": 1,
+        "points": 2,
         "submitter": "indigodaddy",
         "commentsUrl": "https://news.ycombinator.com/item?id=42352344",
         "numComments": 0
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=42059138",
-        "numComments": 0
-    },
-    {
-        "id": "42056341",
-        "title": "Docling",
-        "url": "https://simonwillison.net/2024/Nov/3/docling/",
-        "dt": "2024-11-06T00:06:30",
-        "points": 5,
-        "submitter": "edward",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42056341",
         "numComments": 0
     }
 ]
