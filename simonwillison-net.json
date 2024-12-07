@@ -1,5 +1,15 @@
 [
     {
+        "id": "42352344",
+        "title": "The most basic possible Hugo site",
+        "url": "https://til.simonwillison.net/hugo/basic",
+        "dt": "2024-12-07T19:49:50",
+        "points": 1,
+        "submitter": "indigodaddy",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42352344",
+        "numComments": 0
+    },
+    {
         "id": "42318738",
         "title": "First impressions of the new Amazon Nova LLMs (via a new LLM-bedrock plugin)",
         "url": "https://simonwillison.net/2024/Dec/4/amazon-nova/",
@@ -288,15 +298,5 @@
         "submitter": "edward",
         "commentsUrl": "https://news.ycombinator.com/item?id=42056341",
         "numComments": 0
-    },
-    {
-        "id": "42048160",
-        "title": "New OpenAI Feature: Predicted Outputs",
-        "url": "https://simonwillison.net/2024/Nov/4/predicted-outputs/",
-        "dt": "2024-11-05T02:47:19",
-        "points": 58,
-        "submitter": "limoce",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42048160",
-        "numComments": 7
     }
 ]
