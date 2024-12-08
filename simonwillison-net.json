@@ -24,7 +24,7 @@
         "title": "The most basic possible Hugo site",
         "url": "https://til.simonwillison.net/hugo/basic",
         "dt": "2024-12-07T19:49:50",
-        "points": 4,
+        "points": 5,
         "submitter": "indigodaddy",
         "commentsUrl": "https://news.ycombinator.com/item?id=42352344",
         "numComments": 0
@@ -134,7 +134,7 @@
         "title": "Ask questions of SQLite databases and CSV/JSON files in your terminal",
         "url": "https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/",
         "dt": "2024-11-25T12:42:07",
-        "points": 117,
+        "points": 118,
         "submitter": "redbell",
         "commentsUrl": "https://news.ycombinator.com/item?id=42235796",
         "numComments": 49
