@@ -1,5 +1,15 @@
 [
     {
+        "id": "42358025",
+        "title": "Storing Times for Human Events",
+        "url": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
+        "dt": "2024-12-08T16:34:48",
+        "points": 1,
+        "submitter": "leephillips",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42358025",
+        "numComments": 0
+    },
+    {
         "id": "42352625",
         "title": "Building an automatically updating live blog in Django",
         "url": "https://til.simonwillison.net/django/live-blog",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "sebg",
         "commentsUrl": "https://news.ycombinator.com/item?id=42076138",
-        "numComments": 0
-    },
-    {
-        "id": "42059138",
-        "title": "Generating documentation from tests using files-to-prompt and LLM",
-        "url": "https://til.simonwillison.net/llms/docs-from-tests",
-        "dt": "2024-11-06T10:07:12",
-        "points": 4,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42059138",
         "numComments": 0
     }
 ]
