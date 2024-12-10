@@ -1,5 +1,15 @@
 [
     {
+        "id": "42382091",
+        "title": "ChatGPT Canvas can make API requests now, but it's complicated",
+        "url": "https://simonwillison.net/2024/Dec/10/chatgpt-canvas/",
+        "dt": "2024-12-10T22:04:22",
+        "points": 1,
+        "submitter": "ulrischa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42382091",
+        "numComments": 0
+    },
+    {
         "id": "42366961",
         "title": "I can now run a GPT-4 class model on my laptop",
         "url": "https://simonwillison.net/2024/Dec/9/llama-33-70b/",
@@ -7,7 +17,7 @@
         "points": 93,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42366961",
-        "numComments": 26
+        "numComments": 27
     },
     {
         "id": "42364372",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=42099825",
-        "numComments": 0
-    },
-    {
-        "id": "42091379",
-        "title": "ChainForge",
-        "url": "https://simonwillison.net/2024/Nov/8/chainforge/",
-        "dt": "2024-11-08T23:48:33",
-        "points": 2,
-        "submitter": "edward",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42091379",
         "numComments": 0
     }
 ]
