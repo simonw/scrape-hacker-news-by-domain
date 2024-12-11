@@ -1,5 +1,15 @@
 [
     {
+        "id": "42392563",
+        "title": "Gemini 2.0 Flash: An outstanding multi-modal LLM with a sci-fi streaming mode",
+        "url": "https://simonwillison.net/2024/Dec/11/gemini-2/",
+        "dt": "2024-12-11T20:28:26",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42392563",
+        "numComments": 0
+    },
+    {
         "id": "42382091",
         "title": "ChatGPT Canvas can make API requests now, but it's complicated",
         "url": "https://simonwillison.net/2024/Dec/10/chatgpt-canvas/",
@@ -24,10 +34,10 @@
         "title": "Storing Times for Human Events",
         "url": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
         "dt": "2024-12-09T09:18:55",
-        "points": 2,
+        "points": 32,
         "submitter": "kiyanwang",
         "commentsUrl": "https://news.ycombinator.com/item?id=42364372",
-        "numComments": 0
+        "numComments": 3
     },
     {
         "id": "42358025",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=42104524",
         "numComments": 7
-    },
-    {
-        "id": "42099825",
-        "title": "Visualizing local election results with Datasette, Observable and MapLibre GL",
-        "url": "https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/",
-        "dt": "2024-11-10T12:26:04",
-        "points": 3,
-        "submitter": "todsacerdoti",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42099825",
-        "numComments": 0
     }
 ]
