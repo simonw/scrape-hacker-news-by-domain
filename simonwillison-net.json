@@ -1,10 +1,20 @@
 [
     {
+        "id": "42394332",
+        "title": "ChatGPT Canvas can make API requests now, but it's complicated",
+        "url": "https://simonwillison.net/2024/Dec/10/chatgpt-canvas/",
+        "dt": "2024-12-11T23:35:44",
+        "points": 1,
+        "submitter": "handfuloflight",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42394332",
+        "numComments": 0
+    },
+    {
         "id": "42392563",
         "title": "Gemini 2.0 Flash: An outstanding multi-modal LLM with a sci-fi streaming mode",
         "url": "https://simonwillison.net/2024/Dec/11/gemini-2/",
         "dt": "2024-12-11T20:28:26",
-        "points": 2,
+        "points": 3,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42392563",
         "numComments": 0
@@ -34,10 +44,10 @@
         "title": "Storing Times for Human Events",
         "url": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
         "dt": "2024-12-09T09:18:55",
-        "points": 56,
+        "points": 62,
         "submitter": "kiyanwang",
         "commentsUrl": "https://news.ycombinator.com/item?id=42364372",
-        "numComments": 27
+        "numComments": 31
     },
     {
         "id": "42358025",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42121422",
         "numComments": 1
-    },
-    {
-        "id": "42104524",
-        "title": "MDN Browser Support Timelines",
-        "url": "https://tools.simonwillison.net/mdn-timelines",
-        "dt": "2024-11-11T04:06:42",
-        "points": 18,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42104524",
-        "numComments": 7
     }
 ]
