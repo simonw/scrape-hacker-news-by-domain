@@ -4,7 +4,7 @@
         "title": "Clio: A system for privacy-preserving insights into real-world AI use",
         "url": "https://simonwillison.net/2024/Dec/12/clio/",
         "dt": "2024-12-13T00:34:57",
-        "points": 1,
+        "points": 2,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=42404888",
         "numComments": 0
@@ -14,7 +14,7 @@
         "title": "ChatGPT Canvas can make API requests now, but it's complicated",
         "url": "https://simonwillison.net/2024/Dec/10/chatgpt-canvas/",
         "dt": "2024-12-11T23:35:44",
-        "points": 1,
+        "points": 2,
         "submitter": "handfuloflight",
         "commentsUrl": "https://news.ycombinator.com/item?id=42394332",
         "numComments": 0
@@ -24,7 +24,7 @@
         "title": "Gemini 2.0 Flash: An outstanding multi-modal LLM with a sci-fi streaming mode",
         "url": "https://simonwillison.net/2024/Dec/11/gemini-2/",
         "dt": "2024-12-11T20:28:26",
-        "points": 6,
+        "points": 7,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42392563",
         "numComments": 0
@@ -34,7 +34,7 @@
         "title": "ChatGPT Canvas can make API requests now, but it's complicated",
         "url": "https://simonwillison.net/2024/Dec/10/chatgpt-canvas/",
         "dt": "2024-12-10T22:04:22",
-        "points": 1,
+        "points": 2,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=42382091",
         "numComments": 0
@@ -54,7 +54,7 @@
         "title": "Storing Times for Human Events",
         "url": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
         "dt": "2024-12-09T09:18:55",
-        "points": 160,
+        "points": 162,
         "submitter": "kiyanwang",
         "commentsUrl": "https://news.ycombinator.com/item?id=42364372",
         "numComments": 78
