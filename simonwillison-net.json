@@ -1,5 +1,15 @@
 [
     {
+        "id": "42425488",
+        "title": "(How) I Build a Feature",
+        "url": "https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/",
+        "dt": "2024-12-15T19:46:27",
+        "points": 1,
+        "submitter": "handfuloflight",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42425488",
+        "numComments": 1
+    },
+    {
         "id": "42404888",
         "title": "Clio: A system for privacy-preserving insights into real-world AI use",
         "url": "https://simonwillison.net/2024/Dec/12/clio/",
@@ -288,15 +298,5 @@
         "submitter": "MilnerRoute",
         "commentsUrl": "https://news.ycombinator.com/item?id=42132568",
         "numComments": 0
-    },
-    {
-        "id": "42123909",
-        "title": "Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac",
-        "url": "https://simonwillison.net/2024/Nov/12/qwen25-coder/",
-        "dt": "2024-11-13T08:16:47",
-        "points": 164,
-        "submitter": "pabs3",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42123909",
-        "numComments": 65
     }
 ]
