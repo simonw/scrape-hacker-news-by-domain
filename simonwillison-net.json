@@ -1,5 +1,15 @@
 [
     {
+        "id": "42430903",
+        "title": "Phi-4 Technical Report",
+        "url": "https://simonwillison.net/2024/Dec/15/phi-4-technical-report/",
+        "dt": "2024-12-16T13:49:07",
+        "points": 2,
+        "submitter": "emschwartz",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42430903",
+        "numComments": 0
+    },
+    {
         "id": "42425488",
         "title": "(How) I Build a Feature",
         "url": "https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/",
@@ -288,15 +298,5 @@
         "submitter": "handfuloflight",
         "commentsUrl": "https://news.ycombinator.com/item?id=42170328",
         "numComments": 1
-    },
-    {
-        "id": "42132568",
-        "title": "Project: Verdad \u2013 tracking misinformation in radio broadcasts using Gemini 1.5",
-        "url": "https://simonwillison.net/2024/Nov/7/project-verdad/",
-        "dt": "2024-11-14T02:33:40",
-        "points": 4,
-        "submitter": "MilnerRoute",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42132568",
-        "numComments": 0
     }
 ]
