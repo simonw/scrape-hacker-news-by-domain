@@ -1,5 +1,15 @@
 [
     {
+        "id": "42433609",
+        "title": "Pelicans on a Bicycle",
+        "url": "https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/",
+        "dt": "2024-12-16T18:10:51",
+        "points": 3,
+        "submitter": "colejohnson66",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42433609",
+        "numComments": 0
+    },
+    {
         "id": "42430903",
         "title": "Phi-4 Technical Report",
         "url": "https://simonwillison.net/2024/Dec/15/phi-4-technical-report/",
@@ -288,15 +298,5 @@
         "submitter": "smy20011",
         "commentsUrl": "https://news.ycombinator.com/item?id=42191208",
         "numComments": 0
-    },
-    {
-        "id": "42170328",
-        "title": "Claude Token Counter",
-        "url": "https://tools.simonwillison.net/claude-token-counter",
-        "dt": "2024-11-18T06:48:30",
-        "points": 3,
-        "submitter": "handfuloflight",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42170328",
-        "numComments": 1
     }
 ]
