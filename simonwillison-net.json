@@ -1,5 +1,15 @@
 [
     {
+        "id": "42444906",
+        "title": "The Baked Data architectural pattern",
+        "url": "https://simonwillison.net/2021/Jul/28/baked-data/",
+        "dt": "2024-12-17T20:22:46",
+        "points": 1,
+        "submitter": "jxmorris12",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42444906",
+        "numComments": 0
+    },
+    {
         "id": "42433609",
         "title": "Pelicans on a bicycle",
         "url": "https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/",
@@ -288,15 +298,5 @@
         "submitter": "po",
         "commentsUrl": "https://news.ycombinator.com/item?id=42191781",
         "numComments": 28
-    },
-    {
-        "id": "42191208",
-        "title": "Bluesky WebSocket Firehose",
-        "url": "https://simonwillison.net/2024/Nov/20/bluesky-websocket-firehose/",
-        "dt": "2024-11-20T06:10:02",
-        "points": 3,
-        "submitter": "smy20011",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42191208",
-        "numComments": 0
     }
 ]
