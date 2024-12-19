@@ -1,5 +1,15 @@
 [
     {
+        "id": "42464433",
+        "title": "Is AI progress slowing down?",
+        "url": "https://simonwillison.net/2024/Dec/19/is-ai-progress-slowing-down/",
+        "dt": "2024-12-19T18:38:30",
+        "points": 2,
+        "submitter": "speckx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42464433",
+        "numComments": 0
+    },
+    {
         "id": "42461073",
         "title": "Building Python tools with a one-shot prompt using uv run and Claude Projects",
         "url": "https://simonwillison.net/2024/Dec/19/one-shot-python-tools/",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=42215932",
         "numComments": 13
-    },
-    {
-        "id": "42215629",
-        "title": "Gemini-Exp-1121",
-        "url": "https://simonwillison.net/2024/Nov/22/gemini-exp-1121/",
-        "dt": "2024-11-22T17:20:37",
-        "points": 1,
-        "submitter": "mariuz",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42215629",
-        "numComments": 0
     }
 ]
