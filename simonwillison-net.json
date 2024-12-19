@@ -1,5 +1,15 @@
 [
     {
+        "id": "42461073",
+        "title": "Building Python tools with a one-shot prompt using uv run and Claude Projects",
+        "url": "https://simonwillison.net/2024/Dec/19/one-shot-python-tools/",
+        "dt": "2024-12-19T13:08:47",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42461073",
+        "numComments": 0
+    },
+    {
         "id": "42453635",
         "title": "OpenAI WebRTC Audio Demo",
         "url": "https://simonwillison.net/2024/Dec/17/openai-webrtc/",
@@ -288,15 +298,5 @@
         "submitter": "mariuz",
         "commentsUrl": "https://news.ycombinator.com/item?id=42215629",
         "numComments": 0
-    },
-    {
-        "id": "42198256",
-        "title": "/usr/bin/env -S uv run",
-        "url": "https://simonwillison.net/2024/Aug/21/usrbinenv-uv-run/",
-        "dt": "2024-11-20T21:22:36",
-        "points": 125,
-        "submitter": "jcbhmr",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42198256",
-        "numComments": 40
     }
 ]
