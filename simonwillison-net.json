@@ -1,5 +1,15 @@
 [
     {
+        "id": "42468890",
+        "title": "December in LLMs has been a lot",
+        "url": "https://simonwillison.net/2024/Dec/20/december-in-llms-has-been-a-lot/",
+        "dt": "2024-12-20T06:55:51",
+        "points": 2,
+        "submitter": "pr337h4m",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42468890",
+        "numComments": 0
+    },
+    {
         "id": "42467952",
         "title": "Building Python tools with a one-shot prompt using uv run and Claude Projects",
         "url": "https://simonwillison.net/2024/Dec/19/one-shot-python-tools/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "handfuloflight",
         "commentsUrl": "https://news.ycombinator.com/item?id=42233073",
-        "numComments": 0
-    },
-    {
-        "id": "42233025",
-        "title": "Ask questions of SQLite databases and CSV/JSON files in your terminal",
-        "url": "https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/",
-        "dt": "2024-11-25T03:38:53",
-        "points": 4,
-        "submitter": "moyer",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42233025",
         "numComments": 0
     }
 ]
