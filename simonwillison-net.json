@@ -1,5 +1,15 @@
 [
     {
+        "id": "42490939",
+        "title": "OpenAI API YAML File",
+        "url": "https://simonwillison.net/2024/Dec/22/openai-openapi/",
+        "dt": "2024-12-23T01:41:39",
+        "points": 1,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42490939",
+        "numComments": 0
+    },
+    {
         "id": "42468890",
         "title": "December in LLMs has been a lot",
         "url": "https://simonwillison.net/2024/Dec/20/december-in-llms-has-been-a-lot/",
@@ -288,15 +298,5 @@
         "submitter": "redbell",
         "commentsUrl": "https://news.ycombinator.com/item?id=42235796",
         "numComments": 49
-    },
-    {
-        "id": "42233073",
-        "title": "Open-Interpreter",
-        "url": "https://simonwillison.net/2024/Nov/24/open-interpreter/",
-        "dt": "2024-11-25T03:48:38",
-        "points": 1,
-        "submitter": "handfuloflight",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42233073",
-        "numComments": 0
     }
 ]
