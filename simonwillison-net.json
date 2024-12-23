@@ -1,5 +1,15 @@
 [
     {
+        "id": "42491049",
+        "title": "My approach to running a link blog",
+        "url": "https://simonwillison.net/2024/Dec/22/link-blog/",
+        "dt": "2024-12-23T02:00:06",
+        "points": 1,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42491049",
+        "numComments": 0
+    },
+    {
         "id": "42490939",
         "title": "OpenAI API YAML File",
         "url": "https://simonwillison.net/2024/Dec/22/openai-openapi/",
@@ -288,15 +298,5 @@
         "submitter": "speckx",
         "commentsUrl": "https://news.ycombinator.com/item?id=42239480",
         "numComments": 0
-    },
-    {
-        "id": "42235796",
-        "title": "Ask questions of SQLite databases and CSV/JSON files in your terminal",
-        "url": "https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/",
-        "dt": "2024-11-25T12:42:07",
-        "points": 118,
-        "submitter": "redbell",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42235796",
-        "numComments": 49
     }
 ]
