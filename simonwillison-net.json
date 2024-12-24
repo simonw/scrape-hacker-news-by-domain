@@ -1,5 +1,15 @@
 [
     {
+        "id": "42505038",
+        "title": "Trying out QvQ \u2013 Qwen's new visual reasoning model",
+        "url": "https://simonwillison.net/2024/Dec/24/qvq/",
+        "dt": "2024-12-24T21:25:32",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42505038",
+        "numComments": 0
+    },
+    {
         "id": "42502192",
         "title": "A Replacement for Bert: Introducing ModernBERT",
         "url": "https://simonwillison.net/2024/Dec/24/modernbert/",
@@ -288,15 +298,5 @@
         "submitter": "vimbtw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42259689",
         "numComments": 3
-    },
-    {
-        "id": "42240607",
-        "title": "Leaked system prompts from Vercel v0",
-        "url": "https://simonwillison.net/2024/Nov/25/leaked-system-prompts-from-vercel-v0/",
-        "dt": "2024-11-25T22:01:36",
-        "points": 3,
-        "submitter": "wxw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42240607",
-        "numComments": 0
     }
 ]
