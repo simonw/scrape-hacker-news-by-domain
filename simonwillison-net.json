@@ -1,5 +1,15 @@
 [
     {
+        "id": "42502192",
+        "title": "A Replacement for Bert: Introducing ModernBERT",
+        "url": "https://simonwillison.net/2024/Dec/24/modernbert/",
+        "dt": "2024-12-24T14:43:00",
+        "points": 2,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42502192",
+        "numComments": 0
+    },
+    {
         "id": "42491049",
         "title": "My approach to running a link blog",
         "url": "https://simonwillison.net/2024/Dec/22/link-blog/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "wxw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42240607",
-        "numComments": 0
-    },
-    {
-        "id": "42239480",
-        "title": "OpenStreetMap Embed URL",
-        "url": "https://simonwillison.net/2024/Nov/25/openstreetmap-embed-url/",
-        "dt": "2024-11-25T19:44:54",
-        "points": 2,
-        "submitter": "speckx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42239480",
         "numComments": 0
     }
 ]
