@@ -1,13 +1,23 @@
 [
     {
+        "id": "42570929",
+        "title": "Ending a year long posting streak",
+        "url": "https://simonwillison.net/2025/Jan/2/ending-a-year-long-posting-streak/",
+        "dt": "2025-01-02T01:54:22",
+        "points": 1,
+        "submitter": "mattrighetti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42570929",
+        "numComments": 0
+    },
+    {
         "id": "42560558",
         "title": "Things we learned about LLMs in 2024",
         "url": "https://simonwillison.net/2024/Dec/31/llms-in-2024/",
         "dt": "2024-12-31T18:11:06",
-        "points": 892,
+        "points": 894,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42560558",
-        "numComments": 539
+        "numComments": 540
     },
     {
         "id": "42505038",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=42272894",
-        "numComments": 0
-    },
-    {
-        "id": "42268506",
-        "title": "SmolVLM \u2013 small yet mighty Vision Language Model",
-        "url": "https://simonwillison.net/2024/Nov/28/smolvlm/",
-        "dt": "2024-11-28T21:02:16",
-        "points": 4,
-        "submitter": "amrrs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42268506",
         "numComments": 0
     }
 ]
