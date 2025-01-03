@@ -1,5 +1,15 @@
 [
     {
+        "id": "42585221",
+        "title": "My approach to running a link blog",
+        "url": "https://simonwillison.net/2024/Dec/22/link-blog/",
+        "dt": "2025-01-03T12:51:48",
+        "points": 1,
+        "submitter": "prawn",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42585221",
+        "numComments": 0
+    },
+    {
         "id": "42581587",
         "title": "My approach to running a link blog",
         "url": "https://simonwillison.net/2024/Dec/22/link-blog/",
@@ -14,10 +24,10 @@
         "title": "I still don't think companies serve you ads based on your microphone",
         "url": "https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/",
         "dt": "2025-01-03T00:25:57",
-        "points": 127,
+        "points": 129,
         "submitter": "paulcapewell",
         "commentsUrl": "https://news.ycombinator.com/item?id=42580659",
-        "numComments": 183
+        "numComments": 187
     },
     {
         "id": "42570929",
@@ -34,7 +44,7 @@
         "title": "Things we learned about LLMs in 2024",
         "url": "https://simonwillison.net/2024/Dec/31/llms-in-2024/",
         "dt": "2024-12-31T18:11:06",
-        "points": 935,
+        "points": 936,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42560558",
         "numComments": 560
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "tristanMatthias",
         "commentsUrl": "https://news.ycombinator.com/item?id=42283202",
-        "numComments": 0
-    },
-    {
-        "id": "42281983",
-        "title": "Storing Times for Human Events",
-        "url": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
-        "dt": "2024-11-30T15:02:18",
-        "points": 5,
-        "submitter": "saikatsg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42281983",
         "numComments": 0
     }
 ]
