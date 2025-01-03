@@ -1,13 +1,23 @@
 [
     {
+        "id": "42581587",
+        "title": "My approach to running a link blog",
+        "url": "https://simonwillison.net/2024/Dec/22/link-blog/",
+        "dt": "2025-01-03T02:26:07",
+        "points": 1,
+        "submitter": "robenkleene",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42581587",
+        "numComments": 0
+    },
+    {
         "id": "42580659",
         "title": "I still don't think companies serve you ads based on your microphone",
         "url": "https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/",
         "dt": "2025-01-03T00:25:57",
-        "points": 7,
+        "points": 66,
         "submitter": "paulcapewell",
         "commentsUrl": "https://news.ycombinator.com/item?id=42580659",
-        "numComments": 3
+        "numComments": 56
     },
     {
         "id": "42570929",
@@ -27,7 +37,7 @@
         "points": 927,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42560558",
-        "numComments": 557
+        "numComments": 558
     },
     {
         "id": "42505038",
@@ -287,16 +297,6 @@
         "points": 5,
         "submitter": "saikatsg",
         "commentsUrl": "https://news.ycombinator.com/item?id=42281983",
-        "numComments": 0
-    },
-    {
-        "id": "42277421",
-        "title": "Structured Generation with SmolLM2 running in browser and WebGPU",
-        "url": "https://simonwillison.net/2024/Nov/29/structured-generation-smollm2-webgpu/",
-        "dt": "2024-11-29T21:50:59",
-        "points": 1,
-        "submitter": "testerui",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42277421",
         "numComments": 0
     }
 ]
