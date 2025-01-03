@@ -1,5 +1,15 @@
 [
     {
+        "id": "42580659",
+        "title": "I still don't think companies serve you ads based on your microphone",
+        "url": "https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/",
+        "dt": "2025-01-03T00:25:57",
+        "points": 1,
+        "submitter": "paulcapewell",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42580659",
+        "numComments": 0
+    },
+    {
         "id": "42570929",
         "title": "Ending a year long posting streak",
         "url": "https://simonwillison.net/2025/Jan/2/ending-a-year-long-posting-streak/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "testerui",
         "commentsUrl": "https://news.ycombinator.com/item?id=42277421",
-        "numComments": 0
-    },
-    {
-        "id": "42272894",
-        "title": "GitHub OAuth for a static site using Cloudflare Workers",
-        "url": "https://til.simonwillison.net/cloudflare/workers-github-oauth",
-        "dt": "2024-11-29T10:45:34",
-        "points": 3,
-        "submitter": "chmaynard",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42272894",
         "numComments": 0
     }
 ]
