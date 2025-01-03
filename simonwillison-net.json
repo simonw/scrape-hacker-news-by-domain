@@ -17,7 +17,7 @@
         "points": 22,
         "submitter": "robenkleene",
         "commentsUrl": "https://news.ycombinator.com/item?id=42581587",
-        "numComments": 7
+        "numComments": 8
     },
     {
         "id": "42580659",
@@ -27,7 +27,7 @@
         "points": 143,
         "submitter": "paulcapewell",
         "commentsUrl": "https://news.ycombinator.com/item?id=42580659",
-        "numComments": 232
+        "numComments": 234
     },
     {
         "id": "42570929",
@@ -44,7 +44,7 @@
         "title": "Things we learned about LLMs in 2024",
         "url": "https://simonwillison.net/2024/Dec/31/llms-in-2024/",
         "dt": "2024-12-31T18:11:06",
-        "points": 941,
+        "points": 942,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42560558",
         "numComments": 563
