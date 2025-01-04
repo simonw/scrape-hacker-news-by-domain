@@ -1,5 +1,15 @@
 [
     {
+        "id": "42594130",
+        "title": "Claude Tries Standup",
+        "url": "https://simonwillison.net/2025/Jan/3/claude-tries-standup/",
+        "dt": "2025-01-04T11:40:29",
+        "points": 3,
+        "submitter": "tkgally",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42594130",
+        "numComments": 1
+    },
+    {
         "id": "42585221",
         "title": "My approach to running a link blog",
         "url": "https://simonwillison.net/2024/Dec/22/link-blog/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "LiveTheDream",
         "commentsUrl": "https://news.ycombinator.com/item?id=42288894",
-        "numComments": 0
-    },
-    {
-        "id": "42283202",
-        "title": "SmolLM2 (LLM) running in browser and WebGPU",
-        "url": "https://simonwillison.net/2024/Nov/29/structured-generation-smollm2-webgpu/",
-        "dt": "2024-11-30T18:39:21",
-        "points": 2,
-        "submitter": "tristanMatthias",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42283202",
         "numComments": 0
     }
 ]
