@@ -1,5 +1,15 @@
 [
     {
+        "id": "42662715",
+        "title": "My AI/LLM predictions for the next 1, 3 and 6 years",
+        "url": "https://simonwillison.net/2025/Jan/10/ai-predictions/",
+        "dt": "2025-01-11T02:21:52",
+        "points": 6,
+        "submitter": "azhenley",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42662715",
+        "numComments": 0
+    },
+    {
         "id": "42651787",
         "title": "My AI/LLM predictions for the next 1, 3 and 6 years, for Oxide and Friends",
         "url": "https://simonwillison.net/2025/Jan/10/ai-predictions/",
@@ -288,15 +298,5 @@
         "submitter": "indigodaddy",
         "commentsUrl": "https://news.ycombinator.com/item?id=42352344",
         "numComments": 0
-    },
-    {
-        "id": "42318738",
-        "title": "First impressions of the new Amazon Nova LLMs (via a new LLM-bedrock plugin)",
-        "url": "https://simonwillison.net/2024/Dec/4/amazon-nova/",
-        "dt": "2024-12-04T15:58:39",
-        "points": 9,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42318738",
-        "numComments": 3
     }
 ]
