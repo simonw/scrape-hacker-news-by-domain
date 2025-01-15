@@ -1,5 +1,15 @@
 [
     {
+        "id": "42707091",
+        "title": "ChatGPT scheduled tasks \u2013 tool instructions",
+        "url": "https://simonwillison.net/2025/Jan/15/chatgpt-tasks/",
+        "dt": "2025-01-15T03:46:38",
+        "points": 2,
+        "submitter": "ifcologne",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42707091",
+        "numComments": 0
+    },
+    {
         "id": "42662715",
         "title": "My AI/LLM predictions for the next 1, 3 and 6 years",
         "url": "https://simonwillison.net/2025/Jan/10/ai-predictions/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "indigodaddy",
         "commentsUrl": "https://news.ycombinator.com/item?id=42352625",
-        "numComments": 0
-    },
-    {
-        "id": "42352344",
-        "title": "The most basic possible Hugo site",
-        "url": "https://til.simonwillison.net/hugo/basic",
-        "dt": "2024-12-07T19:49:50",
-        "points": 5,
-        "submitter": "indigodaddy",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42352344",
         "numComments": 0
     }
 ]
