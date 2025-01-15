@@ -1,5 +1,15 @@
 [
     {
+        "id": "42707592",
+        "title": "LLM \u2013 A CLI utility and Python library for interacting with LLMs",
+        "url": "https://llm.datasette.io/en/stable/index.html",
+        "dt": "2025-01-15T05:18:25",
+        "points": 1,
+        "submitter": "tzury",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42707592",
+        "numComments": 0
+    },
+    {
         "id": "42236321",
         "title": "SQLite-utils: a tool for manipulating SQLite databases",
         "url": "https://sqlite-utils.datasette.io/en/stable/",
