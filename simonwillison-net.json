@@ -1,5 +1,15 @@
 [
     {
+        "id": "42753283",
+        "title": "Downloading every video for a TikTok account",
+        "url": "https://til.simonwillison.net/tiktok/download-all-videos",
+        "dt": "2025-01-19T03:17:12",
+        "points": 1,
+        "submitter": "walterbell",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42753283",
+        "numComments": 0
+    },
+    {
         "id": "42710171",
         "title": "ChatGPT reveals the system prompt for ChatGPT Tasks",
         "url": "https://simonwillison.net/2025/Jan/15/chatgpt-tasks/",
@@ -288,15 +298,5 @@
         "submitter": "kiyanwang",
         "commentsUrl": "https://news.ycombinator.com/item?id=42364372",
         "numComments": 80
-    },
-    {
-        "id": "42358025",
-        "title": "Storing Times for Human Events",
-        "url": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
-        "dt": "2024-12-08T16:34:48",
-        "points": 1,
-        "submitter": "leephillips",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42358025",
-        "numComments": 0
     }
 ]
