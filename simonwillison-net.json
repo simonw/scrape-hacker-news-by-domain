@@ -1,5 +1,15 @@
 [
     {
+        "id": "42759443",
+        "title": "Downloading every video for a TikTok account",
+        "url": "https://til.simonwillison.net/tiktok/download-all-videos",
+        "dt": "2025-01-19T17:53:09",
+        "points": 2,
+        "submitter": "ulrischa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42759443",
+        "numComments": 0
+    },
+    {
         "id": "42753283",
         "title": "Downloading every video for a TikTok account",
         "url": "https://til.simonwillison.net/tiktok/download-all-videos",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42366961",
         "numComments": 34
-    },
-    {
-        "id": "42364372",
-        "title": "Storing Times for Human Events",
-        "url": "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/",
-        "dt": "2024-12-09T09:18:55",
-        "points": 168,
-        "submitter": "kiyanwang",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42364372",
-        "numComments": 80
     }
 ]
