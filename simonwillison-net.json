@@ -1,5 +1,15 @@
 [
     {
+        "id": "42773086",
+        "title": "DeepSeek-R1 and Exploring DeepSeek-R1-Distill-Llama-8B",
+        "url": "https://simonwillison.net/2025/Jan/20/deepseek-r1/",
+        "dt": "2025-01-20T21:10:59",
+        "points": 1,
+        "submitter": "emschwartz",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42773086",
+        "numComments": 0
+    },
+    {
         "id": "42768136",
         "title": "Downloading every video for a TikTok account",
         "url": "https://til.simonwillison.net/tiktok/download-all-videos",
@@ -287,16 +297,6 @@
         "points": 8,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42392563",
-        "numComments": 0
-    },
-    {
-        "id": "42382091",
-        "title": "ChatGPT Canvas can make API requests now, but it's complicated",
-        "url": "https://simonwillison.net/2024/Dec/10/chatgpt-canvas/",
-        "dt": "2024-12-10T22:04:22",
-        "points": 2,
-        "submitter": "ulrischa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42382091",
         "numComments": 0
     }
 ]
