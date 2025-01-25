@@ -1,10 +1,20 @@
 [
     {
+        "id": "42821188",
+        "title": "A selfish personal argument for releasing code as Open Source",
+        "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
+        "dt": "2025-01-25T12:16:51",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42821188",
+        "numComments": 0
+    },
+    {
         "id": "42819347",
         "title": "A selfish personal argument for releasing code as Open Source",
         "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
         "dt": "2025-01-25T03:56:21",
-        "points": 4,
+        "points": 5,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=42819347",
         "numComments": 3
@@ -288,15 +298,5 @@
         "submitter": "emschwartz",
         "commentsUrl": "https://news.ycombinator.com/item?id=42430903",
         "numComments": 0
-    },
-    {
-        "id": "42425488",
-        "title": "(How) I Build a Feature",
-        "url": "https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/",
-        "dt": "2024-12-15T19:46:27",
-        "points": 1,
-        "submitter": "handfuloflight",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42425488",
-        "numComments": 1
     }
 ]
