@@ -1,5 +1,15 @@
 [
     {
+        "id": "42819347",
+        "title": "A selfish personal argument for releasing code as Open Source",
+        "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
+        "dt": "2025-01-25T03:56:21",
+        "points": 3,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42819347",
+        "numComments": 1
+    },
+    {
         "id": "42810520",
         "title": "Anthropic's New Citations API",
         "url": "https://simonwillison.net/2025/Jan/24/anthropics-new-citations-api/",
@@ -288,15 +298,5 @@
         "submitter": "handfuloflight",
         "commentsUrl": "https://news.ycombinator.com/item?id=42425488",
         "numComments": 1
-    },
-    {
-        "id": "42404888",
-        "title": "Clio: A system for privacy-preserving insights into real-world AI use",
-        "url": "https://simonwillison.net/2024/Dec/12/clio/",
-        "dt": "2024-12-13T00:34:57",
-        "points": 2,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42404888",
-        "numComments": 0
     }
 ]
