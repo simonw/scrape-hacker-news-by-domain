@@ -1,5 +1,15 @@
 [
     {
+        "id": "42832838",
+        "title": "Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M",
+        "url": "https://simonwillison.net/2025/Jan/26/qwen25-1m/",
+        "dt": "2025-01-26T19:01:05",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42832838",
+        "numComments": 0
+    },
+    {
         "id": "42821188",
         "title": "A selfish personal argument for releasing code as Open Source",
         "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
@@ -288,15 +298,5 @@
         "submitter": "colejohnson66",
         "commentsUrl": "https://news.ycombinator.com/item?id=42433609",
         "numComments": 54
-    },
-    {
-        "id": "42430903",
-        "title": "Phi-4 Technical Report",
-        "url": "https://simonwillison.net/2024/Dec/15/phi-4-technical-report/",
-        "dt": "2024-12-16T13:49:07",
-        "points": 5,
-        "submitter": "emschwartz",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42430903",
-        "numComments": 0
     }
 ]
