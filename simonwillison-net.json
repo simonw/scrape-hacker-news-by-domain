@@ -1,5 +1,15 @@
 [
     {
+        "id": "42842426",
+        "title": "Leaked Google Document: \"We Have No Moat, and Neither Does OpenAI\" (2023)",
+        "url": "https://simonwillison.net/2023/May/4/no-moat/",
+        "dt": "2025-01-27T15:55:54",
+        "points": 7,
+        "submitter": "grajaganDev",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42842426",
+        "numComments": 1
+    },
+    {
         "id": "42832838",
         "title": "Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M",
         "url": "https://simonwillison.net/2025/Jan/26/qwen25-1m/",
@@ -288,15 +298,5 @@
         "submitter": "jxmorris12",
         "commentsUrl": "https://news.ycombinator.com/item?id=42444906",
         "numComments": 0
-    },
-    {
-        "id": "42433609",
-        "title": "Pelicans on a bicycle",
-        "url": "https://simonwillison.net/2024/Oct/25/pelicans-on-a-bicycle/",
-        "dt": "2024-12-16T18:10:51",
-        "points": 102,
-        "submitter": "colejohnson66",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42433609",
-        "numComments": 54
     }
 ]
