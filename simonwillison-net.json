@@ -1,5 +1,15 @@
 [
     {
+        "id": "42844693",
+        "title": "A selfish personal argument for releasing code as Open Source",
+        "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
+        "dt": "2025-01-27T19:29:47",
+        "points": 2,
+        "submitter": "bilsbie",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42844693",
+        "numComments": 0
+    },
+    {
         "id": "42842426",
         "title": "Leaked Google Document: \"We Have No Moat, and Neither Does OpenAI\" (2023)",
         "url": "https://simonwillison.net/2023/May/4/no-moat/",
@@ -288,15 +298,5 @@
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=42453635",
         "numComments": 1
-    },
-    {
-        "id": "42444906",
-        "title": "The Baked Data architectural pattern",
-        "url": "https://simonwillison.net/2021/Jul/28/baked-data/",
-        "dt": "2024-12-17T20:22:46",
-        "points": 2,
-        "submitter": "jxmorris12",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42444906",
-        "numComments": 0
     }
 ]
