@@ -1,13 +1,23 @@
 [
     {
+        "id": "42856967",
+        "title": "A selfish personal argument for releasing code as Open Source",
+        "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
+        "dt": "2025-01-28T19:43:05",
+        "points": 2,
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42856967",
+        "numComments": 0
+    },
+    {
         "id": "42852866",
         "title": "Promising results from DeepSeek R1 for code",
         "url": "https://simonwillison.net/2025/Jan/27/llamacpp-pr/",
         "dt": "2025-01-28T14:44:06",
-        "points": 516,
+        "points": 591,
         "submitter": "k__",
         "commentsUrl": "https://news.ycombinator.com/item?id=42852866",
-        "numComments": 321
+        "numComments": 369
     },
     {
         "id": "42848890",
@@ -288,15 +298,5 @@
         "submitter": "CharlesW",
         "commentsUrl": "https://news.ycombinator.com/item?id=42467952",
         "numComments": 0
-    },
-    {
-        "id": "42464433",
-        "title": "Is AI progress slowing down?",
-        "url": "https://simonwillison.net/2024/Dec/19/is-ai-progress-slowing-down/",
-        "dt": "2024-12-19T18:38:30",
-        "points": 3,
-        "submitter": "speckx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42464433",
-        "numComments": 1
     }
 ]
