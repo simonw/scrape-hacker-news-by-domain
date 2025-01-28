@@ -1,5 +1,15 @@
 [
     {
+        "id": "42852866",
+        "title": "DeepSeek: X2 Speed for WASM with SIMD",
+        "url": "https://simonwillison.net/2025/Jan/27/llamacpp-pr/",
+        "dt": "2025-01-28T14:44:06",
+        "points": 38,
+        "submitter": "k__",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42852866",
+        "numComments": 3
+    },
+    {
         "id": "42848890",
         "title": "ggml: X2 speed for WASM by optimizing SIMD, written by DeekSeek-R1",
         "url": "https://simonwillison.net/2025/Jan/27/llamacpp-pr/",
@@ -288,15 +298,5 @@
         "submitter": "speckx",
         "commentsUrl": "https://news.ycombinator.com/item?id=42464433",
         "numComments": 1
-    },
-    {
-        "id": "42461073",
-        "title": "Building Python tools with a one-shot prompt using uv run and Claude Projects",
-        "url": "https://simonwillison.net/2024/Dec/19/one-shot-python-tools/",
-        "dt": "2024-12-19T13:08:47",
-        "points": 1,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42461073",
-        "numComments": 0
     }
 ]
