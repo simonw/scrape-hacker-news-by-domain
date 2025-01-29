@@ -1,5 +1,15 @@
 [
     {
+        "id": "42863695",
+        "title": "A selfish personal argument for releasing code as Open Source",
+        "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
+        "dt": "2025-01-29T11:13:09",
+        "points": 1,
+        "submitter": "coolcoder613",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42863695",
+        "numComments": 0
+    },
+    {
         "id": "42856967",
         "title": "A selfish personal argument for releasing code as Open Source",
         "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
@@ -14,10 +24,10 @@
         "title": "Promising results from DeepSeek R1 for code",
         "url": "https://simonwillison.net/2025/Jan/27/llamacpp-pr/",
         "dt": "2025-01-28T14:44:06",
-        "points": 857,
+        "points": 870,
         "submitter": "k__",
         "commentsUrl": "https://news.ycombinator.com/item?id=42852866",
-        "numComments": 639
+        "numComments": 650
     },
     {
         "id": "42848890",
@@ -287,16 +297,6 @@
         "points": 7,
         "submitter": "pr337h4m",
         "commentsUrl": "https://news.ycombinator.com/item?id=42468890",
-        "numComments": 0
-    },
-    {
-        "id": "42467952",
-        "title": "Building Python tools with a one-shot prompt using uv run and Claude Projects",
-        "url": "https://simonwillison.net/2024/Dec/19/one-shot-python-tools/",
-        "dt": "2024-12-20T03:13:09",
-        "points": 3,
-        "submitter": "CharlesW",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42467952",
         "numComments": 0
     }
 ]
