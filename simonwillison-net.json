@@ -1,5 +1,15 @@
 [
     {
+        "id": "42893404",
+        "title": "Using uvx to create one-liners for bug reports",
+        "url": "https://simonwillison.net/2025/Jan/31/black-newline-docstring/",
+        "dt": "2025-01-31T23:01:31",
+        "points": 3,
+        "submitter": "linsomniac",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42893404",
+        "numComments": 0
+    },
+    {
         "id": "42868617",
         "title": "Baroness Kidron's speech regarding UK AI legislation",
         "url": "https://simonwillison.net/2025/Jan/29/baroness-kidron-speech/",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=42491049",
         "numComments": 0
-    },
-    {
-        "id": "42490939",
-        "title": "OpenAI API YAML File",
-        "url": "https://simonwillison.net/2024/Dec/22/openai-openapi/",
-        "dt": "2024-12-23T01:41:39",
-        "points": 2,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42490939",
-        "numComments": 1
     }
 ]
