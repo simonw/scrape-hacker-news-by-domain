@@ -1,13 +1,23 @@
 [
     {
+        "id": "42916710",
+        "title": "A selfish personal argument for releasing code as Open Source",
+        "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
+        "dt": "2025-02-03T10:07:44",
+        "points": 1,
+        "submitter": "nemoniac",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42916710",
+        "numComments": 0
+    },
+    {
         "id": "42915905",
         "title": "Anthropic: \"Applicants should not use AI assistants\"",
         "url": "https://simonwillison.net/2025/Feb/2/anthropic/",
         "dt": "2025-02-03T07:46:37",
-        "points": 115,
+        "points": 212,
         "submitter": "twapi",
         "commentsUrl": "https://news.ycombinator.com/item?id=42915905",
-        "numComments": 59
+        "numComments": 117
     },
     {
         "id": "42894215",
@@ -67,7 +77,7 @@
         "points": 976,
         "submitter": "k__",
         "commentsUrl": "https://news.ycombinator.com/item?id=42852866",
-        "numComments": 742
+        "numComments": 744
     },
     {
         "id": "42848890",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42560558",
         "numComments": 582
-    },
-    {
-        "id": "42505038",
-        "title": "Trying out QvQ \u2013 Qwen's new visual reasoning model",
-        "url": "https://simonwillison.net/2024/Dec/24/qvq/",
-        "dt": "2024-12-24T21:25:32",
-        "points": 236,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42505038",
-        "numComments": 82
     }
 ]
