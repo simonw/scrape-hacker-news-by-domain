@@ -1,5 +1,15 @@
 [
     {
+        "id": "42919421",
+        "title": "A professional workflow for translation using LLMs",
+        "url": "https://simonwillison.net/2025/Feb/2/workflow-for-translation/",
+        "dt": "2025-02-03T15:53:54",
+        "points": 1,
+        "submitter": "occamschainsaw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42919421",
+        "numComments": 0
+    },
+    {
         "id": "42916710",
         "title": "A selfish personal argument for releasing code as Open Source",
         "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
@@ -14,10 +24,10 @@
         "title": "Anthropic: \"Applicants should not use AI assistants\"",
         "url": "https://simonwillison.net/2025/Feb/2/anthropic/",
         "dt": "2025-02-03T07:46:37",
-        "points": 423,
+        "points": 434,
         "submitter": "twapi",
         "commentsUrl": "https://news.ycombinator.com/item?id=42915905",
-        "numComments": 346
+        "numComments": 363
     },
     {
         "id": "42894215",
@@ -288,15 +298,5 @@
         "submitter": "mattrighetti",
         "commentsUrl": "https://news.ycombinator.com/item?id=42570929",
         "numComments": 0
-    },
-    {
-        "id": "42560558",
-        "title": "Things we learned about LLMs in 2024",
-        "url": "https://simonwillison.net/2024/Dec/31/llms-in-2024/",
-        "dt": "2024-12-31T18:11:06",
-        "points": 984,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42560558",
-        "numComments": 582
     }
 ]
