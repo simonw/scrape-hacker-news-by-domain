@@ -1,10 +1,10 @@
 [
     {
         "id": "42923870",
-        "title": "A computer can never be held accountable",
+        "title": "\"A computer can never be held accountable\"",
         "url": "https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/",
         "dt": "2025-02-03T22:01:38",
-        "points": 137,
+        "points": 140,
         "submitter": "zdw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42923870",
         "numComments": 110
@@ -44,7 +44,7 @@
         "title": "Anthropic: \"Applicants should not use AI assistants\"",
         "url": "https://simonwillison.net/2025/Feb/2/anthropic/",
         "dt": "2025-02-03T07:46:37",
-        "points": 459,
+        "points": 461,
         "submitter": "twapi",
         "commentsUrl": "https://news.ycombinator.com/item?id=42915905",
         "numComments": 395
@@ -104,10 +104,10 @@
         "title": "Promising results from DeepSeek R1 for code",
         "url": "https://simonwillison.net/2025/Jan/27/llamacpp-pr/",
         "dt": "2025-01-28T14:44:06",
-        "points": 977,
+        "points": 978,
         "submitter": "k__",
         "commentsUrl": "https://news.ycombinator.com/item?id=42852866",
-        "numComments": 744
+        "numComments": 745
     },
     {
         "id": "42848890",
