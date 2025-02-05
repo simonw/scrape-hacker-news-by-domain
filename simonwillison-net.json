@@ -1,5 +1,15 @@
 [
     {
+        "id": "42954773",
+        "title": "S1: The $6 R1 Competitor?",
+        "url": "https://simonwillison.net/2025/Feb/5/s1-the-6-r1-competitor/",
+        "dt": "2025-02-05T20:39:46",
+        "points": 11,
+        "submitter": "bluebirdfirewin",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42954773",
+        "numComments": 0
+    },
+    {
         "id": "42947146",
         "title": "O3-mini is good at writing internal documentation",
         "url": "https://simonwillison.net/2025/Feb/5/o3-mini-documentation/",
@@ -14,7 +24,7 @@
         "title": "\"A computer can never be held accountable\"",
         "url": "https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/",
         "dt": "2025-02-03T22:01:38",
-        "points": 419,
+        "points": 420,
         "submitter": "zdw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42923870",
         "numComments": 284
@@ -288,15 +298,5 @@
         "submitter": "tkgally",
         "commentsUrl": "https://news.ycombinator.com/item?id=42594130",
         "numComments": 1
-    },
-    {
-        "id": "42585221",
-        "title": "My approach to running a link blog",
-        "url": "https://simonwillison.net/2024/Dec/22/link-blog/",
-        "dt": "2025-01-03T12:51:48",
-        "points": 53,
-        "submitter": "prawn",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42585221",
-        "numComments": 19
     }
 ]
