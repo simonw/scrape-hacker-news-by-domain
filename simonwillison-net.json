@@ -1,5 +1,15 @@
 [
     {
+        "id": "42977824",
+        "title": "Accidental prompt injection against RAG applications",
+        "url": "https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/",
+        "dt": "2025-02-07T21:43:36",
+        "points": 1,
+        "submitter": "Bluestein",
+        "commentsUrl": "https://news.ycombinator.com/item?id=42977824",
+        "numComments": 0
+    },
+    {
         "id": "42971146",
         "title": "Using pip to install a Large Language Model that's under 100MB",
         "url": "https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/",
@@ -288,15 +298,5 @@
         "submitter": "moyer",
         "commentsUrl": "https://news.ycombinator.com/item?id=42651787",
         "numComments": 0
-    },
-    {
-        "id": "42594130",
-        "title": "Claude Tries Standup",
-        "url": "https://simonwillison.net/2025/Jan/3/claude-tries-standup/",
-        "dt": "2025-01-04T11:40:29",
-        "points": 7,
-        "submitter": "tkgally",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42594130",
-        "numComments": 1
     }
 ]
