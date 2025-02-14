@@ -1,5 +1,15 @@
 [
     {
+        "id": "43043123",
+        "title": "Shot-scraper 1.6 with support for HTTP Archives",
+        "url": "https://simonwillison.net/2025/Feb/13/shot-scraper/",
+        "dt": "2025-02-14T00:13:03",
+        "points": 1,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43043123",
+        "numComments": 0
+    },
+    {
         "id": "42977824",
         "title": "Accidental prompt injection against RAG applications",
         "url": "https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/",
@@ -288,15 +298,5 @@
         "submitter": "azhenley",
         "commentsUrl": "https://news.ycombinator.com/item?id=42662715",
         "numComments": 6
-    },
-    {
-        "id": "42651787",
-        "title": "My AI/LLM predictions for the next 1, 3 and 6 years, for Oxide and Friends",
-        "url": "https://simonwillison.net/2025/Jan/10/ai-predictions/",
-        "dt": "2025-01-10T02:09:01",
-        "points": 7,
-        "submitter": "moyer",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42651787",
-        "numComments": 0
     }
 ]
