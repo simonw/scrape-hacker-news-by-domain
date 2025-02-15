@@ -1,5 +1,15 @@
 [
     {
+        "id": "43061357",
+        "title": "Run LLMs on macOS using LLM-mlx and Apple's MLX framework",
+        "url": "https://simonwillison.net/2025/Feb/15/llm-mlx/",
+        "dt": "2025-02-15T19:18:49",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43061357",
+        "numComments": 0
+    },
+    {
         "id": "43043123",
         "title": "Shot-scraper 1.6 with support for HTTP Archives",
         "url": "https://simonwillison.net/2025/Feb/13/shot-scraper/",
@@ -288,15 +298,5 @@
         "submitter": "ifcologne",
         "commentsUrl": "https://news.ycombinator.com/item?id=42707091",
         "numComments": 0
-    },
-    {
-        "id": "42662715",
-        "title": "My AI/LLM predictions for the next 1, 3 and 6 years",
-        "url": "https://simonwillison.net/2025/Jan/10/ai-predictions/",
-        "dt": "2025-01-11T02:21:52",
-        "points": 22,
-        "submitter": "azhenley",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42662715",
-        "numComments": 6
     }
 ]
