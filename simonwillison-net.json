@@ -1,5 +1,15 @@
 [
     {
+        "id": "43086410",
+        "title": "Trying out Python packages with ipython and uvx",
+        "url": "https://til.simonwillison.net/python/itry",
+        "dt": "2025-02-18T05:36:56",
+        "points": 1,
+        "submitter": "saikatsg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43086410",
+        "numComments": 0
+    },
+    {
         "id": "43061357",
         "title": "Run LLMs on macOS using LLM-mlx and Apple's MLX framework",
         "url": "https://simonwillison.net/2025/Feb/15/llm-mlx/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "tzury",
         "commentsUrl": "https://news.ycombinator.com/item?id=42710171",
-        "numComments": 0
-    },
-    {
-        "id": "42707091",
-        "title": "ChatGPT scheduled tasks \u2013 tool instructions",
-        "url": "https://simonwillison.net/2025/Jan/15/chatgpt-tasks/",
-        "dt": "2025-01-15T03:46:38",
-        "points": 2,
-        "submitter": "ifcologne",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42707091",
         "numComments": 0
     }
 ]
