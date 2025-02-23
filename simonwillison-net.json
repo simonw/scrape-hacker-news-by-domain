@@ -1,5 +1,15 @@
 [
     {
+        "id": "43153585",
+        "title": "Grok 3 is highly vulnerable to indirect prompt injection",
+        "url": "https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/",
+        "dt": "2025-02-23T21:55:35",
+        "points": 2,
+        "submitter": "zdw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43153585",
+        "numComments": 0
+    },
+    {
         "id": "43086410",
         "title": "Trying out Python packages with ipython and uvx",
         "url": "https://til.simonwillison.net/python/itry",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "walterbell",
         "commentsUrl": "https://news.ycombinator.com/item?id=42753283",
-        "numComments": 0
-    },
-    {
-        "id": "42710171",
-        "title": "ChatGPT reveals the system prompt for ChatGPT Tasks",
-        "url": "https://simonwillison.net/2025/Jan/15/chatgpt-tasks/",
-        "dt": "2025-01-15T12:32:13",
-        "points": 3,
-        "submitter": "tzury",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42710171",
         "numComments": 0
     }
 ]
