@@ -4,7 +4,7 @@
         "title": "Grok 3 is highly vulnerable to indirect prompt injection",
         "url": "https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/",
         "dt": "2025-02-24T12:02:01",
-        "points": 83,
+        "points": 87,
         "submitter": "isaacfrond",
         "commentsUrl": "https://news.ycombinator.com/item?id=43158562",
         "numComments": 23
