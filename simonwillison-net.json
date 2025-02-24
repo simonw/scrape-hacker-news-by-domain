@@ -1,5 +1,15 @@
 [
     {
+        "id": "43158562",
+        "title": "Grok 3 is highly vulnerable to indirect prompt injection",
+        "url": "https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/",
+        "dt": "2025-02-24T12:02:01",
+        "points": 2,
+        "submitter": "isaacfrond",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43158562",
+        "numComments": 0
+    },
+    {
         "id": "43153585",
         "title": "Grok 3 is highly vulnerable to indirect prompt injection",
         "url": "https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=42759443",
-        "numComments": 0
-    },
-    {
-        "id": "42753283",
-        "title": "Downloading every video for a TikTok account",
-        "url": "https://til.simonwillison.net/tiktok/download-all-videos",
-        "dt": "2025-01-19T03:17:12",
-        "points": 1,
-        "submitter": "walterbell",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42753283",
         "numComments": 0
     }
 ]
