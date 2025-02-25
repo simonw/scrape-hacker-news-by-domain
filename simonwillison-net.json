@@ -1,5 +1,15 @@
 [
     {
+        "id": "43177574",
+        "title": "Leaked Windsurf System Prompt",
+        "url": "https://simonwillison.net/2025/Feb/25/leaked-windsurf-prompt/",
+        "dt": "2025-02-25T21:20:57",
+        "points": 3,
+        "submitter": "bobbiechen",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43177574",
+        "numComments": 0
+    },
+    {
         "id": "43175438",
         "title": "Claude 3.7 Sonnet, extended thinking and long output",
         "url": "https://simonwillison.net/2025/Feb/25/llm-anthropic-014/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "emschwartz",
         "commentsUrl": "https://news.ycombinator.com/item?id=42773086",
-        "numComments": 0
-    },
-    {
-        "id": "42768136",
-        "title": "Downloading every video for a TikTok account",
-        "url": "https://til.simonwillison.net/tiktok/download-all-videos",
-        "dt": "2025-01-20T12:44:54",
-        "points": 2,
-        "submitter": "isaacfrond",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42768136",
         "numComments": 0
     }
 ]
