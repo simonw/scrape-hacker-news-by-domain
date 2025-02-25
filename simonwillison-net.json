@@ -1,10 +1,20 @@
 [
     {
+        "id": "43175438",
+        "title": "Claude 3.7 Sonnet, extended thinking and long output",
+        "url": "https://simonwillison.net/2025/Feb/25/llm-anthropic-014/",
+        "dt": "2025-02-25T18:22:17",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43175438",
+        "numComments": 0
+    },
+    {
         "id": "43158562",
         "title": "Grok 3 is highly vulnerable to indirect prompt injection",
         "url": "https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/",
         "dt": "2025-02-24T12:02:01",
-        "points": 97,
+        "points": 98,
         "submitter": "isaacfrond",
         "commentsUrl": "https://news.ycombinator.com/item?id=43158562",
         "numComments": 27
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "isaacfrond",
         "commentsUrl": "https://news.ycombinator.com/item?id=42768136",
-        "numComments": 0
-    },
-    {
-        "id": "42759443",
-        "title": "Downloading every video for a TikTok account",
-        "url": "https://til.simonwillison.net/tiktok/download-all-videos",
-        "dt": "2025-01-19T17:53:09",
-        "points": 3,
-        "submitter": "ulrischa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42759443",
         "numComments": 0
     }
 ]
