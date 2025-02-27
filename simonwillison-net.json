@@ -1,5 +1,15 @@
 [
     {
+        "id": "43199293",
+        "title": "Initial Impressions of GPT-4.5",
+        "url": "https://simonwillison.net/2025/Feb/27/introducing-gpt-45/",
+        "dt": "2025-02-27T22:33:19",
+        "points": 1,
+        "submitter": "amrrs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43199293",
+        "numComments": 0
+    },
+    {
         "id": "43177574",
         "title": "Leaked Windsurf System Prompt",
         "url": "https://simonwillison.net/2025/Feb/25/leaked-windsurf-prompt/",
@@ -287,16 +297,6 @@
         "points": 7,
         "submitter": "tasn",
         "commentsUrl": "https://news.ycombinator.com/item?id=42779734",
-        "numComments": 0
-    },
-    {
-        "id": "42773086",
-        "title": "DeepSeek-R1 and Exploring DeepSeek-R1-Distill-Llama-8B",
-        "url": "https://simonwillison.net/2025/Jan/20/deepseek-r1/",
-        "dt": "2025-01-20T21:10:59",
-        "points": 4,
-        "submitter": "emschwartz",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42773086",
         "numComments": 0
     }
 ]
