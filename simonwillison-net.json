@@ -1,5 +1,15 @@
 [
     {
+        "id": "43208263",
+        "title": "Structured data extraction from unstructured content using LLM schemas",
+        "url": "https://simonwillison.net/2025/Feb/28/llm-schemas/",
+        "dt": "2025-02-28T17:39:45",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43208263",
+        "numComments": 0
+    },
+    {
         "id": "43199293",
         "title": "Initial Impressions of GPT-4.5",
         "url": "https://simonwillison.net/2025/Feb/27/introducing-gpt-45/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42810520",
         "numComments": 1
-    },
-    {
-        "id": "42779734",
-        "title": "DeepSeek-R1 and Exploring DeepSeek-R1-Distill-Llama-8B",
-        "url": "https://simonwillison.net/2025/Jan/20/deepseek-r1/",
-        "dt": "2025-01-21T13:12:30",
-        "points": 7,
-        "submitter": "tasn",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42779734",
-        "numComments": 0
     }
 ]
