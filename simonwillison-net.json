@@ -1,5 +1,15 @@
 [
     {
+        "id": "43259118",
+        "title": "A Practical Guide to Implementing DeepSearch / DeepResearch",
+        "url": "https://simonwillison.net/2025/Mar/4/deepsearch-deepresearch/",
+        "dt": "2025-03-04T19:46:50",
+        "points": 3,
+        "submitter": "madmax108",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43259118",
+        "numComments": 0
+    },
+    {
         "id": "43233903",
         "title": "Hallucinations in code are the least dangerous form of LLM mistakes",
         "url": "https://simonwillison.net/2025/Mar/2/hallucinations-in-code/",
@@ -288,15 +298,5 @@
         "submitter": "grajaganDev",
         "commentsUrl": "https://news.ycombinator.com/item?id=42842426",
         "numComments": 1
-    },
-    {
-        "id": "42832838",
-        "title": "Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M",
-        "url": "https://simonwillison.net/2025/Jan/26/qwen25-1m/",
-        "dt": "2025-01-26T19:01:05",
-        "points": 98,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42832838",
-        "numComments": 2
     }
 ]
