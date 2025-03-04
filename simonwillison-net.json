@@ -1,5 +1,15 @@
 [
     {
+        "id": "43260217",
+        "title": "Structured data extraction from unstructured content using LLM schemas",
+        "url": "https://simonwillison.net/2025/Feb/28/llm-schemas/",
+        "dt": "2025-03-04T21:56:31",
+        "points": 2,
+        "submitter": "tzury",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43260217",
+        "numComments": 0
+    },
+    {
         "id": "43259118",
         "title": "A Practical Guide to Implementing DeepSearch / DeepResearch",
         "url": "https://simonwillison.net/2025/Mar/4/deepsearch-deepresearch/",
@@ -17,7 +27,7 @@
         "points": 361,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=43233903",
-        "numComments": 304
+        "numComments": 305
     },
     {
         "id": "43227972",
@@ -288,15 +298,5 @@
         "submitter": "bilsbie",
         "commentsUrl": "https://news.ycombinator.com/item?id=42844693",
         "numComments": 0
-    },
-    {
-        "id": "42842426",
-        "title": "Leaked Google Document: \"We Have No Moat, and Neither Does OpenAI\" (2023)",
-        "url": "https://simonwillison.net/2023/May/4/no-moat/",
-        "dt": "2025-01-27T15:55:54",
-        "points": 7,
-        "submitter": "grajaganDev",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42842426",
-        "numComments": 1
     }
 ]
