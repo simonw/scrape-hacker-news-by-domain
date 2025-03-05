@@ -1,5 +1,15 @@
 [
     {
+        "id": "43267575",
+        "title": "Using a Tailscale exit node with GitHub Actions",
+        "url": "https://til.simonwillison.net/tailscale/tailscale-github-actions",
+        "dt": "2025-03-05T15:11:13",
+        "points": 1,
+        "submitter": "bahador",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43267575",
+        "numComments": 0
+    },
+    {
         "id": "43260217",
         "title": "Structured data extraction from unstructured content using LLM schemas",
         "url": "https://simonwillison.net/2025/Feb/28/llm-schemas/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "CharlesW",
         "commentsUrl": "https://news.ycombinator.com/item?id=42848890",
-        "numComments": 0
-    },
-    {
-        "id": "42844693",
-        "title": "A selfish personal argument for releasing code as Open Source",
-        "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
-        "dt": "2025-01-27T19:29:47",
-        "points": 3,
-        "submitter": "bilsbie",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42844693",
         "numComments": 0
     }
 ]
