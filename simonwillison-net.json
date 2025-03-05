@@ -4,7 +4,7 @@
         "title": "Using a Tailscale exit node with GitHub Actions",
         "url": "https://til.simonwillison.net/tailscale/tailscale-github-actions",
         "dt": "2025-03-05T15:11:13",
-        "points": 1,
+        "points": 3,
         "submitter": "bahador",
         "commentsUrl": "https://news.ycombinator.com/item?id=43267575",
         "numComments": 0
