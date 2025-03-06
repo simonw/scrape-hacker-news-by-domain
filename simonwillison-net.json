@@ -4,10 +4,10 @@
         "title": "Aider: Using Uv as an Installer",
         "url": "https://simonwillison.net/2025/Mar/6/aider-using-uv-as-an-installer/",
         "dt": "2025-03-06T03:18:06",
-        "points": 3,
+        "points": 33,
         "submitter": "anotherpaulg",
         "commentsUrl": "https://news.ycombinator.com/item?id=43276038",
-        "numComments": 0
+        "numComments": 12
     },
     {
         "id": "43267575",
@@ -44,7 +44,7 @@
         "title": "Hallucinations in code are the least dangerous form of LLM mistakes",
         "url": "https://simonwillison.net/2025/Mar/2/hallucinations-in-code/",
         "dt": "2025-03-02T19:15:58",
-        "points": 363,
+        "points": 364,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=43233903",
         "numComments": 312
