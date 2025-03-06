@@ -1,5 +1,15 @@
 [
     {
+        "id": "43276038",
+        "title": "Aider: Using Uv as an Installer",
+        "url": "https://simonwillison.net/2025/Mar/6/aider-using-uv-as-an-installer/",
+        "dt": "2025-03-06T03:18:06",
+        "points": 3,
+        "submitter": "anotherpaulg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43276038",
+        "numComments": 0
+    },
+    {
         "id": "43267575",
         "title": "Using a Tailscale exit node with GitHub Actions",
         "url": "https://til.simonwillison.net/tailscale/tailscale-github-actions",
@@ -288,15 +298,5 @@
         "submitter": "k__",
         "commentsUrl": "https://news.ycombinator.com/item?id=42852866",
         "numComments": 746
-    },
-    {
-        "id": "42848890",
-        "title": "ggml: X2 speed for WASM by optimizing SIMD, written by DeekSeek-R1",
-        "url": "https://simonwillison.net/2025/Jan/27/llamacpp-pr/",
-        "dt": "2025-01-28T04:39:37",
-        "points": 2,
-        "submitter": "CharlesW",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42848890",
-        "numComments": 0
     }
 ]
