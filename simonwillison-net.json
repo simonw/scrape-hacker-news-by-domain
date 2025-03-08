@@ -1,5 +1,15 @@
 [
     {
+        "id": "43298376",
+        "title": "Apple Is Delaying the 'More Personalized Siri' Apple Intelligence Features",
+        "url": "https://simonwillison.net/2025/Mar/8/delaying-personalized-siri/",
+        "dt": "2025-03-08T07:50:12",
+        "points": 1,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43298376",
+        "numComments": 0
+    },
+    {
         "id": "43286531",
         "title": "Things I've learned about building CLI tools in Python",
         "url": "https://simonwillison.net/2023/Sep/30/cli-tools-python/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "coolcoder613",
         "commentsUrl": "https://news.ycombinator.com/item?id=42863695",
-        "numComments": 0
-    },
-    {
-        "id": "42856967",
-        "title": "A selfish personal argument for releasing code as Open Source",
-        "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
-        "dt": "2025-01-28T19:43:05",
-        "points": 2,
-        "submitter": "Tomte",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42856967",
         "numComments": 0
     }
 ]
