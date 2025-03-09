@@ -1,5 +1,15 @@
 [
     {
+        "id": "43311481",
+        "title": "What's New in LLMs",
+        "url": "https://simonwillison.net/2025/Mar/8/nicar-llms/",
+        "dt": "2025-03-09T17:34:09",
+        "points": 2,
+        "submitter": "ingve",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43311481",
+        "numComments": 0
+    },
+    {
         "id": "43302901",
         "title": "Cutting-edge web scraping techniques at NICAR",
         "url": "https://simonwillison.net/2025/Mar/8/cutting-edge-web-scraping/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "linsomniac",
         "commentsUrl": "https://news.ycombinator.com/item?id=42893404",
-        "numComments": 0
-    },
-    {
-        "id": "42868617",
-        "title": "Baroness Kidron's speech regarding UK AI legislation",
-        "url": "https://simonwillison.net/2025/Jan/29/baroness-kidron-speech/",
-        "dt": "2025-01-29T17:59:27",
-        "points": 3,
-        "submitter": "the_mitsuhiko",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42868617",
         "numComments": 0
     }
 ]
