@@ -1,5 +1,15 @@
 [
     {
+        "id": "43325534",
+        "title": "Will the future of software development run on vibes?",
+        "url": "https://simonwillison.net/2025/Mar/6/vibe-coding/",
+        "dt": "2025-03-10T20:14:41",
+        "points": 1,
+        "submitter": "Kerrick",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43325534",
+        "numComments": 0
+    },
+    {
         "id": "43311481",
         "title": "What's New in LLMs",
         "url": "https://simonwillison.net/2025/Mar/8/nicar-llms/",
@@ -288,15 +298,5 @@
         "submitter": "dtquad",
         "commentsUrl": "https://news.ycombinator.com/item?id=42894215",
         "numComments": 76
-    },
-    {
-        "id": "42893404",
-        "title": "Using uvx to create one-liners for bug reports",
-        "url": "https://simonwillison.net/2025/Jan/31/black-newline-docstring/",
-        "dt": "2025-01-31T23:01:31",
-        "points": 4,
-        "submitter": "linsomniac",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42893404",
-        "numComments": 0
     }
 ]
