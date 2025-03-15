@@ -1,5 +1,15 @@
 [
     {
+        "id": "43372801",
+        "title": "Deep Research System Card",
+        "url": "https://simonwillison.net/2025/Feb/25/deep-research-system-card/",
+        "dt": "2025-03-15T14:34:23",
+        "points": 1,
+        "submitter": "Destiner",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43372801",
+        "numComments": 0
+    },
+    {
         "id": "43332669",
         "title": "Here's how I use LLMs to help me write code",
         "url": "https://simonwillison.net/2025/Mar/11/using-llms-for-code/",
@@ -288,15 +298,5 @@
         "submitter": "nemoniac",
         "commentsUrl": "https://news.ycombinator.com/item?id=42916710",
         "numComments": 0
-    },
-    {
-        "id": "42915905",
-        "title": "Anthropic: \"Applicants should not use AI assistants\"",
-        "url": "https://simonwillison.net/2025/Feb/2/anthropic/",
-        "dt": "2025-02-03T07:46:37",
-        "points": 477,
-        "submitter": "twapi",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42915905",
-        "numComments": 401
     }
 ]
