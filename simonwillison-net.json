@@ -1,5 +1,15 @@
 [
     {
+        "id": "43378001",
+        "title": "Mlx-community/OLMo-2-0325-32B-Instruct-4bit",
+        "url": "https://simonwillison.net/2025/Mar/16/olmo2/",
+        "dt": "2025-03-16T10:33:32",
+        "points": 1,
+        "submitter": "mdp2021",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43378001",
+        "numComments": 0
+    },
+    {
         "id": "43372801",
         "title": "Deep Research System Card",
         "url": "https://simonwillison.net/2025/Feb/25/deep-research-system-card/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "occamschainsaw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42919421",
-        "numComments": 0
-    },
-    {
-        "id": "42916710",
-        "title": "A selfish personal argument for releasing code as Open Source",
-        "url": "https://simonwillison.net/2025/Jan/24/selfish-open-source/",
-        "dt": "2025-02-03T10:07:44",
-        "points": 2,
-        "submitter": "nemoniac",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42916710",
         "numComments": 0
     }
 ]
