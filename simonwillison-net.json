@@ -1,5 +1,15 @@
 [
     {
+        "id": "43378225",
+        "title": "Styling an HTML dialog modal to take the full height of the viewport",
+        "url": "https://til.simonwillison.net/css/dialog-full-height",
+        "dt": "2025-03-16T11:35:22",
+        "points": 2,
+        "submitter": "maxloh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43378225",
+        "numComments": 0
+    },
+    {
         "id": "43378001",
         "title": "Mlx-community/OLMo-2-0325-32B-Instruct-4bit",
         "url": "https://simonwillison.net/2025/Mar/16/olmo2/",
@@ -288,15 +298,5 @@
         "submitter": "vercantez",
         "commentsUrl": "https://news.ycombinator.com/item?id=42920441",
         "numComments": 1
-    },
-    {
-        "id": "42919421",
-        "title": "A professional workflow for translation using LLMs",
-        "url": "https://simonwillison.net/2025/Feb/2/workflow-for-translation/",
-        "dt": "2025-02-03T15:53:54",
-        "points": 1,
-        "submitter": "occamschainsaw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42919421",
-        "numComments": 0
     }
 ]
