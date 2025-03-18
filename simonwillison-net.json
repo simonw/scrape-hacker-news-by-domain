@@ -1,5 +1,15 @@
 [
     {
+        "id": "43405136",
+        "title": "Building and deploying a custom site using GitHub Actions and GitHub Pages",
+        "url": "https://til.simonwillison.net/github-actions/github-pages",
+        "dt": "2025-03-18T21:07:24",
+        "points": 1,
+        "submitter": "chmaynard",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43405136",
+        "numComments": 0
+    },
+    {
         "id": "43378225",
         "title": "Styling an HTML dialog modal to take the full height of the viewport",
         "url": "https://til.simonwillison.net/css/dialog-full-height",
@@ -14,7 +24,7 @@
         "title": "Mlx-community/OLMo-2-0325-32B-Instruct-4bit",
         "url": "https://simonwillison.net/2025/Mar/16/olmo2/",
         "dt": "2025-03-16T10:33:32",
-        "points": 61,
+        "points": 62,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=43378001",
         "numComments": 23
@@ -288,15 +298,5 @@
         "submitter": "zdw",
         "commentsUrl": "https://news.ycombinator.com/item?id=42923870",
         "numComments": 295
-    },
-    {
-        "id": "42920441",
-        "title": "OpenAI reasoning models: Advice on prompting",
-        "url": "https://simonwillison.net/2025/Feb/2/openai-reasoning-models-advice-on-prompting/",
-        "dt": "2025-02-03T17:15:15",
-        "points": 1,
-        "submitter": "vercantez",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42920441",
-        "numComments": 1
     }
 ]
