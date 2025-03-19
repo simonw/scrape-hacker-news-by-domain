@@ -1,5 +1,15 @@
 [
     {
+        "id": "43415548",
+        "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
+        "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
+        "dt": "2025-03-19T18:19:57",
+        "points": 3,
+        "submitter": "ingve",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43415548",
+        "numComments": 0
+    },
+    {
         "id": "43405136",
         "title": "Building and deploying a custom site using GitHub Actions and GitHub Pages",
         "url": "https://til.simonwillison.net/github-actions/github-pages",
@@ -288,15 +298,5 @@
         "submitter": "srijan4",
         "commentsUrl": "https://news.ycombinator.com/item?id=42947146",
         "numComments": 0
-    },
-    {
-        "id": "42923870",
-        "title": "\"A computer can never be held accountable\"",
-        "url": "https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/",
-        "dt": "2025-02-03T22:01:38",
-        "points": 445,
-        "submitter": "zdw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42923870",
-        "numComments": 295
     }
 ]
