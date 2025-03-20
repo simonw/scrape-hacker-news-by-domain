@@ -1,5 +1,15 @@
 [
     {
+        "id": "43422066",
+        "title": "Building and deploying a custom site using GitHub Actions and GitHub Pages",
+        "url": "https://til.simonwillison.net/github-actions/github-pages",
+        "dt": "2025-03-20T12:13:39",
+        "points": 1,
+        "submitter": "linsomniac",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43422066",
+        "numComments": 0
+    },
+    {
         "id": "43420233",
         "title": "Calling a Wrap on My Weeknotes",
         "url": "https://simonwillison.net/2025/Mar/20/calling-a-wrap-on-my-weeknotes/",
@@ -14,7 +24,7 @@
         "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
         "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
         "dt": "2025-03-19T18:19:57",
-        "points": 12,
+        "points": 13,
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=43415548",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "Bluestein",
         "commentsUrl": "https://news.ycombinator.com/item?id=42977824",
         "numComments": 0
-    },
-    {
-        "id": "42971146",
-        "title": "Using pip to install a Large Language Model that's under 100MB",
-        "url": "https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/",
-        "dt": "2025-02-07T10:22:38",
-        "points": 24,
-        "submitter": "sahli",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42971146",
-        "numComments": 5
     }
 ]
