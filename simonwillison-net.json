@@ -1,5 +1,15 @@
 [
     {
+        "id": "43420233",
+        "title": "Calling a Wrap on My Weeknotes",
+        "url": "https://simonwillison.net/2025/Mar/20/calling-a-wrap-on-my-weeknotes/",
+        "dt": "2025-03-20T06:09:26",
+        "points": 1,
+        "submitter": "gronky_",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43420233",
+        "numComments": 0
+    },
+    {
         "id": "43415548",
         "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
         "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
@@ -288,15 +298,5 @@
         "submitter": "sahli",
         "commentsUrl": "https://news.ycombinator.com/item?id=42971146",
         "numComments": 5
-    },
-    {
-        "id": "42947146",
-        "title": "O3-mini is good at writing internal documentation",
-        "url": "https://simonwillison.net/2025/Feb/5/o3-mini-documentation/",
-        "dt": "2025-02-05T11:41:37",
-        "points": 3,
-        "submitter": "srijan4",
-        "commentsUrl": "https://news.ycombinator.com/item?id=42947146",
-        "numComments": 0
     }
 ]
