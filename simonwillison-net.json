@@ -1,5 +1,15 @@
 [
     {
+        "id": "43454843",
+        "title": "Semantic Diffusion",
+        "url": "https://simonwillison.net/2025/Mar/23/semantic-diffusion/",
+        "dt": "2025-03-23T18:41:51",
+        "points": 3,
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43454843",
+        "numComments": 0
+    },
+    {
         "id": "43451579",
         "title": "Simonw/Ollama-models-atom-feed",
         "url": "https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/",
@@ -287,16 +297,6 @@
         "points": 6,
         "submitter": "zdw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43153585",
-        "numComments": 0
-    },
-    {
-        "id": "43086410",
-        "title": "Trying out Python packages with ipython and uvx",
-        "url": "https://til.simonwillison.net/python/itry",
-        "dt": "2025-02-18T05:36:56",
-        "points": 1,
-        "submitter": "saikatsg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43086410",
         "numComments": 0
     }
 ]
