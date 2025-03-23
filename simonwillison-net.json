@@ -1,5 +1,15 @@
 [
     {
+        "id": "43451579",
+        "title": "Simonw/Ollama-models-atom-feed",
+        "url": "https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/",
+        "dt": "2025-03-23T08:32:40",
+        "points": 3,
+        "submitter": "mdp2021",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43451579",
+        "numComments": 2
+    },
+    {
         "id": "43450667",
         "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
         "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "saikatsg",
         "commentsUrl": "https://news.ycombinator.com/item?id=43086410",
-        "numComments": 0
-    },
-    {
-        "id": "43061357",
-        "title": "Run LLMs on macOS using LLM-mlx and Apple's MLX framework",
-        "url": "https://simonwillison.net/2025/Feb/15/llm-mlx/",
-        "dt": "2025-02-15T19:18:49",
-        "points": 6,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43061357",
         "numComments": 0
     }
 ]
