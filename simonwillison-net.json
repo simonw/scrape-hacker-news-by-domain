@@ -1,5 +1,15 @@
 [
     {
+        "id": "43450667",
+        "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
+        "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
+        "dt": "2025-03-23T03:20:39",
+        "points": 1,
+        "submitter": "Kerrick",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43450667",
+        "numComments": 0
+    },
+    {
         "id": "43438850",
         "title": "Anthropic Uses Brave Search",
         "url": "https://simonwillison.net/2025/Mar/21/anthropic-use-brave/",
@@ -287,16 +297,6 @@
         "points": 6,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43061357",
-        "numComments": 0
-    },
-    {
-        "id": "43043123",
-        "title": "Shot-scraper 1.6 with support for HTTP Archives",
-        "url": "https://simonwillison.net/2025/Feb/13/shot-scraper/",
-        "dt": "2025-02-14T00:13:03",
-        "points": 3,
-        "submitter": "todsacerdoti",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43043123",
         "numComments": 0
     }
 ]
