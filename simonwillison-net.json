@@ -1,10 +1,20 @@
 [
     {
+        "id": "43467082",
+        "title": "The think tool: Enabling Claude to stop and think in complex tool use situations",
+        "url": "https://simonwillison.net/2025/Mar/21/the-think-tool/",
+        "dt": "2025-03-25T01:01:55",
+        "points": 2,
+        "submitter": "andai",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43467082",
+        "numComments": 0
+    },
+    {
         "id": "43462317",
         "title": "DeepSeek releases their latest DeepSeek v3 model, now featuring an MIT license",
         "url": "https://simonwillison.net/2025/Mar/24/deepseek/",
         "dt": "2025-03-24T15:41:41",
-        "points": 25,
+        "points": 28,
         "submitter": "spenvo",
         "commentsUrl": "https://news.ycombinator.com/item?id=43462317",
         "numComments": 1
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43175438",
         "numComments": 0
-    },
-    {
-        "id": "43158562",
-        "title": "Grok 3 is highly vulnerable to indirect prompt injection",
-        "url": "https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/",
-        "dt": "2025-02-24T12:02:01",
-        "points": 98,
-        "submitter": "isaacfrond",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43158562",
-        "numComments": 28
     }
 ]
