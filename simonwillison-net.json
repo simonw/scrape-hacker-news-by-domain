@@ -4,17 +4,17 @@
         "title": "Qwen2.5-VL-32B: Smarter and Lighter",
         "url": "https://simonwillison.net/2025/Mar/24/qwen25-vl-32b/",
         "dt": "2025-03-25T03:23:51",
-        "points": 1,
+        "points": 2,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=43467848",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "43467082",
         "title": "The think tool: Enabling Claude to stop and think in complex tool use situations",
         "url": "https://simonwillison.net/2025/Mar/21/the-think-tool/",
         "dt": "2025-03-25T01:01:55",
-        "points": 3,
+        "points": 4,
         "submitter": "andai",
         "commentsUrl": "https://news.ycombinator.com/item?id=43467082",
         "numComments": 0
@@ -24,7 +24,7 @@
         "title": "DeepSeek releases their latest DeepSeek v3 model, now featuring an MIT license",
         "url": "https://simonwillison.net/2025/Mar/24/deepseek/",
         "dt": "2025-03-24T15:41:41",
-        "points": 29,
+        "points": 30,
         "submitter": "spenvo",
         "commentsUrl": "https://news.ycombinator.com/item?id=43462317",
         "numComments": 1
