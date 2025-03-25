@@ -1,5 +1,15 @@
 [
     {
+        "id": "43470232",
+        "title": "The interesting ideas in Datasette (2018)",
+        "url": "https://simonwillison.net/2018/Oct/4/datasette-ideas/",
+        "dt": "2025-03-25T12:06:06",
+        "points": 1,
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43470232",
+        "numComments": 0
+    },
+    {
         "id": "43467848",
         "title": "Qwen2.5-VL-32B: Smarter and Lighter",
         "url": "https://simonwillison.net/2025/Mar/24/qwen25-vl-32b/",
@@ -288,15 +298,5 @@
         "submitter": "amrrs",
         "commentsUrl": "https://news.ycombinator.com/item?id=43199293",
         "numComments": 0
-    },
-    {
-        "id": "43177574",
-        "title": "Leaked Windsurf System Prompt",
-        "url": "https://simonwillison.net/2025/Feb/25/leaked-windsurf-prompt/",
-        "dt": "2025-02-25T21:20:57",
-        "points": 15,
-        "submitter": "bobbiechen",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43177574",
-        "numComments": 4
     }
 ]
