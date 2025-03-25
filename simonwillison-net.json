@@ -1,5 +1,15 @@
 [
     {
+        "id": "43476964",
+        "title": "Putting Gemini 2.5 Pro through its paces",
+        "url": "https://simonwillison.net/2025/Mar/25/gemini/",
+        "dt": "2025-03-25T22:57:06",
+        "points": 3,
+        "submitter": "LyalinDotCom",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43476964",
+        "numComments": 0
+    },
+    {
         "id": "43470232",
         "title": "The interesting ideas in Datasette (2018)",
         "url": "https://simonwillison.net/2018/Oct/4/datasette-ideas/",
@@ -54,7 +64,7 @@
         "title": "Simonw/Ollama-models-atom-feed",
         "url": "https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/",
         "dt": "2025-03-23T08:32:40",
-        "points": 8,
+        "points": 9,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=43451579",
         "numComments": 2
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43208263",
-        "numComments": 0
-    },
-    {
-        "id": "43199293",
-        "title": "Initial Impressions of GPT-4.5",
-        "url": "https://simonwillison.net/2025/Feb/27/introducing-gpt-45/",
-        "dt": "2025-02-27T22:33:19",
-        "points": 1,
-        "submitter": "amrrs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43199293",
         "numComments": 0
     }
 ]
