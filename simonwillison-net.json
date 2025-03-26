@@ -1,5 +1,15 @@
 [
     {
+        "id": "43481738",
+        "title": "Putting Gemini 2.5 Pro through its paces",
+        "url": "https://simonwillison.net/2025/Mar/25/gemini/",
+        "dt": "2025-03-26T12:56:02",
+        "points": 1,
+        "submitter": "karma_daemon",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43481738",
+        "numComments": 0
+    },
+    {
         "id": "43476964",
         "title": "Putting Gemini 2.5 Pro through its paces",
         "url": "https://simonwillison.net/2025/Mar/25/gemini/",
@@ -64,7 +74,7 @@
         "title": "Ollama Models Atom Feed",
         "url": "https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/",
         "dt": "2025-03-23T08:32:40",
-        "points": 44,
+        "points": 45,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=43451579",
         "numComments": 12
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "monty5811",
         "commentsUrl": "https://news.ycombinator.com/item?id=43219520",
-        "numComments": 0
-    },
-    {
-        "id": "43208263",
-        "title": "Structured data extraction from unstructured content using LLM schemas",
-        "url": "https://simonwillison.net/2025/Feb/28/llm-schemas/",
-        "dt": "2025-02-28T17:39:45",
-        "points": 3,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43208263",
         "numComments": 0
     }
 ]
