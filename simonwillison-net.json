@@ -1,5 +1,15 @@
 [
     {
+        "id": "43501690",
+        "title": "Incomplete JSON Pretty Printer",
+        "url": "https://simonwillison.net/2025/Mar/28/incomplete-json-pretty-printer/",
+        "dt": "2025-03-28T04:59:46",
+        "points": 1,
+        "submitter": "soheilpro",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43501690",
+        "numComments": 0
+    },
+    {
         "id": "43481738",
         "title": "Putting Gemini 2.5 Pro through its paces",
         "url": "https://simonwillison.net/2025/Mar/25/gemini/",
@@ -288,15 +298,5 @@
         "submitter": "OuterVale",
         "commentsUrl": "https://news.ycombinator.com/item?id=43227972",
         "numComments": 5
-    },
-    {
-        "id": "43219520",
-        "title": "LLM Schemas",
-        "url": "https://simonwillison.net/2025/Feb/28/llm-schemas/",
-        "dt": "2025-03-01T14:27:40",
-        "points": 2,
-        "submitter": "monty5811",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43219520",
-        "numComments": 0
     }
 ]
