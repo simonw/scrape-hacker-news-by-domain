@@ -1,5 +1,15 @@
 [
     {
+        "id": "43529802",
+        "title": "LLM Schemas",
+        "url": "https://simonwillison.net/2025/Feb/28/llm-schemas/",
+        "dt": "2025-03-31T01:41:08",
+        "points": 1,
+        "submitter": "pchristensen",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43529802",
+        "numComments": 0
+    },
+    {
         "id": "43501690",
         "title": "Incomplete JSON Pretty Printer",
         "url": "https://simonwillison.net/2025/Mar/28/incomplete-json-pretty-printer/",
@@ -288,15 +298,5 @@
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=43233903",
         "numComments": 313
-    },
-    {
-        "id": "43227972",
-        "title": "Hallucinations in code are the least dangerous form of LLM mistakes",
-        "url": "https://simonwillison.net/2025/Mar/2/hallucinations-in-code/",
-        "dt": "2025-03-02T06:36:06",
-        "points": 17,
-        "submitter": "OuterVale",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43227972",
-        "numComments": 5
     }
 ]
