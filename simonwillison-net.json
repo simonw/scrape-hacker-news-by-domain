@@ -1,5 +1,15 @@
 [
     {
+        "id": "43591770",
+        "title": "Incomplete JSON Pretty Printer",
+        "url": "https://simonwillison.net/2025/Mar/28/",
+        "dt": "2025-04-05T07:57:23",
+        "points": 2,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43591770",
+        "numComments": 0
+    },
+    {
         "id": "43589117",
         "title": "Not all AI-assisted programming is vibe coding",
         "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "tzury",
         "commentsUrl": "https://news.ycombinator.com/item?id=43260217",
-        "numComments": 0
-    },
-    {
-        "id": "43259118",
-        "title": "A Practical Guide to Implementing DeepSearch / DeepResearch",
-        "url": "https://simonwillison.net/2025/Mar/4/deepsearch-deepresearch/",
-        "dt": "2025-03-04T19:46:50",
-        "points": 3,
-        "submitter": "madmax108",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43259118",
         "numComments": 0
     }
 ]
