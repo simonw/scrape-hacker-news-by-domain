@@ -1,5 +1,15 @@
 [
     {
+        "id": "43589117",
+        "title": "Not all AI-assisted programming is vibe coding",
+        "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
+        "dt": "2025-04-05T00:18:22",
+        "points": 1,
+        "submitter": "wslh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43589117",
+        "numComments": 0
+    },
+    {
         "id": "43529802",
         "title": "LLM Schemas",
         "url": "https://simonwillison.net/2025/Feb/28/llm-schemas/",
@@ -288,15 +298,5 @@
         "submitter": "madmax108",
         "commentsUrl": "https://news.ycombinator.com/item?id=43259118",
         "numComments": 0
-    },
-    {
-        "id": "43233903",
-        "title": "Hallucinations in code are the least dangerous form of LLM mistakes",
-        "url": "https://simonwillison.net/2025/Mar/2/hallucinations-in-code/",
-        "dt": "2025-03-02T19:15:58",
-        "points": 371,
-        "submitter": "ulrischa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43233903",
-        "numComments": 313
     }
 ]
