@@ -1,5 +1,15 @@
 [
     {
+        "id": "43599822",
+        "title": "Initial Impressions of Llama 4",
+        "url": "https://simonwillison.net/2025/Apr/5/llama-4-notes/",
+        "dt": "2025-04-06T08:23:29",
+        "points": 1,
+        "submitter": "ode",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43599822",
+        "numComments": 0
+    },
+    {
         "id": "43591770",
         "title": "Incomplete JSON Pretty Printer",
         "url": "https://simonwillison.net/2025/Mar/28/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "bahador",
         "commentsUrl": "https://news.ycombinator.com/item?id=43267575",
-        "numComments": 0
-    },
-    {
-        "id": "43260217",
-        "title": "Structured data extraction from unstructured content using LLM schemas",
-        "url": "https://simonwillison.net/2025/Feb/28/llm-schemas/",
-        "dt": "2025-03-04T21:56:31",
-        "points": 2,
-        "submitter": "tzury",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43260217",
         "numComments": 0
     }
 ]
