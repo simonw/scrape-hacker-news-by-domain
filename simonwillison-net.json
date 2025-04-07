@@ -1,5 +1,15 @@
 [
     {
+        "id": "43614171",
+        "title": "Long context support in LLM 0.24 using fragments and template plugins",
+        "url": "https://simonwillison.net/2025/Apr/7/long-context-llm/",
+        "dt": "2025-04-07T18:01:32",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43614171",
+        "numComments": 0
+    },
+    {
         "id": "43599822",
         "title": "Initial Impressions of Llama 4",
         "url": "https://simonwillison.net/2025/Apr/5/llama-4-notes/",
@@ -288,15 +298,5 @@
         "submitter": "anotherpaulg",
         "commentsUrl": "https://news.ycombinator.com/item?id=43276038",
         "numComments": 14
-    },
-    {
-        "id": "43267575",
-        "title": "Using a Tailscale exit node with GitHub Actions",
-        "url": "https://til.simonwillison.net/tailscale/tailscale-github-actions",
-        "dt": "2025-03-05T15:11:13",
-        "points": 3,
-        "submitter": "bahador",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43267575",
-        "numComments": 0
     }
 ]
