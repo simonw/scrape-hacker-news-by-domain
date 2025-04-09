@@ -4,7 +4,7 @@
         "title": "Model Context Protocol has prompt injection security problems",
         "url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
         "dt": "2025-04-09T13:00:29",
-        "points": 5,
+        "points": 6,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43631557",
         "numComments": 5
