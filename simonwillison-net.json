@@ -1,5 +1,15 @@
 [
     {
+        "id": "43631557",
+        "title": "Model Context Protocol has prompt injection security problems",
+        "url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
+        "dt": "2025-04-09T13:00:29",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43631557",
+        "numComments": 0
+    },
+    {
         "id": "43614171",
         "title": "Long context support in LLM 0.24 using fragments and template plugins",
         "url": "https://simonwillison.net/2025/Apr/7/long-context-llm/",
@@ -288,15 +298,5 @@
         "submitter": "gballan",
         "commentsUrl": "https://news.ycombinator.com/item?id=43286531",
         "numComments": 3
-    },
-    {
-        "id": "43276038",
-        "title": "Aider: Using Uv as an Installer",
-        "url": "https://simonwillison.net/2025/Mar/6/aider-using-uv-as-an-installer/",
-        "dt": "2025-03-06T03:18:06",
-        "points": 39,
-        "submitter": "anotherpaulg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43276038",
-        "numComments": 14
     }
 ]
