@@ -1,5 +1,15 @@
 [
     {
+        "id": "43650056",
+        "title": "Model Context Protocol has prompt injection security problems",
+        "url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
+        "dt": "2025-04-11T02:53:28",
+        "points": 1,
+        "submitter": "gregorymichael",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43650056",
+        "numComments": 0
+    },
+    {
         "id": "43631557",
         "title": "Model Context Protocol has prompt injection security problems",
         "url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=43298376",
         "numComments": 0
-    },
-    {
-        "id": "43286531",
-        "title": "Things I've learned about building CLI tools in Python",
-        "url": "https://simonwillison.net/2023/Sep/30/cli-tools-python/",
-        "dt": "2025-03-07T00:47:33",
-        "points": 13,
-        "submitter": "gballan",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43286531",
-        "numComments": 3
     }
 ]
