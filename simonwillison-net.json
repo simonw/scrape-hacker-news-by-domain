@@ -1,5 +1,15 @@
 [
     {
+        "id": "43675364",
+        "title": "CaMeL offers a promising new direction for mitigating prompt injection attacks",
+        "url": "https://simonwillison.net/2025/Apr/11/camel/",
+        "dt": "2025-04-13T19:52:20",
+        "points": 2,
+        "submitter": "birdculture",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43675364",
+        "numComments": 0
+    },
+    {
         "id": "43658482",
         "title": "CaMeL offers a promising new direction for mitigating prompt injection attacks",
         "url": "https://simonwillison.net/2025/Apr/11/camel/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=43311481",
-        "numComments": 0
-    },
-    {
-        "id": "43302901",
-        "title": "Cutting-edge web scraping techniques at NICAR",
-        "url": "https://simonwillison.net/2025/Mar/8/cutting-edge-web-scraping/",
-        "dt": "2025-03-08T19:45:51",
-        "points": 4,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43302901",
         "numComments": 0
     }
 ]
