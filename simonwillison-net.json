@@ -1,5 +1,15 @@
 [
     {
+        "id": "43728060",
+        "title": "Image segmentation using Gemini 2.5",
+        "url": "https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/",
+        "dt": "2025-04-18T13:46:23",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43728060",
+        "numComments": 0
+    },
+    {
         "id": "43675364",
         "title": "CaMeL offers a promising new direction for mitigating prompt injection attacks",
         "url": "https://simonwillison.net/2025/Apr/11/camel/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "Kerrick",
         "commentsUrl": "https://news.ycombinator.com/item?id=43325534",
-        "numComments": 0
-    },
-    {
-        "id": "43311481",
-        "title": "What's New in LLMs",
-        "url": "https://simonwillison.net/2025/Mar/8/nicar-llms/",
-        "dt": "2025-03-09T17:34:09",
-        "points": 2,
-        "submitter": "ingve",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43311481",
         "numComments": 0
     }
 ]
