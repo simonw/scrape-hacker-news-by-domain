@@ -1,5 +1,15 @@
 [
     {
+        "id": "43737889",
+        "title": "Gemma 3 QAT Models",
+        "url": "https://simonwillison.net/2025/Apr/19/gemma-3-qat-models/",
+        "dt": "2025-04-19T17:29:25",
+        "points": 3,
+        "submitter": "mdp2021",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43737889",
+        "numComments": 3
+    },
+    {
         "id": "43728060",
         "title": "Image segmentation using Gemini 2.5",
         "url": "https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43332669",
         "numComments": 4
-    },
-    {
-        "id": "43325534",
-        "title": "Will the future of software development run on vibes?",
-        "url": "https://simonwillison.net/2025/Mar/6/vibe-coding/",
-        "dt": "2025-03-10T20:14:41",
-        "points": 2,
-        "submitter": "Kerrick",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43325534",
-        "numComments": 0
     }
 ]
