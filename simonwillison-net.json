@@ -1,5 +1,15 @@
 [
     {
+        "id": "43739997",
+        "title": "Ultrathink is a Claude Code a magic word",
+        "url": "https://simonwillison.net/2025/Apr/19/claude-code-best-practices/",
+        "dt": "2025-04-19T22:31:19",
+        "points": 20,
+        "submitter": "ghuntley",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43739997",
+        "numComments": 6
+    },
+    {
         "id": "43737889",
         "title": "Gemma 3 QAT Models",
         "url": "https://simonwillison.net/2025/Apr/19/gemma-3-qat-models/",
@@ -288,15 +298,5 @@
         "submitter": "Destiner",
         "commentsUrl": "https://news.ycombinator.com/item?id=43372801",
         "numComments": 0
-    },
-    {
-        "id": "43332669",
-        "title": "Here's how I use LLMs to help me write code",
-        "url": "https://simonwillison.net/2025/Mar/11/using-llms-for-code/",
-        "dt": "2025-03-11T14:16:04",
-        "points": 68,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43332669",
-        "numComments": 4
     }
 ]
