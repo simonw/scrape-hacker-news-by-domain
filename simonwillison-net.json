@@ -1,5 +1,15 @@
 [
     {
+        "id": "43743897",
+        "title": "Maybe Meta's Llama claims to be open source because of the EU AI act",
+        "url": "https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/",
+        "dt": "2025-04-20T14:14:27",
+        "points": 1,
+        "submitter": "code_reader",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43743897",
+        "numComments": 0
+    },
+    {
         "id": "43740573",
         "title": "Maybe Meta's Llama claims to be open source because of the EU AI act",
         "url": "https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/",
@@ -14,17 +24,17 @@
         "title": "Ultrathink is a Claude Code a magic word",
         "url": "https://simonwillison.net/2025/Apr/19/claude-code-best-practices/",
         "dt": "2025-04-19T22:31:19",
-        "points": 100,
+        "points": 104,
         "submitter": "ghuntley",
         "commentsUrl": "https://news.ycombinator.com/item?id=43739997",
-        "numComments": 36
+        "numComments": 37
     },
     {
         "id": "43737889",
         "title": "Gemma 3 QAT Models",
         "url": "https://simonwillison.net/2025/Apr/19/gemma-3-qat-models/",
         "dt": "2025-04-19T17:29:25",
-        "points": 3,
+        "points": 4,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=43737889",
         "numComments": 3
@@ -288,15 +298,5 @@
         "submitter": "maxloh",
         "commentsUrl": "https://news.ycombinator.com/item?id=43378225",
         "numComments": 57
-    },
-    {
-        "id": "43378001",
-        "title": "Mlx-community/OLMo-2-0325-32B-Instruct-4bit",
-        "url": "https://simonwillison.net/2025/Mar/16/olmo2/",
-        "dt": "2025-03-16T10:33:32",
-        "points": 64,
-        "submitter": "mdp2021",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43378001",
-        "numComments": 23
     }
 ]
