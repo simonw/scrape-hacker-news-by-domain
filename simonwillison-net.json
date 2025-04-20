@@ -1,13 +1,23 @@
 [
     {
+        "id": "43740573",
+        "title": "Maybe Meta's Llama claims to be open source because of the EU AI act",
+        "url": "https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/",
+        "dt": "2025-04-20T00:28:28",
+        "points": 2,
+        "submitter": "gslin",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43740573",
+        "numComments": 0
+    },
+    {
         "id": "43739997",
         "title": "Ultrathink is a Claude Code a magic word",
         "url": "https://simonwillison.net/2025/Apr/19/claude-code-best-practices/",
         "dt": "2025-04-19T22:31:19",
-        "points": 20,
+        "points": 73,
         "submitter": "ghuntley",
         "commentsUrl": "https://news.ycombinator.com/item?id=43739997",
-        "numComments": 6
+        "numComments": 24
     },
     {
         "id": "43737889",
@@ -288,15 +298,5 @@
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=43378001",
         "numComments": 23
-    },
-    {
-        "id": "43372801",
-        "title": "Deep Research System Card",
-        "url": "https://simonwillison.net/2025/Feb/25/deep-research-system-card/",
-        "dt": "2025-03-15T14:34:23",
-        "points": 2,
-        "submitter": "Destiner",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43372801",
-        "numComments": 0
     }
 ]
