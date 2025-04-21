@@ -1,5 +1,15 @@
 [
     {
+        "id": "43752262",
+        "title": "AI assisted search-based research works now",
+        "url": "https://simonwillison.net/2025/Apr/21/ai-assisted-search/",
+        "dt": "2025-04-21T14:15:17",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43752262",
+        "numComments": 0
+    },
+    {
         "id": "43743897",
         "title": "Maybe Meta's Llama claims to be open source because of the EU AI act",
         "url": "https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/",
@@ -288,15 +298,5 @@
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=43405136",
         "numComments": 0
-    },
-    {
-        "id": "43378225",
-        "title": "Styling an HTML dialog modal to take the full height of the viewport",
-        "url": "https://til.simonwillison.net/css/dialog-full-height",
-        "dt": "2025-03-16T11:35:22",
-        "points": 75,
-        "submitter": "maxloh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43378225",
-        "numComments": 57
     }
 ]
