@@ -1,5 +1,15 @@
 [
     {
+        "id": "43797008",
+        "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
+        "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
+        "dt": "2025-04-25T18:27:15",
+        "points": 1,
+        "submitter": "badmonster",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43797008",
+        "numComments": 1
+    },
+    {
         "id": "43789696",
         "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
         "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
@@ -288,15 +298,5 @@
         "submitter": "skadamat",
         "commentsUrl": "https://news.ycombinator.com/item?id=43438850",
         "numComments": 1
-    },
-    {
-        "id": "43422066",
-        "title": "Building and deploying a custom site using GitHub Actions and GitHub Pages",
-        "url": "https://til.simonwillison.net/github-actions/github-pages",
-        "dt": "2025-03-20T12:13:39",
-        "points": 54,
-        "submitter": "linsomniac",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43422066",
-        "numComments": 19
     }
 ]
