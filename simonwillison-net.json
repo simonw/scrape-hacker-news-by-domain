@@ -1,5 +1,15 @@
 [
     {
+        "id": "43789696",
+        "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
+        "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
+        "dt": "2025-04-25T02:54:18",
+        "points": 1,
+        "submitter": "misonic",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43789696",
+        "numComments": 0
+    },
+    {
         "id": "43781715",
         "title": "A swan won't prevent a hurricane; Google AI hallucinates meaning and sources",
         "url": "https://simonwillison.net/2025/Apr/23/meaning-slop/",
@@ -288,15 +298,5 @@
         "submitter": "linsomniac",
         "commentsUrl": "https://news.ycombinator.com/item?id=43422066",
         "numComments": 19
-    },
-    {
-        "id": "43420233",
-        "title": "Calling a Wrap on My Weeknotes",
-        "url": "https://simonwillison.net/2025/Mar/20/calling-a-wrap-on-my-weeknotes/",
-        "dt": "2025-03-20T06:09:26",
-        "points": 2,
-        "submitter": "gronky_",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43420233",
-        "numComments": 0
     }
 ]
