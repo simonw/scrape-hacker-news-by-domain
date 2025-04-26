@@ -1,5 +1,15 @@
 [
     {
+        "id": "43803243",
+        "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
+        "url": "https://simonwillison.net/2025/Apr/26/o3-photo-locations/",
+        "dt": "2025-04-26T13:04:08",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43803243",
+        "numComments": 0
+    },
+    {
         "id": "43797008",
         "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
         "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
@@ -288,15 +298,5 @@
         "submitter": "Kerrick",
         "commentsUrl": "https://news.ycombinator.com/item?id=43450667",
         "numComments": 5
-    },
-    {
-        "id": "43438850",
-        "title": "Anthropic Uses Brave Search",
-        "url": "https://simonwillison.net/2025/Mar/21/anthropic-use-brave/",
-        "dt": "2025-03-21T17:46:55",
-        "points": 9,
-        "submitter": "skadamat",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43438850",
-        "numComments": 1
     }
 ]
