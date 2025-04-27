@@ -1,5 +1,15 @@
 [
     {
+        "id": "43811908",
+        "title": "Unauthorized Experiment on CMV Involving AI-Generated Comments",
+        "url": "https://simonwillison.net/2025/Apr/26/unauthorized-experiment-on-cmv/",
+        "dt": "2025-04-27T13:48:17",
+        "points": 3,
+        "submitter": "pavel_lishin",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43811908",
+        "numComments": 1
+    },
+    {
         "id": "43809429",
         "title": "Unauthorized Experiment on CMV Involving AI-Generated Comments",
         "url": "https://simonwillison.net/2025/Apr/26/unauthorized-experiment-on-cmv/",
@@ -34,10 +44,10 @@
         "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
         "url": "https://simonwillison.net/2025/Apr/26/o3-photo-locations/",
         "dt": "2025-04-26T13:04:08",
-        "points": 874,
+        "points": 885,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43803243",
-        "numComments": 389
+        "numComments": 391
     },
     {
         "id": "43797008",
@@ -288,15 +298,5 @@
         "submitter": "andai",
         "commentsUrl": "https://news.ycombinator.com/item?id=43467082",
         "numComments": 0
-    },
-    {
-        "id": "43462317",
-        "title": "DeepSeek releases their latest DeepSeek v3 model, now featuring an MIT license",
-        "url": "https://simonwillison.net/2025/Mar/24/deepseek/",
-        "dt": "2025-03-24T15:41:41",
-        "points": 34,
-        "submitter": "spenvo",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43462317",
-        "numComments": 1
     }
 ]
