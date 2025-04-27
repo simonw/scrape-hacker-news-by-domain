@@ -1,5 +1,15 @@
 [
     {
+        "id": "43809429",
+        "title": "Unauthorized Experiment on CMV Involving AI-Generated Comments",
+        "url": "https://simonwillison.net/2025/Apr/26/unauthorized-experiment-on-cmv/",
+        "dt": "2025-04-27T04:27:57",
+        "points": 1,
+        "submitter": "imichael",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43809429",
+        "numComments": 0
+    },
+    {
         "id": "43805556",
         "title": "The GeoGuessr StreetView meta-game",
         "url": "https://simonwillison.net/2025/Apr/26/geoguessr/",
@@ -24,10 +34,10 @@
         "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
         "url": "https://simonwillison.net/2025/Apr/26/o3-photo-locations/",
         "dt": "2025-04-26T13:04:08",
-        "points": 692,
+        "points": 718,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43803243",
-        "numComments": 320
+        "numComments": 327
     },
     {
         "id": "43797008",
@@ -288,15 +298,5 @@
         "submitter": "spenvo",
         "commentsUrl": "https://news.ycombinator.com/item?id=43462317",
         "numComments": 1
-    },
-    {
-        "id": "43454843",
-        "title": "Semantic Diffusion",
-        "url": "https://simonwillison.net/2025/Mar/23/semantic-diffusion/",
-        "dt": "2025-03-23T18:41:51",
-        "points": 16,
-        "submitter": "Tomte",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43454843",
-        "numComments": 4
     }
 ]
