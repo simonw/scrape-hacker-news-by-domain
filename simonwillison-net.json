@@ -1,10 +1,20 @@
 [
     {
+        "id": "43824153",
+        "title": "Giving Software Away for Free",
+        "url": "https://simonwillison.net/2025/Apr/28/give-it-away-for-free/",
+        "dt": "2025-04-28T17:58:38",
+        "points": 3,
+        "submitter": "raybb",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43824153",
+        "numComments": 1
+    },
+    {
         "id": "43811908",
         "title": "Unauthorized Experiment on CMV Involving AI-Generated Comments",
         "url": "https://simonwillison.net/2025/Apr/26/unauthorized-experiment-on-cmv/",
         "dt": "2025-04-27T13:48:17",
-        "points": 68,
+        "points": 70,
         "submitter": "pavel_lishin",
         "commentsUrl": "https://news.ycombinator.com/item?id=43811908",
         "numComments": 29
@@ -44,10 +54,10 @@
         "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
         "url": "https://simonwillison.net/2025/Apr/26/o3-photo-locations/",
         "dt": "2025-04-26T13:04:08",
-        "points": 950,
+        "points": 953,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43803243",
-        "numComments": 418
+        "numComments": 420
     },
     {
         "id": "43797008",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=43467848",
         "numComments": 2
-    },
-    {
-        "id": "43467082",
-        "title": "The think tool: Enabling Claude to stop and think in complex tool use situations",
-        "url": "https://simonwillison.net/2025/Mar/21/the-think-tool/",
-        "dt": "2025-03-25T01:01:55",
-        "points": 4,
-        "submitter": "andai",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43467082",
-        "numComments": 0
     }
 ]
