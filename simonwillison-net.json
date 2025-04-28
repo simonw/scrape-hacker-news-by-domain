@@ -4,10 +4,10 @@
         "title": "Unauthorized Experiment on CMV Involving AI-Generated Comments",
         "url": "https://simonwillison.net/2025/Apr/26/unauthorized-experiment-on-cmv/",
         "dt": "2025-04-27T13:48:17",
-        "points": 39,
+        "points": 41,
         "submitter": "pavel_lishin",
         "commentsUrl": "https://news.ycombinator.com/item?id=43811908",
-        "numComments": 12
+        "numComments": 13
     },
     {
         "id": "43809429",
@@ -44,7 +44,7 @@
         "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
         "url": "https://simonwillison.net/2025/Apr/26/o3-photo-locations/",
         "dt": "2025-04-26T13:04:08",
-        "points": 931,
+        "points": 932,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43803243",
         "numComments": 412
@@ -94,7 +94,7 @@
         "title": "AI assisted search-based research works now",
         "url": "https://simonwillison.net/2025/Apr/21/ai-assisted-search/",
         "dt": "2025-04-21T14:15:17",
-        "points": 279,
+        "points": 280,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43752262",
         "numComments": 145
@@ -144,7 +144,7 @@
         "title": "Image segmentation using Gemini 2.5",
         "url": "https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/",
         "dt": "2025-04-18T13:46:23",
-        "points": 1,
+        "points": 2,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43728060",
         "numComments": 0
