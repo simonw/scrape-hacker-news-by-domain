@@ -1,5 +1,15 @@
 [
     {
+        "id": "43829803",
+        "title": "Qwen 3 offers a case study in how to effectively release a model",
+        "url": "https://simonwillison.net/2025/Apr/29/qwen-3/",
+        "dt": "2025-04-29T07:59:37",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43829803",
+        "numComments": 0
+    },
+    {
         "id": "43828298",
         "title": "A comparison of ChatGPT/GPT-4o's previous and current system prompts. GPT",
         "url": "https://simonwillison.net/2025/Apr/29/a-comparison-of-chatgptgpt-4os-previous-and-current-system-promp/",
@@ -24,7 +34,7 @@
         "title": "Unauthorized Experiment on CMV Involving AI-Generated Comments",
         "url": "https://simonwillison.net/2025/Apr/26/unauthorized-experiment-on-cmv/",
         "dt": "2025-04-27T13:48:17",
-        "points": 73,
+        "points": 74,
         "submitter": "pavel_lishin",
         "commentsUrl": "https://news.ycombinator.com/item?id=43811908",
         "numComments": 35
@@ -287,16 +297,6 @@
         "points": 5,
         "submitter": "LyalinDotCom",
         "commentsUrl": "https://news.ycombinator.com/item?id=43476964",
-        "numComments": 0
-    },
-    {
-        "id": "43470232",
-        "title": "The interesting ideas in Datasette (2018)",
-        "url": "https://simonwillison.net/2018/Oct/4/datasette-ideas/",
-        "dt": "2025-03-25T12:06:06",
-        "points": 1,
-        "submitter": "Tomte",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43470232",
         "numComments": 0
     }
 ]
