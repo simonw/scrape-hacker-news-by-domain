@@ -1,5 +1,15 @@
 [
     {
+        "id": "43837014",
+        "title": "A cheat sheet for why using ChatGPT is not bad for the environment",
+        "url": "https://simonwillison.net/2025/Apr/29/chatgpt-is-not-bad-for-the-environment/",
+        "dt": "2025-04-29T19:34:03",
+        "points": 4,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43837014",
+        "numComments": 0
+    },
+    {
         "id": "43831691",
         "title": "Simon Willison: Exploring Promptfoo",
         "url": "https://simonwillison.net/2025/Apr/24/exploring-promptfoo/",
@@ -84,7 +94,7 @@
         "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
         "url": "https://simonwillison.net/2025/Apr/26/o3-photo-locations/",
         "dt": "2025-04-26T13:04:08",
-        "points": 967,
+        "points": 968,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43803243",
         "numComments": 428
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "soheilpro",
         "commentsUrl": "https://news.ycombinator.com/item?id=43501690",
-        "numComments": 0
-    },
-    {
-        "id": "43481738",
-        "title": "Putting Gemini 2.5 Pro through its paces",
-        "url": "https://simonwillison.net/2025/Mar/25/gemini/",
-        "dt": "2025-03-26T12:56:02",
-        "points": 2,
-        "submitter": "karma_daemon",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43481738",
         "numComments": 0
     }
 ]
