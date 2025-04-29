@@ -1,5 +1,15 @@
 [
     {
+        "id": "43831691",
+        "title": "Simon Willison: Exploring Promptfoo",
+        "url": "https://simonwillison.net/2025/Apr/24/exploring-promptfoo/",
+        "dt": "2025-04-29T12:28:35",
+        "points": 1,
+        "submitter": "recursive4",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43831691",
+        "numComments": 0
+    },
+    {
         "id": "43829803",
         "title": "Qwen 3 offers a case study in how to effectively release a model",
         "url": "https://simonwillison.net/2025/Apr/29/qwen-3/",
@@ -74,7 +84,7 @@
         "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
         "url": "https://simonwillison.net/2025/Apr/26/o3-photo-locations/",
         "dt": "2025-04-26T13:04:08",
-        "points": 960,
+        "points": 962,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43803243",
         "numComments": 428
@@ -124,7 +134,7 @@
         "title": "AI assisted search-based research works now",
         "url": "https://simonwillison.net/2025/Apr/21/ai-assisted-search/",
         "dt": "2025-04-21T14:15:17",
-        "points": 281,
+        "points": 282,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43752262",
         "numComments": 145
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "karma_daemon",
         "commentsUrl": "https://news.ycombinator.com/item?id=43481738",
-        "numComments": 0
-    },
-    {
-        "id": "43476964",
-        "title": "Putting Gemini 2.5 Pro through its paces",
-        "url": "https://simonwillison.net/2025/Mar/25/gemini/",
-        "dt": "2025-03-25T22:57:06",
-        "points": 5,
-        "submitter": "LyalinDotCom",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43476964",
         "numComments": 0
     }
 ]
