@@ -1,5 +1,15 @@
 [
     {
+        "id": "43898545",
+        "title": "Request for more articles on prompting techniques",
+        "url": "https://simonwillison.net/2025/May/5/prompting/",
+        "dt": "2025-05-05T19:27:32",
+        "points": 4,
+        "submitter": "quinncom",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43898545",
+        "numComments": 2
+    },
+    {
         "id": "43858250",
         "title": "Two publishers and three authors fail to understand what \"vibe coding\" means",
         "url": "https://simonwillison.net/2025/May/1/not-vibe-coding/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "ode",
         "commentsUrl": "https://news.ycombinator.com/item?id=43599822",
-        "numComments": 0
-    },
-    {
-        "id": "43591770",
-        "title": "Incomplete JSON Pretty Printer",
-        "url": "https://simonwillison.net/2025/Mar/28/",
-        "dt": "2025-04-05T07:57:23",
-        "points": 2,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43591770",
         "numComments": 0
     }
 ]
