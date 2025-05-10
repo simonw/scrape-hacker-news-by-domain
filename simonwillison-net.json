@@ -1,5 +1,15 @@
 [
     {
+        "id": "43948367",
+        "title": "Trying out llama.cpp's new vision support",
+        "url": "https://simonwillison.net/2025/May/10/llama-cpp-vision/",
+        "dt": "2025-05-10T19:50:01",
+        "points": 1,
+        "submitter": "marviel",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43948367",
+        "numComments": 0
+    },
+    {
         "id": "43947161",
         "title": "Simon Willison's first blog on LLMs (2022)",
         "url": "https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43631557",
         "numComments": 8
-    },
-    {
-        "id": "43614171",
-        "title": "Long context support in LLM 0.24 using fragments and template plugins",
-        "url": "https://simonwillison.net/2025/Apr/7/long-context-llm/",
-        "dt": "2025-04-07T18:01:32",
-        "points": 1,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43614171",
-        "numComments": 0
     }
 ]
