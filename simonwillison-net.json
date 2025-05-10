@@ -1,5 +1,15 @@
 [
     {
+        "id": "43947161",
+        "title": "Simon Willison's first blog on LLMs (2022)",
+        "url": "https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/",
+        "dt": "2025-05-10T17:04:25",
+        "points": 4,
+        "submitter": "Alifatisk",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43947161",
+        "numComments": 0
+    },
+    {
         "id": "43898545",
         "title": "Request for more articles on prompting techniques",
         "url": "https://simonwillison.net/2025/May/5/prompting/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43614171",
-        "numComments": 0
-    },
-    {
-        "id": "43599822",
-        "title": "Initial Impressions of Llama 4",
-        "url": "https://simonwillison.net/2025/Apr/5/llama-4-notes/",
-        "dt": "2025-04-06T08:23:29",
-        "points": 4,
-        "submitter": "ode",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43599822",
         "numComments": 0
     }
 ]
