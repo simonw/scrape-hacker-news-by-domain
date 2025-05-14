@@ -1,5 +1,15 @@
 [
     {
+        "id": "43981586",
+        "title": "o4-mini-high leaks the URL to OpenAI's internal engineering handbook",
+        "url": "https://simonwillison.net/2025/May/13/launching-chatgpt-images/",
+        "dt": "2025-05-14T06:46:44",
+        "points": 3,
+        "submitter": "rcarmo",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43981586",
+        "numComments": 0
+    },
+    {
         "id": "43959550",
         "title": "Cursor: Security",
         "url": "https://simonwillison.net/2025/May/11/cursor-security/",
@@ -287,16 +297,6 @@
         "points": 5,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43658482",
-        "numComments": 0
-    },
-    {
-        "id": "43650056",
-        "title": "Model Context Protocol has prompt injection security problems",
-        "url": "https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/",
-        "dt": "2025-04-11T02:53:28",
-        "points": 4,
-        "submitter": "gregorymichael",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43650056",
         "numComments": 0
     }
 ]
