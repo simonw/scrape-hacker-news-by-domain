@@ -1,5 +1,15 @@
 [
     {
+        "id": "43995155",
+        "title": "Building Software on Top of LLMs",
+        "url": "https://simonwillison.net/2025/May/15/building-on-llms/",
+        "dt": "2025-05-15T13:57:48",
+        "points": 2,
+        "submitter": "ridruejo",
+        "commentsUrl": "https://news.ycombinator.com/item?id=43995155",
+        "numComments": 0
+    },
+    {
         "id": "43981586",
         "title": "o4-mini-high leaks the URL to OpenAI's internal engineering handbook",
         "url": "https://simonwillison.net/2025/May/13/launching-chatgpt-images/",
@@ -288,15 +298,5 @@
         "submitter": "birdculture",
         "commentsUrl": "https://news.ycombinator.com/item?id=43675364",
         "numComments": 3
-    },
-    {
-        "id": "43658482",
-        "title": "CaMeL offers a promising new direction for mitigating prompt injection attacks",
-        "url": "https://simonwillison.net/2025/Apr/11/camel/",
-        "dt": "2025-04-11T20:58:22",
-        "points": 5,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43658482",
-        "numComments": 0
     }
 ]
