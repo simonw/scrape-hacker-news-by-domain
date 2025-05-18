@@ -1,5 +1,15 @@
 [
     {
+        "id": "44020782",
+        "title": "Quoting Neal Stephenson",
+        "url": "https://simonwillison.net/2025/May/18/neal-stephenson/",
+        "dt": "2025-05-18T12:16:41",
+        "points": 1,
+        "submitter": "mdp2021",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44020782",
+        "numComments": 1
+    },
+    {
         "id": "44014535",
         "title": "Building software on top of Large Language Models",
         "url": "https://simonwillison.net/2025/May/15/building-on-llms/",
@@ -288,15 +298,5 @@
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=43737889",
         "numComments": 3
-    },
-    {
-        "id": "43728060",
-        "title": "Image segmentation using Gemini 2.5",
-        "url": "https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/",
-        "dt": "2025-04-18T13:46:23",
-        "points": 2,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43728060",
-        "numComments": 0
     }
 ]
