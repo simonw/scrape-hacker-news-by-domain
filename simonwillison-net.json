@@ -14,7 +14,7 @@
         "title": "Building software on top of large language models",
         "url": "https://simonwillison.net/2025/May/15/building-on-llms/",
         "dt": "2025-05-22T01:44:32",
-        "points": 29,
+        "points": 30,
         "submitter": "gregorymichael",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057971",
         "numComments": 0
@@ -24,10 +24,10 @@
         "title": "Gemini Diffusion",
         "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
         "dt": "2025-05-22T01:13:50",
-        "points": 479,
+        "points": 516,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
-        "numComments": 114
+        "numComments": 123
     },
     {
         "id": "44052246",
