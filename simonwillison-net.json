@@ -1,10 +1,20 @@
 [
     {
+        "id": "44058105",
+        "title": "I don't like ChatGPT's new memory dossier",
+        "url": "https://simonwillison.net/2025/May/21/chatgpt-new-memory/",
+        "dt": "2025-05-22T02:11:54",
+        "points": 3,
+        "submitter": "Sami_Lehtinen",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44058105",
+        "numComments": 1
+    },
+    {
         "id": "44057971",
         "title": "Building software on top of large language models",
         "url": "https://simonwillison.net/2025/May/15/building-on-llms/",
         "dt": "2025-05-22T01:44:32",
-        "points": 4,
+        "points": 21,
         "submitter": "gregorymichael",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057971",
         "numComments": 0
@@ -14,17 +24,17 @@
         "title": "Gemini Diffusion",
         "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
         "dt": "2025-05-22T01:13:50",
-        "points": 71,
+        "points": 160,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
-        "numComments": 8
+        "numComments": 22
     },
     {
         "id": "44052246",
         "title": "I don't like ChatGPT's new memory dossier",
         "url": "https://simonwillison.net/2025/May/21/chatgpt-new-memory/",
         "dt": "2025-05-21T15:03:26",
-        "points": 9,
+        "points": 11,
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=44052246",
         "numComments": 2
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=43752262",
         "numComments": 147
-    },
-    {
-        "id": "43743897",
-        "title": "Maybe Meta's Llama claims to be open source because of the EU AI act",
-        "url": "https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/",
-        "dt": "2025-04-20T14:14:27",
-        "points": 28,
-        "submitter": "code_reader",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43743897",
-        "numComments": 14
     }
 ]
