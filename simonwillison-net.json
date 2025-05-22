@@ -1,5 +1,15 @@
 [
     {
+        "id": "44063893",
+        "title": "Live blog: Claude 4 launch at Code with Claude",
+        "url": "https://simonwillison.net/2025/May/22/code-with-claude-live-blog/",
+        "dt": "2025-05-22T16:48:30",
+        "points": 1,
+        "submitter": "dmazin",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44063893",
+        "numComments": 0
+    },
+    {
         "id": "44058105",
         "title": "I don't like ChatGPT's new memory dossier",
         "url": "https://simonwillison.net/2025/May/21/chatgpt-new-memory/",
@@ -14,7 +24,7 @@
         "title": "Building software on top of large language models",
         "url": "https://simonwillison.net/2025/May/15/building-on-llms/",
         "dt": "2025-05-22T01:44:32",
-        "points": 31,
+        "points": 32,
         "submitter": "gregorymichael",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057971",
         "numComments": 0
@@ -24,10 +34,10 @@
         "title": "Gemini Diffusion",
         "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
         "dt": "2025-05-22T01:13:50",
-        "points": 753,
+        "points": 770,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
-        "numComments": 197
+        "numComments": 202
     },
     {
         "id": "44052246",
@@ -37,7 +47,7 @@
         "points": 18,
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=44052246",
-        "numComments": 5
+        "numComments": 6
     },
     {
         "id": "44020782",
@@ -288,15 +298,5 @@
         "submitter": "pheelicks",
         "commentsUrl": "https://news.ycombinator.com/item?id=43779770",
         "numComments": 0
-    },
-    {
-        "id": "43752262",
-        "title": "AI assisted search-based research works now",
-        "url": "https://simonwillison.net/2025/Apr/21/ai-assisted-search/",
-        "dt": "2025-04-21T14:15:17",
-        "points": 283,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43752262",
-        "numComments": 147
     }
 ]
