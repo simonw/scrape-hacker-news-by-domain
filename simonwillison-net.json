@@ -14,7 +14,7 @@
         "title": "Building software on top of large language models",
         "url": "https://simonwillison.net/2025/May/15/building-on-llms/",
         "dt": "2025-05-22T01:44:32",
-        "points": 23,
+        "points": 27,
         "submitter": "gregorymichael",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057971",
         "numComments": 0
@@ -24,20 +24,20 @@
         "title": "Gemini Diffusion",
         "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
         "dt": "2025-05-22T01:13:50",
-        "points": 207,
+        "points": 260,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
-        "numComments": 33
+        "numComments": 45
     },
     {
         "id": "44052246",
         "title": "I don't like ChatGPT's new memory dossier",
         "url": "https://simonwillison.net/2025/May/21/chatgpt-new-memory/",
         "dt": "2025-05-21T15:03:26",
-        "points": 12,
+        "points": 13,
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=44052246",
-        "numComments": 2
+        "numComments": 3
     },
     {
         "id": "44020782",
