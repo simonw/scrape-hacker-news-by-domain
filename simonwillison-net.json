@@ -1,5 +1,15 @@
 [
     {
+        "id": "44075715",
+        "title": "Honey Badger",
+        "url": "https://simonwillison.net/2025/May/23/honey-badger/",
+        "dt": "2025-05-23T19:17:42",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44075715",
+        "numComments": 0
+    },
+    {
         "id": "44063893",
         "title": "Live blog: Claude 4 launch at Code with Claude",
         "url": "https://simonwillison.net/2025/May/22/code-with-claude-live-blog/",
@@ -37,7 +47,7 @@
         "points": 857,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
-        "numComments": 233
+        "numComments": 234
     },
     {
         "id": "44052246",
@@ -288,15 +298,5 @@
         "submitter": "isaacfrond",
         "commentsUrl": "https://news.ycombinator.com/item?id=43781715",
         "numComments": 1
-    },
-    {
-        "id": "43779770",
-        "title": "A5: Like Uber's H3 but a bit weirder and more fun",
-        "url": "https://simonwillison.net/2025/Apr/22/a5/",
-        "dt": "2025-04-24T06:14:42",
-        "points": 3,
-        "submitter": "pheelicks",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43779770",
-        "numComments": 0
     }
 ]
