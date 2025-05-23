@@ -1,10 +1,20 @@
 [
     {
+        "id": "44077031",
+        "title": "Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft",
+        "url": "https://simonwillison.net/2025/May/23/remote-prompt-injection-in-gitlab-duo/",
+        "dt": "2025-05-23T22:03:41",
+        "points": 1,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44077031",
+        "numComments": 0
+    },
+    {
         "id": "44075715",
         "title": "Honey Badger",
         "url": "https://simonwillison.net/2025/May/23/honey-badger/",
         "dt": "2025-05-23T19:17:42",
-        "points": 4,
+        "points": 5,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=44075715",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "misonic",
         "commentsUrl": "https://news.ycombinator.com/item?id=43789696",
         "numComments": 0
-    },
-    {
-        "id": "43781715",
-        "title": "A swan won't prevent a hurricane; Google AI hallucinates meaning and sources",
-        "url": "https://simonwillison.net/2025/Apr/23/meaning-slop/",
-        "dt": "2025-04-24T12:05:11",
-        "points": 2,
-        "submitter": "isaacfrond",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43781715",
-        "numComments": 1
     }
 ]
