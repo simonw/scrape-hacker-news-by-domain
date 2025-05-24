@@ -4,7 +4,7 @@
         "title": "Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft",
         "url": "https://simonwillison.net/2025/May/23/remote-prompt-injection-in-gitlab-duo/",
         "dt": "2025-05-23T22:03:41",
-        "points": 2,
+        "points": 5,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=44077031",
         "numComments": 0
@@ -54,7 +54,7 @@
         "title": "Gemini Diffusion",
         "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
         "dt": "2025-05-22T01:13:50",
-        "points": 858,
+        "points": 859,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
         "numComments": 234
