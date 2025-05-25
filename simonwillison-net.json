@@ -1,5 +1,35 @@
 [
     {
+        "id": "44085943",
+        "title": "Subscribe to my sponsors-only monthly newsletter",
+        "url": "https://simonwillison.net/2025/May/25/sponsors-only-newsletter/",
+        "dt": "2025-05-25T06:14:38",
+        "points": 1,
+        "submitter": "pros",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44085943",
+        "numComments": 0
+    },
+    {
+        "id": "44085920",
+        "title": "Claude 4 System Cards Highlights",
+        "url": "https://simonwillison.net/2025/May/25/claude-4-system-card/",
+        "dt": "2025-05-25T06:06:39",
+        "points": 3,
+        "submitter": "pvg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44085920",
+        "numComments": 0
+    },
+    {
+        "id": "44085750",
+        "title": "How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability",
+        "url": "https://simonwillison.net/2025/May/24/sean-heelan/",
+        "dt": "2025-05-25T05:28:17",
+        "points": 2,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44085750",
+        "numComments": 0
+    },
+    {
         "id": "44077031",
         "title": "Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft",
         "url": "https://simonwillison.net/2025/May/23/remote-prompt-injection-in-gitlab-duo/",
@@ -54,7 +84,7 @@
         "title": "Gemini Diffusion",
         "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
         "dt": "2025-05-22T01:13:50",
-        "points": 869,
+        "points": 870,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
         "numComments": 236
@@ -267,36 +297,6 @@
         "points": 1,
         "submitter": "Anon84",
         "commentsUrl": "https://news.ycombinator.com/item?id=43804377",
-        "numComments": 0
-    },
-    {
-        "id": "43803243",
-        "title": "Watching o3 guess a photo's location is surreal, dystopian and entertaining",
-        "url": "https://simonwillison.net/2025/Apr/26/o3-photo-locations/",
-        "dt": "2025-04-26T13:04:08",
-        "points": 987,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43803243",
-        "numComments": 433
-    },
-    {
-        "id": "43797008",
-        "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
-        "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
-        "dt": "2025-04-25T18:27:15",
-        "points": 1,
-        "submitter": "badmonster",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43797008",
-        "numComments": 1
-    },
-    {
-        "id": "43789696",
-        "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
-        "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
-        "dt": "2025-04-25T02:54:18",
-        "points": 3,
-        "submitter": "misonic",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43789696",
         "numComments": 0
     }
 ]
