@@ -1,5 +1,15 @@
 [
     {
+        "id": "44087920",
+        "title": "Highlights from the Claude 4 system prompt",
+        "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
+        "dt": "2025-05-25T14:02:47",
+        "points": 2,
+        "submitter": "dcre",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44087920",
+        "numComments": 0
+    },
+    {
         "id": "44085943",
         "title": "Subscribe to my sponsors-only monthly newsletter",
         "url": "https://simonwillison.net/2025/May/25/sponsors-only-newsletter/",
@@ -14,10 +24,10 @@
         "title": "Claude 4 System Card",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-card/",
         "dt": "2025-05-25T06:06:39",
-        "points": 230,
+        "points": 277,
         "submitter": "pvg",
         "commentsUrl": "https://news.ycombinator.com/item?id=44085920",
-        "numComments": 96
+        "numComments": 108
     },
     {
         "id": "44085750",
@@ -84,10 +94,10 @@
         "title": "Gemini Diffusion",
         "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
         "dt": "2025-05-22T01:13:50",
-        "points": 871,
+        "points": 872,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
-        "numComments": 237
+        "numComments": 238
     },
     {
         "id": "44052246",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=43805556",
-        "numComments": 0
-    },
-    {
-        "id": "43804377",
-        "title": "Not all AI-assisted programming is vibe coding (but vibe coding rocks)",
-        "url": "https://simonwillison.net/2025/Mar/19/vibe-coding/",
-        "dt": "2025-04-26T15:20:32",
-        "points": 1,
-        "submitter": "Anon84",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43804377",
         "numComments": 0
     }
 ]
