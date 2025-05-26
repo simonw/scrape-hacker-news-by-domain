@@ -1,5 +1,15 @@
 [
     {
+        "id": "44094980",
+        "title": "GitHub issues is almost the best notebook in the world",
+        "url": "https://simonwillison.net/2025/May/26/notes/",
+        "dt": "2025-05-26T07:41:24",
+        "points": 3,
+        "submitter": "ingve",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44094980",
+        "numComments": 0
+    },
+    {
         "id": "44087920",
         "title": "Highlights from the Claude 4 system prompt",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
@@ -7,7 +17,7 @@
         "points": 7,
         "submitter": "dcre",
         "commentsUrl": "https://news.ycombinator.com/item?id=44087920",
-        "numComments": 4
+        "numComments": 5
     },
     {
         "id": "44085943",
@@ -24,10 +34,10 @@
         "title": "Claude 4 System Card",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-card/",
         "dt": "2025-05-25T06:06:39",
-        "points": 624,
+        "points": 628,
         "submitter": "pvg",
         "commentsUrl": "https://news.ycombinator.com/item?id=44085920",
-        "numComments": 224
+        "numComments": 226
     },
     {
         "id": "44085750",
@@ -94,7 +104,7 @@
         "title": "Gemini Diffusion",
         "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
         "dt": "2025-05-22T01:13:50",
-        "points": 878,
+        "points": 879,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
         "numComments": 240
@@ -288,15 +298,5 @@
         "submitter": "imichael",
         "commentsUrl": "https://news.ycombinator.com/item?id=43809429",
         "numComments": 1
-    },
-    {
-        "id": "43805556",
-        "title": "The GeoGuessr StreetView meta-game",
-        "url": "https://simonwillison.net/2025/Apr/26/geoguessr/",
-        "dt": "2025-04-26T17:37:50",
-        "points": 4,
-        "submitter": "ulrischa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43805556",
-        "numComments": 0
     }
 ]
