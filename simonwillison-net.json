@@ -1,5 +1,15 @@
 [
     {
+        "id": "44101833",
+        "title": "Highlights from the Claude 4 system prompt",
+        "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
+        "dt": "2025-05-26T21:25:56",
+        "points": 8,
+        "submitter": "Anon84",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44101833",
+        "numComments": 1
+    },
+    {
         "id": "44095956",
         "title": "Highlights from the Claude 4 system prompt",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
@@ -14,10 +24,10 @@
         "title": "GitHub issues is almost the best notebook in the world",
         "url": "https://simonwillison.net/2025/May/26/notes/",
         "dt": "2025-05-26T07:41:24",
-        "points": 246,
+        "points": 247,
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=44094980",
-        "numComments": 167
+        "numComments": 169
     },
     {
         "id": "44087920",
@@ -44,7 +54,7 @@
         "title": "Claude 4 System Card",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-card/",
         "dt": "2025-05-25T06:06:39",
-        "points": 665,
+        "points": 669,
         "submitter": "pvg",
         "commentsUrl": "https://news.ycombinator.com/item?id=44085920",
         "numComments": 246
@@ -288,15 +298,5 @@
         "submitter": "raybb",
         "commentsUrl": "https://news.ycombinator.com/item?id=43824153",
         "numComments": 52
-    },
-    {
-        "id": "43811908",
-        "title": "Unauthorized Experiment on CMV Involving AI-Generated Comments",
-        "url": "https://simonwillison.net/2025/Apr/26/unauthorized-experiment-on-cmv/",
-        "dt": "2025-04-27T13:48:17",
-        "points": 76,
-        "submitter": "pavel_lishin",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43811908",
-        "numComments": 35
     }
 ]
