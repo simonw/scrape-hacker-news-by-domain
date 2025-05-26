@@ -4,7 +4,7 @@
         "title": "Highlights from the Claude 4 system prompt",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
         "dt": "2025-05-26T10:29:51",
-        "points": 1,
+        "points": 2,
         "submitter": "iNic",
         "commentsUrl": "https://news.ycombinator.com/item?id=44095956",
         "numComments": 0
@@ -14,10 +14,10 @@
         "title": "GitHub issues is almost the best notebook in the world",
         "url": "https://simonwillison.net/2025/May/26/notes/",
         "dt": "2025-05-26T07:41:24",
-        "points": 50,
+        "points": 78,
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=44094980",
-        "numComments": 16
+        "numComments": 42
     },
     {
         "id": "44087920",
@@ -44,10 +44,10 @@
         "title": "Claude 4 System Card",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-card/",
         "dt": "2025-05-25T06:06:39",
-        "points": 640,
+        "points": 643,
         "submitter": "pvg",
         "commentsUrl": "https://news.ycombinator.com/item?id=44085920",
-        "numComments": 237
+        "numComments": 240
     },
     {
         "id": "44085750",
