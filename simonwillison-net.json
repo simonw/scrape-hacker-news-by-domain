@@ -1,13 +1,23 @@
 [
     {
+        "id": "44104528",
+        "title": "GitHub MCP Exploited: Accessing Private Repositories via MCP",
+        "url": "https://simonwillison.net/2025/May/26/github-mcp-exploited/",
+        "dt": "2025-05-27T06:54:12",
+        "points": 1,
+        "submitter": "todsacerdoti",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44104528",
+        "numComments": 0
+    },
+    {
         "id": "44101833",
         "title": "Highlights from the Claude 4 system prompt",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
         "dt": "2025-05-26T21:25:56",
-        "points": 94,
+        "points": 110,
         "submitter": "Anon84",
         "commentsUrl": "https://news.ycombinator.com/item?id=44101833",
-        "numComments": 28
+        "numComments": 29
     },
     {
         "id": "44095956",
@@ -24,7 +34,7 @@
         "title": "GitHub issues is almost the best notebook in the world",
         "url": "https://simonwillison.net/2025/May/26/notes/",
         "dt": "2025-05-26T07:41:24",
-        "points": 276,
+        "points": 277,
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=44094980",
         "numComments": 175
@@ -54,7 +64,7 @@
         "title": "Claude 4 System Card",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-card/",
         "dt": "2025-05-25T06:06:39",
-        "points": 677,
+        "points": 678,
         "submitter": "pvg",
         "commentsUrl": "https://news.ycombinator.com/item?id=44085920",
         "numComments": 247
@@ -288,15 +298,5 @@
         "submitter": "JustExAWS",
         "commentsUrl": "https://news.ycombinator.com/item?id=43828298",
         "numComments": 1
-    },
-    {
-        "id": "43824153",
-        "title": "Giving Software Away for Free",
-        "url": "https://simonwillison.net/2025/Apr/28/give-it-away-for-free/",
-        "dt": "2025-04-28T17:58:38",
-        "points": 92,
-        "submitter": "raybb",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43824153",
-        "numComments": 52
     }
 ]
