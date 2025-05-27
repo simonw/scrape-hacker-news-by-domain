@@ -4,10 +4,10 @@
         "title": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
         "url": "https://simonwillison.net/2025/May/27/llm-tools/",
         "dt": "2025-05-27T20:53:03",
-        "points": 70,
+        "points": 114,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44110584",
-        "numComments": 26
+        "numComments": 43
     },
     {
         "id": "44104528",
@@ -27,7 +27,7 @@
         "points": 287,
         "submitter": "Anon84",
         "commentsUrl": "https://news.ycombinator.com/item?id=44101833",
-        "numComments": 79
+        "numComments": 82
     },
     {
         "id": "44095956",
@@ -44,7 +44,7 @@
         "title": "GitHub issues is almost the best notebook in the world",
         "url": "https://simonwillison.net/2025/May/26/notes/",
         "dt": "2025-05-26T07:41:24",
-        "points": 295,
+        "points": 297,
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=44094980",
         "numComments": 186
@@ -54,7 +54,7 @@
         "title": "Highlights from the Claude 4 system prompt",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
         "dt": "2025-05-25T14:02:47",
-        "points": 8,
+        "points": 9,
         "submitter": "dcre",
         "commentsUrl": "https://news.ycombinator.com/item?id=44087920",
         "numComments": 1
