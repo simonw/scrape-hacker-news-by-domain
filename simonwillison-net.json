@@ -4,10 +4,10 @@
         "title": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
         "url": "https://simonwillison.net/2025/May/27/llm-tools/",
         "dt": "2025-05-27T20:53:03",
-        "points": 226,
+        "points": 239,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44110584",
-        "numComments": 86
+        "numComments": 91
     },
     {
         "id": "44104528",
@@ -74,7 +74,7 @@
         "title": "Claude 4 System Card",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-card/",
         "dt": "2025-05-25T06:06:39",
-        "points": 686,
+        "points": 687,
         "submitter": "pvg",
         "commentsUrl": "https://news.ycombinator.com/item?id=44085920",
         "numComments": 249
