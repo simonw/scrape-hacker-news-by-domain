@@ -4,10 +4,10 @@
         "title": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
         "url": "https://simonwillison.net/2025/May/27/llm-tools/",
         "dt": "2025-05-27T20:53:03",
-        "points": 114,
+        "points": 156,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44110584",
-        "numComments": 43
+        "numComments": 56
     },
     {
         "id": "44104528",
@@ -24,10 +24,10 @@
         "title": "Highlights from the Claude 4 system prompt",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
         "dt": "2025-05-26T21:25:56",
-        "points": 287,
+        "points": 288,
         "submitter": "Anon84",
         "commentsUrl": "https://news.ycombinator.com/item?id=44101833",
-        "numComments": 82
+        "numComments": 83
     },
     {
         "id": "44095956",
@@ -44,7 +44,7 @@
         "title": "GitHub issues is almost the best notebook in the world",
         "url": "https://simonwillison.net/2025/May/26/notes/",
         "dt": "2025-05-26T07:41:24",
-        "points": 297,
+        "points": 300,
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=44094980",
         "numComments": 186
@@ -144,7 +144,7 @@
         "title": "Gemini Diffusion",
         "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
         "dt": "2025-05-22T01:13:50",
-        "points": 885,
+        "points": 886,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
         "numComments": 242
