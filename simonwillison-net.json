@@ -4,10 +4,10 @@
         "title": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
         "url": "https://simonwillison.net/2025/May/27/llm-tools/",
         "dt": "2025-05-27T20:53:03",
-        "points": 239,
+        "points": 262,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44110584",
-        "numComments": 91
+        "numComments": 100
     },
     {
         "id": "44104528",
@@ -24,7 +24,7 @@
         "title": "Highlights from the Claude 4 system prompt",
         "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
         "dt": "2025-05-26T21:25:56",
-        "points": 290,
+        "points": 292,
         "submitter": "Anon84",
         "commentsUrl": "https://news.ycombinator.com/item?id=44101833",
         "numComments": 83
@@ -144,10 +144,10 @@
         "title": "Gemini Diffusion",
         "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
         "dt": "2025-05-22T01:13:50",
-        "points": 886,
+        "points": 887,
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
-        "numComments": 242
+        "numComments": 243
     },
     {
         "id": "44052246",
