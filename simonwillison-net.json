@@ -1,13 +1,23 @@
 [
     {
+        "id": "44147498",
+        "title": "How Often Do LLMs Snitch? Recreating Theo's SnitchBench with LLM",
+        "url": "https://simonwillison.net/2025/May/31/snitchbench-with-llm/",
+        "dt": "2025-05-31T22:53:39",
+        "points": 1,
+        "submitter": "Philpax",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44147498",
+        "numComments": 0
+    },
+    {
         "id": "44147283",
         "title": "No build front end is so much more fun",
         "url": "https://simonwillison.net/2025/May/31/no-build/",
         "dt": "2025-05-31T22:11:32",
-        "points": 2,
+        "points": 5,
         "submitter": "xnx",
         "commentsUrl": "https://news.ycombinator.com/item?id=44147283",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "44110584",
@@ -288,15 +298,5 @@
         "submitter": "edward",
         "commentsUrl": "https://news.ycombinator.com/item?id=43837014",
         "numComments": 50
-    },
-    {
-        "id": "43831691",
-        "title": "Simon Willison: Exploring Promptfoo",
-        "url": "https://simonwillison.net/2025/Apr/24/exploring-promptfoo/",
-        "dt": "2025-04-29T12:28:35",
-        "points": 5,
-        "submitter": "recursive4",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43831691",
-        "numComments": 0
     }
 ]
