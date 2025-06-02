@@ -1,5 +1,15 @@
 [
     {
+        "id": "44161544",
+        "title": "Claude-Trace",
+        "url": "https://simonwillison.net/2025/Jun/2/claude-trace/",
+        "dt": "2025-06-02T18:17:22",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44161544",
+        "numComments": 0
+    },
+    {
         "id": "44156724",
         "title": "Snitching LLMs",
         "url": "https://simonwillison.net/2025/May/31/snitchbench-with-llm/",
@@ -288,15 +298,5 @@
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=43858250",
         "numComments": 115
-    },
-    {
-        "id": "43852409",
-        "title": "Understanding the recent criticism of the Chatbot Arena",
-        "url": "https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/",
-        "dt": "2025-05-01T00:43:47",
-        "points": 5,
-        "submitter": "todsacerdoti",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43852409",
-        "numComments": 0
     }
 ]
