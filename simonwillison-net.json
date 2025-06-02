@@ -1,5 +1,15 @@
 [
     {
+        "id": "44156724",
+        "title": "Snitching LLMs",
+        "url": "https://simonwillison.net/2025/May/31/snitchbench-with-llm/",
+        "dt": "2025-06-02T08:26:03",
+        "points": 1,
+        "submitter": "A_D_E_P_T",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44156724",
+        "numComments": 0
+    },
+    {
         "id": "44151027",
         "title": "The Perfect Commit (2022)",
         "url": "https://simonwillison.net/2022/Oct/29/the-perfect-commit/",
@@ -287,16 +297,6 @@
         "points": 5,
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=43852409",
-        "numComments": 0
-    },
-    {
-        "id": "43842567",
-        "title": "A comparison of ChatGPT/GPT-4o's previous and current system prompts",
-        "url": "https://simonwillison.net/2025/Apr/29/chatgpt-sycophancy-prompt/",
-        "dt": "2025-04-30T08:29:50",
-        "points": 3,
-        "submitter": "myfonj",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43842567",
         "numComments": 0
     }
 ]
