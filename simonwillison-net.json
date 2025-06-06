@@ -1,5 +1,15 @@
 [
     {
+        "id": "44204818",
+        "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
+        "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
+        "dt": "2025-06-06T20:48:58",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44204818",
+        "numComments": 0
+    },
+    {
         "id": "44194345",
         "title": "OpenAI slams court order to save all ChatGPT logs, including deleted chats",
         "url": "https://simonwillison.net/2025/Jun/5/openai-court-order/",
@@ -288,15 +298,5 @@
         "submitter": "marviel",
         "commentsUrl": "https://news.ycombinator.com/item?id=43948367",
         "numComments": 0
-    },
-    {
-        "id": "43947161",
-        "title": "Simon Willison's first blog on LLMs (2022)",
-        "url": "https://simonwillison.net/2022/May/31/a-datasette-tutorial-written-by-gpt-3/",
-        "dt": "2025-05-10T17:04:25",
-        "points": 17,
-        "submitter": "Alifatisk",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43947161",
-        "numComments": 2
     }
 ]
