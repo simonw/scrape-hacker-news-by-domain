@@ -1,5 +1,15 @@
 [
     {
+        "id": "44207249",
+        "title": "Why are front end dev demand so high if front end development is easier? (2012)",
+        "url": "https://simonwillison.net/2012/Feb/13/why-are-front-end/",
+        "dt": "2025-06-07T03:41:14",
+        "points": 11,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44207249",
+        "numComments": 3
+    },
+    {
         "id": "44204818",
         "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
         "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
@@ -124,7 +134,7 @@
         "title": "GitHub issues is almost the best notebook in the world",
         "url": "https://simonwillison.net/2025/May/26/notes/",
         "dt": "2025-05-26T07:41:24",
-        "points": 313,
+        "points": 314,
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=44094980",
         "numComments": 195
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=43959550",
-        "numComments": 0
-    },
-    {
-        "id": "43948367",
-        "title": "Trying out llama.cpp's new vision support",
-        "url": "https://simonwillison.net/2025/May/10/llama-cpp-vision/",
-        "dt": "2025-05-10T19:50:01",
-        "points": 1,
-        "submitter": "marviel",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43948367",
         "numComments": 0
     }
 ]
