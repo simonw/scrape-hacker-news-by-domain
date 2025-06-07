@@ -4,10 +4,10 @@
         "title": "Why are front end dev demand so high if front end development is easier? (2012)",
         "url": "https://simonwillison.net/2012/Feb/13/why-are-front-end/",
         "dt": "2025-06-07T03:41:14",
-        "points": 26,
+        "points": 28,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=44207249",
-        "numComments": 15
+        "numComments": 17
     },
     {
         "id": "44204818",
@@ -94,7 +94,7 @@
         "title": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
         "url": "https://simonwillison.net/2025/May/27/llm-tools/",
         "dt": "2025-05-27T20:53:03",
-        "points": 527,
+        "points": 528,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44110584",
         "numComments": 165
