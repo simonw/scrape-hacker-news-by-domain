@@ -4,7 +4,7 @@
         "title": "Comma v0.1 1T and 2T\u20137B LLMs trained on openly licensed text",
         "url": "https://simonwillison.net/2025/Jun/7/comma/",
         "dt": "2025-06-08T18:12:11",
-        "points": 1,
+        "points": 2,
         "submitter": "amrrs",
         "commentsUrl": "https://news.ycombinator.com/item?id=44218578",
         "numComments": 0
@@ -24,10 +24,10 @@
         "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
         "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
         "dt": "2025-06-08T07:38:37",
-        "points": 590,
+        "points": 625,
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=44215352",
-        "numComments": 170
+        "numComments": 176
     },
     {
         "id": "44207249",
@@ -104,7 +104,7 @@
         "title": "How Often Do LLMs Snitch? Recreating Theo's SnitchBench with LLM",
         "url": "https://simonwillison.net/2025/May/31/snitchbench-with-llm/",
         "dt": "2025-05-31T22:53:39",
-        "points": 10,
+        "points": 11,
         "submitter": "Philpax",
         "commentsUrl": "https://news.ycombinator.com/item?id=44147498",
         "numComments": 4
