@@ -1,5 +1,15 @@
 [
     {
+        "id": "44215352",
+        "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
+        "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
+        "dt": "2025-06-08T07:38:37",
+        "points": 2,
+        "submitter": "swyx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44215352",
+        "numComments": 0
+    },
+    {
         "id": "44207249",
         "title": "Why are front end dev demand so high if front end development is easier? (2012)",
         "url": "https://simonwillison.net/2012/Feb/13/why-are-front-end/",
@@ -287,16 +297,6 @@
         "points": 6,
         "submitter": "rcarmo",
         "commentsUrl": "https://news.ycombinator.com/item?id=43981586",
-        "numComments": 0
-    },
-    {
-        "id": "43959550",
-        "title": "Cursor: Security",
-        "url": "https://simonwillison.net/2025/May/11/cursor-security/",
-        "dt": "2025-05-12T04:05:32",
-        "points": 1,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=43959550",
         "numComments": 0
     }
 ]
