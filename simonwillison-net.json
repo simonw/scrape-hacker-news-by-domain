@@ -1,5 +1,15 @@
 [
     {
+        "id": "44255951",
+        "title": "O3-Pro",
+        "url": "https://simonwillison.net/2025/Jun/10/o3-pro/",
+        "dt": "2025-06-12T10:26:07",
+        "points": 1,
+        "submitter": "croemer",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44255951",
+        "numComments": 0
+    },
+    {
         "id": "44218578",
         "title": "Comma v0.1 1T and 2T\u20137B LLMs trained on openly licensed text",
         "url": "https://simonwillison.net/2025/Jun/7/comma/",
@@ -24,7 +34,7 @@
         "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
         "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
         "dt": "2025-06-08T07:38:37",
-        "points": 934,
+        "points": 936,
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=44215352",
         "numComments": 228
@@ -288,15 +298,5 @@
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44020782",
         "numComments": 3
-    },
-    {
-        "id": "44014535",
-        "title": "Building software on top of Large Language Models",
-        "url": "https://simonwillison.net/2025/May/15/building-on-llms/",
-        "dt": "2025-05-17T14:21:19",
-        "points": 12,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44014535",
-        "numComments": 0
     }
 ]
