@@ -1,5 +1,25 @@
 [
     {
+        "id": "44260789",
+        "title": "'How come I can't breathe?': Musk's data company draws a backlash in Memphis",
+        "url": "https://simonwillison.net/2025/Jun/12/xai-data-center/",
+        "dt": "2025-06-12T18:09:24",
+        "points": 2,
+        "submitter": "gregdoesit",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44260789",
+        "numComments": 0
+    },
+    {
+        "id": "44260778",
+        "title": "Comma v0.1 1T and 2T\u20137B LLMs trained on openly licensed text",
+        "url": "https://simonwillison.net/2025/Jun/7/comma/",
+        "dt": "2025-06-12T18:08:40",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44260778",
+        "numComments": 0
+    },
+    {
         "id": "44255951",
         "title": "O3-Pro",
         "url": "https://simonwillison.net/2025/Jun/10/o3-pro/",
@@ -34,7 +54,7 @@
         "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
         "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
         "dt": "2025-06-08T07:38:37",
-        "points": 937,
+        "points": 938,
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=44215352",
         "numComments": 228
@@ -278,25 +298,5 @@
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
         "numComments": 244
-    },
-    {
-        "id": "44052246",
-        "title": "I don't like ChatGPT's new memory dossier",
-        "url": "https://simonwillison.net/2025/May/21/chatgpt-new-memory/",
-        "dt": "2025-05-21T15:03:26",
-        "points": 24,
-        "submitter": "ingve",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44052246",
-        "numComments": 6
-    },
-    {
-        "id": "44020782",
-        "title": "Quoting Neal Stephenson",
-        "url": "https://simonwillison.net/2025/May/18/neal-stephenson/",
-        "dt": "2025-05-18T12:16:41",
-        "points": 6,
-        "submitter": "mdp2021",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44020782",
-        "numComments": 3
     }
 ]
