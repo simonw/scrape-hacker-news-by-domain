@@ -1,5 +1,15 @@
 [
     {
+        "id": "44268335",
+        "title": "Design Patterns for Securing LLM Agents Against Prompt Injections",
+        "url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
+        "dt": "2025-06-13T13:27:46",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44268335",
+        "numComments": 0
+    },
+    {
         "id": "44267493",
         "title": "'How come I can't breathe?': Musk's data company draws a backlash in Memphis",
         "url": "https://simonwillison.net/2025/Jun/12/xai-data-center/",
@@ -288,15 +298,5 @@
         "submitter": "Sami_Lehtinen",
         "commentsUrl": "https://news.ycombinator.com/item?id=44058105",
         "numComments": 2
-    },
-    {
-        "id": "44057971",
-        "title": "Building software on top of large language models",
-        "url": "https://simonwillison.net/2025/May/15/building-on-llms/",
-        "dt": "2025-05-22T01:44:32",
-        "points": 36,
-        "submitter": "gregorymichael",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44057971",
-        "numComments": 0
     }
 ]
