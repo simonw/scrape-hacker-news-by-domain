@@ -4,10 +4,10 @@
         "title": "Design Patterns for Securing LLM Agents Against Prompt Injections",
         "url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
         "dt": "2025-06-13T13:27:46",
-        "points": 90,
+        "points": 93,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44268335",
-        "numComments": 22
+        "numComments": 23
     },
     {
         "id": "44267493",
