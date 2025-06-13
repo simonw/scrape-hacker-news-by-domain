@@ -1,5 +1,15 @@
 [
     {
+        "id": "44267087",
+        "title": "'How come I can't breathe?': Musk's data company draws a backlash in Memphis",
+        "url": "https://simonwillison.net/2025/Jun/12/xai-data-center/",
+        "dt": "2025-06-13T09:42:28",
+        "points": 3,
+        "submitter": "troupo",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44267087",
+        "numComments": 0
+    },
+    {
         "id": "44260789",
         "title": "'How come I can't breathe?': Musk's data company draws a backlash in Memphis",
         "url": "https://simonwillison.net/2025/Jun/12/xai-data-center/",
@@ -288,15 +298,5 @@
         "submitter": "gregorymichael",
         "commentsUrl": "https://news.ycombinator.com/item?id=44057971",
         "numComments": 0
-    },
-    {
-        "id": "44057820",
-        "title": "Gemini Diffusion",
-        "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
-        "dt": "2025-05-22T01:13:50",
-        "points": 890,
-        "submitter": "mdp2021",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44057820",
-        "numComments": 244
     }
 ]
