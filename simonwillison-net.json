@@ -1,10 +1,20 @@
 [
     {
+        "id": "44283548",
+        "title": "Anthropic: We built our multi-agent research system",
+        "url": "https://simonwillison.net/2025/Jun/14/multi-agent-research-system/",
+        "dt": "2025-06-15T17:18:45",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44283548",
+        "numComments": 0
+    },
+    {
         "id": "44280445",
         "title": "Notes on \u2013 Anthropic: How we built our multi-agent research system",
         "url": "https://simonwillison.net/2025/Jun/14/multi-agent-research-system/",
         "dt": "2025-06-15T04:02:21",
-        "points": 8,
+        "points": 9,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=44280445",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=44075715",
         "numComments": 0
-    },
-    {
-        "id": "44063893",
-        "title": "Live blog: Claude 4 launch at Code with Claude",
-        "url": "https://simonwillison.net/2025/May/22/code-with-claude-live-blog/",
-        "dt": "2025-05-22T16:48:30",
-        "points": 1,
-        "submitter": "dmazin",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44063893",
-        "numComments": 1
     }
 ]
