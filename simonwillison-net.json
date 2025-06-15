@@ -1,5 +1,15 @@
 [
     {
+        "id": "44280445",
+        "title": "Notes on \u2013 Anthropic: How we built our multi-agent research system",
+        "url": "https://simonwillison.net/2025/Jun/14/multi-agent-research-system/",
+        "dt": "2025-06-15T04:02:21",
+        "points": 2,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44280445",
+        "numComments": 0
+    },
+    {
         "id": "44268335",
         "title": "Design Patterns for Securing LLM Agents Against Prompt Injections",
         "url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
@@ -288,15 +298,5 @@
         "submitter": "dmazin",
         "commentsUrl": "https://news.ycombinator.com/item?id=44063893",
         "numComments": 1
-    },
-    {
-        "id": "44058105",
-        "title": "I don't like ChatGPT's new memory dossier",
-        "url": "https://simonwillison.net/2025/May/21/chatgpt-new-memory/",
-        "dt": "2025-05-22T02:11:54",
-        "points": 13,
-        "submitter": "Sami_Lehtinen",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44058105",
-        "numComments": 2
     }
 ]
