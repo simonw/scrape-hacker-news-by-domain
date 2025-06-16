@@ -1,5 +1,15 @@
 [
     {
+        "id": "44289295",
+        "title": "AI agent lethal trifecta: private data, untrusted content, exfiltration vectors",
+        "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+        "dt": "2025-06-16T13:25:52",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44289295",
+        "numComments": 0
+    },
+    {
         "id": "44283548",
         "title": "Anthropic: We built our multi-agent research system",
         "url": "https://simonwillison.net/2025/Jun/14/multi-agent-research-system/",
@@ -287,16 +297,6 @@
         "points": 9,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=44077031",
-        "numComments": 0
-    },
-    {
-        "id": "44075715",
-        "title": "Honey Badger",
-        "url": "https://simonwillison.net/2025/May/23/honey-badger/",
-        "dt": "2025-05-23T19:17:42",
-        "points": 6,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44075715",
         "numComments": 0
     }
 ]
