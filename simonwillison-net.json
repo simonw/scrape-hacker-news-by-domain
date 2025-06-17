@@ -1,5 +1,15 @@
 [
     {
+        "id": "44297904",
+        "title": "The lethal trifecta for AI agents",
+        "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+        "dt": "2025-06-17T11:37:32",
+        "points": 1,
+        "submitter": "eadmund",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44297904",
+        "numComments": 1
+    },
+    {
         "id": "44289295",
         "title": "AI agent lethal trifecta: private data, untrusted content, exfiltration vectors",
         "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
@@ -34,7 +44,7 @@
         "title": "Design Patterns for Securing LLM Agents Against Prompt Injections",
         "url": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
         "dt": "2025-06-13T13:27:46",
-        "points": 109,
+        "points": 110,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44268335",
         "numComments": 27
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=44085750",
-        "numComments": 0
-    },
-    {
-        "id": "44077031",
-        "title": "Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft",
-        "url": "https://simonwillison.net/2025/May/23/remote-prompt-injection-in-gitlab-duo/",
-        "dt": "2025-05-23T22:03:41",
-        "points": 9,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44077031",
         "numComments": 0
     }
 ]
