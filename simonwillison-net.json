@@ -1,5 +1,15 @@
 [
     {
+        "id": "44331187",
+        "title": "Python-Importtime-Graph",
+        "url": "https://simonwillison.net/2025/Jun/20/python-importtime-graph/",
+        "dt": "2025-06-20T19:34:55",
+        "points": 1,
+        "submitter": "amrrs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44331187",
+        "numComments": 0
+    },
+    {
         "id": "44307583",
         "title": "Lethal trifecta for AI agents: private data, untrusted content, external comms",
         "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
@@ -288,15 +298,5 @@
         "submitter": "pros",
         "commentsUrl": "https://news.ycombinator.com/item?id=44085943",
         "numComments": 0
-    },
-    {
-        "id": "44085920",
-        "title": "Claude 4 System Card",
-        "url": "https://simonwillison.net/2025/May/25/claude-4-system-card/",
-        "dt": "2025-05-25T06:06:39",
-        "points": 700,
-        "submitter": "pvg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44085920",
-        "numComments": 252
     }
 ]
