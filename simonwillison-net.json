@@ -1,5 +1,15 @@
 [
     {
+        "id": "44341462",
+        "title": "Publishing a Docker Container for MS Edit to the GitHub Container Registry",
+        "url": "https://til.simonwillison.net/github/container-registry",
+        "dt": "2025-06-21T23:20:29",
+        "points": 1,
+        "submitter": "chmaynard",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44341462",
+        "numComments": 0
+    },
+    {
         "id": "44336039",
         "title": "python-importtime-graph",
         "url": "https://simonwillison.net/2025/Jun/20/python-importtime-graph/",
@@ -288,15 +298,5 @@
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=44094980",
         "numComments": 195
-    },
-    {
-        "id": "44087920",
-        "title": "Highlights from the Claude 4 system prompt",
-        "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
-        "dt": "2025-05-25T14:02:47",
-        "points": 9,
-        "submitter": "dcre",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44087920",
-        "numComments": 1
     }
 ]
