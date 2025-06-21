@@ -1,5 +1,15 @@
 [
     {
+        "id": "44336039",
+        "title": "python-importtime-graph",
+        "url": "https://simonwillison.net/2025/Jun/20/python-importtime-graph/",
+        "dt": "2025-06-21T09:27:44",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44336039",
+        "numComments": 0
+    },
+    {
         "id": "44331187",
         "title": "Python-Importtime-Graph",
         "url": "https://simonwillison.net/2025/Jun/20/python-importtime-graph/",
@@ -288,15 +298,5 @@
         "submitter": "dcre",
         "commentsUrl": "https://news.ycombinator.com/item?id=44087920",
         "numComments": 1
-    },
-    {
-        "id": "44085943",
-        "title": "Subscribe to my sponsors-only monthly newsletter",
-        "url": "https://simonwillison.net/2025/May/25/sponsors-only-newsletter/",
-        "dt": "2025-05-25T06:14:38",
-        "points": 2,
-        "submitter": "pros",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44085943",
-        "numComments": 0
     }
 ]
