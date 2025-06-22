@@ -4,10 +4,10 @@
         "title": "Publishing a Docker Container for MS Edit to the GitHub Container Registry",
         "url": "https://til.simonwillison.net/github/container-registry",
         "dt": "2025-06-21T23:20:29",
-        "points": 14,
+        "points": 15,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=44341462",
-        "numComments": 6
+        "numComments": 7
     },
     {
         "id": "44336039",
