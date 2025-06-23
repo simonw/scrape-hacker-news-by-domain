@@ -1,5 +1,15 @@
 [
     {
+        "id": "44360901",
+        "title": "Simon Willison on Phoenix.new",
+        "url": "https://simonwillison.net/2025/Jun/23/phoenix-new/",
+        "dt": "2025-06-23T22:37:02",
+        "points": 2,
+        "submitter": "davidarenas",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44360901",
+        "numComments": 1
+    },
+    {
         "id": "44341462",
         "title": "Publishing a Docker Container for MS Edit to the GitHub Container Registry",
         "url": "https://til.simonwillison.net/github/container-registry",
@@ -288,15 +298,5 @@
         "submitter": "iNic",
         "commentsUrl": "https://news.ycombinator.com/item?id=44095956",
         "numComments": 0
-    },
-    {
-        "id": "44094980",
-        "title": "GitHub issues is almost the best notebook in the world",
-        "url": "https://simonwillison.net/2025/May/26/notes/",
-        "dt": "2025-05-26T07:41:24",
-        "points": 314,
-        "submitter": "ingve",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44094980",
-        "numComments": 195
     }
 ]
