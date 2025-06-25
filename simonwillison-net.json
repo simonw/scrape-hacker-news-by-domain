@@ -1,5 +1,15 @@
 [
     {
+        "id": "44380140",
+        "title": "Gemini CLI Review",
+        "url": "https://simonwillison.net/2025/Jun/25/gemini-cli/",
+        "dt": "2025-06-25T18:02:41",
+        "points": 1,
+        "submitter": "amrrs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44380140",
+        "numComments": 0
+    },
+    {
         "id": "44379176",
         "title": "Redirecting a domain using Cloudflare Pages",
         "url": "https://til.simonwillison.net/cloudflare/domain-redirect-with-pages",
@@ -288,15 +298,5 @@
         "submitter": "xnx",
         "commentsUrl": "https://news.ycombinator.com/item?id=44147283",
         "numComments": 1
-    },
-    {
-        "id": "44110584",
-        "title": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
-        "url": "https://simonwillison.net/2025/May/27/llm-tools/",
-        "dt": "2025-05-27T20:53:03",
-        "points": 529,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44110584",
-        "numComments": 165
     }
 ]
