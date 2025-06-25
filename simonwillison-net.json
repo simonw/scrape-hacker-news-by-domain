@@ -1,10 +1,20 @@
 [
     {
+        "id": "44373977",
+        "title": "Phoenix.new is Fly's entry into the prompt-driven app development space",
+        "url": "https://simonwillison.net/2025/Jun/23/phoenix-new/",
+        "dt": "2025-06-25T05:47:36",
+        "points": 1,
+        "submitter": "rajeshrajappan",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44373977",
+        "numComments": 0
+    },
+    {
         "id": "44373175",
         "title": "Notes on \u2013 Anthropic wins a major fair use victory for AI",
         "url": "https://simonwillison.net/2025/Jun/24/anthropic-training/",
         "dt": "2025-06-25T02:34:43",
-        "points": 5,
+        "points": 6,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=44373175",
         "numComments": 1
@@ -288,15 +298,5 @@
         "submitter": "todsacerdoti",
         "commentsUrl": "https://news.ycombinator.com/item?id=44104528",
         "numComments": 0
-    },
-    {
-        "id": "44101833",
-        "title": "Highlights from the Claude 4 system prompt",
-        "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
-        "dt": "2025-05-26T21:25:56",
-        "points": 309,
-        "submitter": "Anon84",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44101833",
-        "numComments": 90
     }
 ]
