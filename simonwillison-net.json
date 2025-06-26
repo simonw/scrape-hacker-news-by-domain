@@ -1,13 +1,23 @@
 [
     {
+        "id": "44387648",
+        "title": "Gemini CLI",
+        "url": "https://simonwillison.net/2025/Jun/25/gemini-cli/",
+        "dt": "2025-06-26T14:15:05",
+        "points": 1,
+        "submitter": "JnBrymn",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44387648",
+        "numComments": 0
+    },
+    {
         "id": "44381639",
         "title": "Anthropic wins fair use victory for AI \u2013 but still in trouble for stealing books",
         "url": "https://simonwillison.net/2025/Jun/24/anthropic-training/",
         "dt": "2025-06-25T20:44:56",
-        "points": 38,
+        "points": 39,
         "submitter": "taubek",
         "commentsUrl": "https://news.ycombinator.com/item?id=44381639",
-        "numComments": 7
+        "numComments": 10
     },
     {
         "id": "44380140",
@@ -288,15 +298,5 @@
         "submitter": "saikatsg",
         "commentsUrl": "https://news.ycombinator.com/item?id=44151027",
         "numComments": 0
-    },
-    {
-        "id": "44147498",
-        "title": "How Often Do LLMs Snitch? Recreating Theo's SnitchBench with LLM",
-        "url": "https://simonwillison.net/2025/May/31/snitchbench-with-llm/",
-        "dt": "2025-05-31T22:53:39",
-        "points": 12,
-        "submitter": "Philpax",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44147498",
-        "numComments": 4
     }
 ]
