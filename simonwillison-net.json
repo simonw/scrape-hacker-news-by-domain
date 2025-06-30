@@ -1,5 +1,15 @@
 [
     {
+        "id": "44427877",
+        "title": "LLVM: InstCombine: A PR by Alex Gaynor and Claude Code",
+        "url": "https://simonwillison.net/2025/Jun/30/llvm/",
+        "dt": "2025-06-30T21:06:03",
+        "points": 1,
+        "submitter": "mseri",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44427877",
+        "numComments": 0
+    },
+    {
         "id": "44416395",
         "title": "Context Engineering",
         "url": "https://simonwillison.net/2025/Jun/27/context-engineering/",
@@ -287,16 +297,6 @@
         "points": 6,
         "submitter": "gk1",
         "commentsUrl": "https://news.ycombinator.com/item?id=44193774",
-        "numComments": 0
-    },
-    {
-        "id": "44161544",
-        "title": "Claude-Trace",
-        "url": "https://simonwillison.net/2025/Jun/2/claude-trace/",
-        "dt": "2025-06-02T18:17:22",
-        "points": 9,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44161544",
         "numComments": 0
     }
 ]
