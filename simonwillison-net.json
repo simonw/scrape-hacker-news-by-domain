@@ -1,10 +1,20 @@
 [
     {
+        "id": "44449725",
+        "title": "Using Playwright MCP with Claude Code",
+        "url": "https://til.simonwillison.net/claude-code/playwright-mcp-claude-code",
+        "dt": "2025-07-02T23:00:11",
+        "points": 1,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44449725",
+        "numComments": 0
+    },
+    {
         "id": "44440509",
         "title": "Mandelbrot in x86 Assembly by Claude",
         "url": "https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/",
         "dt": "2025-07-02T05:31:08",
-        "points": 63,
+        "points": 64,
         "submitter": "gslin",
         "commentsUrl": "https://news.ycombinator.com/item?id=44440509",
         "numComments": 47
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=44207249",
         "numComments": 31
-    },
-    {
-        "id": "44204818",
-        "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
-        "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
-        "dt": "2025-06-06T20:48:58",
-        "points": 7,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44204818",
-        "numComments": 0
     }
 ]
