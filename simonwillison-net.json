@@ -1,5 +1,15 @@
 [
     {
+        "id": "44440303",
+        "title": "Using Playwright MCP with Claude Code",
+        "url": "https://til.simonwillison.net/claude-code/playwright-mcp-claude-code",
+        "dt": "2025-07-02T04:37:16",
+        "points": 1,
+        "submitter": "sbmthakur",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44440303",
+        "numComments": 0
+    },
+    {
         "id": "44427877",
         "title": "LLVM: InstCombine: A PR by Alex Gaynor and Claude Code",
         "url": "https://simonwillison.net/2025/Jun/30/llvm/",
@@ -288,15 +298,5 @@
         "submitter": "huerlisi1",
         "commentsUrl": "https://news.ycombinator.com/item?id=44194345",
         "numComments": 1
-    },
-    {
-        "id": "44193774",
-        "title": "An agent is an LLM wrecking its environment in a loop",
-        "url": "https://simonwillison.net/2025/Jun/5/wrecking-its-environment-in-a-loop/",
-        "dt": "2025-06-05T17:25:48",
-        "points": 6,
-        "submitter": "gk1",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44193774",
-        "numComments": 0
     }
 ]
