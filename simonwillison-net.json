@@ -1,5 +1,15 @@
 [
     {
+        "id": "44440509",
+        "title": "Mandelbrot in x86 Assembly by Claude",
+        "url": "https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/",
+        "dt": "2025-07-02T05:31:08",
+        "points": 8,
+        "submitter": "gslin",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44440509",
+        "numComments": 0
+    },
+    {
         "id": "44440303",
         "title": "Using Playwright MCP with Claude Code",
         "url": "https://til.simonwillison.net/claude-code/playwright-mcp-claude-code",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44204818",
         "numComments": 0
-    },
-    {
-        "id": "44194345",
-        "title": "OpenAI slams court order to save all ChatGPT logs, including deleted chats",
-        "url": "https://simonwillison.net/2025/Jun/5/openai-court-order/",
-        "dt": "2025-06-05T18:27:38",
-        "points": 3,
-        "submitter": "huerlisi1",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44194345",
-        "numComments": 1
     }
 ]
