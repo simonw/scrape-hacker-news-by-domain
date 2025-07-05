@@ -1,5 +1,15 @@
 [
     {
+        "id": "44473721",
+        "title": "Cursor Pricing Changes",
+        "url": "https://simonwillison.net/2025/Jul/5/cursor-clarifying-our-pricing/",
+        "dt": "2025-07-05T16:15:42",
+        "points": 2,
+        "submitter": "walterbell",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44473721",
+        "numComments": 0
+    },
+    {
         "id": "44449725",
         "title": "Using Playwright MCP with Claude Code",
         "url": "https://til.simonwillison.net/claude-code/playwright-mcp-claude-code",
@@ -288,15 +298,5 @@
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=44215352",
         "numComments": 234
-    },
-    {
-        "id": "44207249",
-        "title": "Why are front end dev demand so high if front end development is easier? (2012)",
-        "url": "https://simonwillison.net/2012/Feb/13/why-are-front-end/",
-        "dt": "2025-06-07T03:41:14",
-        "points": 34,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44207249",
-        "numComments": 31
     }
 ]
