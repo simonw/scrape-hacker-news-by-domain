@@ -4,10 +4,10 @@
         "title": "Serving 200M requests per day with a CGI-bin",
         "url": "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/",
         "dt": "2025-07-06T00:32:18",
-        "points": 105,
+        "points": 130,
         "submitter": "mustache_kimono",
         "commentsUrl": "https://news.ycombinator.com/item?id=44476716",
-        "numComments": 64
+        "numComments": 84
     },
     {
         "id": "44473721",
