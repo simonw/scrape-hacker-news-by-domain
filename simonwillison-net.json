@@ -1,5 +1,15 @@
 [
     {
+        "id": "44476716",
+        "title": "Serving 200M requests per day with a CGI-bin",
+        "url": "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/",
+        "dt": "2025-07-06T00:32:18",
+        "points": 2,
+        "submitter": "mustache_kimono",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44476716",
+        "numComments": 0
+    },
+    {
         "id": "44473721",
         "title": "Cursor Pricing Changes",
         "url": "https://simonwillison.net/2025/Jul/5/cursor-clarifying-our-pricing/",
@@ -288,15 +298,5 @@
         "submitter": "azhenley",
         "commentsUrl": "https://news.ycombinator.com/item?id=44217510",
         "numComments": 3
-    },
-    {
-        "id": "44215352",
-        "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
-        "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
-        "dt": "2025-06-08T07:38:37",
-        "points": 962,
-        "submitter": "swyx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44215352",
-        "numComments": 234
     }
 ]
