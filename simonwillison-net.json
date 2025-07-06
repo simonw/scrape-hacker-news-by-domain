@@ -1,5 +1,15 @@
 [
     {
+        "id": "44479727",
+        "title": "A Quote from Nineteen Eighty-Four",
+        "url": "https://simonwillison.net/2025/Jul/6/nineteen-eighty-four/",
+        "dt": "2025-07-06T11:20:31",
+        "points": 2,
+        "submitter": "thm",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44479727",
+        "numComments": 0
+    },
+    {
         "id": "44478948",
         "title": "Supabase MCP can leak your entire SQL database",
         "url": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/",
@@ -14,10 +24,10 @@
         "title": "Serving 200M requests per day with a CGI-bin",
         "url": "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/",
         "dt": "2025-07-06T00:32:18",
-        "points": 154,
+        "points": 166,
         "submitter": "mustache_kimono",
         "commentsUrl": "https://news.ycombinator.com/item?id=44476716",
-        "numComments": 112
+        "numComments": 114
     },
     {
         "id": "44473721",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "croemer",
         "commentsUrl": "https://news.ycombinator.com/item?id=44255951",
-        "numComments": 0
-    },
-    {
-        "id": "44218578",
-        "title": "Comma v0.1 1T and 2T\u20137B LLMs trained on openly licensed text",
-        "url": "https://simonwillison.net/2025/Jun/7/comma/",
-        "dt": "2025-06-08T18:12:11",
-        "points": 3,
-        "submitter": "amrrs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44218578",
         "numComments": 0
     }
 ]
