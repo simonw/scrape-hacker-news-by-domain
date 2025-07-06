@@ -1,13 +1,23 @@
 [
     {
+        "id": "44478948",
+        "title": "Supabase MCP can leak your entire SQL database",
+        "url": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/",
+        "dt": "2025-07-06T08:44:40",
+        "points": 1,
+        "submitter": "doppp",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44478948",
+        "numComments": 0
+    },
+    {
         "id": "44476716",
         "title": "Serving 200M requests per day with a CGI-bin",
         "url": "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/",
         "dt": "2025-07-06T00:32:18",
-        "points": 130,
+        "points": 144,
         "submitter": "mustache_kimono",
         "commentsUrl": "https://news.ycombinator.com/item?id=44476716",
-        "numComments": 84
+        "numComments": 97
     },
     {
         "id": "44473721",
@@ -288,15 +298,5 @@
         "submitter": "amrrs",
         "commentsUrl": "https://news.ycombinator.com/item?id=44218578",
         "numComments": 0
-    },
-    {
-        "id": "44217510",
-        "title": "105 Vibe-Coded Tools",
-        "url": "https://tools.simonwillison.net/colophon",
-        "dt": "2025-06-08T15:19:21",
-        "points": 25,
-        "submitter": "azhenley",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44217510",
-        "numComments": 3
     }
 ]
