@@ -1,5 +1,15 @@
 [
     {
+        "id": "44493868",
+        "title": "Supabase MCP's Lethal Trifecta",
+        "url": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/",
+        "dt": "2025-07-07T19:35:41",
+        "points": 8,
+        "submitter": "lunw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44493868",
+        "numComments": 0
+    },
+    {
         "id": "44479727",
         "title": "A Quote from Nineteen Eighty-Four",
         "url": "https://simonwillison.net/2025/Jul/6/nineteen-eighty-four/",
@@ -27,7 +37,7 @@
         "points": 318,
         "submitter": "mustache_kimono",
         "commentsUrl": "https://news.ycombinator.com/item?id=44476716",
-        "numComments": 295
+        "numComments": 297
     },
     {
         "id": "44473721",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=44260778",
-        "numComments": 0
-    },
-    {
-        "id": "44255951",
-        "title": "O3-Pro",
-        "url": "https://simonwillison.net/2025/Jun/10/o3-pro/",
-        "dt": "2025-06-12T10:26:07",
-        "points": 2,
-        "submitter": "croemer",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44255951",
         "numComments": 0
     }
 ]
