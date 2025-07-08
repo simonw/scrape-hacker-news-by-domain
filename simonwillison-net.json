@@ -4,7 +4,7 @@
         "title": "Supabase MCP's Lethal Trifecta",
         "url": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/",
         "dt": "2025-07-07T19:35:41",
-        "points": 10,
+        "points": 11,
         "submitter": "lunw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44493868",
         "numComments": 0
@@ -34,10 +34,10 @@
         "title": "Serving 200M requests per day with a CGI-bin",
         "url": "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/",
         "dt": "2025-07-06T00:32:18",
-        "points": 321,
+        "points": 322,
         "submitter": "mustache_kimono",
         "commentsUrl": "https://news.ycombinator.com/item?id=44476716",
-        "numComments": 304
+        "numComments": 305
     },
     {
         "id": "44473721",
