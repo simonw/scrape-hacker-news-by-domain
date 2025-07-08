@@ -1,13 +1,13 @@
 [
     {
         "id": "44502318",
-        "title": "Supabase MCP leaks your entire SQL Database, a lethal trifecta attack",
+        "title": "Supabase MCP can leak an entire SQL Database, a lethal trifecta attack",
         "url": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/",
         "dt": "2025-07-08T17:46:55",
-        "points": 179,
+        "points": 277,
         "submitter": "rexpository",
         "commentsUrl": "https://news.ycombinator.com/item?id=44502318",
-        "numComments": 39
+        "numComments": 111
     },
     {
         "id": "44493868",
