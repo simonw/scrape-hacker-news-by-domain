@@ -1,15 +1,5 @@
 [
     {
-        "id": "44502318",
-        "title": "Supabase MCP can leak an entire SQL Database, a lethal trifecta attack",
-        "url": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/",
-        "dt": "2025-07-08T17:46:55",
-        "points": 277,
-        "submitter": "rexpository",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44502318",
-        "numComments": 111
-    },
-    {
         "id": "44493868",
         "title": "Supabase MCP's Lethal Trifecta",
         "url": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/",
@@ -297,6 +287,16 @@
         "points": 10,
         "submitter": "gregdoesit",
         "commentsUrl": "https://news.ycombinator.com/item?id=44260789",
+        "numComments": 0
+    },
+    {
+        "id": "44260778",
+        "title": "Comma v0.1 1T and 2T\u20137B LLMs trained on openly licensed text",
+        "url": "https://simonwillison.net/2025/Jun/7/comma/",
+        "dt": "2025-06-12T18:08:40",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44260778",
         "numComments": 0
     }
 ]
