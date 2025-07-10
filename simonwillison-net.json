@@ -1,5 +1,15 @@
 [
     {
+        "id": "44524707",
+        "title": "Grok 4",
+        "url": "https://simonwillison.net/2025/Jul/10/grok-4/",
+        "dt": "2025-07-10T19:43:44",
+        "points": 19,
+        "submitter": "coloneltcb",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44524707",
+        "numComments": 7
+    },
+    {
         "id": "44516641",
         "title": "Using fs_usage to see what files a process is using",
         "url": "https://til.simonwillison.net/macos/fs-usage",
@@ -288,15 +298,5 @@
         "submitter": "diggan",
         "commentsUrl": "https://news.ycombinator.com/item?id=44267493",
         "numComments": 1
-    },
-    {
-        "id": "44260789",
-        "title": "'How come I can't breathe?': Musk's data company draws a backlash in Memphis",
-        "url": "https://simonwillison.net/2025/Jun/12/xai-data-center/",
-        "dt": "2025-06-12T18:09:24",
-        "points": 10,
-        "submitter": "gregdoesit",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44260789",
-        "numComments": 0
     }
 ]
