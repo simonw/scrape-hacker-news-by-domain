@@ -4,10 +4,10 @@
         "title": "Grok 4",
         "url": "https://simonwillison.net/2025/Jul/10/grok-4/",
         "dt": "2025-07-10T19:43:44",
-        "points": 19,
+        "points": 69,
         "submitter": "coloneltcb",
         "commentsUrl": "https://news.ycombinator.com/item?id=44524707",
-        "numComments": 7
+        "numComments": 43
     },
     {
         "id": "44516641",
@@ -24,7 +24,7 @@
         "title": "Supabase MCP's Lethal Trifecta",
         "url": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/",
         "dt": "2025-07-07T19:35:41",
-        "points": 11,
+        "points": 12,
         "submitter": "lunw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44493868",
         "numComments": 0
@@ -44,7 +44,7 @@
         "title": "Supabase MCP can leak your entire SQL database",
         "url": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/",
         "dt": "2025-07-06T08:44:40",
-        "points": 4,
+        "points": 5,
         "submitter": "doppp",
         "commentsUrl": "https://news.ycombinator.com/item?id=44478948",
         "numComments": 1
@@ -54,7 +54,7 @@
         "title": "Serving 200M requests per day with a CGI-bin",
         "url": "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/",
         "dt": "2025-07-06T00:32:18",
-        "points": 326,
+        "points": 327,
         "submitter": "mustache_kimono",
         "commentsUrl": "https://news.ycombinator.com/item?id=44476716",
         "numComments": 321
@@ -64,7 +64,7 @@
         "title": "Cursor Pricing Changes",
         "url": "https://simonwillison.net/2025/Jul/5/cursor-clarifying-our-pricing/",
         "dt": "2025-07-05T16:15:42",
-        "points": 3,
+        "points": 4,
         "submitter": "walterbell",
         "commentsUrl": "https://news.ycombinator.com/item?id=44473721",
         "numComments": 0
@@ -74,7 +74,7 @@
         "title": "Using Playwright MCP with Claude Code",
         "url": "https://til.simonwillison.net/claude-code/playwright-mcp-claude-code",
         "dt": "2025-07-02T23:00:11",
-        "points": 1,
+        "points": 2,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=44449725",
         "numComments": 0
