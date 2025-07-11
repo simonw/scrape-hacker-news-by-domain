@@ -1,13 +1,23 @@
 [
     {
+        "id": "44527190",
+        "title": "Grok: Searching X for \"From:Elonmusk (Israel or Palestine or Hamas or Gaza)\"",
+        "url": "https://simonwillison.net/2025/Jul/11/grok-musk/",
+        "dt": "2025-07-11T00:22:43",
+        "points": 7,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44527190",
+        "numComments": 4
+    },
+    {
         "id": "44524707",
         "title": "Grok 4",
         "url": "https://simonwillison.net/2025/Jul/10/grok-4/",
         "dt": "2025-07-10T19:43:44",
-        "points": 110,
+        "points": 133,
         "submitter": "coloneltcb",
         "commentsUrl": "https://news.ycombinator.com/item?id=44524707",
-        "numComments": 112
+        "numComments": 128
     },
     {
         "id": "44516641",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44268335",
         "numComments": 28
-    },
-    {
-        "id": "44267493",
-        "title": "'How come I can't breathe?': Musk's data company draws a backlash in Memphis",
-        "url": "https://simonwillison.net/2025/Jun/12/xai-data-center/",
-        "dt": "2025-06-13T11:13:04",
-        "points": 4,
-        "submitter": "diggan",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44267493",
-        "numComments": 1
     }
 ]
