@@ -4,7 +4,7 @@
         "title": "Grok 4 Heavy Protects it's System prompt",
         "url": "https://simonwillison.net/2025/Jul/12/grok-4-heavy/",
         "dt": "2025-07-12T17:36:15",
-        "points": 85,
+        "points": 86,
         "submitter": "irthomasthomas",
         "commentsUrl": "https://news.ycombinator.com/item?id=44543590",
         "numComments": 60
@@ -84,7 +84,7 @@
         "title": "Serving 200M requests per day with a CGI-bin",
         "url": "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/",
         "dt": "2025-07-06T00:32:18",
-        "points": 334,
+        "points": 335,
         "submitter": "mustache_kimono",
         "commentsUrl": "https://news.ycombinator.com/item?id=44476716",
         "numComments": 325
