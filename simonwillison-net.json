@@ -1,5 +1,15 @@
 [
     {
+        "id": "44568026",
+        "title": "Django \u2013 The Origin Story",
+        "url": "https://simonwillison.net/2025/Jul/13/django-birthday/",
+        "dt": "2025-07-15T05:16:26",
+        "points": 1,
+        "submitter": "saikatsg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44568026",
+        "numComments": 0
+    },
+    {
         "id": "44543590",
         "title": "Grok 4 Heavy Protects it's System prompt",
         "url": "https://simonwillison.net/2025/Jul/12/grok-4-heavy/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44289295",
         "numComments": 1
-    },
-    {
-        "id": "44283548",
-        "title": "Anthropic: We built our multi-agent research system",
-        "url": "https://simonwillison.net/2025/Jun/14/multi-agent-research-system/",
-        "dt": "2025-06-15T17:18:45",
-        "points": 3,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44283548",
-        "numComments": 0
     }
 ]
