@@ -1,5 +1,25 @@
 [
     {
+        "id": "44574255",
+        "title": "Hacker News, Filtered",
+        "url": "https://tools.simonwillison.net/hacker-news-filtered",
+        "dt": "2025-07-15T18:19:19",
+        "points": 1,
+        "submitter": "tantalor",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44574255",
+        "numComments": 0
+    },
+    {
+        "id": "44573851",
+        "title": "Tools.simonwillison.net",
+        "url": "https://tools.simonwillison.net/",
+        "dt": "2025-07-15T17:44:41",
+        "points": 3,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44573851",
+        "numComments": 0
+    },
+    {
         "id": "44570193",
         "title": "The Lethal Trifecta",
         "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
@@ -278,25 +298,5 @@
         "submitter": "amrrs",
         "commentsUrl": "https://news.ycombinator.com/item?id=44331187",
         "numComments": 0
-    },
-    {
-        "id": "44307583",
-        "title": "Lethal trifecta for AI agents: private data, untrusted content, external comms",
-        "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
-        "dt": "2025-06-18T07:49:52",
-        "points": 3,
-        "submitter": "taubek",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44307583",
-        "numComments": 0
-    },
-    {
-        "id": "44297904",
-        "title": "The lethal trifecta for AI agents",
-        "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
-        "dt": "2025-06-17T11:37:32",
-        "points": 2,
-        "submitter": "eadmund",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44297904",
-        "numComments": 1
     }
 ]
