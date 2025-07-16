@@ -1,5 +1,15 @@
 [
     {
+        "id": "44585471",
+        "title": "Application Development Without Programmers",
+        "url": "https://simonwillison.net/2025/Jul/14/application-development-without-programmers/",
+        "dt": "2025-07-16T18:36:50",
+        "points": 2,
+        "submitter": "strict9",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44585471",
+        "numComments": 0
+    },
+    {
         "id": "44574255",
         "title": "Hacker News, Filtered",
         "url": "https://tools.simonwillison.net/hacker-news-filtered",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=44336039",
-        "numComments": 0
-    },
-    {
-        "id": "44331187",
-        "title": "Python-Importtime-Graph",
-        "url": "https://simonwillison.net/2025/Jun/20/python-importtime-graph/",
-        "dt": "2025-06-20T19:34:55",
-        "points": 2,
-        "submitter": "amrrs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44331187",
         "numComments": 0
     }
 ]
