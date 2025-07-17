@@ -1,5 +1,15 @@
 [
     {
+        "id": "44597405",
+        "title": "Vibe scraping and vibe coding a schedule webapp for a conference on my phone",
+        "url": "https://simonwillison.net/2025/Jul/17/vibe-scraping/",
+        "dt": "2025-07-17T19:49:01",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44597405",
+        "numComments": 1
+    },
+    {
         "id": "44585471",
         "title": "Application Development Without Programmers",
         "url": "https://simonwillison.net/2025/Jul/14/application-development-without-programmers/",
@@ -288,15 +298,5 @@
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=44341462",
         "numComments": 8
-    },
-    {
-        "id": "44336039",
-        "title": "python-importtime-graph",
-        "url": "https://simonwillison.net/2025/Jun/20/python-importtime-graph/",
-        "dt": "2025-06-21T09:27:44",
-        "points": 1,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44336039",
-        "numComments": 0
     }
 ]
