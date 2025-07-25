@@ -1,5 +1,15 @@
 [
     {
+        "id": "44689564",
+        "title": "Qwen3-235B-A22B-Thinking-2507",
+        "url": "https://simonwillison.net/2025/Jul/25/qwen3-235b-a22b-thinking-2507/",
+        "dt": "2025-07-25T23:06:18",
+        "points": 2,
+        "submitter": "coloneltcb",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44689564",
+        "numComments": 0
+    },
+    {
         "id": "44681558",
         "title": "Using GitHub Spark to Reverse Engineer GitHub Spark",
         "url": "https://simonwillison.net/2025/Jul/24/github-spark/",
@@ -288,15 +298,5 @@
         "submitter": "taubek",
         "commentsUrl": "https://news.ycombinator.com/item?id=44381639",
         "numComments": 17
-    },
-    {
-        "id": "44380140",
-        "title": "Gemini CLI Review",
-        "url": "https://simonwillison.net/2025/Jun/25/gemini-cli/",
-        "dt": "2025-06-25T18:02:41",
-        "points": 4,
-        "submitter": "amrrs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44380140",
-        "numComments": 0
     }
 ]
