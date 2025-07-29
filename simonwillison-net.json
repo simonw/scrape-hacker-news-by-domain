@@ -1,5 +1,15 @@
 [
     {
+        "id": "44723316",
+        "title": "My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)",
+        "url": "https://simonwillison.net/2025/Jul/29/space-invaders/",
+        "dt": "2025-07-29T13:45:07",
+        "points": 71,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44723316",
+        "numComments": 38
+    },
+    {
         "id": "44692861",
         "title": "Using GitHub Spark to Reverse Engineer GitHub Spark",
         "url": "https://simonwillison.net/2025/Jul/24/github-spark/",
@@ -287,16 +297,6 @@
         "points": 5,
         "submitter": "Bluestein",
         "commentsUrl": "https://news.ycombinator.com/item?id=44395261",
-        "numComments": 0
-    },
-    {
-        "id": "44387648",
-        "title": "Gemini CLI",
-        "url": "https://simonwillison.net/2025/Jun/25/gemini-cli/",
-        "dt": "2025-06-26T14:15:05",
-        "points": 5,
-        "submitter": "JnBrymn",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44387648",
         "numComments": 0
     }
 ]
