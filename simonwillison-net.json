@@ -1,13 +1,23 @@
 [
     {
+        "id": "44736238",
+        "title": "The best available open weight LLMs now come from China",
+        "url": "https://simonwillison.net/2025/Jul/30/chinese-models/",
+        "dt": "2025-07-30T16:22:50",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44736238",
+        "numComments": 0
+    },
+    {
         "id": "44723316",
         "title": "My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)",
         "url": "https://simonwillison.net/2025/Jul/29/space-invaders/",
         "dt": "2025-07-29T13:45:07",
-        "points": 553,
+        "points": 554,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44723316",
-        "numComments": 377
+        "numComments": 379
     },
     {
         "id": "44692861",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "handfuloflight",
         "commentsUrl": "https://news.ycombinator.com/item?id=44416395",
-        "numComments": 0
-    },
-    {
-        "id": "44395261",
-        "title": "Gemma 3n: The Developer Guide",
-        "url": "https://simonwillison.net/2025/Jun/26/gemma-3n/",
-        "dt": "2025-06-27T09:27:52",
-        "points": 5,
-        "submitter": "Bluestein",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44395261",
         "numComments": 0
     }
 ]
