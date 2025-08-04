@@ -1,5 +1,15 @@
 [
     {
+        "id": "44785386",
+        "title": "ChatGPT sharing dialog: difficult to design privacy preferences",
+        "url": "https://simonwillison.net/2025/Aug/3/privacy-design/",
+        "dt": "2025-08-04T13:20:23",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44785386",
+        "numComments": 0
+    },
+    {
         "id": "44781158",
         "title": "The ChatGPT sharing dialog shows difficulty in designing privacy preferences",
         "url": "https://simonwillison.net/2025/Aug/3/privacy-design/",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=44449725",
         "numComments": 0
-    },
-    {
-        "id": "44440509",
-        "title": "Mandelbrot in x86 Assembly by Claude",
-        "url": "https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/",
-        "dt": "2025-07-02T05:31:08",
-        "points": 69,
-        "submitter": "gslin",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44440509",
-        "numComments": 47
     }
 ]
