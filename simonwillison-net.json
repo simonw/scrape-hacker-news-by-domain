@@ -4,10 +4,10 @@
         "title": "The ChatGPT sharing dialog shows difficulty in designing privacy preferences",
         "url": "https://simonwillison.net/2025/Aug/3/privacy-design/",
         "dt": "2025-08-04T00:49:18",
-        "points": 2,
+        "points": 3,
         "submitter": "zdw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44781158",
-        "numComments": 1
+        "numComments": 0
     },
     {
         "id": "44777583",
@@ -44,7 +44,7 @@
         "title": "My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)",
         "url": "https://simonwillison.net/2025/Jul/29/space-invaders/",
         "dt": "2025-07-29T13:45:07",
-        "points": 572,
+        "points": 574,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44723316",
         "numComments": 395
