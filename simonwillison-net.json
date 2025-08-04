@@ -1,5 +1,15 @@
 [
     {
+        "id": "44792286",
+        "title": "Nothing to see here (it was Cloudflare crawler hints)",
+        "url": "https://simonwillison.net/2025/Aug/4/chatgpt-agents-agent/",
+        "dt": "2025-08-04T22:58:17",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44792286",
+        "numComments": 1
+    },
+    {
         "id": "44785386",
         "title": "ChatGPT sharing dialog: difficult to design privacy preferences",
         "url": "https://simonwillison.net/2025/Aug/3/privacy-design/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "walterbell",
         "commentsUrl": "https://news.ycombinator.com/item?id=44473721",
-        "numComments": 0
-    },
-    {
-        "id": "44449725",
-        "title": "Using Playwright MCP with Claude Code",
-        "url": "https://til.simonwillison.net/claude-code/playwright-mcp-claude-code",
-        "dt": "2025-07-02T23:00:11",
-        "points": 2,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44449725",
         "numComments": 0
     }
 ]
