@@ -1,5 +1,15 @@
 [
     {
+        "id": "44781158",
+        "title": "The ChatGPT sharing dialog shows difficulty in designing privacy preferences",
+        "url": "https://simonwillison.net/2025/Aug/3/privacy-design/",
+        "dt": "2025-08-04T00:49:18",
+        "points": 2,
+        "submitter": "zdw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44781158",
+        "numComments": 1
+    },
+    {
         "id": "44777583",
         "title": "Faster Inference",
         "url": "https://simonwillison.net/2025/Aug/1/faster-inference/",
@@ -288,15 +298,5 @@
         "submitter": "gslin",
         "commentsUrl": "https://news.ycombinator.com/item?id=44440509",
         "numComments": 47
-    },
-    {
-        "id": "44440303",
-        "title": "Using Playwright MCP with Claude Code",
-        "url": "https://til.simonwillison.net/claude-code/playwright-mcp-claude-code",
-        "dt": "2025-07-02T04:37:16",
-        "points": 1,
-        "submitter": "sbmthakur",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44440303",
-        "numComments": 0
     }
 ]
