@@ -1,5 +1,15 @@
 [
     {
+        "id": "44803964",
+        "title": "ChatGPT agent triggers crawls from Bingbot and Yandex",
+        "url": "https://simonwillison.net/2025/Aug/4/chatgpt-agents-user-agent/",
+        "dt": "2025-08-05T20:39:55",
+        "points": 2,
+        "submitter": "mikeflynn",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44803964",
+        "numComments": 1
+    },
+    {
         "id": "44794825",
         "title": "ChatGPT Agent's User-Agent",
         "url": "https://simonwillison.net/2025/Aug/4/chatgpt-agents-user-agent/",
@@ -288,15 +298,5 @@
         "submitter": "doppp",
         "commentsUrl": "https://news.ycombinator.com/item?id=44478948",
         "numComments": 1
-    },
-    {
-        "id": "44476716",
-        "title": "Serving 200M requests per day with a CGI-bin",
-        "url": "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/",
-        "dt": "2025-07-06T00:32:18",
-        "points": 336,
-        "submitter": "mustache_kimono",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44476716",
-        "numComments": 329
     }
 ]
