@@ -1,10 +1,20 @@
 [
     {
+        "id": "44794825",
+        "title": "ChatGPT Agent's User-Agent",
+        "url": "https://simonwillison.net/2025/Aug/4/chatgpt-agents-user-agent/",
+        "dt": "2025-08-05T06:14:51",
+        "points": 1,
+        "submitter": "ingve",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44794825",
+        "numComments": 0
+    },
+    {
         "id": "44792286",
         "title": "Nothing to see here (it was Cloudflare crawler hints)",
         "url": "https://simonwillison.net/2025/Aug/4/chatgpt-agents-agent/",
         "dt": "2025-08-04T22:58:17",
-        "points": 5,
+        "points": 6,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44792286",
         "numComments": 2
@@ -288,15 +298,5 @@
         "submitter": "mustache_kimono",
         "commentsUrl": "https://news.ycombinator.com/item?id=44476716",
         "numComments": 329
-    },
-    {
-        "id": "44473721",
-        "title": "Cursor Pricing Changes",
-        "url": "https://simonwillison.net/2025/Jul/5/cursor-clarifying-our-pricing/",
-        "dt": "2025-07-05T16:15:42",
-        "points": 4,
-        "submitter": "walterbell",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44473721",
-        "numComments": 0
     }
 ]
