@@ -1,13 +1,23 @@
 [
     {
+        "id": "44804761",
+        "title": "OpenAI's new open weight (Apache 2) models are good",
+        "url": "https://simonwillison.net/2025/Aug/5/gpt-oss/",
+        "dt": "2025-08-05T21:42:29",
+        "points": 3,
+        "submitter": "JohnHammersley",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44804761",
+        "numComments": 0
+    },
+    {
         "id": "44803964",
-        "title": "ChatGPT agent triggers crawls from Bingbot and Yandex",
+        "title": "[UPDATE: Nothing to see here] ChatGPT agent triggers crawls from Bingbot",
         "url": "https://simonwillison.net/2025/Aug/4/chatgpt-agents-user-agent/",
         "dt": "2025-08-05T20:39:55",
         "points": 2,
         "submitter": "mikeflynn",
         "commentsUrl": "https://news.ycombinator.com/item?id=44803964",
-        "numComments": 1
+        "numComments": 2
     },
     {
         "id": "44794825",
@@ -24,7 +34,7 @@
         "title": "Nothing to see here (it was Cloudflare crawler hints)",
         "url": "https://simonwillison.net/2025/Aug/4/chatgpt-agents-agent/",
         "dt": "2025-08-04T22:58:17",
-        "points": 13,
+        "points": 14,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44792286",
         "numComments": 2
@@ -288,15 +298,5 @@
         "submitter": "thm",
         "commentsUrl": "https://news.ycombinator.com/item?id=44479727",
         "numComments": 0
-    },
-    {
-        "id": "44478948",
-        "title": "Supabase MCP can leak your entire SQL database",
-        "url": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/",
-        "dt": "2025-07-06T08:44:40",
-        "points": 5,
-        "submitter": "doppp",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44478948",
-        "numComments": 1
     }
 ]
