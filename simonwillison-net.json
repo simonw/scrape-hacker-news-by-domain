@@ -4,10 +4,10 @@
         "title": "GPT-5: Key characteristics, pricing and system card",
         "url": "https://simonwillison.net/2025/Aug/7/gpt-5/",
         "dt": "2025-08-07T17:46:18",
-        "points": 414,
+        "points": 433,
         "submitter": "Philpax",
         "commentsUrl": "https://news.ycombinator.com/item?id=44827794",
-        "numComments": 174
+        "numComments": 186
     },
     {
         "id": "44804761",
@@ -94,7 +94,7 @@
         "title": "My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)",
         "url": "https://simonwillison.net/2025/Jul/29/space-invaders/",
         "dt": "2025-07-29T13:45:07",
-        "points": 575,
+        "points": 576,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44723316",
         "numComments": 395
