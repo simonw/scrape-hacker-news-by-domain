@@ -1,13 +1,23 @@
 [
     {
+        "id": "44839842",
+        "title": "The surprise deprecation of GPT-4o for ChatGPT consumers",
+        "url": "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/",
+        "dt": "2025-08-08T18:04:26",
+        "points": 60,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44839842",
+        "numComments": 23
+    },
+    {
         "id": "44827794",
         "title": "GPT-5: Key characteristics, pricing and system card",
         "url": "https://simonwillison.net/2025/Aug/7/gpt-5/",
         "dt": "2025-08-07T17:46:18",
-        "points": 608,
+        "points": 610,
         "submitter": "Philpax",
         "commentsUrl": "https://news.ycombinator.com/item?id=44827794",
-        "numComments": 268
+        "numComments": 275
     },
     {
         "id": "44804761",
@@ -287,16 +297,6 @@
         "points": 12,
         "submitter": "lunw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44493868",
-        "numComments": 0
-    },
-    {
-        "id": "44479727",
-        "title": "A Quote from Nineteen Eighty-Four",
-        "url": "https://simonwillison.net/2025/Jul/6/nineteen-eighty-four/",
-        "dt": "2025-07-06T11:20:31",
-        "points": 7,
-        "submitter": "thm",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44479727",
         "numComments": 0
     }
 ]
