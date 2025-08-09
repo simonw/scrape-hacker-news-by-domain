@@ -1,5 +1,15 @@
 [
     {
+        "id": "44846922",
+        "title": "Simon Willison's Lethal Trifecta Talk at the Bay Area AI Security Meetup",
+        "url": "https://simonwillison.net/2025/Aug/9/bay-area-ai/",
+        "dt": "2025-08-09T14:47:38",
+        "points": 2,
+        "submitter": "vismit2000",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44846922",
+        "numComments": 0
+    },
+    {
         "id": "44844935",
         "title": "When a Jira Ticket Can Steal Your Secrets",
         "url": "https://simonwillison.net/2025/Aug/9/when-a-jira-ticket-can-steal-your-secrets/",
@@ -14,17 +24,17 @@
         "title": "The surprise deprecation of GPT-4o for ChatGPT consumers",
         "url": "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/",
         "dt": "2025-08-08T18:04:26",
-        "points": 385,
+        "points": 387,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=44839842",
-        "numComments": 378
+        "numComments": 384
     },
     {
         "id": "44827794",
         "title": "GPT-5: Key characteristics, pricing and system card",
         "url": "https://simonwillison.net/2025/Aug/7/gpt-5/",
         "dt": "2025-08-07T17:46:18",
-        "points": 623,
+        "points": 625,
         "submitter": "Philpax",
         "commentsUrl": "https://news.ycombinator.com/item?id=44827794",
         "numComments": 285
@@ -288,15 +298,5 @@
         "submitter": "coloneltcb",
         "commentsUrl": "https://news.ycombinator.com/item?id=44524707",
         "numComments": 252
-    },
-    {
-        "id": "44516641",
-        "title": "Using fs_usage to see what files a process is using",
-        "url": "https://til.simonwillison.net/macos/fs-usage",
-        "dt": "2025-07-10T02:28:09",
-        "points": 2,
-        "submitter": "Bogdanp",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44516641",
-        "numComments": 0
     }
 ]
