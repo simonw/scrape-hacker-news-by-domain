@@ -1,20 +1,30 @@
 [
     {
+        "id": "44844935",
+        "title": "When a Jira Ticket Can Steal Your Secrets",
+        "url": "https://simonwillison.net/2025/Aug/9/when-a-jira-ticket-can-steal-your-secrets/",
+        "dt": "2025-08-09T08:27:35",
+        "points": 1,
+        "submitter": "lemonberry",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44844935",
+        "numComments": 1
+    },
+    {
         "id": "44839842",
         "title": "The surprise deprecation of GPT-4o for ChatGPT consumers",
         "url": "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/",
         "dt": "2025-08-08T18:04:26",
-        "points": 341,
+        "points": 350,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=44839842",
-        "numComments": 332
+        "numComments": 342
     },
     {
         "id": "44827794",
         "title": "GPT-5: Key characteristics, pricing and system card",
         "url": "https://simonwillison.net/2025/Aug/7/gpt-5/",
         "dt": "2025-08-07T17:46:18",
-        "points": 618,
+        "points": 619,
         "submitter": "Philpax",
         "commentsUrl": "https://news.ycombinator.com/item?id=44827794",
         "numComments": 285
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "Bogdanp",
         "commentsUrl": "https://news.ycombinator.com/item?id=44516641",
-        "numComments": 0
-    },
-    {
-        "id": "44493868",
-        "title": "Supabase MCP's Lethal Trifecta",
-        "url": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/",
-        "dt": "2025-07-07T19:35:41",
-        "points": 12,
-        "submitter": "lunw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44493868",
         "numComments": 0
     }
 ]
