@@ -1,5 +1,15 @@
 [
     {
+        "id": "44872381",
+        "title": "LLM 0.27: GPT-5 and improved tool calling",
+        "url": "https://simonwillison.net/2025/Aug/11/llm-027/",
+        "dt": "2025-08-12T04:20:28",
+        "points": 1,
+        "submitter": "gingersnap",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44872381",
+        "numComments": 0
+    },
+    {
         "id": "44846922",
         "title": "My Lethal Trifecta talk at the Bay Area AI Security Meetup",
         "url": "https://simonwillison.net/2025/Aug/9/bay-area-ai/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44527190",
         "numComments": 546
-    },
-    {
-        "id": "44524707",
-        "title": "Grok 4",
-        "url": "https://simonwillison.net/2025/Jul/10/grok-4/",
-        "dt": "2025-07-10T19:43:44",
-        "points": 328,
-        "submitter": "coloneltcb",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44524707",
-        "numComments": 252
     }
 ]
