@@ -1,5 +1,25 @@
 [
     {
+        "id": "44892520",
+        "title": "Configuring GH Codespaces with UV/node + llm tool + free GPT4.1 w/$GITHUB_TOKEN",
+        "url": "https://til.simonwillison.net/github/codespaces-devcontainers",
+        "dt": "2025-08-13T19:09:27",
+        "points": 1,
+        "submitter": "indigodaddy",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44892520",
+        "numComments": 0
+    },
+    {
+        "id": "44892233",
+        "title": "Pyx: A Python-native package registry, now in Beta",
+        "url": "https://simonwillison.net/2025/Aug/13/pyx/",
+        "dt": "2025-08-13T18:45:27",
+        "points": 2,
+        "submitter": "amrrs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44892233",
+        "numComments": 0
+    },
+    {
         "id": "44872381",
         "title": "LLM 0.27: GPT-5 and improved tool calling",
         "url": "https://simonwillison.net/2025/Aug/11/llm-027/",
@@ -278,25 +298,5 @@
         "submitter": "irthomasthomas",
         "commentsUrl": "https://news.ycombinator.com/item?id=44543590",
         "numComments": 63
-    },
-    {
-        "id": "44536009",
-        "title": "Moonshotai/Kimi-K2-Instruct",
-        "url": "https://simonwillison.net/2025/Jul/11/kimi-k2/",
-        "dt": "2025-07-11T19:28:10",
-        "points": 3,
-        "submitter": "nickthegreek",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44536009",
-        "numComments": 0
-    },
-    {
-        "id": "44527190",
-        "title": "Grok: Searching X for \"From:Elonmusk (Israel or Palestine or Hamas or Gaza)\"",
-        "url": "https://simonwillison.net/2025/Jul/11/grok-musk/",
-        "dt": "2025-07-11T00:22:43",
-        "points": 734,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44527190",
-        "numComments": 546
     }
 ]
