@@ -1,5 +1,15 @@
 [
     {
+        "id": "44896717",
+        "title": "Qwen3-4B-Thinking: \"This is art\u2013pelicans don't ride bikes \"",
+        "url": "https://simonwillison.net/2025/Aug/10/qwen3-4b/",
+        "dt": "2025-08-14T04:22:44",
+        "points": 1,
+        "submitter": "nnx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44896717",
+        "numComments": 0
+    },
+    {
         "id": "44892520",
         "title": "Configuring GH Codespaces with UV/node + llm tool + free GPT4.1 w/$GITHUB_TOKEN",
         "url": "https://til.simonwillison.net/github/codespaces-devcontainers",
@@ -14,7 +24,7 @@
         "title": "Pyx: A Python-native package registry, now in Beta",
         "url": "https://simonwillison.net/2025/Aug/13/pyx/",
         "dt": "2025-08-13T18:45:27",
-        "points": 3,
+        "points": 4,
         "submitter": "amrrs",
         "commentsUrl": "https://news.ycombinator.com/item?id=44892233",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "saikatsg",
         "commentsUrl": "https://news.ycombinator.com/item?id=44568026",
         "numComments": 0
-    },
-    {
-        "id": "44543590",
-        "title": "Grok 4 Heavy Protects it's System prompt",
-        "url": "https://simonwillison.net/2025/Jul/12/grok-4-heavy/",
-        "dt": "2025-07-12T17:36:15",
-        "points": 88,
-        "submitter": "irthomasthomas",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44543590",
-        "numComments": 63
     }
 ]
