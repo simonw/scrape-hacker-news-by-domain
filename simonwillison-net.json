@@ -1,5 +1,15 @@
 [
     {
+        "id": "44914637",
+        "title": "Open weight LLMs exhibit inconsistent performance across providers",
+        "url": "https://simonwillison.net/2025/Aug/15/inconsistent-performance/",
+        "dt": "2025-08-15T16:49:24",
+        "points": 2,
+        "submitter": "neehao",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44914637",
+        "numComments": 0
+    },
+    {
         "id": "44898833",
         "title": "codespaces-llm: template for GitHub Codespaces",
         "url": "https://simonwillison.net/2025/Aug/13/codespaces-llm/",
@@ -74,7 +84,7 @@
         "title": "The surprise deprecation of GPT-4o for ChatGPT consumers",
         "url": "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/",
         "dt": "2025-08-08T18:04:26",
-        "points": 425,
+        "points": 426,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=44839842",
         "numComments": 410
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=44573851",
-        "numComments": 0
-    },
-    {
-        "id": "44570193",
-        "title": "The Lethal Trifecta",
-        "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
-        "dt": "2025-07-15T11:53:15",
-        "points": 3,
-        "submitter": "jangletown",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44570193",
         "numComments": 0
     }
 ]
