@@ -1,5 +1,25 @@
 [
     {
+        "id": "44920673",
+        "title": "Open weight LLMs exhibit inconsistent performance across providers",
+        "url": "https://simonwillison.net/2025/Aug/15/inconsistent-performance/",
+        "dt": "2025-08-16T06:11:02",
+        "points": 1,
+        "submitter": "mdp2021",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44920673",
+        "numComments": 0
+    },
+    {
+        "id": "44920482",
+        "title": "GPT-5 has a hidden system prompt",
+        "url": "https://simonwillison.net/2025/Aug/15/gpt-5-has-a-hidden-system-prompt/",
+        "dt": "2025-08-16T05:36:23",
+        "points": 4,
+        "submitter": "gronky_",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44920482",
+        "numComments": 1
+    },
+    {
         "id": "44914637",
         "title": "Open weight LLMs exhibit inconsistent performance across providers",
         "url": "https://simonwillison.net/2025/Aug/15/inconsistent-performance/",
@@ -277,26 +297,6 @@
         "points": 2,
         "submitter": "strict9",
         "commentsUrl": "https://news.ycombinator.com/item?id=44585471",
-        "numComments": 0
-    },
-    {
-        "id": "44574255",
-        "title": "Hacker News, Filtered",
-        "url": "https://tools.simonwillison.net/hacker-news-filtered",
-        "dt": "2025-07-15T18:19:19",
-        "points": 3,
-        "submitter": "tantalor",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44574255",
-        "numComments": 0
-    },
-    {
-        "id": "44573851",
-        "title": "Tools.simonwillison.net",
-        "url": "https://tools.simonwillison.net/",
-        "dt": "2025-07-15T17:44:41",
-        "points": 3,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44573851",
         "numComments": 0
     }
 ]
