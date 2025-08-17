@@ -1,5 +1,15 @@
 [
     {
+        "id": "44928093",
+        "title": "AI vuln-a-day for the month of August",
+        "url": "https://simonwillison.net/2025/Aug/15/the-summer-of-johann/",
+        "dt": "2025-08-17T01:01:40",
+        "points": 3,
+        "submitter": "username223",
+        "commentsUrl": "https://news.ycombinator.com/item?id=44928093",
+        "numComments": 1
+    },
+    {
         "id": "44920673",
         "title": "Open weight LLMs exhibit inconsistent performance across providers",
         "url": "https://simonwillison.net/2025/Aug/15/inconsistent-performance/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44597405",
         "numComments": 13
-    },
-    {
-        "id": "44585471",
-        "title": "Application Development Without Programmers",
-        "url": "https://simonwillison.net/2025/Jul/14/application-development-without-programmers/",
-        "dt": "2025-07-16T18:36:50",
-        "points": 2,
-        "submitter": "strict9",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44585471",
-        "numComments": 0
     }
 ]
