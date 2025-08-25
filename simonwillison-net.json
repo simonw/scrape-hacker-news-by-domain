@@ -1,5 +1,15 @@
 [
     {
+        "id": "45020165",
+        "title": "The Summer of Johann: prompt injections as far as the eye can see",
+        "url": "https://simonwillison.net/2025/Aug/15/the-summer-of-johann/",
+        "dt": "2025-08-25T22:56:18",
+        "points": 1,
+        "submitter": "jmvldz",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45020165",
+        "numComments": 0
+    },
+    {
         "id": "45012339",
         "title": "Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet",
         "url": "https://simonwillison.net/2025/Aug/25/agentic-browser-security/",
@@ -288,15 +298,5 @@
         "submitter": "kristianp",
         "commentsUrl": "https://news.ycombinator.com/item?id=44620119",
         "numComments": 1
-    },
-    {
-        "id": "44602309",
-        "title": "Vibe Scraping / Vibe Coding a schedule app on a phone",
-        "url": "https://simonwillison.net/2025/Jul/17/vibe-scraping/",
-        "dt": "2025-07-18T07:55:42",
-        "points": 2,
-        "submitter": "lsb",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44602309",
-        "numComments": 0
     }
 ]
