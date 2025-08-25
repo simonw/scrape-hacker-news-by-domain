@@ -1,5 +1,15 @@
 [
     {
+        "id": "45012339",
+        "title": "Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet",
+        "url": "https://simonwillison.net/2025/Aug/25/agentic-browser-security/",
+        "dt": "2025-08-25T10:29:05",
+        "points": 1,
+        "submitter": "donohoe",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45012339",
+        "numComments": 0
+    },
+    {
         "id": "44928093",
         "title": "AI vuln-a-day for the month of August",
         "url": "https://simonwillison.net/2025/Aug/15/the-summer-of-johann/",
@@ -288,15 +298,5 @@
         "submitter": "lsb",
         "commentsUrl": "https://news.ycombinator.com/item?id=44602309",
         "numComments": 0
-    },
-    {
-        "id": "44597405",
-        "title": "Vibe scraping and vibe coding a schedule webapp for a conference on my phone",
-        "url": "https://simonwillison.net/2025/Jul/17/vibe-scraping/",
-        "dt": "2025-07-17T19:49:01",
-        "points": 19,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44597405",
-        "numComments": 13
     }
 ]
