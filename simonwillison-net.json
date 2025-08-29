@@ -1,5 +1,15 @@
 [
     {
+        "id": "45060677",
+        "title": "Symbex: Search Python code for functions and classes, then pipe them into a LLM",
+        "url": "https://simonwillison.net/2023/Jun/18/symbex/",
+        "dt": "2025-08-29T05:53:15",
+        "points": 2,
+        "submitter": "auraham",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45060677",
+        "numComments": 0
+    },
+    {
         "id": "45035810",
         "title": "Piloting Claude for Chrome",
         "url": "https://simonwillison.net/2025/Aug/26/piloting-claude-for-chrome/",
@@ -288,15 +298,5 @@
         "submitter": "slacktivism123",
         "commentsUrl": "https://news.ycombinator.com/item?id=44674640",
         "numComments": 0
-    },
-    {
-        "id": "44671992",
-        "title": "Using GitHub Spark to Reverse Engineer GitHub Spark",
-        "url": "https://simonwillison.net/2025/Jul/24/github-spark/",
-        "dt": "2025-07-24T15:34:54",
-        "points": 7,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44671992",
-        "numComments": 4
     }
 ]
