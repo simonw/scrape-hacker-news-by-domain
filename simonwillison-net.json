@@ -1,13 +1,23 @@
 [
     {
+        "id": "45101716",
+        "title": "Claude Opus 4.1 and Opus 4 degraded quality",
+        "url": "https://simonwillison.net/2025/Aug/30/claude-degraded-quality/",
+        "dt": "2025-09-02T11:39:28",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45101716",
+        "numComments": 0
+    },
+    {
         "id": "45062046",
         "title": "An LLM is a lossy encyclopedia",
         "url": "https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/",
         "dt": "2025-08-29T09:40:19",
-        "points": 77,
+        "points": 139,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=45062046",
-        "numComments": 55
+        "numComments": 84
     },
     {
         "id": "45060677",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "coloneltcb",
         "commentsUrl": "https://news.ycombinator.com/item?id=44689564",
-        "numComments": 0
-    },
-    {
-        "id": "44681558",
-        "title": "Using GitHub Spark to Reverse Engineer GitHub Spark",
-        "url": "https://simonwillison.net/2025/Jul/24/github-spark/",
-        "dt": "2025-07-25T10:15:27",
-        "points": 2,
-        "submitter": "0x79de",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44681558",
         "numComments": 0
     }
 ]
