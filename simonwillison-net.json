@@ -1,5 +1,15 @@
 [
     {
+        "id": "45136355",
+        "title": "Fs_usage: See filesystem activity on Mac OS X",
+        "url": "https://til.simonwillison.net/macos/fs-usage",
+        "dt": "2025-09-05T08:42:03",
+        "points": 1,
+        "submitter": "fanf2",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45136355",
+        "numComments": 0
+    },
+    {
         "id": "45134438",
         "title": "simonw has vibe-coded 124 useful tools",
         "url": "https://simonwillison.net/2025/Sep/4/highlighted-tools/",
@@ -24,7 +34,7 @@
         "title": "An LLM is a lossy encyclopedia",
         "url": "https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/",
         "dt": "2025-08-29T09:40:19",
-        "points": 504,
+        "points": 505,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=45062046",
         "numComments": 332
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44723316",
         "numComments": 396
-    },
-    {
-        "id": "44692861",
-        "title": "Using GitHub Spark to Reverse Engineer GitHub Spark",
-        "url": "https://simonwillison.net/2025/Jul/24/github-spark/",
-        "dt": "2025-07-26T10:03:48",
-        "points": 4,
-        "submitter": "Garbage",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44692861",
-        "numComments": 0
     }
 ]
