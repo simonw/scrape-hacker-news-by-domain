@@ -1,5 +1,15 @@
 [
     {
+        "id": "45136924",
+        "title": "Beyond Vibe Coding",
+        "url": "https://simonwillison.net/2025/Sep/4/beyond-vibe-coding/",
+        "dt": "2025-09-05T10:14:26",
+        "points": 1,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45136924",
+        "numComments": 0
+    },
+    {
         "id": "45136355",
         "title": "Fs_usage: See filesystem activity on Mac OS X",
         "url": "https://til.simonwillison.net/macos/fs-usage",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44736238",
         "numComments": 4
-    },
-    {
-        "id": "44723316",
-        "title": "My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)",
-        "url": "https://simonwillison.net/2025/Jul/29/space-invaders/",
-        "dt": "2025-07-29T13:45:07",
-        "points": 577,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44723316",
-        "numComments": 396
     }
 ]
