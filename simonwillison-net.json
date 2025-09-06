@@ -1,5 +1,15 @@
 [
     {
+        "id": "45152284",
+        "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search",
+        "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
+        "dt": "2025-09-06T19:42:48",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45152284",
+        "numComments": 0
+    },
+    {
         "id": "45136924",
         "title": "Beyond Vibe Coding",
         "url": "https://simonwillison.net/2025/Sep/4/beyond-vibe-coding/",
@@ -288,15 +298,5 @@
         "submitter": "ishita159",
         "commentsUrl": "https://news.ycombinator.com/item?id=44769647",
         "numComments": 0
-    },
-    {
-        "id": "44736238",
-        "title": "The best available open weight LLMs now come from China",
-        "url": "https://simonwillison.net/2025/Jul/30/chinese-models/",
-        "dt": "2025-07-30T16:22:50",
-        "points": 13,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44736238",
-        "numComments": 4
     }
 ]
