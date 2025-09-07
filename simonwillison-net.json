@@ -1,5 +1,15 @@
 [
     {
+        "id": "45158586",
+        "title": "AI Mode Is Good",
+        "url": "https://simonwillison.net/2025/Sep/7/ai-mode/",
+        "dt": "2025-09-07T14:43:07",
+        "points": 2,
+        "submitter": "xnx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45158586",
+        "numComments": 0
+    },
+    {
         "id": "45156449",
         "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search",
         "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "zdw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44781158",
-        "numComments": 0
-    },
-    {
-        "id": "44777583",
-        "title": "Faster Inference",
-        "url": "https://simonwillison.net/2025/Aug/1/faster-inference/",
-        "dt": "2025-08-03T16:17:51",
-        "points": 1,
-        "submitter": "KingOfCoders",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44777583",
         "numComments": 0
     }
 ]
