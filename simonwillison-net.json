@@ -1,5 +1,15 @@
 [
     {
+        "id": "45156449",
+        "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search",
+        "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
+        "dt": "2025-09-07T08:31:53",
+        "points": 3,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45156449",
+        "numComments": 0
+    },
+    {
         "id": "45152284",
         "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search",
         "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "KingOfCoders",
         "commentsUrl": "https://news.ycombinator.com/item?id=44777583",
-        "numComments": 0
-    },
-    {
-        "id": "44769647",
-        "title": "Reverse Engineered some updates to Claude",
-        "url": "https://simonwillison.net/2025/Jul/31/updates-to-claude/",
-        "dt": "2025-08-02T17:43:44",
-        "points": 3,
-        "submitter": "ishita159",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44769647",
         "numComments": 0
     }
 ]
