@@ -1,13 +1,13 @@
 [
     {
         "id": "45158586",
-        "title": "AI Mode Is Good",
+        "title": "Google's new AI mode is good, actually",
         "url": "https://simonwillison.net/2025/Sep/7/ai-mode/",
         "dt": "2025-09-07T14:43:07",
-        "points": 63,
+        "points": 69,
         "submitter": "xnx",
         "commentsUrl": "https://news.ycombinator.com/item?id=45158586",
-        "numComments": 31
+        "numComments": 37
     },
     {
         "id": "45156449",
@@ -21,13 +21,13 @@
     },
     {
         "id": "45152284",
-        "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search",
+        "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
         "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
         "dt": "2025-09-06T19:42:48",
-        "points": 10,
+        "points": 38,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45152284",
-        "numComments": 2
+        "numComments": 74
     },
     {
         "id": "45136924",
@@ -74,7 +74,7 @@
         "title": "An LLM is a lossy encyclopedia",
         "url": "https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/",
         "dt": "2025-08-29T09:40:19",
-        "points": 509,
+        "points": 510,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=45062046",
         "numComments": 339
