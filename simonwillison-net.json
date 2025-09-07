@@ -4,10 +4,10 @@
         "title": "Google's new AI mode is good, actually",
         "url": "https://simonwillison.net/2025/Sep/7/ai-mode/",
         "dt": "2025-09-07T14:43:07",
-        "points": 76,
+        "points": 77,
         "submitter": "xnx",
         "commentsUrl": "https://news.ycombinator.com/item?id=45158586",
-        "numComments": 45
+        "numComments": 48
     },
     {
         "id": "45156449",
@@ -24,10 +24,10 @@
         "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
         "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
         "dt": "2025-09-06T19:42:48",
-        "points": 69,
+        "points": 93,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45152284",
-        "numComments": 86
+        "numComments": 98
     },
     {
         "id": "45136924",
@@ -64,7 +64,7 @@
         "title": "Claude Opus 4.1 and Opus 4 degraded quality",
         "url": "https://simonwillison.net/2025/Aug/30/claude-degraded-quality/",
         "dt": "2025-09-02T11:39:28",
-        "points": 2,
+        "points": 3,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=45101716",
         "numComments": 0
