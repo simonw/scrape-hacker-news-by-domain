@@ -1,5 +1,15 @@
 [
     {
+        "id": "45179194",
+        "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
+        "url": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/",
+        "dt": "2025-09-09T08:33:36",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45179194",
+        "numComments": 0
+    },
+    {
         "id": "45176133",
         "title": "Load Llama-3.2 WebGPU in the browser from a local folder",
         "url": "https://simonwillison.net/2025/Sep/8/webgpu-local-folder/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=44792286",
         "numComments": 2
-    },
-    {
-        "id": "44785386",
-        "title": "ChatGPT sharing dialog: difficult to design privacy preferences",
-        "url": "https://simonwillison.net/2025/Aug/3/privacy-design/",
-        "dt": "2025-08-04T13:20:23",
-        "points": 3,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44785386",
-        "numComments": 0
     }
 ]
