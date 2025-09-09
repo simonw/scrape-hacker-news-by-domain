@@ -1,10 +1,20 @@
 [
     {
+        "id": "45190068",
+        "title": "Geoffrey Huntle Is Cursed: Making a GenZ slang programming language with Claude",
+        "url": "https://simonwillison.net/2025/Sep/9/cursed/",
+        "dt": "2025-09-09T22:14:42",
+        "points": 2,
+        "submitter": "kposehn",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45190068",
+        "numComments": 0
+    },
+    {
         "id": "45187408",
         "title": "Claude Code Interpreter",
         "url": "https://simonwillison.net/2025/Sep/9/claude-code-interpreter/",
         "dt": "2025-09-09T19:24:57",
-        "points": 2,
+        "points": 3,
         "submitter": "_mu",
         "commentsUrl": "https://news.ycombinator.com/item?id=45187408",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "JohnHammersley",
         "commentsUrl": "https://news.ycombinator.com/item?id=44804761",
         "numComments": 5
-    },
-    {
-        "id": "44794825",
-        "title": "ChatGPT Agent's User-Agent",
-        "url": "https://simonwillison.net/2025/Aug/4/chatgpt-agents-user-agent/",
-        "dt": "2025-08-05T06:14:51",
-        "points": 3,
-        "submitter": "ingve",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44794825",
-        "numComments": 0
     }
 ]
