@@ -1,5 +1,15 @@
 [
     {
+        "id": "45176133",
+        "title": "Load Llama-3.2 WebGPU in the browser from a local folder",
+        "url": "https://simonwillison.net/2025/Sep/8/webgpu-local-folder/",
+        "dt": "2025-09-09T00:58:16",
+        "points": 1,
+        "submitter": "indigodaddy",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45176133",
+        "numComments": 0
+    },
+    {
         "id": "45158586",
         "title": "Google's new AI mode is good, actually",
         "url": "https://simonwillison.net/2025/Sep/7/ai-mode/",
@@ -7,7 +17,7 @@
         "points": 127,
         "submitter": "xnx",
         "commentsUrl": "https://news.ycombinator.com/item?id=45158586",
-        "numComments": 67
+        "numComments": 66
     },
     {
         "id": "45156449",
@@ -24,10 +34,10 @@
         "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
         "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
         "dt": "2025-09-06T19:42:48",
-        "points": 342,
+        "points": 344,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45152284",
-        "numComments": 250
+        "numComments": 249
     },
     {
         "id": "45136924",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=44785386",
-        "numComments": 0
-    },
-    {
-        "id": "44781158",
-        "title": "The ChatGPT sharing dialog shows difficulty in designing privacy preferences",
-        "url": "https://simonwillison.net/2025/Aug/3/privacy-design/",
-        "dt": "2025-08-04T00:49:18",
-        "points": 4,
-        "submitter": "zdw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44781158",
         "numComments": 0
     }
 ]
