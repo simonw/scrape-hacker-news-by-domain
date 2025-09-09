@@ -1,5 +1,15 @@
 [
     {
+        "id": "45187408",
+        "title": "Claude Code Interpreter",
+        "url": "https://simonwillison.net/2025/Sep/9/claude-code-interpreter/",
+        "dt": "2025-09-09T19:24:57",
+        "points": 1,
+        "submitter": "_mu",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45187408",
+        "numComments": 0
+    },
+    {
         "id": "45179194",
         "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
         "url": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/",
@@ -44,7 +54,7 @@
         "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
         "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
         "dt": "2025-09-06T19:42:48",
-        "points": 354,
+        "points": 355,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45152284",
         "numComments": 253
@@ -288,15 +298,5 @@
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=44794825",
         "numComments": 0
-    },
-    {
-        "id": "44792286",
-        "title": "Nothing to see here (it was Cloudflare crawler hints)",
-        "url": "https://simonwillison.net/2025/Aug/4/chatgpt-agents-agent/",
-        "dt": "2025-08-04T22:58:17",
-        "points": 15,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44792286",
-        "numComments": 2
     }
 ]
