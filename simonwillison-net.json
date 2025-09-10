@@ -1,5 +1,25 @@
 [
     {
+        "id": "45192865",
+        "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
+        "url": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/",
+        "dt": "2025-09-10T03:30:17",
+        "points": 1,
+        "submitter": "vismit2000",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45192865",
+        "numComments": 0
+    },
+    {
+        "id": "45192862",
+        "title": "Claude's new Code Interpreter review",
+        "url": "https://simonwillison.net/2025/Sep/9/claude-code-interpreter/",
+        "dt": "2025-09-10T03:29:45",
+        "points": 2,
+        "submitter": "vismit2000",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45192862",
+        "numComments": 0
+    },
+    {
         "id": "45190068",
         "title": "Geoffrey Huntle Is Cursed: Making a GenZ slang programming language with Claude",
         "url": "https://simonwillison.net/2025/Sep/9/cursed/",
@@ -278,25 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=44839842",
         "numComments": 412
-    },
-    {
-        "id": "44827794",
-        "title": "GPT-5: Key characteristics, pricing and system card",
-        "url": "https://simonwillison.net/2025/Aug/7/gpt-5/",
-        "dt": "2025-08-07T17:46:18",
-        "points": 643,
-        "submitter": "Philpax",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44827794",
-        "numComments": 295
-    },
-    {
-        "id": "44804761",
-        "title": "OpenAI's new open weight (Apache 2) models are good",
-        "url": "https://simonwillison.net/2025/Aug/5/gpt-oss/",
-        "dt": "2025-08-05T21:42:29",
-        "points": 69,
-        "submitter": "JohnHammersley",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44804761",
-        "numComments": 5
     }
 ]
