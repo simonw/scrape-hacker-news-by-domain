@@ -4,7 +4,7 @@
         "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
         "url": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/",
         "dt": "2025-09-10T03:30:17",
-        "points": 2,
+        "points": 3,
         "submitter": "vismit2000",
         "commentsUrl": "https://news.ycombinator.com/item?id=45192865",
         "numComments": 0
@@ -14,7 +14,7 @@
         "title": "Claude's new Code Interpreter review",
         "url": "https://simonwillison.net/2025/Sep/9/claude-code-interpreter/",
         "dt": "2025-09-10T03:29:45",
-        "points": 2,
+        "points": 4,
         "submitter": "vismit2000",
         "commentsUrl": "https://news.ycombinator.com/item?id=45192862",
         "numComments": 0
@@ -24,7 +24,7 @@
         "title": "Geoffrey Huntle Is Cursed: Making a GenZ slang programming language with Claude",
         "url": "https://simonwillison.net/2025/Sep/9/cursed/",
         "dt": "2025-09-09T22:14:42",
-        "points": 3,
+        "points": 4,
         "submitter": "kposehn",
         "commentsUrl": "https://news.ycombinator.com/item?id=45190068",
         "numComments": 0
@@ -87,7 +87,7 @@
         "points": 356,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45152284",
-        "numComments": 253
+        "numComments": 254
     },
     {
         "id": "45136924",
