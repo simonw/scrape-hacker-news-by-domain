@@ -1,5 +1,15 @@
 [
     {
+        "id": "45243359",
+        "title": "Models Can Prompt Now",
+        "url": "https://simonwillison.net/2025/Sep/14/models-can-prompt/",
+        "dt": "2025-09-14T21:23:35",
+        "points": 3,
+        "submitter": "KolenCh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45243359",
+        "numComments": 2
+    },
+    {
         "id": "45192865",
         "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
         "url": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/",
@@ -288,15 +298,5 @@
         "submitter": "lemonberry",
         "commentsUrl": "https://news.ycombinator.com/item?id=44844935",
         "numComments": 1
-    },
-    {
-        "id": "44839842",
-        "title": "The surprise deprecation of GPT-4o for ChatGPT consumers",
-        "url": "https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/",
-        "dt": "2025-08-08T18:04:26",
-        "points": 428,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44839842",
-        "numComments": 412
     }
 ]
