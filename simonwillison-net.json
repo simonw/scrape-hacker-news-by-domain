@@ -1,5 +1,15 @@
 [
     {
+        "id": "45253807",
+        "title": "GPT\u20115-Codex and upgrades to Codex",
+        "url": "https://simonwillison.net/2025/Sep/15/gpt-5-codex/",
+        "dt": "2025-09-15T19:17:35",
+        "points": 2,
+        "submitter": "amrrs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45253807",
+        "numComments": 0
+    },
+    {
         "id": "45243359",
         "title": "Models Can Prompt Now",
         "url": "https://simonwillison.net/2025/Sep/14/models-can-prompt/",
@@ -288,15 +298,5 @@
         "submitter": "vismit2000",
         "commentsUrl": "https://news.ycombinator.com/item?id=44846922",
         "numComments": 115
-    },
-    {
-        "id": "44844935",
-        "title": "When a Jira Ticket Can Steal Your Secrets",
-        "url": "https://simonwillison.net/2025/Aug/9/when-a-jira-ticket-can-steal-your-secrets/",
-        "dt": "2025-08-09T08:27:35",
-        "points": 1,
-        "submitter": "lemonberry",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44844935",
-        "numComments": 1
     }
 ]
