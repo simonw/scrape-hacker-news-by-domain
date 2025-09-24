@@ -1,5 +1,15 @@
 [
     {
+        "id": "45362624",
+        "title": "CompileBench: Can AI Compile 22-year-old Code?",
+        "url": "https://simonwillison.net/2025/Sep/22/compilebench/",
+        "dt": "2025-09-24T16:27:51",
+        "points": 1,
+        "submitter": "speckx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45362624",
+        "numComments": 0
+    },
+    {
         "id": "45293737",
         "title": "I think \"agent\" may have a widely enough agreed upon useful definition",
         "url": "https://simonwillison.net/2025/Sep/18/agents/",
@@ -288,15 +298,5 @@
         "submitter": "amrrs",
         "commentsUrl": "https://news.ycombinator.com/item?id=44892233",
         "numComments": 1
-    },
-    {
-        "id": "44872381",
-        "title": "LLM 0.27: GPT-5 and improved tool calling",
-        "url": "https://simonwillison.net/2025/Aug/11/llm-027/",
-        "dt": "2025-08-12T04:20:28",
-        "points": 4,
-        "submitter": "gingersnap",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44872381",
-        "numComments": 0
     }
 ]
