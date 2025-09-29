@@ -1,5 +1,15 @@
 [
     {
+        "id": "45416969",
+        "title": "Claude Sonnet 4.5 is probably the \"best coding model in the world\", at least now",
+        "url": "https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/",
+        "dt": "2025-09-29T18:15:04",
+        "points": 3,
+        "submitter": "coloneltcb",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45416969",
+        "numComments": 0
+    },
+    {
         "id": "45362624",
         "title": "CompileBench: Can AI Compile 22-year-old Code?",
         "url": "https://simonwillison.net/2025/Sep/22/compilebench/",
@@ -288,15 +298,5 @@
         "submitter": "indigodaddy",
         "commentsUrl": "https://news.ycombinator.com/item?id=44892520",
         "numComments": 0
-    },
-    {
-        "id": "44892233",
-        "title": "Pyx: A Python-native package registry, now in Beta",
-        "url": "https://simonwillison.net/2025/Aug/13/pyx/",
-        "dt": "2025-08-13T18:45:27",
-        "points": 4,
-        "submitter": "amrrs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44892233",
-        "numComments": 1
     }
 ]
