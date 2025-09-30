@@ -1,5 +1,25 @@
 [
     {
+        "id": "45426680",
+        "title": "Designing Agentic Loops",
+        "url": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
+        "dt": "2025-09-30T15:21:23",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45426680",
+        "numComments": 0
+    },
+    {
+        "id": "45426379",
+        "title": "Claude Sonnet 4.5 is probably the \"best coding model in the world\"",
+        "url": "https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/",
+        "dt": "2025-09-30T15:02:12",
+        "points": 1,
+        "submitter": "gmays",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45426379",
+        "numComments": 0
+    },
+    {
         "id": "45421247",
         "title": "Claude Sonnet 4.5 is probably the best coding model in world (at least for now)",
         "url": "https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/",
@@ -277,26 +297,6 @@
         "points": 6,
         "submitter": "neehao",
         "commentsUrl": "https://news.ycombinator.com/item?id=44914637",
-        "numComments": 0
-    },
-    {
-        "id": "44898833",
-        "title": "codespaces-llm: template for GitHub Codespaces",
-        "url": "https://simonwillison.net/2025/Aug/13/codespaces-llm/",
-        "dt": "2025-08-14T10:33:47",
-        "points": 2,
-        "submitter": "indigodaddy",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44898833",
-        "numComments": 0
-    },
-    {
-        "id": "44896717",
-        "title": "Qwen3-4B-Thinking: \"This is art\u2013pelicans don't ride bikes \"",
-        "url": "https://simonwillison.net/2025/Aug/10/qwen3-4b/",
-        "dt": "2025-08-14T04:22:44",
-        "points": 4,
-        "submitter": "nnx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44896717",
         "numComments": 0
     }
 ]
