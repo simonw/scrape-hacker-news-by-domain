@@ -1,5 +1,15 @@
 [
     {
+        "id": "45421247",
+        "title": "Claude Sonnet 4.5 is probably the best coding model in world (at least for now)",
+        "url": "https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/",
+        "dt": "2025-09-30T02:18:05",
+        "points": 1,
+        "submitter": "vismit2000",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45421247",
+        "numComments": 0
+    },
+    {
         "id": "45416969",
         "title": "Claude Sonnet 4.5 is probably the \"best coding model in the world\", at least now",
         "url": "https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "nnx",
         "commentsUrl": "https://news.ycombinator.com/item?id=44896717",
-        "numComments": 0
-    },
-    {
-        "id": "44892520",
-        "title": "Configuring GH Codespaces with UV/node + llm tool + free GPT4.1 w/$GITHUB_TOKEN",
-        "url": "https://til.simonwillison.net/github/codespaces-devcontainers",
-        "dt": "2025-08-13T19:09:27",
-        "points": 4,
-        "submitter": "indigodaddy",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44892520",
         "numComments": 0
     }
 ]
