@@ -1,5 +1,15 @@
 [
     {
+        "id": "45451484",
+        "title": "Daniel Stenberg's note on AI assisted curl bug reports",
+        "url": "https://simonwillison.net/2025/Oct/2/curl/",
+        "dt": "2025-10-02T16:03:19",
+        "points": 1,
+        "submitter": "robinhouston",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45451484",
+        "numComments": 1
+    },
+    {
         "id": "45448433",
         "title": "Stats of GitHub PRs opened/merged by LLM agents",
         "url": "https://simonwillison.net/2025/Oct/1/prarena/",
@@ -14,7 +24,7 @@
         "title": "Designing agentic loops",
         "url": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
         "dt": "2025-09-30T15:21:23",
-        "points": 275,
+        "points": 277,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45426680",
         "numComments": 116
@@ -288,15 +298,5 @@
         "submitter": "mdp2021",
         "commentsUrl": "https://news.ycombinator.com/item?id=44920673",
         "numComments": 0
-    },
-    {
-        "id": "44920482",
-        "title": "GPT-5 has a hidden system prompt",
-        "url": "https://simonwillison.net/2025/Aug/15/gpt-5-has-a-hidden-system-prompt/",
-        "dt": "2025-08-16T05:36:23",
-        "points": 9,
-        "submitter": "gronky_",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44920482",
-        "numComments": 2
     }
 ]
