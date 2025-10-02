@@ -1,5 +1,15 @@
 [
     {
+        "id": "45448433",
+        "title": "Stats of GitHub PRs opened/merged by LLM agents",
+        "url": "https://simonwillison.net/2025/Oct/1/prarena/",
+        "dt": "2025-10-02T11:48:24",
+        "points": 1,
+        "submitter": "aargh_aargh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45448433",
+        "numComments": 0
+    },
+    {
         "id": "45426680",
         "title": "Designing agentic loops",
         "url": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
@@ -288,15 +298,5 @@
         "submitter": "gronky_",
         "commentsUrl": "https://news.ycombinator.com/item?id=44920482",
         "numComments": 2
-    },
-    {
-        "id": "44914637",
-        "title": "Open weight LLMs exhibit inconsistent performance across providers",
-        "url": "https://simonwillison.net/2025/Aug/15/inconsistent-performance/",
-        "dt": "2025-08-15T16:49:24",
-        "points": 6,
-        "submitter": "neehao",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44914637",
-        "numComments": 0
     }
 ]
