@@ -1,5 +1,15 @@
 [
     {
+        "id": "45460184",
+        "title": "Sora 2 is vulnerable to prompt injection",
+        "url": "https://simonwillison.net/2025/Oct/3/cameo-prompt-injections/",
+        "dt": "2025-10-03T07:44:12",
+        "points": 2,
+        "submitter": "helloplanets",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45460184",
+        "numComments": 0
+    },
+    {
         "id": "45451484",
         "title": "Daniel Stenberg's note on AI assisted curl bug reports",
         "url": "https://simonwillison.net/2025/Oct/2/curl/",
@@ -288,15 +298,5 @@
         "submitter": "username223",
         "commentsUrl": "https://news.ycombinator.com/item?id=44928093",
         "numComments": 1
-    },
-    {
-        "id": "44920673",
-        "title": "Open weight LLMs exhibit inconsistent performance across providers",
-        "url": "https://simonwillison.net/2025/Aug/15/inconsistent-performance/",
-        "dt": "2025-08-16T06:11:02",
-        "points": 5,
-        "submitter": "mdp2021",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44920673",
-        "numComments": 0
     }
 ]
