@@ -4,10 +4,10 @@
         "title": "Embracing the parallel coding agent lifestyle",
         "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
         "dt": "2025-10-05T14:08:13",
-        "points": 1,
+        "points": 3,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45481585",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "45460184",
@@ -44,7 +44,7 @@
         "title": "Designing agentic loops",
         "url": "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/",
         "dt": "2025-09-30T15:21:23",
-        "points": 283,
+        "points": 284,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45426680",
         "numComments": 117
