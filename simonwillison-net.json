@@ -1,5 +1,15 @@
 [
     {
+        "id": "45481585",
+        "title": "Embracing the parallel coding agent lifestyle",
+        "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
+        "dt": "2025-10-05T14:08:13",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45481585",
+        "numComments": 0
+    },
+    {
         "id": "45460184",
         "title": "Sora 2 is vulnerable to prompt injection",
         "url": "https://simonwillison.net/2025/Oct/3/cameo-prompt-injections/",
@@ -288,15 +298,5 @@
         "submitter": "donohoe",
         "commentsUrl": "https://news.ycombinator.com/item?id=45012339",
         "numComments": 0
-    },
-    {
-        "id": "44928093",
-        "title": "AI vuln-a-day for the month of August",
-        "url": "https://simonwillison.net/2025/Aug/15/the-summer-of-johann/",
-        "dt": "2025-08-17T01:01:40",
-        "points": 4,
-        "submitter": "username223",
-        "commentsUrl": "https://news.ycombinator.com/item?id=44928093",
-        "numComments": 1
     }
 ]
