@@ -1,5 +1,15 @@
 [
     {
+        "id": "45489884",
+        "title": "Embracing the parallel coding agent lifestyle",
+        "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
+        "dt": "2025-10-06T10:40:28",
+        "points": 1,
+        "submitter": "jbredeche",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45489884",
+        "numComments": 0
+    },
+    {
         "id": "45487073",
         "title": "Embracing the parallel coding agent lifestyle",
         "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "Shank",
         "commentsUrl": "https://news.ycombinator.com/item?id=45035810",
-        "numComments": 0
-    },
-    {
-        "id": "45020165",
-        "title": "The Summer of Johann: prompt injections as far as the eye can see",
-        "url": "https://simonwillison.net/2025/Aug/15/the-summer-of-johann/",
-        "dt": "2025-08-25T22:56:18",
-        "points": 3,
-        "submitter": "jmvldz",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45020165",
         "numComments": 0
     }
 ]
