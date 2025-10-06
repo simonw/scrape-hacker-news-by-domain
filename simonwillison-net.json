@@ -1,5 +1,15 @@
 [
     {
+        "id": "45487073",
+        "title": "Embracing the parallel coding agent lifestyle",
+        "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
+        "dt": "2025-10-06T02:26:06",
+        "points": 2,
+        "submitter": "Anon84",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45487073",
+        "numComments": 0
+    },
+    {
         "id": "45481585",
         "title": "Embracing the parallel coding agent lifestyle",
         "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "jmvldz",
         "commentsUrl": "https://news.ycombinator.com/item?id=45020165",
-        "numComments": 0
-    },
-    {
-        "id": "45012339",
-        "title": "Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet",
-        "url": "https://simonwillison.net/2025/Aug/25/agentic-browser-security/",
-        "dt": "2025-08-25T10:29:05",
-        "points": 4,
-        "submitter": "donohoe",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45012339",
         "numComments": 0
     }
 ]
