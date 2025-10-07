@@ -1,5 +1,15 @@
 [
     {
+        "id": "45503867",
+        "title": "Vibe Engineering",
+        "url": "https://simonwillison.net/2025/Oct/7/vibe-engineering/",
+        "dt": "2025-10-07T14:55:14",
+        "points": 2,
+        "submitter": "janpio",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45503867",
+        "numComments": 1
+    },
+    {
         "id": "45499824",
         "title": "GPT-Image-1-Mini",
         "url": "https://simonwillison.net/2025/Oct/6/gpt-image-1-mini/",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=45062046",
         "numComments": 343
-    },
-    {
-        "id": "45060677",
-        "title": "Symbex: Search Python code for functions and classes, then pipe them into a LLM",
-        "url": "https://simonwillison.net/2023/Jun/18/symbex/",
-        "dt": "2025-08-29T05:53:15",
-        "points": 2,
-        "submitter": "auraham",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45060677",
-        "numComments": 0
     }
 ]
