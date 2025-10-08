@@ -1,13 +1,23 @@
 [
     {
+        "id": "45511910",
+        "title": "Git Bisect",
+        "url": "https://til.simonwillison.net/git/git-bisect",
+        "dt": "2025-10-08T03:58:25",
+        "points": 3,
+        "submitter": "handfuloflight",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45511910",
+        "numComments": 0
+    },
+    {
         "id": "45503867",
         "title": "Vibe engineering",
         "url": "https://simonwillison.net/2025/Oct/7/vibe-engineering/",
         "dt": "2025-10-07T14:55:14",
-        "points": 106,
+        "points": 130,
         "submitter": "janpio",
         "commentsUrl": "https://news.ycombinator.com/item?id=45503867",
-        "numComments": 113
+        "numComments": 134
     },
     {
         "id": "45499824",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=45101716",
         "numComments": 0
-    },
-    {
-        "id": "45062046",
-        "title": "An LLM is a lossy encyclopedia",
-        "url": "https://simonwillison.net/2025/Aug/29/lossy-encyclopedia/",
-        "dt": "2025-08-29T09:40:19",
-        "points": 512,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45062046",
-        "numComments": 343
     }
 ]
