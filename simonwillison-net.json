@@ -4,7 +4,7 @@
         "title": "Git Bisect",
         "url": "https://til.simonwillison.net/git/git-bisect",
         "dt": "2025-10-08T03:58:25",
-        "points": 3,
+        "points": 4,
         "submitter": "handfuloflight",
         "commentsUrl": "https://news.ycombinator.com/item?id=45511910",
         "numComments": 0
@@ -14,10 +14,10 @@
         "title": "Vibe engineering",
         "url": "https://simonwillison.net/2025/Oct/7/vibe-engineering/",
         "dt": "2025-10-07T14:55:14",
-        "points": 618,
+        "points": 622,
         "submitter": "janpio",
         "commentsUrl": "https://news.ycombinator.com/item?id=45503867",
-        "numComments": 665
+        "numComments": 674
     },
     {
         "id": "45499824",
@@ -34,7 +34,7 @@
         "title": "Embracing the parallel coding agent lifestyle",
         "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
         "dt": "2025-10-06T10:40:28",
-        "points": 2,
+        "points": 3,
         "submitter": "jbredeche",
         "commentsUrl": "https://news.ycombinator.com/item?id=45489884",
         "numComments": 1
@@ -54,7 +54,7 @@
         "title": "Embracing the parallel coding agent lifestyle",
         "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
         "dt": "2025-10-05T14:08:13",
-        "points": 10,
+        "points": 11,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45481585",
         "numComments": 6
