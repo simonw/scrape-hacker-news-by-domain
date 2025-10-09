@@ -1,5 +1,15 @@
 [
     {
+        "id": "45525526",
+        "title": "Claude can write complete Datasette plugins now",
+        "url": "https://simonwillison.net/2025/Oct/8/claude-datasette-plugins/",
+        "dt": "2025-10-09T09:48:34",
+        "points": 1,
+        "submitter": "ibobev",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45525526",
+        "numComments": 0
+    },
+    {
         "id": "45511910",
         "title": "Git Bisect",
         "url": "https://til.simonwillison.net/git/git-bisect",
@@ -17,7 +27,7 @@
         "points": 622,
         "submitter": "janpio",
         "commentsUrl": "https://news.ycombinator.com/item?id=45503867",
-        "numComments": 674
+        "numComments": 676
     },
     {
         "id": "45499824",
@@ -288,15 +298,5 @@
         "submitter": "doppp",
         "commentsUrl": "https://news.ycombinator.com/item?id=45134438",
         "numComments": 14
-    },
-    {
-        "id": "45101716",
-        "title": "Claude Opus 4.1 and Opus 4 degraded quality",
-        "url": "https://simonwillison.net/2025/Aug/30/claude-degraded-quality/",
-        "dt": "2025-09-02T11:39:28",
-        "points": 4,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45101716",
-        "numComments": 0
     }
 ]
