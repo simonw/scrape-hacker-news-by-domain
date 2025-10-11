@@ -1,5 +1,15 @@
 [
     {
+        "id": "45547036",
+        "title": "GPT-OSS 20B running on a phone",
+        "url": "https://simonwillison.net/2025/Oct/10/gpt-oss-20b-snapdragon/",
+        "dt": "2025-10-11T06:17:06",
+        "points": 2,
+        "submitter": "alanzhuly",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45547036",
+        "numComments": 0
+    },
+    {
         "id": "45525526",
         "title": "Claude can write complete Datasette plugins now",
         "url": "https://simonwillison.net/2025/Oct/8/claude-datasette-plugins/",
@@ -288,15 +298,5 @@
         "submitter": "fanf2",
         "commentsUrl": "https://news.ycombinator.com/item?id=45136355",
         "numComments": 0
-    },
-    {
-        "id": "45134438",
-        "title": "simonw has vibe-coded 124 useful tools",
-        "url": "https://simonwillison.net/2025/Sep/4/highlighted-tools/",
-        "dt": "2025-09-05T02:25:48",
-        "points": 17,
-        "submitter": "doppp",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45134438",
-        "numComments": 14
     }
 ]
