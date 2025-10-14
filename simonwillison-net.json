@@ -1,5 +1,15 @@
 [
     {
+        "id": "45575051",
+        "title": "Nanochat",
+        "url": "https://simonwillison.net/2025/Oct/13/nanochat/",
+        "dt": "2025-10-14T00:58:21",
+        "points": 2,
+        "submitter": "bilsbie",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45575051",
+        "numComments": 1
+    },
+    {
         "id": "45551348",
         "title": "Superpowers: I'm using coding agents in October 2025",
         "url": "https://simonwillison.net/2025/Oct/10/superpowers/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45152284",
         "numComments": 255
-    },
-    {
-        "id": "45136924",
-        "title": "Beyond Vibe Coding",
-        "url": "https://simonwillison.net/2025/Sep/4/beyond-vibe-coding/",
-        "dt": "2025-09-05T10:14:26",
-        "points": 4,
-        "submitter": "edward",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45136924",
-        "numComments": 1
     }
 ]
