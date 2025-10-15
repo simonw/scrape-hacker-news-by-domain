@@ -4,10 +4,10 @@
         "title": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
         "url": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/",
         "dt": "2025-10-15T00:49:25",
-        "points": 88,
+        "points": 107,
         "submitter": "GavinAnderegg",
         "commentsUrl": "https://news.ycombinator.com/item?id=45586776",
-        "numComments": 32
+        "numComments": 39
     },
     {
         "id": "45575051",
@@ -64,7 +64,7 @@
         "title": "Vibe engineering",
         "url": "https://simonwillison.net/2025/Oct/7/vibe-engineering/",
         "dt": "2025-10-07T14:55:14",
-        "points": 651,
+        "points": 652,
         "submitter": "janpio",
         "commentsUrl": "https://news.ycombinator.com/item?id=45503867",
         "numComments": 717
