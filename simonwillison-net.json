@@ -1,10 +1,20 @@
 [
     {
+        "id": "45586776",
+        "title": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
+        "url": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/",
+        "dt": "2025-10-15T00:49:25",
+        "points": 2,
+        "submitter": "GavinAnderegg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45586776",
+        "numComments": 0
+    },
+    {
         "id": "45575051",
         "title": "Nanochat",
         "url": "https://simonwillison.net/2025/Oct/13/nanochat/",
         "dt": "2025-10-14T00:58:21",
-        "points": 45,
+        "points": 47,
         "submitter": "bilsbie",
         "commentsUrl": "https://news.ycombinator.com/item?id=45575051",
         "numComments": 15
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=45156449",
         "numComments": 2
-    },
-    {
-        "id": "45152284",
-        "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
-        "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
-        "dt": "2025-09-06T19:42:48",
-        "points": 361,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45152284",
-        "numComments": 255
     }
 ]
