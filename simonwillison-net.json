@@ -1,5 +1,15 @@
 [
     {
+        "id": "45611465",
+        "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
+        "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
+        "dt": "2025-10-16T22:30:31",
+        "points": 5,
+        "submitter": "keybits",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45611465",
+        "numComments": 0
+    },
+    {
         "id": "45586776",
         "title": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
         "url": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/",
@@ -7,7 +17,7 @@
         "points": 181,
         "submitter": "GavinAnderegg",
         "commentsUrl": "https://news.ycombinator.com/item?id=45586776",
-        "numComments": 107
+        "numComments": 108
     },
     {
         "id": "45575051",
@@ -84,7 +94,7 @@
         "title": "Embracing the parallel coding agent lifestyle",
         "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
         "dt": "2025-10-06T10:40:28",
-        "points": 172,
+        "points": 173,
         "submitter": "jbredeche",
         "commentsUrl": "https://news.ycombinator.com/item?id=45489884",
         "numComments": 138
@@ -288,15 +298,5 @@
         "submitter": "xnx",
         "commentsUrl": "https://news.ycombinator.com/item?id=45158586",
         "numComments": 66
-    },
-    {
-        "id": "45156449",
-        "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is shockingly good at search",
-        "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
-        "dt": "2025-09-07T08:31:53",
-        "points": 9,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45156449",
-        "numComments": 2
     }
 ]
