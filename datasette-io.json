@@ -1,5 +1,15 @@
 [
     {
+        "id": "45612672",
+        "title": "Office MCP Registry on Datasette",
+        "url": "https://lite.datasette.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Frosmur%2Fofficial-mcp-registry-database%2Fmain%2Fofficial_mcp_registry.db#/official_mcp_registry/servers",
+        "dt": "2025-10-17T02:01:56",
+        "points": 1,
+        "submitter": "dcreater",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45612672",
+        "numComments": 0
+    },
+    {
         "id": "42707592",
         "title": "LLM \u2013 A CLI utility and Python library for interacting with LLMs",
         "url": "https://llm.datasette.io/en/stable/index.html",
