@@ -1,10 +1,20 @@
 [
     {
+        "id": "45614343",
+        "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
+        "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
+        "dt": "2025-10-17T08:09:17",
+        "points": 4,
+        "submitter": "e2e4",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45614343",
+        "numComments": 0
+    },
+    {
         "id": "45611465",
         "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
         "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
         "dt": "2025-10-16T22:30:31",
-        "points": 9,
+        "points": 10,
         "submitter": "keybits",
         "commentsUrl": "https://news.ycombinator.com/item?id=45611465",
         "numComments": 0
@@ -14,7 +24,7 @@
         "title": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
         "url": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/",
         "dt": "2025-10-15T00:49:25",
-        "points": 181,
+        "points": 183,
         "submitter": "GavinAnderegg",
         "commentsUrl": "https://news.ycombinator.com/item?id=45586776",
         "numComments": 108
@@ -24,7 +34,7 @@
         "title": "Nanochat",
         "url": "https://simonwillison.net/2025/Oct/13/nanochat/",
         "dt": "2025-10-14T00:58:21",
-        "points": 49,
+        "points": 50,
         "submitter": "bilsbie",
         "commentsUrl": "https://news.ycombinator.com/item?id=45575051",
         "numComments": 15
@@ -288,15 +298,5 @@
         "submitter": "indigodaddy",
         "commentsUrl": "https://news.ycombinator.com/item?id=45176133",
         "numComments": 0
-    },
-    {
-        "id": "45158586",
-        "title": "Google's new AI mode is good, actually",
-        "url": "https://simonwillison.net/2025/Sep/7/ai-mode/",
-        "dt": "2025-09-07T14:43:07",
-        "points": 129,
-        "submitter": "xnx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45158586",
-        "numComments": 66
     }
 ]
