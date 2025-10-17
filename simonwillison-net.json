@@ -1,5 +1,15 @@
 [
     {
+        "id": "45619537",
+        "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
+        "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
+        "dt": "2025-10-17T17:40:21",
+        "points": 41,
+        "submitter": "weinzierl",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45619537",
+        "numComments": 13
+    },
+    {
         "id": "45614343",
         "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
         "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45179194",
-        "numComments": 0
-    },
-    {
-        "id": "45176133",
-        "title": "Load Llama-3.2 WebGPU in the browser from a local folder",
-        "url": "https://simonwillison.net/2025/Sep/8/webgpu-local-folder/",
-        "dt": "2025-09-09T00:58:16",
-        "points": 3,
-        "submitter": "indigodaddy",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45176133",
         "numComments": 0
     }
 ]
