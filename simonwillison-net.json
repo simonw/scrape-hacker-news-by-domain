@@ -1,10 +1,20 @@
 [
     {
+        "id": "45625876",
+        "title": "AGI is still a decade away",
+        "url": "https://simonwillison.net/2025/Oct/18/agi-is-still-a-decade-away/",
+        "dt": "2025-10-18T08:37:55",
+        "points": 3,
+        "submitter": "nsoonhui",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45625876",
+        "numComments": 0
+    },
+    {
         "id": "45619537",
         "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
         "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
         "dt": "2025-10-17T17:40:21",
-        "points": 528,
+        "points": 546,
         "submitter": "weinzierl",
         "commentsUrl": "https://news.ycombinator.com/item?id=45619537",
         "numComments": 278
@@ -287,16 +297,6 @@
         "points": 9,
         "submitter": "_mu",
         "commentsUrl": "https://news.ycombinator.com/item?id=45187408",
-        "numComments": 0
-    },
-    {
-        "id": "45179194",
-        "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
-        "url": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/",
-        "dt": "2025-09-09T08:33:36",
-        "points": 2,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45179194",
         "numComments": 0
     }
 ]
