@@ -14,10 +14,10 @@
         "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
         "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
         "dt": "2025-10-17T17:40:21",
-        "points": 637,
+        "points": 645,
         "submitter": "weinzierl",
         "commentsUrl": "https://news.ycombinator.com/item?id=45619537",
-        "numComments": 331
+        "numComments": 334
     },
     {
         "id": "45614343",
@@ -44,7 +44,7 @@
         "title": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
         "url": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/",
         "dt": "2025-10-15T00:49:25",
-        "points": 185,
+        "points": 186,
         "submitter": "GavinAnderegg",
         "commentsUrl": "https://news.ycombinator.com/item?id=45586776",
         "numComments": 109
