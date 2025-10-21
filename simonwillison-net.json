@@ -1,5 +1,15 @@
 [
     {
+        "id": "45659997",
+        "title": "ChatGPT Atlas",
+        "url": "https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/",
+        "dt": "2025-10-21T18:53:18",
+        "points": 2,
+        "submitter": "gk1",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45659997",
+        "numComments": 1
+    },
+    {
         "id": "45657004",
         "title": "Claude Code for Web \u2014 a new asynchronous coding agent from Anthropic",
         "url": "https://simonwillison.net/2025/Oct/20/claude-code-for-web/",
@@ -21,10 +31,10 @@
     },
     {
         "id": "45646559",
-        "title": "Getting DeepSeek-OCR Working on an Nvidia Spark via Brute Force with Claude Code",
+        "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
         "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
         "dt": "2025-10-20T17:24:49",
-        "points": 39,
+        "points": 47,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45646559",
         "numComments": 2
@@ -288,15 +298,5 @@
         "submitter": "KolenCh",
         "commentsUrl": "https://news.ycombinator.com/item?id=45243359",
         "numComments": 3
-    },
-    {
-        "id": "45192865",
-        "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
-        "url": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/",
-        "dt": "2025-09-10T03:30:17",
-        "points": 3,
-        "submitter": "vismit2000",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45192865",
-        "numComments": 0
     }
 ]
