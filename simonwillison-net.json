@@ -1,10 +1,20 @@
 [
     {
+        "id": "45651252",
+        "title": "Claude Code for web\u2013a new asynchronous coding agent from Anthropic",
+        "url": "https://simonwillison.net/2025/Oct/20/claude-code-for-web/",
+        "dt": "2025-10-21T00:51:03",
+        "points": 1,
+        "submitter": "vismit2000",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45651252",
+        "numComments": 0
+    },
+    {
         "id": "45646559",
         "title": "Getting DeepSeek-OCR Working on an Nvidia Spark via Brute Force with Claude Code",
         "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
         "dt": "2025-10-20T17:24:49",
-        "points": 16,
+        "points": 18,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45646559",
         "numComments": 1
@@ -288,15 +298,5 @@
         "submitter": "vismit2000",
         "commentsUrl": "https://news.ycombinator.com/item?id=45192862",
         "numComments": 7
-    },
-    {
-        "id": "45190068",
-        "title": "Geoffrey Huntle Is Cursed: Making a GenZ slang programming language with Claude",
-        "url": "https://simonwillison.net/2025/Sep/9/cursed/",
-        "dt": "2025-09-09T22:14:42",
-        "points": 4,
-        "submitter": "kposehn",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45190068",
-        "numComments": 0
     }
 ]
