@@ -14,10 +14,10 @@
         "title": "Getting DeepSeek-OCR Working on an Nvidia Spark via Brute Force with Claude Code",
         "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
         "dt": "2025-10-20T17:24:49",
-        "points": 23,
+        "points": 26,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45646559",
-        "numComments": 1
+        "numComments": 2
     },
     {
         "id": "45625876",
@@ -37,7 +37,7 @@
         "points": 726,
         "submitter": "weinzierl",
         "commentsUrl": "https://news.ycombinator.com/item?id=45619537",
-        "numComments": 364
+        "numComments": 365
     },
     {
         "id": "45614343",
@@ -64,7 +64,7 @@
         "title": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
         "url": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/",
         "dt": "2025-10-15T00:49:25",
-        "points": 188,
+        "points": 189,
         "submitter": "GavinAnderegg",
         "commentsUrl": "https://news.ycombinator.com/item?id=45586776",
         "numComments": 109
