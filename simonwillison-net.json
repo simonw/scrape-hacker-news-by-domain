@@ -34,10 +34,10 @@
         "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
         "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
         "dt": "2025-10-20T17:24:49",
-        "points": 63,
+        "points": 84,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45646559",
-        "numComments": 3
+        "numComments": 5
     },
     {
         "id": "45625876",
@@ -54,7 +54,7 @@
         "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
         "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
         "dt": "2025-10-17T17:40:21",
-        "points": 727,
+        "points": 728,
         "submitter": "weinzierl",
         "commentsUrl": "https://news.ycombinator.com/item?id=45619537",
         "numComments": 366
