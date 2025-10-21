@@ -1,5 +1,15 @@
 [
     {
+        "id": "45657004",
+        "title": "Claude Code for Web",
+        "url": "https://simonwillison.net/2025/Oct/20/claude-code-for-web/",
+        "dt": "2025-10-21T15:27:08",
+        "points": 1,
+        "submitter": "codeclimber",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45657004",
+        "numComments": 0
+    },
+    {
         "id": "45651252",
         "title": "Claude Code for web\u2013a new asynchronous coding agent from Anthropic",
         "url": "https://simonwillison.net/2025/Oct/20/claude-code-for-web/",
@@ -14,7 +24,7 @@
         "title": "Getting DeepSeek-OCR Working on an Nvidia Spark via Brute Force with Claude Code",
         "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
         "dt": "2025-10-20T17:24:49",
-        "points": 34,
+        "points": 38,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45646559",
         "numComments": 2
@@ -288,15 +298,5 @@
         "submitter": "vismit2000",
         "commentsUrl": "https://news.ycombinator.com/item?id=45192865",
         "numComments": 0
-    },
-    {
-        "id": "45192862",
-        "title": "Claude's new Code Interpreter review",
-        "url": "https://simonwillison.net/2025/Sep/9/claude-code-interpreter/",
-        "dt": "2025-09-10T03:29:45",
-        "points": 22,
-        "submitter": "vismit2000",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45192862",
-        "numComments": 7
     }
 ]
