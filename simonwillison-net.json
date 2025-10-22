@@ -1,5 +1,15 @@
 [
     {
+        "id": "45668118",
+        "title": "Living Dangerously with Claude",
+        "url": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/",
+        "dt": "2025-10-22T12:36:19",
+        "points": 2,
+        "submitter": "FromTheArchives",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45668118",
+        "numComments": 0
+    },
+    {
         "id": "45659997",
         "title": "ChatGPT Atlas",
         "url": "https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/",
@@ -34,7 +44,7 @@
         "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
         "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
         "dt": "2025-10-20T17:24:49",
-        "points": 181,
+        "points": 187,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45646559",
         "numComments": 41
@@ -288,15 +298,5 @@
         "submitter": "amrrs",
         "commentsUrl": "https://news.ycombinator.com/item?id=45253807",
         "numComments": 15
-    },
-    {
-        "id": "45243359",
-        "title": "Models Can Prompt Now",
-        "url": "https://simonwillison.net/2025/Sep/14/models-can-prompt/",
-        "dt": "2025-09-14T21:23:35",
-        "points": 6,
-        "submitter": "KolenCh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45243359",
-        "numComments": 3
     }
 ]
