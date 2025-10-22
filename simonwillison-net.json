@@ -4,7 +4,7 @@
         "title": "Living Dangerously with Claude",
         "url": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/",
         "dt": "2025-10-22T12:36:19",
-        "points": 5,
+        "points": 7,
         "submitter": "FromTheArchives",
         "commentsUrl": "https://news.ycombinator.com/item?id=45668118",
         "numComments": 0
@@ -44,10 +44,10 @@
         "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
         "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
         "dt": "2025-10-20T17:24:49",
-        "points": 194,
+        "points": 196,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45646559",
-        "numComments": 42
+        "numComments": 43
     },
     {
         "id": "45625876",
