@@ -4,7 +4,7 @@
         "title": "Living Dangerously with Claude",
         "url": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/",
         "dt": "2025-10-22T12:36:19",
-        "points": 2,
+        "points": 3,
         "submitter": "FromTheArchives",
         "commentsUrl": "https://news.ycombinator.com/item?id=45668118",
         "numComments": 0
@@ -14,7 +14,7 @@
         "title": "ChatGPT Atlas",
         "url": "https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/",
         "dt": "2025-10-21T18:53:18",
-        "points": 3,
+        "points": 4,
         "submitter": "gk1",
         "commentsUrl": "https://news.ycombinator.com/item?id=45659997",
         "numComments": 1
@@ -44,10 +44,10 @@
         "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
         "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
         "dt": "2025-10-20T17:24:49",
-        "points": 187,
+        "points": 191,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45646559",
-        "numComments": 41
+        "numComments": 42
     },
     {
         "id": "45625876",
