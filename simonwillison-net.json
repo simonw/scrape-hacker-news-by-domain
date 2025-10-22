@@ -34,10 +34,10 @@
         "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
         "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
         "dt": "2025-10-20T17:24:49",
-        "points": 135,
+        "points": 148,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45646559",
-        "numComments": 24
+        "numComments": 30
     },
     {
         "id": "45625876",
@@ -57,7 +57,7 @@
         "points": 729,
         "submitter": "weinzierl",
         "commentsUrl": "https://news.ycombinator.com/item?id=45619537",
-        "numComments": 368
+        "numComments": 367
     },
     {
         "id": "45614343",
