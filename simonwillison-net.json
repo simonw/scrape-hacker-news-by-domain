@@ -1,13 +1,23 @@
 [
     {
+        "id": "45675025",
+        "title": "Dane Stuckey (OpenAI CISO) on Prompt Injection Risks for ChatGPT Atlas",
+        "url": "https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/",
+        "dt": "2025-10-22T20:54:57",
+        "points": 1,
+        "submitter": "coloneltcb",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45675025",
+        "numComments": 0
+    },
+    {
         "id": "45668118",
         "title": "Living Dangerously with Claude",
         "url": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/",
         "dt": "2025-10-22T12:36:19",
-        "points": 16,
+        "points": 18,
         "submitter": "FromTheArchives",
         "commentsUrl": "https://news.ycombinator.com/item?id=45668118",
-        "numComments": 1
+        "numComments": 2
     },
     {
         "id": "45659997",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45293737",
         "numComments": 0
-    },
-    {
-        "id": "45253807",
-        "title": "GPT\u20115-Codex and upgrades to Codex",
-        "url": "https://simonwillison.net/2025/Sep/15/gpt-5-codex/",
-        "dt": "2025-09-15T19:17:35",
-        "points": 57,
-        "submitter": "amrrs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45253807",
-        "numComments": 15
     }
 ]
