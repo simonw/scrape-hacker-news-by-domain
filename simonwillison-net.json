@@ -1,5 +1,15 @@
 [
     {
+        "id": "45706365",
+        "title": "Setting up a codebase for working with coding agents",
+        "url": "https://simonwillison.net/2025/Oct/25/coding-agent-tips/",
+        "dt": "2025-10-25T19:30:51",
+        "points": 3,
+        "submitter": "FromTheArchives",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45706365",
+        "numComments": 0
+    },
+    {
         "id": "45675025",
         "title": "Dane Stuckey (OpenAI CISO) on Prompt Injection Risks for ChatGPT Atlas",
         "url": "https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/",
@@ -14,7 +24,7 @@
         "title": "Living Dangerously with Claude",
         "url": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/",
         "dt": "2025-10-22T12:36:19",
-        "points": 230,
+        "points": 232,
         "submitter": "FromTheArchives",
         "commentsUrl": "https://news.ycombinator.com/item?id=45668118",
         "numComments": 104
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "speckx",
         "commentsUrl": "https://news.ycombinator.com/item?id=45362624",
-        "numComments": 0
-    },
-    {
-        "id": "45293737",
-        "title": "I think \"agent\" may have a widely enough agreed upon useful definition",
-        "url": "https://simonwillison.net/2025/Sep/18/agents/",
-        "dt": "2025-09-18T19:12:21",
-        "points": 5,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45293737",
         "numComments": 0
     }
 ]
