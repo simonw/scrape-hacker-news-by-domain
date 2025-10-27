@@ -1,5 +1,15 @@
 [
     {
+        "id": "45726137",
+        "title": "The PSF has withdrawn a $1.5M proposal to US Government grant program",
+        "url": "https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/",
+        "dt": "2025-10-27T20:52:08",
+        "points": 92,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45726137",
+        "numComments": 5
+    },
+    {
         "id": "45706365",
         "title": "Setting up a codebase for working with coding agents",
         "url": "https://simonwillison.net/2025/Oct/25/coding-agent-tips/",
@@ -84,7 +94,7 @@
         "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
         "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
         "dt": "2025-10-17T17:40:21",
-        "points": 735,
+        "points": 736,
         "submitter": "weinzierl",
         "commentsUrl": "https://news.ycombinator.com/item?id=45619537",
         "numComments": 369
@@ -287,16 +297,6 @@
         "points": 9,
         "submitter": "coloneltcb",
         "commentsUrl": "https://news.ycombinator.com/item?id=45416969",
-        "numComments": 0
-    },
-    {
-        "id": "45362624",
-        "title": "CompileBench: Can AI Compile 22-year-old Code?",
-        "url": "https://simonwillison.net/2025/Sep/22/compilebench/",
-        "dt": "2025-09-24T16:27:51",
-        "points": 2,
-        "submitter": "speckx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45362624",
         "numComments": 0
     }
 ]
