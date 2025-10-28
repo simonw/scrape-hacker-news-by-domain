@@ -1,5 +1,15 @@
 [
     {
+        "id": "45735879",
+        "title": "Hacking the WiFi-enabled color screen GitHub Universe conference badge",
+        "url": "https://simonwillison.net/2025/Oct/28/github-universe-badge/",
+        "dt": "2025-10-28T17:25:16",
+        "points": 1,
+        "submitter": "meetpateltech",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45735879",
+        "numComments": 0
+    },
+    {
         "id": "45726137",
         "title": "The PSF has withdrawn a $1.5M proposal to US Government grant program",
         "url": "https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/",
@@ -287,16 +297,6 @@
         "points": 5,
         "submitter": "vismit2000",
         "commentsUrl": "https://news.ycombinator.com/item?id=45421247",
-        "numComments": 0
-    },
-    {
-        "id": "45416969",
-        "title": "Claude Sonnet 4.5 is probably the \"best coding model in the world\", at least now",
-        "url": "https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/",
-        "dt": "2025-09-29T18:15:04",
-        "points": 9,
-        "submitter": "coloneltcb",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45416969",
         "numComments": 0
     }
 ]
