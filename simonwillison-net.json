@@ -1,5 +1,15 @@
 [
     {
+        "id": "45753040",
+        "title": "Thoughts on Cursor 2.0 and Cursor Compose",
+        "url": "https://simonwillison.net/2025/Oct/29/cursor-composer/",
+        "dt": "2025-10-29T21:06:43",
+        "points": 3,
+        "submitter": "azhenley",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45753040",
+        "numComments": 0
+    },
+    {
         "id": "45735879",
         "title": "Hacking the WiFi-enabled color screen GitHub Universe conference badge",
         "url": "https://simonwillison.net/2025/Oct/28/github-universe-badge/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "gmays",
         "commentsUrl": "https://news.ycombinator.com/item?id=45426379",
-        "numComments": 0
-    },
-    {
-        "id": "45421247",
-        "title": "Claude Sonnet 4.5 is probably the best coding model in world (at least for now)",
-        "url": "https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/",
-        "dt": "2025-09-30T02:18:05",
-        "points": 5,
-        "submitter": "vismit2000",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45421247",
         "numComments": 0
     }
 ]
