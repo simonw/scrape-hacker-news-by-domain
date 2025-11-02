@@ -1,5 +1,15 @@
 [
     {
+        "id": "45794245",
+        "title": "New Prompt Injection Papers: Agents Rule of Two and the Attacker Moves Second",
+        "url": "https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/",
+        "dt": "2025-11-02T23:11:22",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45794245",
+        "numComments": 0
+    },
+    {
         "id": "45753040",
         "title": "Thoughts on Cursor 2.0 and Cursor Compose",
         "url": "https://simonwillison.net/2025/Oct/29/cursor-composer/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45426680",
         "numComments": 117
-    },
-    {
-        "id": "45426379",
-        "title": "Claude Sonnet 4.5 is probably the \"best coding model in the world\"",
-        "url": "https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/",
-        "dt": "2025-09-30T15:02:12",
-        "points": 1,
-        "submitter": "gmays",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45426379",
-        "numComments": 0
     }
 ]
