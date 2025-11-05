@@ -4,17 +4,17 @@
         "title": "A Quote from Belligerentbarbies",
         "url": "https://simonwillison.net/2025/Nov/5/brenda/",
         "dt": "2025-11-05T08:54:11",
-        "points": 20,
+        "points": 26,
         "submitter": "isaacfrond",
         "commentsUrl": "https://news.ycombinator.com/item?id=45820872",
-        "numComments": 4
+        "numComments": 8
     },
     {
         "id": "45794245",
         "title": "New prompt injection papers: Agents rule of two and the attacker moves second",
         "url": "https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/",
         "dt": "2025-11-02T23:11:22",
-        "points": 110,
+        "points": 111,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45794245",
         "numComments": 44
