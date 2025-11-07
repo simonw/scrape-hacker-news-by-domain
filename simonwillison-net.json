@@ -1,5 +1,15 @@
 [
     {
+        "id": "45847949",
+        "title": "Could LLMs encourage new programming languages?",
+        "url": "https://simonwillison.net/2025/Nov/7/llms-for-new-programming-languages/",
+        "dt": "2025-11-07T16:16:09",
+        "points": 1,
+        "submitter": "coloneltcb",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45847949",
+        "numComments": 0
+    },
+    {
         "id": "45844522",
         "title": "Using Codex CLI with GPT-OSS:120B on an Nvidia DGX Spark via Tailscale",
         "url": "https://til.simonwillison.net/llms/codex-spark-gpt-oss",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45481585",
         "numComments": 1
-    },
-    {
-        "id": "45460184",
-        "title": "Sora 2 is vulnerable to prompt injection",
-        "url": "https://simonwillison.net/2025/Oct/3/cameo-prompt-injections/",
-        "dt": "2025-10-03T07:44:12",
-        "points": 4,
-        "submitter": "helloplanets",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45460184",
-        "numComments": 0
     }
 ]
