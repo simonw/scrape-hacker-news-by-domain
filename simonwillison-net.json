@@ -4,7 +4,7 @@
         "title": "Using Codex CLI with GPT-OSS:120B on an Nvidia DGX Spark via Tailscale",
         "url": "https://til.simonwillison.net/llms/codex-spark-gpt-oss",
         "dt": "2025-11-07T08:21:12",
-        "points": 2,
+        "points": 3,
         "submitter": "GavinAnderegg",
         "commentsUrl": "https://news.ycombinator.com/item?id=45844522",
         "numComments": 0
