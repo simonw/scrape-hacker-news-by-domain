@@ -1,5 +1,15 @@
 [
     {
+        "id": "45844522",
+        "title": "Using Codex CLI with GPT-OSS:120B on an Nvidia DGX Spark via Tailscale",
+        "url": "https://til.simonwillison.net/llms/codex-spark-gpt-oss",
+        "dt": "2025-11-07T08:21:12",
+        "points": 1,
+        "submitter": "GavinAnderegg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45844522",
+        "numComments": 0
+    },
+    {
         "id": "45836550",
         "title": "Code research projects with async coding agents like Claude Code and Codex",
         "url": "https://simonwillison.net/2025/Nov/6/async-code-research/",
@@ -288,15 +298,5 @@
         "submitter": "helloplanets",
         "commentsUrl": "https://news.ycombinator.com/item?id=45460184",
         "numComments": 0
-    },
-    {
-        "id": "45451484",
-        "title": "Daniel Stenberg's note on AI assisted curl bug reports",
-        "url": "https://simonwillison.net/2025/Oct/2/curl/",
-        "dt": "2025-10-02T16:03:19",
-        "points": 1,
-        "submitter": "robinhouston",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45451484",
-        "numComments": 1
     }
 ]
