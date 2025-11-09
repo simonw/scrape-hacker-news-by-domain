@@ -1,5 +1,15 @@
 [
     {
+        "id": "45862802",
+        "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
+        "url": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/",
+        "dt": "2025-11-09T04:02:47",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45862802",
+        "numComments": 0
+    },
+    {
         "id": "45849952",
         "title": "Using Codex CLI with GPT-OSS:120B on an Nvidia DGX Spark via Tailscale",
         "url": "https://til.simonwillison.net/llms/codex-spark-gpt-oss",
@@ -288,15 +298,5 @@
         "submitter": "jbredeche",
         "commentsUrl": "https://news.ycombinator.com/item?id=45489884",
         "numComments": 138
-    },
-    {
-        "id": "45487073",
-        "title": "Embracing the parallel coding agent lifestyle",
-        "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
-        "dt": "2025-10-06T02:26:06",
-        "points": 5,
-        "submitter": "Anon84",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45487073",
-        "numComments": 0
     }
 ]
