@@ -1,5 +1,15 @@
 [
     {
+        "id": "45970519",
+        "title": "Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark",
+        "url": "https://simonwillison.net/2025/Nov/18/gemini-3/",
+        "dt": "2025-11-18T19:05:44",
+        "points": 1,
+        "submitter": "nabla9",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45970519",
+        "numComments": 0
+    },
+    {
         "id": "45885588",
         "title": "Netflix issues GenAI rules:no generative AI in final deliverables",
         "url": "https://simonwillison.net/2025/Nov/10/netflix/",
@@ -288,15 +298,5 @@
         "submitter": "janpio",
         "commentsUrl": "https://news.ycombinator.com/item?id=45503867",
         "numComments": 719
-    },
-    {
-        "id": "45499824",
-        "title": "GPT-Image-1-Mini",
-        "url": "https://simonwillison.net/2025/Oct/6/gpt-image-1-mini/",
-        "dt": "2025-10-07T06:00:55",
-        "points": 4,
-        "submitter": "welovebunnies",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45499824",
-        "numComments": 3
     }
 ]
