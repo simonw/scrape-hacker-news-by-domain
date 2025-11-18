@@ -1,13 +1,23 @@
 [
     {
+        "id": "45973248",
+        "title": "What happens if AI labs train for pelicans riding bicycles?",
+        "url": "https://simonwillison.net/2025/Nov/13/training-for-pelicans-riding-bicycles/",
+        "dt": "2025-11-18T22:41:34",
+        "points": 3,
+        "submitter": "Jap2-0",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45973248",
+        "numComments": 0
+    },
+    {
         "id": "45970519",
         "title": "Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark",
         "url": "https://simonwillison.net/2025/Nov/18/gemini-3/",
         "dt": "2025-11-18T19:05:44",
-        "points": 80,
+        "points": 95,
         "submitter": "nabla9",
         "commentsUrl": "https://news.ycombinator.com/item?id=45970519",
-        "numComments": 29
+        "numComments": 34
     },
     {
         "id": "45885588",
@@ -288,15 +298,5 @@
         "submitter": "handfuloflight",
         "commentsUrl": "https://news.ycombinator.com/item?id=45511910",
         "numComments": 0
-    },
-    {
-        "id": "45503867",
-        "title": "Vibe engineering",
-        "url": "https://simonwillison.net/2025/Oct/7/vibe-engineering/",
-        "dt": "2025-10-07T14:55:14",
-        "points": 654,
-        "submitter": "janpio",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45503867",
-        "numComments": 719
     }
 ]
