@@ -1,5 +1,15 @@
 [
     {
+        "id": "45982583",
+        "title": "Google Antigravity",
+        "url": "https://simonwillison.net/2025/Nov/18/google-antigravity/",
+        "dt": "2025-11-19T17:56:38",
+        "points": 2,
+        "submitter": "bilsbie",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45982583",
+        "numComments": 0
+    },
+    {
         "id": "45974991",
         "title": "Google Antigravity",
         "url": "https://simonwillison.net/2025/Nov/18/google-antigravity/",
@@ -24,7 +34,7 @@
         "title": "Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark",
         "url": "https://simonwillison.net/2025/Nov/18/gemini-3/",
         "dt": "2025-11-18T19:05:44",
-        "points": 172,
+        "points": 173,
         "submitter": "nabla9",
         "commentsUrl": "https://news.ycombinator.com/item?id=45970519",
         "numComments": 53
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "alanzhuly",
         "commentsUrl": "https://news.ycombinator.com/item?id=45547036",
-        "numComments": 0
-    },
-    {
-        "id": "45525526",
-        "title": "Claude can write complete Datasette plugins now",
-        "url": "https://simonwillison.net/2025/Oct/8/claude-datasette-plugins/",
-        "dt": "2025-10-09T09:48:34",
-        "points": 3,
-        "submitter": "ibobev",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45525526",
         "numComments": 0
     }
 ]
