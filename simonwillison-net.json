@@ -1,5 +1,15 @@
 [
     {
+        "id": "45994906",
+        "title": "Nano Banana Pro is the best available image generation model",
+        "url": "https://simonwillison.net/2025/Nov/20/nano-banana-pro/",
+        "dt": "2025-11-20T17:08:45",
+        "points": 3,
+        "submitter": "xnx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=45994906",
+        "numComments": 0
+    },
+    {
         "id": "45982583",
         "title": "Google Antigravity",
         "url": "https://simonwillison.net/2025/Nov/18/google-antigravity/",
@@ -288,15 +298,5 @@
         "submitter": "gmays",
         "commentsUrl": "https://news.ycombinator.com/item?id=45551348",
         "numComments": 2
-    },
-    {
-        "id": "45547036",
-        "title": "GPT-OSS 20B running on a phone",
-        "url": "https://simonwillison.net/2025/Oct/10/gpt-oss-20b-snapdragon/",
-        "dt": "2025-10-11T06:17:06",
-        "points": 2,
-        "submitter": "alanzhuly",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45547036",
-        "numComments": 0
     }
 ]
