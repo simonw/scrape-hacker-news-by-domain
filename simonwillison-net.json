@@ -1,5 +1,15 @@
 [
     {
+        "id": "46008619",
+        "title": "The fate of \"small\" open source",
+        "url": "https://simonwillison.net/2025/Nov/17/the-fate-of-small-open-source/",
+        "dt": "2025-11-21T20:29:59",
+        "points": 1,
+        "submitter": "synergy20",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46008619",
+        "numComments": 0
+    },
+    {
         "id": "45994906",
         "title": "Nano Banana Pro is the best available image generation model",
         "url": "https://simonwillison.net/2025/Nov/20/nano-banana-pro/",
@@ -288,15 +298,5 @@
         "submitter": "bilsbie",
         "commentsUrl": "https://news.ycombinator.com/item?id=45575051",
         "numComments": 15
-    },
-    {
-        "id": "45551348",
-        "title": "Superpowers: I'm using coding agents in October 2025",
-        "url": "https://simonwillison.net/2025/Oct/10/superpowers/",
-        "dt": "2025-10-11T18:15:59",
-        "points": 5,
-        "submitter": "gmays",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45551348",
-        "numComments": 2
     }
 ]
