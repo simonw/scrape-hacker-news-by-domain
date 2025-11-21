@@ -1,10 +1,20 @@
 [
     {
+        "id": "46009839",
+        "title": "LLM cmd, an LLM plugin to prompt and edit a shell command",
+        "url": "https://simonwillison.net/2024/Mar/26/llm-cmd/",
+        "dt": "2025-11-21T22:35:10",
+        "points": 1,
+        "submitter": "skeledrew",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46009839",
+        "numComments": 0
+    },
+    {
         "id": "46008619",
         "title": "The fate of \"small\" open source",
         "url": "https://simonwillison.net/2025/Nov/17/the-fate-of-small-open-source/",
         "dt": "2025-11-21T20:29:59",
-        "points": 1,
+        "points": 2,
         "submitter": "synergy20",
         "commentsUrl": "https://news.ycombinator.com/item?id=46008619",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "GavinAnderegg",
         "commentsUrl": "https://news.ycombinator.com/item?id=45586776",
         "numComments": 111
-    },
-    {
-        "id": "45575051",
-        "title": "Nanochat",
-        "url": "https://simonwillison.net/2025/Oct/13/nanochat/",
-        "dt": "2025-10-14T00:58:21",
-        "points": 50,
-        "submitter": "bilsbie",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45575051",
-        "numComments": 15
     }
 ]
