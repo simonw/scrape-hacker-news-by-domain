@@ -1,5 +1,15 @@
 [
     {
+        "id": "46022682",
+        "title": "Olmo 3 is a fully open LLM",
+        "url": "https://simonwillison.net/2025/Nov/22/olmo-3/",
+        "dt": "2025-11-23T11:27:36",
+        "points": 3,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46022682",
+        "numComments": 1
+    },
+    {
         "id": "46009839",
         "title": "LLM cmd, an LLM plugin to prompt and edit a shell command",
         "url": "https://simonwillison.net/2024/Mar/26/llm-cmd/",
@@ -288,15 +298,5 @@
         "submitter": "keybits",
         "commentsUrl": "https://news.ycombinator.com/item?id=45611465",
         "numComments": 0
-    },
-    {
-        "id": "45586776",
-        "title": "Nvidia DGX Spark: great hardware, early days for the ecosystem",
-        "url": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/",
-        "dt": "2025-10-15T00:49:25",
-        "points": 189,
-        "submitter": "GavinAnderegg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45586776",
-        "numComments": 111
     }
 ]
