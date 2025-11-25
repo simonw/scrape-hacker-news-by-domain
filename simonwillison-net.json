@@ -1,10 +1,20 @@
 [
     {
+        "id": "46042281",
+        "title": "Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult",
+        "url": "https://simonwillison.net/2025/Nov/24/claude-opus/",
+        "dt": "2025-11-25T04:14:52",
+        "points": 1,
+        "submitter": "gingersnap",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46042281",
+        "numComments": 1
+    },
+    {
         "id": "46038489",
         "title": "Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult",
         "url": "https://simonwillison.net/2025/Nov/24/claude-opus/",
         "dt": "2025-11-24T19:59:22",
-        "points": 5,
+        "points": 6,
         "submitter": "janpio",
         "commentsUrl": "https://news.ycombinator.com/item?id=46038489",
         "numComments": 1
@@ -288,15 +298,5 @@
         "submitter": "weinzierl",
         "commentsUrl": "https://news.ycombinator.com/item?id=45619537",
         "numComments": 370
-    },
-    {
-        "id": "45614343",
-        "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
-        "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
-        "dt": "2025-10-17T08:09:17",
-        "points": 11,
-        "submitter": "e2e4",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45614343",
-        "numComments": 2
     }
 ]
