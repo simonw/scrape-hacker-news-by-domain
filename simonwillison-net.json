@@ -1,5 +1,15 @@
 [
     {
+        "id": "46057223",
+        "title": "Building Effective Agents",
+        "url": "https://simonwillison.net/2024/Dec/20/building-effective-agents/",
+        "dt": "2025-11-26T13:31:15",
+        "points": 1,
+        "submitter": "gearnode",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46057223",
+        "numComments": 0
+    },
+    {
         "id": "46042281",
         "title": "Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult",
         "url": "https://simonwillison.net/2025/Nov/24/claude-opus/",
@@ -288,15 +298,5 @@
         "submitter": "nsoonhui",
         "commentsUrl": "https://news.ycombinator.com/item?id=45625876",
         "numComments": 1
-    },
-    {
-        "id": "45619537",
-        "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
-        "url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
-        "dt": "2025-10-17T17:40:21",
-        "points": 738,
-        "submitter": "weinzierl",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45619537",
-        "numComments": 370
     }
 ]
