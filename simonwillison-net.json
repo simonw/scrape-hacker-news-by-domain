@@ -1,5 +1,15 @@
 [
     {
+        "id": "46067294",
+        "title": "Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult",
+        "url": "https://simonwillison.net/2025/Nov/24/claude-opus/",
+        "dt": "2025-11-27T09:04:06",
+        "points": 1,
+        "submitter": "jonesn11",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46067294",
+        "numComments": 0
+    },
+    {
         "id": "46057223",
         "title": "Building Effective Agents",
         "url": "https://simonwillison.net/2024/Dec/20/building-effective-agents/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45646559",
         "numComments": 45
-    },
-    {
-        "id": "45625876",
-        "title": "AGI is still a decade away",
-        "url": "https://simonwillison.net/2025/Oct/18/agi-is-still-a-decade-away/",
-        "dt": "2025-10-18T08:37:55",
-        "points": 14,
-        "submitter": "nsoonhui",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45625876",
-        "numComments": 1
     }
 ]
