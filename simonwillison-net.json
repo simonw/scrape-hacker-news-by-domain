@@ -1,5 +1,15 @@
 [
     {
+        "id": "46085641",
+        "title": "ChatGPT prompt consumes equivalent to 10s of Netflix",
+        "url": "https://simonwillison.net/2025/Nov/29/chatgpt-netflix/",
+        "dt": "2025-11-29T06:55:31",
+        "points": 4,
+        "submitter": "makeavish",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46085641",
+        "numComments": 1
+    },
+    {
         "id": "46067294",
         "title": "Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult",
         "url": "https://simonwillison.net/2025/Nov/24/claude-opus/",
@@ -288,15 +298,5 @@
         "submitter": "vismit2000",
         "commentsUrl": "https://news.ycombinator.com/item?id=45651252",
         "numComments": 1
-    },
-    {
-        "id": "45646559",
-        "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
-        "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
-        "dt": "2025-10-20T17:24:49",
-        "points": 201,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45646559",
-        "numComments": 45
     }
 ]
