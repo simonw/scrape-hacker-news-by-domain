@@ -1,5 +1,15 @@
 [
     {
+        "id": "46104964",
+        "title": "ChatGPT's Third Birthday",
+        "url": "https://simonwillison.net/2025/Nov/30/chatgpt-third-birthday/",
+        "dt": "2025-12-01T08:40:20",
+        "points": 1,
+        "submitter": "vismit2000",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46104964",
+        "numComments": 0
+    },
+    {
         "id": "46101421",
         "title": "ChatGPT is three years old today",
         "url": "https://simonwillison.net/2025/Nov/30/chatgpt-third-birthday/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "gk1",
         "commentsUrl": "https://news.ycombinator.com/item?id=45659997",
-        "numComments": 1
-    },
-    {
-        "id": "45657004",
-        "title": "Claude Code for Web \u2014 a new asynchronous coding agent from Anthropic",
-        "url": "https://simonwillison.net/2025/Oct/20/claude-code-for-web/",
-        "dt": "2025-10-21T15:27:08",
-        "points": 2,
-        "submitter": "codeclimber",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45657004",
         "numComments": 1
     }
 ]
