@@ -1,5 +1,15 @@
 [
     {
+        "id": "46125184",
+        "title": "Claude 4.5 Opus' Soul Document",
+        "url": "https://simonwillison.net/2025/Dec/2/claude-soul-document/",
+        "dt": "2025-12-02T19:05:54",
+        "points": 30,
+        "submitter": "the-needful",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46125184",
+        "numComments": 9
+    },
+    {
         "id": "46118685",
         "title": "DeepSeek-v3.2",
         "url": "https://simonwillison.net/2025/Dec/1/deepseek-v32/",
@@ -288,15 +298,5 @@
         "submitter": "coloneltcb",
         "commentsUrl": "https://news.ycombinator.com/item?id=45675025",
         "numComments": 1
-    },
-    {
-        "id": "45668118",
-        "title": "Living Dangerously with Claude",
-        "url": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/",
-        "dt": "2025-10-22T12:36:19",
-        "points": 250,
-        "submitter": "FromTheArchives",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45668118",
-        "numComments": 108
     }
 ]
