@@ -1,5 +1,15 @@
 [
     {
+        "id": "46223882",
+        "title": "Useful patterns for building HTML tools",
+        "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
+        "dt": "2025-12-10T21:08:41",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46223882",
+        "numComments": 0
+    },
+    {
         "id": "46164937",
         "title": "The Resonant Computing Manifesto",
         "url": "https://simonwillison.net/2025/Dec/5/resonant-computing/",
@@ -288,15 +298,5 @@
         "submitter": "FromTheArchives",
         "commentsUrl": "https://news.ycombinator.com/item?id=45706365",
         "numComments": 0
-    },
-    {
-        "id": "45675025",
-        "title": "Dane Stuckey (OpenAI CISO) on Prompt Injection Risks for ChatGPT Atlas",
-        "url": "https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/",
-        "dt": "2025-10-22T20:54:57",
-        "points": 5,
-        "submitter": "coloneltcb",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45675025",
-        "numComments": 1
     }
 ]
