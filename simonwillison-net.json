@@ -1,10 +1,20 @@
 [
     {
+        "id": "46226272",
+        "title": "Dark mode now available on Simon Willison's blog",
+        "url": "https://simonwillison.net/2025/Dec/10/dark-mode/",
+        "dt": "2025-12-11T00:54:53",
+        "points": 1,
+        "submitter": "macote",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46226272",
+        "numComments": 0
+    },
+    {
         "id": "46223882",
         "title": "Useful patterns for building HTML tools",
         "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
         "dt": "2025-12-10T21:08:41",
-        "points": 8,
+        "points": 16,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46223882",
         "numComments": 3
@@ -288,15 +298,5 @@
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=45726137",
         "numComments": 9
-    },
-    {
-        "id": "45706365",
-        "title": "Setting up a codebase for working with coding agents",
-        "url": "https://simonwillison.net/2025/Oct/25/coding-agent-tips/",
-        "dt": "2025-10-25T19:30:51",
-        "points": 3,
-        "submitter": "FromTheArchives",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45706365",
-        "numComments": 0
     }
 ]
