@@ -4,10 +4,10 @@
         "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
         "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
         "dt": "2025-12-12T23:30:19",
-        "points": 484,
+        "points": 488,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46250332",
-        "numComments": 274
+        "numComments": 290
     },
     {
         "id": "46226272",
@@ -24,7 +24,7 @@
         "title": "Useful patterns for building HTML tools",
         "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
         "dt": "2025-12-10T21:08:41",
-        "points": 59,
+        "points": 60,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46223882",
         "numComments": 6
