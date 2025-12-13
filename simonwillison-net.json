@@ -1,13 +1,23 @@
 [
     {
+        "id": "46257185",
+        "title": "What happens when the coding becomes the least interesting part of the work",
+        "url": "https://simonwillison.net/2025/Dec/13/obie-fernandez/",
+        "dt": "2025-12-13T19:31:24",
+        "points": 2,
+        "submitter": "mmaunder",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46257185",
+        "numComments": 2
+    },
+    {
         "id": "46250332",
         "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
         "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
         "dt": "2025-12-12T23:30:19",
-        "points": 517,
+        "points": 524,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46250332",
-        "numComments": 300
+        "numComments": 304
     },
     {
         "id": "46226272",
@@ -24,10 +34,10 @@
         "title": "Useful patterns for building HTML tools",
         "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
         "dt": "2025-12-10T21:08:41",
-        "points": 136,
+        "points": 163,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46223882",
-        "numComments": 45
+        "numComments": 53
     },
     {
         "id": "46164937",
@@ -288,15 +298,5 @@
         "submitter": "azhenley",
         "commentsUrl": "https://news.ycombinator.com/item?id=45753040",
         "numComments": 1
-    },
-    {
-        "id": "45735879",
-        "title": "Hacking the WiFi-enabled color screen GitHub Universe conference badge",
-        "url": "https://simonwillison.net/2025/Oct/28/github-universe-badge/",
-        "dt": "2025-10-28T17:25:16",
-        "points": 31,
-        "submitter": "meetpateltech",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45735879",
-        "numComments": 4
     }
 ]
