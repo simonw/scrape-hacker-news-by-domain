@@ -7,7 +7,7 @@
         "points": 4,
         "submitter": "planckscnst",
         "commentsUrl": "https://news.ycombinator.com/item?id=46261998",
-        "numComments": 1
+        "numComments": 3
     },
     {
         "id": "46257185",
@@ -27,7 +27,7 @@
         "points": 553,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46250332",
-        "numComments": 310
+        "numComments": 311
     },
     {
         "id": "46226272",
@@ -44,10 +44,10 @@
         "title": "Useful patterns for building HTML tools",
         "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
         "dt": "2025-12-10T21:08:41",
-        "points": 294,
+        "points": 299,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46223882",
-        "numComments": 83
+        "numComments": 84
     },
     {
         "id": "46164937",
