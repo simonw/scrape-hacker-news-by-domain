@@ -1,5 +1,15 @@
 [
     {
+        "id": "46267003",
+        "title": "Copywriters reveal how AI has decimated their industry",
+        "url": "https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/",
+        "dt": "2025-12-14T21:15:53",
+        "points": 1,
+        "submitter": "abdelhousni",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46267003",
+        "numComments": 0
+    },
+    {
         "id": "46264701",
         "title": "JustHTML is an example of vibe engineering in action",
         "url": "https://simonwillison.net/2025/Dec/14/justhtml/",
@@ -14,10 +24,10 @@
         "title": "Willison on Merchant's \"Copywriters reveal how AI has decimated their industry\"",
         "url": "https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/",
         "dt": "2025-12-14T10:01:25",
-        "points": 74,
+        "points": 75,
         "submitter": "planckscnst",
         "commentsUrl": "https://news.ycombinator.com/item?id=46261998",
-        "numComments": 77
+        "numComments": 80
     },
     {
         "id": "46257185",
@@ -37,7 +47,7 @@
         "points": 564,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46250332",
-        "numComments": 312
+        "numComments": 313
     },
     {
         "id": "46226272",
@@ -54,7 +64,7 @@
         "title": "Useful patterns for building HTML tools",
         "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
         "dt": "2025-12-10T21:08:41",
-        "points": 337,
+        "points": 338,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46223882",
         "numComments": 93
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45836550",
         "numComments": 0
-    },
-    {
-        "id": "45820872",
-        "title": "I\u2019m worried that they put co-pilot in Excel",
-        "url": "https://simonwillison.net/2025/Nov/5/brenda/",
-        "dt": "2025-11-05T08:54:11",
-        "points": 494,
-        "submitter": "isaacfrond",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45820872",
-        "numComments": 334
     }
 ]
