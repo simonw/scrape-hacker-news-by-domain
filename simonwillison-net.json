@@ -4,7 +4,7 @@
         "title": "What happens when the coding becomes the least interesting part of the work",
         "url": "https://simonwillison.net/2025/Dec/13/obie-fernandez/",
         "dt": "2025-12-13T19:31:24",
-        "points": 2,
+        "points": 3,
         "submitter": "mmaunder",
         "commentsUrl": "https://news.ycombinator.com/item?id=46257185",
         "numComments": 4
@@ -14,10 +14,10 @@
         "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
         "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
         "dt": "2025-12-12T23:30:19",
-        "points": 542,
+        "points": 543,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46250332",
-        "numComments": 308
+        "numComments": 309
     },
     {
         "id": "46226272",
@@ -34,10 +34,10 @@
         "title": "Useful patterns for building HTML tools",
         "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
         "dt": "2025-12-10T21:08:41",
-        "points": 244,
+        "points": 251,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46223882",
-        "numComments": 71
+        "numComments": 72
     },
     {
         "id": "46164937",
