@@ -1,13 +1,23 @@
 [
     {
+        "id": "46264701",
+        "title": "JustHTML is an example of vibe engineering in action",
+        "url": "https://simonwillison.net/2025/Dec/14/justhtml/",
+        "dt": "2025-12-14T17:13:16",
+        "points": 2,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46264701",
+        "numComments": 0
+    },
+    {
         "id": "46261998",
         "title": "Willison on Merchant's \"Copywriters reveal how AI has decimated their industry\"",
         "url": "https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/",
         "dt": "2025-12-14T10:01:25",
-        "points": 36,
+        "points": 60,
         "submitter": "planckscnst",
         "commentsUrl": "https://news.ycombinator.com/item?id=46261998",
-        "numComments": 20
+        "numComments": 45
     },
     {
         "id": "46257185",
@@ -24,7 +34,7 @@
         "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
         "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
         "dt": "2025-12-12T23:30:19",
-        "points": 558,
+        "points": 559,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46250332",
         "numComments": 312
@@ -44,10 +54,10 @@
         "title": "Useful patterns for building HTML tools",
         "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
         "dt": "2025-12-10T21:08:41",
-        "points": 324,
+        "points": 328,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46223882",
-        "numComments": 90
+        "numComments": 93
     },
     {
         "id": "46164937",
@@ -288,15 +298,5 @@
         "submitter": "isaacfrond",
         "commentsUrl": "https://news.ycombinator.com/item?id=45820872",
         "numComments": 334
-    },
-    {
-        "id": "45794245",
-        "title": "New prompt injection papers: Agents rule of two and the attacker moves second",
-        "url": "https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/",
-        "dt": "2025-11-02T23:11:22",
-        "points": 114,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45794245",
-        "numComments": 44
     }
 ]
