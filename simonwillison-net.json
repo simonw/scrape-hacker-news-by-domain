@@ -1,10 +1,20 @@
 [
     {
+        "id": "46295771",
+        "title": "I Ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5h",
+        "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
+        "dt": "2025-12-16T22:48:56",
+        "points": 2,
+        "submitter": "pbowyer",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46295771",
+        "numComments": 0
+    },
+    {
         "id": "46290011",
         "title": "Gemini thinking trace, reviewing feedback on its code from another model",
         "url": "https://simonwillison.net/2025/Dec/16/gemini-thinking-trace/",
         "dt": "2025-12-16T15:48:22",
-        "points": 2,
+        "points": 3,
         "submitter": "zdw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46290011",
         "numComments": 1
@@ -67,7 +77,7 @@
         "points": 80,
         "submitter": "planckscnst",
         "commentsUrl": "https://news.ycombinator.com/item?id=46261998",
-        "numComments": 89
+        "numComments": 90
     },
     {
         "id": "46257185",
@@ -288,15 +298,5 @@
         "submitter": "isaacfrond",
         "commentsUrl": "https://news.ycombinator.com/item?id=45885588",
         "numComments": 0
-    },
-    {
-        "id": "45862802",
-        "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
-        "url": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/",
-        "dt": "2025-11-09T04:02:47",
-        "points": 168,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45862802",
-        "numComments": 76
     }
 ]
