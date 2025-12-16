@@ -1,10 +1,20 @@
 [
     {
+        "id": "46283283",
+        "title": "I Ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5hrs",
+        "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
+        "dt": "2025-12-16T00:51:05",
+        "points": 4,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46283283",
+        "numComments": 0
+    },
+    {
         "id": "46283037",
         "title": "2025 Word of the Year: Slop",
         "url": "https://simonwillison.net/2025/Dec/15/2025-word-of-the-year-slop/",
         "dt": "2025-12-16T00:24:37",
-        "points": 1,
+        "points": 2,
         "submitter": "vismit2000",
         "commentsUrl": "https://news.ycombinator.com/item?id=46283037",
         "numComments": 0
@@ -54,7 +64,7 @@
         "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
         "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
         "dt": "2025-12-12T23:30:19",
-        "points": 576,
+        "points": 577,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46250332",
         "numComments": 321
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "coloneltcb",
         "commentsUrl": "https://news.ycombinator.com/item?id=45847949",
-        "numComments": 0
-    },
-    {
-        "id": "45844522",
-        "title": "Using Codex CLI with GPT-OSS:120B on an Nvidia DGX Spark via Tailscale",
-        "url": "https://til.simonwillison.net/llms/codex-spark-gpt-oss",
-        "dt": "2025-11-07T08:21:12",
-        "points": 5,
-        "submitter": "GavinAnderegg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45844522",
         "numComments": 0
     }
 ]
