@@ -1,5 +1,15 @@
 [
     {
+        "id": "46283037",
+        "title": "2025 Word of the Year: Slop",
+        "url": "https://simonwillison.net/2025/Dec/15/2025-word-of-the-year-slop/",
+        "dt": "2025-12-16T00:24:37",
+        "points": 1,
+        "submitter": "vismit2000",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46283037",
+        "numComments": 0
+    },
+    {
         "id": "46267003",
         "title": "Copywriters reveal how AI has decimated their industry",
         "url": "https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/",
@@ -44,10 +54,10 @@
         "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
         "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
         "dt": "2025-12-12T23:30:19",
-        "points": 575,
+        "points": 576,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46250332",
-        "numComments": 320
+        "numComments": 321
     },
     {
         "id": "46226272",
@@ -287,16 +297,6 @@
         "points": 5,
         "submitter": "GavinAnderegg",
         "commentsUrl": "https://news.ycombinator.com/item?id=45844522",
-        "numComments": 0
-    },
-    {
-        "id": "45836550",
-        "title": "Code research projects with async coding agents like Claude Code and Codex",
-        "url": "https://simonwillison.net/2025/Nov/6/async-code-research/",
-        "dt": "2025-11-06T15:53:51",
-        "points": 3,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45836550",
         "numComments": 0
     }
 ]
