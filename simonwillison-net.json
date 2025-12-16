@@ -14,7 +14,7 @@
         "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5hrs",
         "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
         "dt": "2025-12-16T00:51:05",
-        "points": 8,
+        "points": 9,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46283283",
         "numComments": 1
@@ -94,7 +94,7 @@
         "title": "Useful patterns for building HTML tools",
         "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
         "dt": "2025-12-10T21:08:41",
-        "points": 348,
+        "points": 349,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46223882",
         "numComments": 94
