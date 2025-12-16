@@ -1,5 +1,15 @@
 [
     {
+        "id": "46290011",
+        "title": "Gemini thinking trace, reviewing feedback on its code from another model",
+        "url": "https://simonwillison.net/2025/Dec/16/gemini-thinking-trace/",
+        "dt": "2025-12-16T15:48:22",
+        "points": 2,
+        "submitter": "zdw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46290011",
+        "numComments": 1
+    },
+    {
         "id": "46286652",
         "title": "I ported JustHTML from Python to JavaScript with LLMs in 4.5 hours",
         "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
@@ -14,7 +24,7 @@
         "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5hrs",
         "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
         "dt": "2025-12-16T00:51:05",
-        "points": 9,
+        "points": 10,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46283283",
         "numComments": 1
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=45862802",
         "numComments": 76
-    },
-    {
-        "id": "45849952",
-        "title": "Using Codex CLI with GPT-OSS:120B on an Nvidia DGX Spark via Tailscale",
-        "url": "https://til.simonwillison.net/llms/codex-spark-gpt-oss",
-        "dt": "2025-11-07T19:21:57",
-        "points": 4,
-        "submitter": "kgwgk",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45849952",
-        "numComments": 0
     }
 ]
