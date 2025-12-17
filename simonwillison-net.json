@@ -1,5 +1,15 @@
 [
     {
+        "id": "46306696",
+        "title": "Gemini 3 Flash",
+        "url": "https://simonwillison.net/2025/Dec/17/gemini-3-flash/",
+        "dt": "2025-12-17T22:52:28",
+        "points": 2,
+        "submitter": "slig",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46306696",
+        "numComments": 2
+    },
+    {
         "id": "46301823",
         "title": "The new ChatGPT Images is here [1.5]",
         "url": "https://simonwillison.net/2025/Dec/16/new-chatgpt-images/",
@@ -14,10 +24,10 @@
         "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
         "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
         "dt": "2025-12-16T22:48:56",
-        "points": 240,
+        "points": 243,
         "submitter": "pbowyer",
         "commentsUrl": "https://news.ycombinator.com/item?id=46295771",
-        "numComments": 128
+        "numComments": 130
     },
     {
         "id": "46290011",
@@ -288,15 +298,5 @@
         "submitter": "Jap2-0",
         "commentsUrl": "https://news.ycombinator.com/item?id=45973248",
         "numComments": 0
-    },
-    {
-        "id": "45970519",
-        "title": "Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark",
-        "url": "https://simonwillison.net/2025/Nov/18/gemini-3/",
-        "dt": "2025-11-18T19:05:44",
-        "points": 181,
-        "submitter": "nabla9",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45970519",
-        "numComments": 58
     }
 ]
