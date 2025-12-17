@@ -1,13 +1,13 @@
 [
     {
         "id": "46295771",
-        "title": "I Ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5h",
+        "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
         "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
         "dt": "2025-12-16T22:48:56",
-        "points": 2,
+        "points": 32,
         "submitter": "pbowyer",
         "commentsUrl": "https://news.ycombinator.com/item?id=46295771",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "46290011",
@@ -84,7 +84,7 @@
         "title": "What happens when the coding becomes the least interesting part of the work",
         "url": "https://simonwillison.net/2025/Dec/13/obie-fernandez/",
         "dt": "2025-12-13T19:31:24",
-        "points": 4,
+        "points": 5,
         "submitter": "mmaunder",
         "commentsUrl": "https://news.ycombinator.com/item?id=46257185",
         "numComments": 4
