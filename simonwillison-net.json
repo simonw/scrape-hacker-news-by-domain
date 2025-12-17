@@ -1,13 +1,23 @@
 [
     {
+        "id": "46301823",
+        "title": "The new ChatGPT Images is here [1.5]",
+        "url": "https://simonwillison.net/2025/Dec/16/new-chatgpt-images/",
+        "dt": "2025-12-17T13:39:59",
+        "points": 1,
+        "submitter": "philipwhiuk",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46301823",
+        "numComments": 1
+    },
+    {
         "id": "46295771",
         "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
         "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
         "dt": "2025-12-16T22:48:56",
-        "points": 171,
+        "points": 211,
         "submitter": "pbowyer",
         "commentsUrl": "https://news.ycombinator.com/item?id=46295771",
-        "numComments": 104
+        "numComments": 117
     },
     {
         "id": "46290011",
@@ -288,15 +298,5 @@
         "submitter": "nabla9",
         "commentsUrl": "https://news.ycombinator.com/item?id=45970519",
         "numComments": 58
-    },
-    {
-        "id": "45885588",
-        "title": "Netflix issues GenAI rules:no generative AI in final deliverables",
-        "url": "https://simonwillison.net/2025/Nov/10/netflix/",
-        "dt": "2025-11-11T09:35:12",
-        "points": 3,
-        "submitter": "isaacfrond",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45885588",
-        "numComments": 0
     }
 ]
