@@ -4,10 +4,10 @@
         "title": "Your job is to deliver code you have proven to work",
         "url": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
         "dt": "2025-12-18T14:52:11",
-        "points": 471,
+        "points": 505,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46313297",
-        "numComments": 391
+        "numComments": 431
     },
     {
         "id": "46306696",
@@ -124,7 +124,7 @@
         "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
         "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
         "dt": "2025-12-12T23:30:19",
-        "points": 586,
+        "points": 587,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46250332",
         "numComments": 322
@@ -144,7 +144,7 @@
         "title": "Useful patterns for building HTML tools",
         "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
         "dt": "2025-12-10T21:08:41",
-        "points": 351,
+        "points": 352,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46223882",
         "numComments": 94
