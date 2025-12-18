@@ -4,7 +4,7 @@
         "title": "Gemini 3 Flash",
         "url": "https://simonwillison.net/2025/Dec/17/gemini-3-flash/",
         "dt": "2025-12-17T22:52:28",
-        "points": 3,
+        "points": 4,
         "submitter": "slig",
         "commentsUrl": "https://news.ycombinator.com/item?id=46306696",
         "numComments": 2
@@ -24,10 +24,10 @@
         "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
         "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
         "dt": "2025-12-16T22:48:56",
-        "points": 256,
+        "points": 258,
         "submitter": "pbowyer",
         "commentsUrl": "https://news.ycombinator.com/item?id=46295771",
-        "numComments": 133
+        "numComments": 134
     },
     {
         "id": "46290011",
