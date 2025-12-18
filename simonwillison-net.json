@@ -24,7 +24,7 @@
         "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
         "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
         "dt": "2025-12-16T22:48:56",
-        "points": 262,
+        "points": 263,
         "submitter": "pbowyer",
         "commentsUrl": "https://news.ycombinator.com/item?id=46295771",
         "numComments": 136
@@ -104,7 +104,7 @@
         "title": "What happens when the coding becomes the least interesting part of the work",
         "url": "https://simonwillison.net/2025/Dec/13/obie-fernandez/",
         "dt": "2025-12-13T19:31:24",
-        "points": 5,
+        "points": 6,
         "submitter": "mmaunder",
         "commentsUrl": "https://news.ycombinator.com/item?id=46257185",
         "numComments": 4
@@ -114,7 +114,7 @@
         "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
         "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
         "dt": "2025-12-12T23:30:19",
-        "points": 585,
+        "points": 586,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46250332",
         "numComments": 322
