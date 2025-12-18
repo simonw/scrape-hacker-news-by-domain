@@ -1,5 +1,15 @@
 [
     {
+        "id": "46313297",
+        "title": "Your job is to deliver code you have proven to work",
+        "url": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
+        "dt": "2025-12-18T14:52:11",
+        "points": 154,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46313297",
+        "numComments": 120
+    },
+    {
         "id": "46306696",
         "title": "Gemini 3 Flash",
         "url": "https://simonwillison.net/2025/Dec/17/gemini-3-flash/",
@@ -27,7 +37,7 @@
         "points": 267,
         "submitter": "pbowyer",
         "commentsUrl": "https://news.ycombinator.com/item?id=46295771",
-        "numComments": 137
+        "numComments": 141
     },
     {
         "id": "46290011",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "vismit2000",
         "commentsUrl": "https://news.ycombinator.com/item?id=45974991",
-        "numComments": 0
-    },
-    {
-        "id": "45973248",
-        "title": "What happens if AI labs train for pelicans riding bicycles?",
-        "url": "https://simonwillison.net/2025/Nov/13/training-for-pelicans-riding-bicycles/",
-        "dt": "2025-11-18T22:41:34",
-        "points": 5,
-        "submitter": "Jap2-0",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45973248",
         "numComments": 0
     }
 ]
