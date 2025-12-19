@@ -1,13 +1,23 @@
 [
     {
+        "id": "46321965",
+        "title": "Agent Skills (Open Standard)",
+        "url": "https://simonwillison.net/2025/Dec/19/agent-skills/",
+        "dt": "2025-12-19T03:22:59",
+        "points": 1,
+        "submitter": "yomismoaqui",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46321965",
+        "numComments": 1
+    },
+    {
         "id": "46313297",
         "title": "Your job is to deliver code you have proven to work",
         "url": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
         "dt": "2025-12-18T14:52:11",
-        "points": 650,
+        "points": 661,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46313297",
-        "numComments": 542
+        "numComments": 548
     },
     {
         "id": "46306696",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "bilsbie",
         "commentsUrl": "https://news.ycombinator.com/item?id=45982583",
-        "numComments": 0
-    },
-    {
-        "id": "45974991",
-        "title": "Google Antigravity",
-        "url": "https://simonwillison.net/2025/Nov/18/google-antigravity/",
-        "dt": "2025-11-19T02:00:02",
-        "points": 4,
-        "submitter": "vismit2000",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45974991",
         "numComments": 0
     }
 ]
