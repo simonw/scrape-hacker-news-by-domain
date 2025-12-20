@@ -14,10 +14,10 @@
         "title": "Your job is to deliver code you have proven to work",
         "url": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
         "dt": "2025-12-18T14:52:11",
-        "points": 833,
+        "points": 834,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46313297",
-        "numComments": 651
+        "numComments": 652
     },
     {
         "id": "46306696",
@@ -44,7 +44,7 @@
         "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
         "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
         "dt": "2025-12-16T22:48:56",
-        "points": 272,
+        "points": 273,
         "submitter": "pbowyer",
         "commentsUrl": "https://news.ycombinator.com/item?id=46295771",
         "numComments": 142
