@@ -13,13 +13,14 @@ More about how that works in [Datasette’s new JSON write API: The first alpha 
 ## Analysis with git-history
 
 To analyze data over time from the commit logs, run [git-history](https://github.com/simonw/git-history) like this:
-
-    uvx git-history file data.db simonwillison-net.json --id id
-
+```bash
+uvx git-history file --repo https://github.com/simonw/scrape-hacker-news-by-domain \
+  hacker-news.db simonwillison-net.json --id id
+```
 Then open in [Datasette](https://datasette.io/):
-
-    uvx datasette data.db
-
+```bash
+uvx datasette data.db
+```
 This is an interesting starting point:
 
     http://127.0.0.1:8001/data/item?_facet=submitter&_facet_date=dt&dt__gte=2025&_sort_desc=dt
