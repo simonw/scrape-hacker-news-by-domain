@@ -1,5 +1,15 @@
 [
     {
+        "id": "46390913",
+        "title": "A new way to extract detailed transcripts from Claude Code",
+        "url": "https://simonwillison.net/2025/Dec/25/claude-code-transcripts/",
+        "dt": "2025-12-26T10:36:00",
+        "points": 1,
+        "submitter": "ljosifov",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46390913",
+        "numComments": 0
+    },
+    {
         "id": "46365774",
         "title": "Cooking with Claude",
         "url": "https://simonwillison.net/2025/Dec/23/cooking-with-claude/",
@@ -24,7 +34,7 @@
         "title": "Your job is to deliver code you have proven to work",
         "url": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
         "dt": "2025-12-18T14:52:11",
-        "points": 853,
+        "points": 854,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46313297",
         "numComments": 657
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "synergy20",
         "commentsUrl": "https://news.ycombinator.com/item?id=46008619",
-        "numComments": 0
-    },
-    {
-        "id": "45994906",
-        "title": "Nano Banana Pro is the best available image generation model",
-        "url": "https://simonwillison.net/2025/Nov/20/nano-banana-pro/",
-        "dt": "2025-11-20T17:08:45",
-        "points": 3,
-        "submitter": "xnx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=45994906",
         "numComments": 0
     }
 ]
