@@ -1,5 +1,15 @@
 [
     {
+        "id": "46408640",
+        "title": "Substack Network error = security content they don't allow to be sent",
+        "url": "https://simonwillison.net/2025/Dec/28/substack-network-error/",
+        "dt": "2025-12-28T05:11:39",
+        "points": 2,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46408640",
+        "numComments": 1
+    },
+    {
         "id": "46402771",
         "title": "JustHTML is an example of vibe engineering in action",
         "url": "https://simonwillison.net/2025/Dec/14/justhtml/",
@@ -288,15 +298,5 @@
         "submitter": "gingersnap",
         "commentsUrl": "https://news.ycombinator.com/item?id=46042281",
         "numComments": 1
-    },
-    {
-        "id": "46038489",
-        "title": "Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult",
-        "url": "https://simonwillison.net/2025/Nov/24/claude-opus/",
-        "dt": "2025-11-24T19:59:22",
-        "points": 7,
-        "submitter": "janpio",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46038489",
-        "numComments": 2
     }
 ]
