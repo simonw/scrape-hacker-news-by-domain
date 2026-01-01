@@ -1,5 +1,15 @@
 [
     {
+        "id": "46449643",
+        "title": "2025: The Year in LLMs",
+        "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
+        "dt": "2025-12-31T23:54:46",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46449643",
+        "numComments": 0
+    },
+    {
         "id": "46420470",
         "title": "I Saved a PNG Image to a Bird",
         "url": "https://simonwillison.net/2025/Aug/4/i-saved-a-png-image-to-a-bird/",
@@ -288,15 +298,5 @@
         "submitter": "jonesn11",
         "commentsUrl": "https://news.ycombinator.com/item?id=46067294",
         "numComments": 1
-    },
-    {
-        "id": "46057223",
-        "title": "Building Effective Agents",
-        "url": "https://simonwillison.net/2024/Dec/20/building-effective-agents/",
-        "dt": "2025-11-26T13:31:15",
-        "points": 1,
-        "submitter": "gearnode",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46057223",
-        "numComments": 0
     }
 ]
