@@ -1,5 +1,15 @@
 [
     {
+        "id": "46491356",
+        "title": "Helping people write code again",
+        "url": "https://simonwillison.net/2026/Jan/4/coding-again/",
+        "dt": "2026-01-04T19:33:51",
+        "points": 2,
+        "submitter": "walterbell",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46491356",
+        "numComments": 0
+    },
+    {
         "id": "46484585",
         "title": "A Quote from Jaana Dogan",
         "url": "https://simonwillison.net/2026/Jan/4/jaana-dogan/",
@@ -14,7 +24,7 @@
         "title": "2025: The Year in LLMs",
         "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
         "dt": "2025-12-31T23:54:46",
-        "points": 929,
+        "points": 930,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46449643",
         "numComments": 594
@@ -288,15 +298,5 @@
         "submitter": "ingve",
         "commentsUrl": "https://news.ycombinator.com/item?id=46101421",
         "numComments": 2
-    },
-    {
-        "id": "46085641",
-        "title": "ChatGPT prompt consumes equivalent to 10s of Netflix",
-        "url": "https://simonwillison.net/2025/Nov/29/chatgpt-netflix/",
-        "dt": "2025-11-29T06:55:31",
-        "points": 8,
-        "submitter": "makeavish",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46085641",
-        "numComments": 4
     }
 ]
