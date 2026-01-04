@@ -1,5 +1,15 @@
 [
     {
+        "id": "46492261",
+        "title": "Writing Better Release Notes",
+        "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
+        "dt": "2026-01-04T21:10:16",
+        "points": 1,
+        "submitter": "vinnyglennon",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46492261",
+        "numComments": 0
+    },
+    {
         "id": "46491356",
         "title": "Helping people write code again",
         "url": "https://simonwillison.net/2026/Jan/4/coding-again/",
@@ -288,15 +298,5 @@
         "submitter": "vismit2000",
         "commentsUrl": "https://news.ycombinator.com/item?id=46104964",
         "numComments": 0
-    },
-    {
-        "id": "46101421",
-        "title": "ChatGPT is three years old today",
-        "url": "https://simonwillison.net/2025/Nov/30/chatgpt-third-birthday/",
-        "dt": "2025-11-30T23:12:29",
-        "points": 6,
-        "submitter": "ingve",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46101421",
-        "numComments": 2
     }
 ]
