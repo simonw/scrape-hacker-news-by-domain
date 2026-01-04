@@ -1,10 +1,20 @@
 [
     {
+        "id": "46484585",
+        "title": "A Quote from Jaana Dogan",
+        "url": "https://simonwillison.net/2026/Jan/4/jaana-dogan/",
+        "dt": "2026-01-04T03:30:05",
+        "points": 1,
+        "submitter": "treetalker",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46484585",
+        "numComments": 1
+    },
+    {
         "id": "46449643",
         "title": "2025: The Year in LLMs",
         "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
         "dt": "2025-12-31T23:54:46",
-        "points": 926,
+        "points": 928,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46449643",
         "numComments": 592
@@ -288,15 +298,5 @@
         "submitter": "makeavish",
         "commentsUrl": "https://news.ycombinator.com/item?id=46085641",
         "numComments": 4
-    },
-    {
-        "id": "46067294",
-        "title": "Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult",
-        "url": "https://simonwillison.net/2025/Nov/24/claude-opus/",
-        "dt": "2025-11-27T09:04:06",
-        "points": 6,
-        "submitter": "jonesn11",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46067294",
-        "numComments": 1
     }
 ]
