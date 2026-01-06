@@ -1,5 +1,15 @@
 [
     {
+        "id": "46517717",
+        "title": "Cooking with Claude",
+        "url": "https://simonwillison.net/2025/Dec/23/cooking-with-claude/",
+        "dt": "2026-01-06T19:56:01",
+        "points": 1,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46517717",
+        "numComments": 0
+    },
+    {
         "id": "46492261",
         "title": "Writing Better Release Notes",
         "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
@@ -37,7 +47,7 @@
         "points": 937,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46449643",
-        "numComments": 596
+        "numComments": 597
     },
     {
         "id": "46420470",
@@ -287,16 +297,6 @@
         "points": 7,
         "submitter": "doppp",
         "commentsUrl": "https://news.ycombinator.com/item?id=46118685",
-        "numComments": 0
-    },
-    {
-        "id": "46104964",
-        "title": "ChatGPT's Third Birthday",
-        "url": "https://simonwillison.net/2025/Nov/30/chatgpt-third-birthday/",
-        "dt": "2025-12-01T08:40:20",
-        "points": 2,
-        "submitter": "vismit2000",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46104964",
         "numComments": 0
     }
 ]
