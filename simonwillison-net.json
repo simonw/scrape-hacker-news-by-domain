@@ -1,5 +1,15 @@
 [
     {
+        "id": "46551483",
+        "title": "LLM predictions for 2026, shared with Oxide and Friends",
+        "url": "https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/",
+        "dt": "2026-01-09T08:46:20",
+        "points": 1,
+        "submitter": "salvozappa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46551483",
+        "numComments": 0
+    },
+    {
         "id": "46517717",
         "title": "Cooking with Claude",
         "url": "https://simonwillison.net/2025/Dec/23/cooking-with-claude/",
@@ -288,15 +298,5 @@
         "submitter": "mooreds",
         "commentsUrl": "https://news.ycombinator.com/item?id=46164937",
         "numComments": 3
-    },
-    {
-        "id": "46118685",
-        "title": "DeepSeek-v3.2",
-        "url": "https://simonwillison.net/2025/Dec/1/deepseek-v32/",
-        "dt": "2025-12-02T07:40:38",
-        "points": 7,
-        "submitter": "doppp",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46118685",
-        "numComments": 0
     }
 ]
