@@ -1,5 +1,15 @@
 [
     {
+        "id": "46561089",
+        "title": "Fly's Sprites.dev addresses dev environment sandboxes and API sandboxes together",
+        "url": "https://simonwillison.net/2026/Jan/9/sprites-dev/",
+        "dt": "2026-01-09T23:57:31",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46561089",
+        "numComments": 1
+    },
+    {
         "id": "46551483",
         "title": "LLM predictions for 2026, shared with Oxide and Friends",
         "url": "https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46223882",
         "numComments": 94
-    },
-    {
-        "id": "46164937",
-        "title": "The Resonant Computing Manifesto",
-        "url": "https://simonwillison.net/2025/Dec/5/resonant-computing/",
-        "dt": "2025-12-05T18:07:15",
-        "points": 2,
-        "submitter": "mooreds",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46164937",
-        "numComments": 3
     }
 ]
