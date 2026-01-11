@@ -1,5 +1,15 @@
 [
     {
+        "id": "46578418",
+        "title": "Taking Neon I at the Crucible",
+        "url": "https://til.simonwillison.net/neon/neon-1",
+        "dt": "2026-01-11T18:43:22",
+        "points": 2,
+        "submitter": "chmaynard",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46578418",
+        "numComments": 0
+    },
+    {
         "id": "46563790",
         "title": "Sprites addresses both developer sandboxes and API sandboxes at the same time",
         "url": "https://simonwillison.net/2026/Jan/9/sprites-dev/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46250332",
         "numComments": 324
-    },
-    {
-        "id": "46226272",
-        "title": "Dark mode now available on Simon Willison's blog",
-        "url": "https://simonwillison.net/2025/Dec/10/dark-mode/",
-        "dt": "2025-12-11T00:54:53",
-        "points": 1,
-        "submitter": "macote",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46226272",
-        "numComments": 0
     }
 ]
