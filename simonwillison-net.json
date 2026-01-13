@@ -1,5 +1,15 @@
 [
     {
+        "id": "46607189",
+        "title": "Docs.google.com in your CSP can enable AI-based data exfiltration",
+        "url": "https://simonwillison.net/2026/Jan/12/superhuman-ai-exfiltrates-emails/",
+        "dt": "2026-01-13T20:12:36",
+        "points": 2,
+        "submitter": "hackerBanana",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46607189",
+        "numComments": 1
+    },
+    {
         "id": "46596845",
         "title": "First impressions of Claude Cowork, Anthropic's general agent",
         "url": "https://simonwillison.net/2026/Jan/12/claude-cowork/",
@@ -288,15 +298,5 @@
         "submitter": "planckscnst",
         "commentsUrl": "https://news.ycombinator.com/item?id=46261998",
         "numComments": 92
-    },
-    {
-        "id": "46257185",
-        "title": "What happens when the coding becomes the least interesting part of the work",
-        "url": "https://simonwillison.net/2025/Dec/13/obie-fernandez/",
-        "dt": "2025-12-13T19:31:24",
-        "points": 6,
-        "submitter": "mmaunder",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46257185",
-        "numComments": 4
     }
 ]
