@@ -1,5 +1,15 @@
 [
     {
+        "id": "46596845",
+        "title": "First impressions of Claude Cowork, Anthropic's general agent",
+        "url": "https://simonwillison.net/2026/Jan/12/claude-cowork/",
+        "dt": "2026-01-13T02:54:29",
+        "points": 1,
+        "submitter": "mfiguiere",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46596845",
+        "numComments": 0
+    },
+    {
         "id": "46578418",
         "title": "Taking Neon I at the Crucible",
         "url": "https://til.simonwillison.net/neon/neon-1",
@@ -288,15 +298,5 @@
         "submitter": "mmaunder",
         "commentsUrl": "https://news.ycombinator.com/item?id=46257185",
         "numComments": 4
-    },
-    {
-        "id": "46250332",
-        "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
-        "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
-        "dt": "2025-12-12T23:30:19",
-        "points": 587,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46250332",
-        "numComments": 324
     }
 ]
