@@ -1,5 +1,15 @@
 [
     {
+        "id": "46618532",
+        "title": "The lethal trifecta for AI agents",
+        "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+        "dt": "2026-01-14T16:56:24",
+        "points": 1,
+        "submitter": "mooreds",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46618532",
+        "numComments": 1
+    },
+    {
         "id": "46607189",
         "title": "Docs.google.com in your CSP can enable AI-based data exfiltration",
         "url": "https://simonwillison.net/2026/Jan/12/superhuman-ai-exfiltrates-emails/",
@@ -288,15 +298,5 @@
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=46264701",
         "numComments": 0
-    },
-    {
-        "id": "46261998",
-        "title": "Willison on Merchant's \"Copywriters reveal how AI has decimated their industry\"",
-        "url": "https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/",
-        "dt": "2025-12-14T10:01:25",
-        "points": 80,
-        "submitter": "planckscnst",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46261998",
-        "numComments": 92
     }
 ]
