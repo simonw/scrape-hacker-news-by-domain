@@ -1,5 +1,15 @@
 [
     {
+        "id": "46675637",
+        "title": "Scaling long-running autonomous coding",
+        "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
+        "dt": "2026-01-19T06:31:34",
+        "points": 2,
+        "submitter": "roopeshv",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46675637",
+        "numComments": 1
+    },
+    {
         "id": "46618532",
         "title": "The lethal trifecta for AI agents",
         "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "abdelhousni",
         "commentsUrl": "https://news.ycombinator.com/item?id=46267003",
-        "numComments": 0
-    },
-    {
-        "id": "46264701",
-        "title": "JustHTML is an example of vibe engineering in action",
-        "url": "https://simonwillison.net/2025/Dec/14/justhtml/",
-        "dt": "2025-12-14T17:13:16",
-        "points": 5,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46264701",
         "numComments": 0
     }
 ]
