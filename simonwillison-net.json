@@ -1,10 +1,20 @@
 [
     {
+        "id": "46679404",
+        "title": "Scaling long-running autonomous coding",
+        "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
+        "dt": "2026-01-19T14:33:51",
+        "points": 1,
+        "submitter": "blenderob",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46679404",
+        "numComments": 0
+    },
+    {
         "id": "46675637",
         "title": "Scaling long-running autonomous coding",
         "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
         "dt": "2026-01-19T06:31:34",
-        "points": 2,
+        "points": 3,
         "submitter": "roopeshv",
         "commentsUrl": "https://news.ycombinator.com/item?id=46675637",
         "numComments": 2
@@ -288,15 +298,5 @@
         "submitter": "vismit2000",
         "commentsUrl": "https://news.ycombinator.com/item?id=46283037",
         "numComments": 1
-    },
-    {
-        "id": "46267003",
-        "title": "Copywriters reveal how AI has decimated their industry",
-        "url": "https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/",
-        "dt": "2025-12-14T21:15:53",
-        "points": 4,
-        "submitter": "abdelhousni",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46267003",
-        "numComments": 0
     }
 ]
