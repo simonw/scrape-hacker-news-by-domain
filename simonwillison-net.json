@@ -1,5 +1,15 @@
 [
     {
+        "id": "46686418",
+        "title": "Scaling long-running autonomous coding",
+        "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
+        "dt": "2026-01-20T00:23:01",
+        "points": 1,
+        "submitter": "srameshc",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46686418",
+        "numComments": 0
+    },
+    {
         "id": "46679404",
         "title": "Scaling long-running autonomous coding",
         "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46283283",
         "numComments": 3
-    },
-    {
-        "id": "46283037",
-        "title": "2025 Word of the Year: Slop",
-        "url": "https://simonwillison.net/2025/Dec/15/2025-word-of-the-year-slop/",
-        "dt": "2025-12-16T00:24:37",
-        "points": 2,
-        "submitter": "vismit2000",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46283037",
-        "numComments": 1
     }
 ]
