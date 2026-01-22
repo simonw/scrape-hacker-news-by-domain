@@ -1,5 +1,15 @@
 [
     {
+        "id": "46717367",
+        "title": "Some Notes on Claude's New Constitution",
+        "url": "https://simonwillison.net/2026/Jan/21/claudes-new-constitution/",
+        "dt": "2026-01-22T10:20:18",
+        "points": 1,
+        "submitter": "pretext",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46717367",
+        "numComments": 0
+    },
+    {
         "id": "46713272",
         "title": "Claude's New Constitution",
         "url": "https://simonwillison.net/2026/Jan/21/claudes-new-constitution/",
@@ -288,15 +298,5 @@
         "submitter": "zdw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46290011",
         "numComments": 1
-    },
-    {
-        "id": "46286652",
-        "title": "I ported JustHTML from Python to JavaScript with LLMs in 4.5 hours",
-        "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
-        "dt": "2025-12-16T09:49:44",
-        "points": 1,
-        "submitter": "genericlemon24",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46286652",
-        "numComments": 0
     }
 ]
