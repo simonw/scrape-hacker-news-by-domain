@@ -1,5 +1,15 @@
 [
     {
+        "id": "46725624",
+        "title": "My answers to the questions I posed about porting open source code with LLMs",
+        "url": "https://simonwillison.net/2026/Jan/11/answers/",
+        "dt": "2026-01-22T21:53:14",
+        "points": 4,
+        "submitter": "mmarian",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46725624",
+        "numComments": 0
+    },
+    {
         "id": "46717367",
         "title": "Some Notes on Claude's New Constitution",
         "url": "https://simonwillison.net/2026/Jan/21/claudes-new-constitution/",
@@ -288,15 +298,5 @@
         "submitter": "pbowyer",
         "commentsUrl": "https://news.ycombinator.com/item?id=46295771",
         "numComments": 146
-    },
-    {
-        "id": "46290011",
-        "title": "Gemini thinking trace, reviewing feedback on its code from another model",
-        "url": "https://simonwillison.net/2025/Dec/16/gemini-thinking-trace/",
-        "dt": "2025-12-16T15:48:22",
-        "points": 3,
-        "submitter": "zdw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46290011",
-        "numComments": 1
     }
 ]
