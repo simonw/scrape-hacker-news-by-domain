@@ -1,5 +1,15 @@
 [
     {
+        "id": "46713272",
+        "title": "Claude's New Constitution",
+        "url": "https://simonwillison.net/2026/Jan/21/claudes-new-constitution/",
+        "dt": "2026-01-21T23:41:33",
+        "points": 2,
+        "submitter": "coloneltcb",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46713272",
+        "numComments": 1
+    },
+    {
         "id": "46686418",
         "title": "Scaling long-running autonomous coding",
         "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
@@ -288,15 +298,5 @@
         "submitter": "genericlemon24",
         "commentsUrl": "https://news.ycombinator.com/item?id=46286652",
         "numComments": 0
-    },
-    {
-        "id": "46283283",
-        "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5hrs",
-        "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
-        "dt": "2025-12-16T00:51:05",
-        "points": 14,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46283283",
-        "numComments": 3
     }
 ]
