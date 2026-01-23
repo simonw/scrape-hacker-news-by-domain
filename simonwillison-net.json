@@ -1,10 +1,20 @@
 [
     {
+        "id": "46726761",
+        "title": "SSH has no Host header",
+        "url": "https://simonwillison.net/2026/Jan/22/ssh-has-no-host-header/",
+        "dt": "2026-01-23T00:08:18",
+        "points": 2,
+        "submitter": "gavide",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46726761",
+        "numComments": 0
+    },
+    {
         "id": "46725624",
         "title": "My answers to the questions I posed about porting open source code with LLMs",
         "url": "https://simonwillison.net/2026/Jan/11/answers/",
         "dt": "2026-01-22T21:53:14",
-        "points": 4,
+        "points": 5,
         "submitter": "mmarian",
         "commentsUrl": "https://news.ycombinator.com/item?id=46725624",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "philipwhiuk",
         "commentsUrl": "https://news.ycombinator.com/item?id=46301823",
         "numComments": 1
-    },
-    {
-        "id": "46295771",
-        "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in hours",
-        "url": "https://simonwillison.net/2025/Dec/15/porting-justhtml/",
-        "dt": "2025-12-16T22:48:56",
-        "points": 278,
-        "submitter": "pbowyer",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46295771",
-        "numComments": 146
     }
 ]
