@@ -1,5 +1,15 @@
 [
     {
+        "id": "46738853",
+        "title": "Wilson Lin on FastRender: a browser built by parallel agents",
+        "url": "https://simonwillison.net/2026/Jan/23/fastrender/",
+        "dt": "2026-01-23T22:28:01",
+        "points": 2,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46738853",
+        "numComments": 0
+    },
+    {
         "id": "46731970",
         "title": "Previewing Claude Code for Web Branches with GitHub Pages",
         "url": "https://til.simonwillison.net/claude-code/preview-github-pages",
@@ -54,7 +64,7 @@
         "title": "Scaling long-running autonomous coding",
         "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
         "dt": "2026-01-20T00:23:01",
-        "points": 179,
+        "points": 180,
         "submitter": "srameshc",
         "commentsUrl": "https://news.ycombinator.com/item?id=46686418",
         "numComments": 106
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46313297",
         "numComments": 658
-    },
-    {
-        "id": "46306696",
-        "title": "Gemini 3 Flash",
-        "url": "https://simonwillison.net/2025/Dec/17/gemini-3-flash/",
-        "dt": "2025-12-17T22:52:28",
-        "points": 4,
-        "submitter": "slig",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46306696",
-        "numComments": 3
     }
 ]
