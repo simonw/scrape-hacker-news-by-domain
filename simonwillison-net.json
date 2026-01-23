@@ -1,5 +1,15 @@
 [
     {
+        "id": "46731970",
+        "title": "Previewing Claude Code for Web Branches with GitHub Pages",
+        "url": "https://til.simonwillison.net/claude-code/preview-github-pages",
+        "dt": "2026-01-23T13:01:22",
+        "points": 1,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46731970",
+        "numComments": 0
+    },
+    {
         "id": "46726761",
         "title": "SSH has no Host header",
         "url": "https://simonwillison.net/2026/Jan/22/ssh-has-no-host-header/",
@@ -288,15 +298,5 @@
         "submitter": "slig",
         "commentsUrl": "https://news.ycombinator.com/item?id=46306696",
         "numComments": 3
-    },
-    {
-        "id": "46301823",
-        "title": "The new ChatGPT Images is here [1.5]",
-        "url": "https://simonwillison.net/2025/Dec/16/new-chatgpt-images/",
-        "dt": "2025-12-17T13:39:59",
-        "points": 2,
-        "submitter": "philipwhiuk",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46301823",
-        "numComments": 1
     }
 ]
