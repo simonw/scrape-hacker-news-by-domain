@@ -4,10 +4,10 @@
         "title": "Wilson Lin on FastRender: a browser built by parallel agents",
         "url": "https://simonwillison.net/2026/Jan/23/fastrender/",
         "dt": "2026-01-23T22:28:01",
-        "points": 67,
+        "points": 68,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=46738853",
-        "numComments": 47
+        "numComments": 51
     },
     {
         "id": "46731970",
@@ -64,7 +64,7 @@
         "title": "Scaling long-running autonomous coding",
         "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
         "dt": "2026-01-20T00:23:01",
-        "points": 180,
+        "points": 181,
         "submitter": "srameshc",
         "commentsUrl": "https://news.ycombinator.com/item?id=46686418",
         "numComments": 108
