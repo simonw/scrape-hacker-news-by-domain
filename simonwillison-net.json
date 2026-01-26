@@ -1,5 +1,15 @@
 [
     {
+        "id": "46762150",
+        "title": "The Browser Is the Sandbox",
+        "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
+        "dt": "2026-01-26T05:23:01",
+        "points": 1,
+        "submitter": "enos_feedler",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46762150",
+        "numComments": 0
+    },
+    {
         "id": "46738853",
         "title": "Wilson Lin on FastRender: a browser built by parallel agents",
         "url": "https://simonwillison.net/2026/Jan/23/fastrender/",
@@ -288,15 +298,5 @@
         "submitter": "yomismoaqui",
         "commentsUrl": "https://news.ycombinator.com/item?id=46321965",
         "numComments": 1
-    },
-    {
-        "id": "46313297",
-        "title": "Your job is to deliver code you have proven to work",
-        "url": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
-        "dt": "2025-12-18T14:52:11",
-        "points": 859,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46313297",
-        "numComments": 658
     }
 ]
