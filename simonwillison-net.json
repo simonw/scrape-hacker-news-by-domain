@@ -1,5 +1,15 @@
 [
     {
+        "id": "46770221",
+        "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+        "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+        "dt": "2026-01-26T19:19:40",
+        "points": 2,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
+        "numComments": 1
+    },
+    {
         "id": "46766411",
         "title": "My answers to the questions I posed about porting open source code with LLMs",
         "url": "https://simonwillison.net/2026/Jan/11/answers/",
@@ -14,10 +24,10 @@
         "title": "The browser is the sandbox",
         "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
         "dt": "2026-01-26T05:23:01",
-        "points": 282,
+        "points": 298,
         "submitter": "enos_feedler",
         "commentsUrl": "https://news.ycombinator.com/item?id=46762150",
-        "numComments": 157
+        "numComments": 161
     },
     {
         "id": "46738853",
@@ -288,15 +298,5 @@
         "submitter": "ljosifov",
         "commentsUrl": "https://news.ycombinator.com/item?id=46390913",
         "numComments": 0
-    },
-    {
-        "id": "46365774",
-        "title": "Cooking with Claude",
-        "url": "https://simonwillison.net/2025/Dec/23/cooking-with-claude/",
-        "dt": "2025-12-23T15:00:25",
-        "points": 3,
-        "submitter": "onnnon",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46365774",
-        "numComments": 1
     }
 ]
