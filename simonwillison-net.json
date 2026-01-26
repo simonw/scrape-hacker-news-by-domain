@@ -1,13 +1,23 @@
 [
     {
+        "id": "46766411",
+        "title": "My answers to the questions I posed about porting open source code with LLMs",
+        "url": "https://simonwillison.net/2026/Jan/11/answers/",
+        "dt": "2026-01-26T14:58:48",
+        "points": 1,
+        "submitter": "zoobab",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46766411",
+        "numComments": 0
+    },
+    {
         "id": "46762150",
         "title": "The browser is the sandbox",
         "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
         "dt": "2026-01-26T05:23:01",
-        "points": 233,
+        "points": 250,
         "submitter": "enos_feedler",
         "commentsUrl": "https://news.ycombinator.com/item?id=46762150",
-        "numComments": 135
+        "numComments": 144
     },
     {
         "id": "46738853",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "onnnon",
         "commentsUrl": "https://news.ycombinator.com/item?id=46365774",
-        "numComments": 1
-    },
-    {
-        "id": "46321965",
-        "title": "Agent Skills (Open Standard)",
-        "url": "https://simonwillison.net/2025/Dec/19/agent-skills/",
-        "dt": "2025-12-19T03:22:59",
-        "points": 2,
-        "submitter": "yomismoaqui",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46321965",
         "numComments": 1
     }
 ]
