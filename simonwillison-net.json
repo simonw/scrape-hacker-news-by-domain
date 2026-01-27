@@ -1,5 +1,15 @@
 [
     {
+        "id": "46783024",
+        "title": "One Human and One Agent = One Browser from Scratch",
+        "url": "https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/",
+        "dt": "2026-01-27T17:18:20",
+        "points": 1,
+        "submitter": "pretext",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46783024",
+        "numComments": 0
+    },
+    {
         "id": "46778858",
         "title": "Tips for getting coding agents to write good Python tests",
         "url": "https://simonwillison.net/2026/Jan/26/tests/",
@@ -14,10 +24,10 @@
         "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
         "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
         "dt": "2026-01-26T19:19:40",
-        "points": 401,
+        "points": 410,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
-        "numComments": 288
+        "numComments": 292
     },
     {
         "id": "46766411",
@@ -34,10 +44,10 @@
         "title": "The browser is the sandbox",
         "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
         "dt": "2026-01-26T05:23:01",
-        "points": 340,
+        "points": 342,
         "submitter": "enos_feedler",
         "commentsUrl": "https://news.ycombinator.com/item?id=46762150",
-        "numComments": 185
+        "numComments": 186
     },
     {
         "id": "46738853",
@@ -288,15 +298,5 @@
         "submitter": "baxtr",
         "commentsUrl": "https://news.ycombinator.com/item?id=46395834",
         "numComments": 0
-    },
-    {
-        "id": "46394867",
-        "title": "Rob Pike got spammed with an AI slop \"act of kindness\"",
-        "url": "https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/",
-        "dt": "2025-12-26T18:42:13",
-        "points": 312,
-        "submitter": "nabla9",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46394867",
-        "numComments": 249
     }
 ]
