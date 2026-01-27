@@ -4,7 +4,7 @@
         "title": "One Human and One Agent = One Browser from Scratch",
         "url": "https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/",
         "dt": "2026-01-27T17:18:20",
-        "points": 1,
+        "points": 2,
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=46783024",
         "numComments": 0
@@ -24,10 +24,10 @@
         "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
         "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
         "dt": "2026-01-26T19:19:40",
-        "points": 410,
+        "points": 423,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
-        "numComments": 292
+        "numComments": 301
     },
     {
         "id": "46766411",
@@ -44,7 +44,7 @@
         "title": "The browser is the sandbox",
         "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
         "dt": "2026-01-26T05:23:01",
-        "points": 342,
+        "points": 343,
         "submitter": "enos_feedler",
         "commentsUrl": "https://news.ycombinator.com/item?id=46762150",
         "numComments": 186
