@@ -1,5 +1,15 @@
 [
     {
+        "id": "46786269",
+        "title": "The lethal trifecta for AI agents",
+        "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+        "dt": "2026-01-27T20:40:34",
+        "points": 1,
+        "submitter": "Anon84",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46786269",
+        "numComments": 0
+    },
+    {
         "id": "46783024",
         "title": "One Human and One Agent = One Browser from Scratch",
         "url": "https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/",
@@ -24,10 +34,10 @@
         "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
         "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
         "dt": "2026-01-26T19:19:40",
-        "points": 433,
+        "points": 434,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
-        "numComments": 308
+        "numComments": 310
     },
     {
         "id": "46766411",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "nunodonato",
         "commentsUrl": "https://news.ycombinator.com/item?id=46402771",
-        "numComments": 0
-    },
-    {
-        "id": "46395834",
-        "title": "\"Agent\" may have a widely enough agreed upon definition to be useful jargon now",
-        "url": "https://simonwillison.net/2025/Sep/18/agents/",
-        "dt": "2025-12-26T20:24:55",
-        "points": 2,
-        "submitter": "baxtr",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46395834",
         "numComments": 0
     }
 ]
