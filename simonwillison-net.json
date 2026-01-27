@@ -4,10 +4,10 @@
         "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
         "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
         "dt": "2026-01-26T19:19:40",
-        "points": 310,
+        "points": 328,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
-        "numComments": 239
+        "numComments": 249
     },
     {
         "id": "46766411",
@@ -27,7 +27,7 @@
         "points": 336,
         "submitter": "enos_feedler",
         "commentsUrl": "https://news.ycombinator.com/item?id=46762150",
-        "numComments": 177
+        "numComments": 178
     },
     {
         "id": "46738853",
