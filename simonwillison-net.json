@@ -4,10 +4,10 @@
         "title": "One Human and One Agent = One Browser from Scratch",
         "url": "https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/",
         "dt": "2026-01-27T17:18:20",
-        "points": 10,
+        "points": 34,
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=46783024",
-        "numComments": 2
+        "numComments": 7
     },
     {
         "id": "46778858",
@@ -24,10 +24,10 @@
         "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
         "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
         "dt": "2026-01-26T19:19:40",
-        "points": 431,
+        "points": 433,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
-        "numComments": 304
+        "numComments": 308
     },
     {
         "id": "46766411",
