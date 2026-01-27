@@ -1,13 +1,23 @@
 [
     {
+        "id": "46778858",
+        "title": "Tips for getting coding agents to write good Python tests",
+        "url": "https://simonwillison.net/2026/Jan/26/tests/",
+        "dt": "2026-01-27T12:01:32",
+        "points": 1,
+        "submitter": "blenderob",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46778858",
+        "numComments": 0
+    },
+    {
         "id": "46770221",
         "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
         "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
         "dt": "2026-01-26T19:19:40",
-        "points": 341,
+        "points": 355,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
-        "numComments": 252
+        "numComments": 256
     },
     {
         "id": "46766411",
@@ -27,7 +37,7 @@
         "points": 336,
         "submitter": "enos_feedler",
         "commentsUrl": "https://news.ycombinator.com/item?id=46762150",
-        "numComments": 178
+        "numComments": 179
     },
     {
         "id": "46738853",
@@ -288,15 +298,5 @@
         "submitter": "nabla9",
         "commentsUrl": "https://news.ycombinator.com/item?id=46394867",
         "numComments": 249
-    },
-    {
-        "id": "46390913",
-        "title": "A new way to extract detailed transcripts from Claude Code",
-        "url": "https://simonwillison.net/2025/Dec/25/claude-code-transcripts/",
-        "dt": "2025-12-26T10:36:00",
-        "points": 3,
-        "submitter": "ljosifov",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46390913",
-        "numComments": 0
     }
 ]
