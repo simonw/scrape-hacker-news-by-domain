@@ -34,7 +34,7 @@
         "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
         "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
         "dt": "2026-01-26T19:19:40",
-        "points": 435,
+        "points": 437,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
         "numComments": 317
@@ -54,10 +54,10 @@
         "title": "The browser is the sandbox",
         "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
         "dt": "2026-01-26T05:23:01",
-        "points": 343,
+        "points": 344,
         "submitter": "enos_feedler",
         "commentsUrl": "https://news.ycombinator.com/item?id=46762150",
-        "numComments": 186
+        "numComments": 187
     },
     {
         "id": "46738853",
