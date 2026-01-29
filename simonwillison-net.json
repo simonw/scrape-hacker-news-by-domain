@@ -1,5 +1,15 @@
 [
     {
+        "id": "46806488",
+        "title": "Adding dynamic features to an aggressively cached website",
+        "url": "https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/",
+        "dt": "2026-01-29T06:21:15",
+        "points": 1,
+        "submitter": "onurkanbkrc",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46806488",
+        "numComments": 0
+    },
+    {
         "id": "46786269",
         "title": "The lethal trifecta for AI agents",
         "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=46408640",
         "numComments": 2
-    },
-    {
-        "id": "46402771",
-        "title": "JustHTML is an example of vibe engineering in action",
-        "url": "https://simonwillison.net/2025/Dec/14/justhtml/",
-        "dt": "2025-12-27T16:10:17",
-        "points": 4,
-        "submitter": "nunodonato",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46402771",
-        "numComments": 0
     }
 ]
