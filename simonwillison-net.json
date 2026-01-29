@@ -1,5 +1,15 @@
 [
     {
+        "id": "46813077",
+        "title": "Adding dynamic features to an aggressively cached website",
+        "url": "https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/",
+        "dt": "2026-01-29T17:10:56",
+        "points": 1,
+        "submitter": "ulrischa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46813077",
+        "numComments": 0
+    },
+    {
         "id": "46806488",
         "title": "Adding dynamic features to an aggressively cached website",
         "url": "https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/",
@@ -44,7 +54,7 @@
         "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
         "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
         "dt": "2026-01-26T19:19:40",
-        "points": 447,
+        "points": 448,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
         "numComments": 320
@@ -64,7 +74,7 @@
         "title": "The browser is the sandbox",
         "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
         "dt": "2026-01-26T05:23:01",
-        "points": 348,
+        "points": 349,
         "submitter": "enos_feedler",
         "commentsUrl": "https://news.ycombinator.com/item?id=46762150",
         "numComments": 188
@@ -288,15 +298,5 @@
         "submitter": "vinnyglennon",
         "commentsUrl": "https://news.ycombinator.com/item?id=46420470",
         "numComments": 1
-    },
-    {
-        "id": "46408640",
-        "title": "Substack Network error = security content they don't allow to be sent",
-        "url": "https://simonwillison.net/2025/Dec/28/substack-network-error/",
-        "dt": "2025-12-28T05:11:39",
-        "points": 3,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46408640",
-        "numComments": 2
     }
 ]
