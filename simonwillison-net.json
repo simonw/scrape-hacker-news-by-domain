@@ -1,5 +1,15 @@
 [
     {
+        "id": "46826963",
+        "title": "Moltbook is the most interesting place on the internet right now",
+        "url": "https://simonwillison.net/2026/Jan/30/moltbook/",
+        "dt": "2026-01-30T17:09:35",
+        "points": 186,
+        "submitter": "swolpers",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46826963",
+        "numComments": 165
+    },
+    {
         "id": "46813077",
         "title": "Adding dynamic features to an aggressively cached website",
         "url": "https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/",
@@ -54,10 +64,10 @@
         "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
         "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
         "dt": "2026-01-26T19:19:40",
-        "points": 449,
+        "points": 450,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
-        "numComments": 321
+        "numComments": 324
     },
     {
         "id": "46766411",
@@ -74,10 +84,10 @@
         "title": "The browser is the sandbox",
         "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
         "dt": "2026-01-26T05:23:01",
-        "points": 351,
+        "points": 352,
         "submitter": "enos_feedler",
         "commentsUrl": "https://news.ycombinator.com/item?id=46762150",
-        "numComments": 188
+        "numComments": 189
     },
     {
         "id": "46738853",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46449643",
         "numComments": 599
-    },
-    {
-        "id": "46420470",
-        "title": "I Saved a PNG Image to a Bird",
-        "url": "https://simonwillison.net/2025/Aug/4/i-saved-a-png-image-to-a-bird/",
-        "dt": "2025-12-29T13:25:16",
-        "points": 2,
-        "submitter": "vinnyglennon",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46420470",
-        "numComments": 1
     }
 ]
