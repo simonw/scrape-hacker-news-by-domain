@@ -1,2 +1,2 @@
-shot-scraper
+shot-scraper>=1.9.1
 csv-diff>=1.2
