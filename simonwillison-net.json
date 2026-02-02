@@ -1,13 +1,23 @@
 [
     {
+        "id": "46860960",
+        "title": "The Codex App",
+        "url": "https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/",
+        "dt": "2026-02-02T20:25:31",
+        "points": 2,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46860960",
+        "numComments": 1
+    },
+    {
         "id": "46858858",
         "title": "A Social Network for A.I. Bots Only. No Humans Allowed",
         "url": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/",
         "dt": "2026-02-02T17:48:01",
-        "points": 2,
+        "points": 3,
         "submitter": "swolpers",
         "commentsUrl": "https://news.ycombinator.com/item?id=46858858",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "46857907",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "vinnyglennon",
         "commentsUrl": "https://news.ycombinator.com/item?id=46492261",
-        "numComments": 0
-    },
-    {
-        "id": "46491356",
-        "title": "Helping people write code again",
-        "url": "https://simonwillison.net/2026/Jan/4/coding-again/",
-        "dt": "2026-01-04T19:33:51",
-        "points": 2,
-        "submitter": "walterbell",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46491356",
         "numComments": 0
     }
 ]
