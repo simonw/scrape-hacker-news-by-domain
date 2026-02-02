@@ -1,5 +1,15 @@
 [
     {
+        "id": "46858858",
+        "title": "A Social Network for A.I. Bots Only. No Humans Allowed",
+        "url": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/",
+        "dt": "2026-02-02T17:48:01",
+        "points": 2,
+        "submitter": "swolpers",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46858858",
+        "numComments": 0
+    },
+    {
         "id": "46857907",
         "title": "TIL: Running OpenClaw in Docker",
         "url": "https://simonwillison.net/2026/Feb/1/openclaw-in-docker/",
@@ -98,16 +108,6 @@
         "submitter": "zoobab",
         "commentsUrl": "https://news.ycombinator.com/item?id=46766411",
         "numComments": 0
-    },
-    {
-        "id": "46762150",
-        "title": "The browser is the sandbox",
-        "url": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/",
-        "dt": "2026-01-26T05:23:01",
-        "points": 352,
-        "submitter": "enos_feedler",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46762150",
-        "numComments": 189
     },
     {
         "id": "46738853",
