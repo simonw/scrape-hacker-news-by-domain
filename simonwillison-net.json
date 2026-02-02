@@ -1,5 +1,15 @@
 [
     {
+        "id": "46854296",
+        "title": "Running OpenClaw in Docker",
+        "url": "https://til.simonwillison.net/llms/openclaw-docker",
+        "dt": "2026-02-02T10:09:30",
+        "points": 1,
+        "submitter": "pretext",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46854296",
+        "numComments": 0
+    },
+    {
         "id": "46826963",
         "title": "Moltbook is the most interesting place on the internet right now",
         "url": "https://simonwillison.net/2026/Jan/30/moltbook/",
@@ -288,15 +298,5 @@
         "submitter": "treetalker",
         "commentsUrl": "https://news.ycombinator.com/item?id=46484585",
         "numComments": 1
-    },
-    {
-        "id": "46449643",
-        "title": "2025: The Year in LLMs",
-        "url": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
-        "dt": "2025-12-31T23:54:46",
-        "points": 940,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46449643",
-        "numComments": 599
     }
 ]
