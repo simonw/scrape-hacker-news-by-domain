@@ -1,5 +1,15 @@
 [
     {
+        "id": "46857907",
+        "title": "TIL: Running OpenClaw in Docker",
+        "url": "https://simonwillison.net/2026/Feb/1/openclaw-in-docker/",
+        "dt": "2026-02-02T16:28:21",
+        "points": 1,
+        "submitter": "TechSquidTV",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46857907",
+        "numComments": 0
+    },
+    {
         "id": "46854296",
         "title": "Running OpenClaw in Docker",
         "url": "https://til.simonwillison.net/llms/openclaw-docker",
@@ -288,15 +298,5 @@
         "submitter": "walterbell",
         "commentsUrl": "https://news.ycombinator.com/item?id=46491356",
         "numComments": 0
-    },
-    {
-        "id": "46484585",
-        "title": "A Quote from Jaana Dogan",
-        "url": "https://simonwillison.net/2026/Jan/4/jaana-dogan/",
-        "dt": "2026-01-04T03:30:05",
-        "points": 1,
-        "submitter": "treetalker",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46484585",
-        "numComments": 1
     }
 ]
