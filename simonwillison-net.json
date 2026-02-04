@@ -1,5 +1,15 @@
 [
     {
+        "id": "46886614",
+        "title": "Distributing Go binaries like SQLite-scanner through PyPI using go-to-wheel",
+        "url": "https://simonwillison.net/2026/Feb/4/distributing-go-binaries/",
+        "dt": "2026-02-04T15:00:09",
+        "points": 1,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46886614",
+        "numComments": 0
+    },
+    {
         "id": "46860960",
         "title": "The Codex App",
         "url": "https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "edward",
         "commentsUrl": "https://news.ycombinator.com/item?id=46517717",
-        "numComments": 0
-    },
-    {
-        "id": "46492261",
-        "title": "Writing Better Release Notes",
-        "url": "https://simonwillison.net/2022/Jan/31/release-notes/",
-        "dt": "2026-01-04T21:10:16",
-        "points": 3,
-        "submitter": "vinnyglennon",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46492261",
         "numComments": 0
     }
 ]
