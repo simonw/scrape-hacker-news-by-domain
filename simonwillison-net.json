@@ -14,17 +14,17 @@
         "title": "CIA suddenly stops publishing, removes archives of The World Factbook",
         "url": "https://simonwillison.net/2026/Feb/5/the-world-factbook/",
         "dt": "2026-02-05T14:11:13",
-        "points": 388,
+        "points": 394,
         "submitter": "ck2",
         "commentsUrl": "https://news.ycombinator.com/item?id=46899808",
-        "numComments": 166
+        "numComments": 168
     },
     {
         "id": "46886614",
         "title": "Distributing Go binaries like SQLite-scanner through PyPI using go-to-wheel",
         "url": "https://simonwillison.net/2026/Feb/4/distributing-go-binaries/",
         "dt": "2026-02-04T15:00:09",
-        "points": 3,
+        "points": 4,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46886614",
         "numComments": 1
@@ -74,7 +74,7 @@
         "title": "Moltbook is the most interesting place on the internet right now",
         "url": "https://simonwillison.net/2026/Jan/30/moltbook/",
         "dt": "2026-01-30T17:09:35",
-        "points": 191,
+        "points": 192,
         "submitter": "swolpers",
         "commentsUrl": "https://news.ycombinator.com/item?id=46826963",
         "numComments": 171
