@@ -1,13 +1,23 @@
 [
     {
+        "id": "46912737",
+        "title": "Opus 4.6 and Codex 5.3",
+        "url": "https://simonwillison.net/2026/Feb/5/two-new-models/",
+        "dt": "2026-02-06T13:42:56",
+        "points": 3,
+        "submitter": "william-evans",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46912737",
+        "numComments": 0
+    },
+    {
         "id": "46899808",
         "title": "CIA suddenly stops publishing, removes archives of The World Factbook",
         "url": "https://simonwillison.net/2026/Feb/5/the-world-factbook/",
         "dt": "2026-02-05T14:11:13",
-        "points": 385,
+        "points": 388,
         "submitter": "ck2",
         "commentsUrl": "https://news.ycombinator.com/item?id=46899808",
-        "numComments": 165
+        "numComments": 166
     },
     {
         "id": "46886614",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46561089",
         "numComments": 18
-    },
-    {
-        "id": "46551483",
-        "title": "LLM predictions for 2026, shared with Oxide and Friends",
-        "url": "https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/",
-        "dt": "2026-01-09T08:46:20",
-        "points": 6,
-        "submitter": "salvozappa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46551483",
-        "numComments": 1
     }
 ]
