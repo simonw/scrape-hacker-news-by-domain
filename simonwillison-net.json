@@ -1,5 +1,15 @@
 [
     {
+        "id": "46919382",
+        "title": "Running Pydantic's Monty Rust Sandboxed Python Subset in WebAssembly",
+        "url": "https://simonwillison.net/2026/Feb/6/pydantic-monty/",
+        "dt": "2026-02-06T23:03:57",
+        "points": 1,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46919382",
+        "numComments": 0
+    },
+    {
         "id": "46912737",
         "title": "Opus 4.6 and Codex 5.3",
         "url": "https://simonwillison.net/2026/Feb/5/two-new-models/",
@@ -14,10 +24,10 @@
         "title": "CIA suddenly stops publishing, removes archives of The World Factbook",
         "url": "https://simonwillison.net/2026/Feb/5/the-world-factbook/",
         "dt": "2026-02-05T14:11:13",
-        "points": 403,
+        "points": 404,
         "submitter": "ck2",
         "commentsUrl": "https://news.ycombinator.com/item?id=46899808",
-        "numComments": 175
+        "numComments": 176
     },
     {
         "id": "46886614",
@@ -288,15 +298,5 @@
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=46563790",
         "numComments": 0
-    },
-    {
-        "id": "46561089",
-        "title": "Fly's Sprites.dev addresses dev environment sandboxes and API sandboxes together",
-        "url": "https://simonwillison.net/2026/Jan/9/sprites-dev/",
-        "dt": "2026-01-09T23:57:31",
-        "points": 41,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46561089",
-        "numComments": 18
     }
 ]
