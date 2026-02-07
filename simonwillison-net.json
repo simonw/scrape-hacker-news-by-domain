@@ -1,5 +1,15 @@
 [
     {
+        "id": "46924711",
+        "title": "StrongDM's AI team build serious software without even looking at the code",
+        "url": "https://simonwillison.net/2026/Feb/7/software-factory/",
+        "dt": "2026-02-07T15:41:05",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46924711",
+        "numComments": 0
+    },
+    {
         "id": "46919382",
         "title": "Running Pydantic's Monty Rust Sandboxed Python Subset in WebAssembly",
         "url": "https://simonwillison.net/2026/Feb/6/pydantic-monty/",
@@ -24,7 +34,7 @@
         "title": "CIA suddenly stops publishing, removes archives of The World Factbook",
         "url": "https://simonwillison.net/2026/Feb/5/the-world-factbook/",
         "dt": "2026-02-05T14:11:13",
-        "points": 417,
+        "points": 419,
         "submitter": "ck2",
         "commentsUrl": "https://news.ycombinator.com/item?id=46899808",
         "numComments": 180
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "chmaynard",
         "commentsUrl": "https://news.ycombinator.com/item?id=46578418",
-        "numComments": 0
-    },
-    {
-        "id": "46563790",
-        "title": "Sprites addresses both developer sandboxes and API sandboxes at the same time",
-        "url": "https://simonwillison.net/2026/Jan/9/sprites-dev/",
-        "dt": "2026-01-10T08:05:26",
-        "points": 1,
-        "submitter": "pretext",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46563790",
         "numComments": 0
     }
 ]
