@@ -24,10 +24,10 @@
         "title": "CIA suddenly stops publishing, removes archives of The World Factbook",
         "url": "https://simonwillison.net/2026/Feb/5/the-world-factbook/",
         "dt": "2026-02-05T14:11:13",
-        "points": 405,
+        "points": 408,
         "submitter": "ck2",
         "commentsUrl": "https://news.ycombinator.com/item?id=46899808",
-        "numComments": 176
+        "numComments": 177
     },
     {
         "id": "46886614",
@@ -144,7 +144,7 @@
         "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
         "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
         "dt": "2026-01-26T19:19:40",
-        "points": 450,
+        "points": 451,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
         "numComments": 324
