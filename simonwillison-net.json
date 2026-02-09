@@ -1,5 +1,15 @@
 [
     {
+        "id": "46947980",
+        "title": "AI Doesn't Reduce Work\u2013It Intensifies It",
+        "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
+        "dt": "2026-02-09T17:22:13",
+        "points": 2,
+        "submitter": "pretext",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46947980",
+        "numComments": 0
+    },
+    {
         "id": "46924711",
         "title": "StrongDM's AI team build serious software without even looking at the code",
         "url": "https://simonwillison.net/2026/Feb/7/software-factory/",
@@ -287,16 +297,6 @@
         "points": 9,
         "submitter": "mfiguiere",
         "commentsUrl": "https://news.ycombinator.com/item?id=46596845",
-        "numComments": 0
-    },
-    {
-        "id": "46578418",
-        "title": "Taking Neon I at the Crucible",
-        "url": "https://til.simonwillison.net/neon/neon-1",
-        "dt": "2026-01-11T18:43:22",
-        "points": 2,
-        "submitter": "chmaynard",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46578418",
         "numComments": 0
     }
 ]
