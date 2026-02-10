@@ -1,13 +1,23 @@
 [
     {
+        "id": "46963887",
+        "title": "Show HN: Showboat and Rodney, so agents can demo what they've built",
+        "url": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
+        "dt": "2026-02-10T17:52:46",
+        "points": 15,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46963887",
+        "numComments": 1
+    },
+    {
         "id": "46955703",
         "title": "AI doesn\u2019t reduce work, it intensifies it",
         "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
         "dt": "2026-02-10T05:19:00",
-        "points": 232,
+        "points": 235,
         "submitter": "walterbell",
         "commentsUrl": "https://news.ycombinator.com/item?id=46955703",
-        "numComments": 257
+        "numComments": 259
     },
     {
         "id": "46947980",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "mooreds",
         "commentsUrl": "https://news.ycombinator.com/item?id=46618532",
-        "numComments": 1
-    },
-    {
-        "id": "46607189",
-        "title": "Docs.google.com in your CSP can enable AI-based data exfiltration",
-        "url": "https://simonwillison.net/2026/Jan/12/superhuman-ai-exfiltrates-emails/",
-        "dt": "2026-01-13T20:12:36",
-        "points": 3,
-        "submitter": "hackerBanana",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46607189",
         "numComments": 1
     }
 ]
