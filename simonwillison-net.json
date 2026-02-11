@@ -1,5 +1,15 @@
 [
     {
+        "id": "46975196",
+        "title": "Running Pydantic's Monty Rust Sandboxed Python Subset in WebAssembly",
+        "url": "https://simonwillison.net/2026/Feb/6/pydantic-monty/",
+        "dt": "2026-02-11T14:15:54",
+        "points": 1,
+        "submitter": "Einenlum",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46975196",
+        "numComments": 0
+    },
+    {
         "id": "46963887",
         "title": "Show HN: Showboat and Rodney, so agents can demo what they've built",
         "url": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
@@ -7,7 +17,7 @@
         "points": 88,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46963887",
-        "numComments": 55
+        "numComments": 56
     },
     {
         "id": "46955703",
@@ -288,15 +298,5 @@
         "submitter": "roopeshv",
         "commentsUrl": "https://news.ycombinator.com/item?id=46675637",
         "numComments": 2
-    },
-    {
-        "id": "46618532",
-        "title": "The lethal trifecta for AI agents",
-        "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
-        "dt": "2026-01-14T16:56:24",
-        "points": 1,
-        "submitter": "mooreds",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46618532",
-        "numComments": 1
     }
 ]
