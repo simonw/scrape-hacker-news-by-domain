@@ -4,7 +4,7 @@
         "title": "Show HN: Showboat and Rodney, so agents can demo what they've built",
         "url": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
         "dt": "2026-02-10T17:52:46",
-        "points": 81,
+        "points": 82,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46963887",
         "numComments": 48
@@ -14,10 +14,10 @@
         "title": "AI doesn\u2019t reduce work, it intensifies it",
         "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
         "dt": "2026-02-10T05:19:00",
-        "points": 242,
+        "points": 243,
         "submitter": "walterbell",
         "commentsUrl": "https://news.ycombinator.com/item?id=46955703",
-        "numComments": 279
+        "numComments": 280
     },
     {
         "id": "46947980",
@@ -44,7 +44,7 @@
         "title": "Running Pydantic's Monty Rust Sandboxed Python Subset in WebAssembly",
         "url": "https://simonwillison.net/2026/Feb/6/pydantic-monty/",
         "dt": "2026-02-06T23:03:57",
-        "points": 2,
+        "points": 3,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=46919382",
         "numComments": 0
