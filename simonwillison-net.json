@@ -1,5 +1,15 @@
 [
     {
+        "id": "46984620",
+        "title": "ChatGPT Containers can now run bash, pip/NPM install packages and download files",
+        "url": "https://simonwillison.net/2026/Jan/26/chatgpt-container",
+        "dt": "2026-02-12T03:36:21",
+        "points": 1,
+        "submitter": "ms7892",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46984620",
+        "numComments": 0
+    },
+    {
         "id": "46975196",
         "title": "Running Pydantic's Monty Rust Sandboxed Python Subset in WebAssembly",
         "url": "https://simonwillison.net/2026/Feb/6/pydantic-monty/",
@@ -34,7 +44,7 @@
         "title": "AI Doesn't Reduce Work\u2013It Intensifies It",
         "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
         "dt": "2026-02-09T17:22:13",
-        "points": 4,
+        "points": 5,
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=46947980",
         "numComments": 1
@@ -288,15 +298,5 @@
         "submitter": "blenderob",
         "commentsUrl": "https://news.ycombinator.com/item?id=46679404",
         "numComments": 0
-    },
-    {
-        "id": "46675637",
-        "title": "Scaling long-running autonomous coding",
-        "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
-        "dt": "2026-01-19T06:31:34",
-        "points": 3,
-        "submitter": "roopeshv",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46675637",
-        "numComments": 2
     }
 ]
