@@ -1,5 +1,15 @@
 [
     {
+        "id": "46986438",
+        "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+        "url": "https://simonwillison.net/2026/Feb/11/glm-5/",
+        "dt": "2026-02-12T08:59:19",
+        "points": 1,
+        "submitter": "onurkanbkrc",
+        "commentsUrl": "https://news.ycombinator.com/item?id=46986438",
+        "numComments": 0
+    },
+    {
         "id": "46984620",
         "title": "ChatGPT Containers can now run bash, pip/NPM install packages and download files",
         "url": "https://simonwillison.net/2026/Jan/26/chatgpt-container",
@@ -37,7 +47,7 @@
         "points": 257,
         "submitter": "walterbell",
         "commentsUrl": "https://news.ycombinator.com/item?id=46955703",
-        "numComments": 294
+        "numComments": 295
     },
     {
         "id": "46947980",
@@ -288,15 +298,5 @@
         "submitter": "srameshc",
         "commentsUrl": "https://news.ycombinator.com/item?id=46686418",
         "numComments": 110
-    },
-    {
-        "id": "46679404",
-        "title": "Scaling long-running autonomous coding",
-        "url": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/",
-        "dt": "2026-01-19T14:33:51",
-        "points": 1,
-        "submitter": "blenderob",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46679404",
-        "numComments": 0
     }
 ]
