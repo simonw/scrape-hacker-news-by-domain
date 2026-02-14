@@ -1,5 +1,15 @@
 [
     {
+        "id": "47017682",
+        "title": "Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle",
+        "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
+        "dt": "2026-02-14T19:47:46",
+        "points": 62,
+        "submitter": "stared",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47017682",
+        "numComments": 15
+    },
+    {
         "id": "47009416",
         "title": "The evolution of OpenAI's mission statement",
         "url": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
@@ -287,16 +297,6 @@
         "points": 6,
         "submitter": "mmarian",
         "commentsUrl": "https://news.ycombinator.com/item?id=46725624",
-        "numComments": 0
-    },
-    {
-        "id": "46717367",
-        "title": "Some Notes on Claude's New Constitution",
-        "url": "https://simonwillison.net/2026/Jan/21/claudes-new-constitution/",
-        "dt": "2026-01-22T10:20:18",
-        "points": 1,
-        "submitter": "pretext",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46717367",
         "numComments": 0
     }
 ]
