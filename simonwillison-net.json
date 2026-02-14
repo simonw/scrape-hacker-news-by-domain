@@ -1,5 +1,15 @@
 [
     {
+        "id": "47009416",
+        "title": "The evolution of OpenAI's mission statement",
+        "url": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
+        "dt": "2026-02-13T23:43:27",
+        "points": 84,
+        "submitter": "coloneltcb",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47009416",
+        "numComments": 47
+    },
+    {
         "id": "46993943",
         "title": "An AI Agent Published a Hit Piece on Me",
         "url": "https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/",
@@ -288,15 +298,5 @@
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=46717367",
         "numComments": 0
-    },
-    {
-        "id": "46713272",
-        "title": "Claude's New Constitution",
-        "url": "https://simonwillison.net/2026/Jan/21/claudes-new-constitution/",
-        "dt": "2026-01-21T23:41:33",
-        "points": 2,
-        "submitter": "coloneltcb",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46713272",
-        "numComments": 1
     }
 ]
