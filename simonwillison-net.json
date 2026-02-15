@@ -1,5 +1,15 @@
 [
     {
+        "id": "47027841",
+        "title": "Deep Blue",
+        "url": "https://simonwillison.net/2026/Feb/15/deep-blue/",
+        "dt": "2026-02-15T21:38:11",
+        "points": 3,
+        "submitter": "Philpax",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47027841",
+        "numComments": 4
+    },
+    {
         "id": "47025206",
         "title": "Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt",
         "url": "https://simonwillison.net/2026/Feb/15/cognitive-debt/",
@@ -288,15 +298,5 @@
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=46738853",
         "numComments": 55
-    },
-    {
-        "id": "46731970",
-        "title": "Previewing Claude Code for Web Branches with GitHub Pages",
-        "url": "https://til.simonwillison.net/claude-code/preview-github-pages",
-        "dt": "2026-01-23T13:01:22",
-        "points": 1,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46731970",
-        "numComments": 0
     }
 ]
