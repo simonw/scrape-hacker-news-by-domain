@@ -1,5 +1,15 @@
 [
     {
+        "id": "47025206",
+        "title": "Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt",
+        "url": "https://simonwillison.net/2026/Feb/15/cognitive-debt/",
+        "dt": "2026-02-15T16:53:45",
+        "points": 2,
+        "submitter": "latentnumber",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47025206",
+        "numComments": 1
+    },
+    {
         "id": "47020161",
         "title": "Anthropic's Public Benefit Mission",
         "url": "https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/",
@@ -288,15 +298,5 @@
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=46731970",
         "numComments": 0
-    },
-    {
-        "id": "46726761",
-        "title": "SSH has no Host header",
-        "url": "https://simonwillison.net/2026/Jan/22/ssh-has-no-host-header/",
-        "dt": "2026-01-23T00:08:18",
-        "points": 4,
-        "submitter": "gavide",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46726761",
-        "numComments": 1
     }
 ]
