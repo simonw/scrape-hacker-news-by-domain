@@ -1,13 +1,23 @@
 [
     {
+        "id": "47020161",
+        "title": "Anthropic's Public Benefit Mission",
+        "url": "https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/",
+        "dt": "2026-02-15T01:13:29",
+        "points": 4,
+        "submitter": "abdelhousni",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47020161",
+        "numComments": 0
+    },
+    {
         "id": "47017682",
         "title": "Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle",
         "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
         "dt": "2026-02-14T19:47:46",
-        "points": 116,
+        "points": 118,
         "submitter": "stared",
         "commentsUrl": "https://news.ycombinator.com/item?id=47017682",
-        "numComments": 49
+        "numComments": 52
     },
     {
         "id": "47009416",
@@ -288,15 +298,5 @@
         "submitter": "gavide",
         "commentsUrl": "https://news.ycombinator.com/item?id=46726761",
         "numComments": 1
-    },
-    {
-        "id": "46725624",
-        "title": "My answers to the questions I posed about porting open source code with LLMs",
-        "url": "https://simonwillison.net/2026/Jan/11/answers/",
-        "dt": "2026-01-22T21:53:14",
-        "points": 6,
-        "submitter": "mmarian",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46725624",
-        "numComments": 0
     }
 ]
