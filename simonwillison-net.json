@@ -1,5 +1,15 @@
 [
     {
+        "id": "47048102",
+        "title": "Quoting ROUGH DRAFT 8/2/66",
+        "url": "https://simonwillison.net/2026/Feb/17/rough-draft-8266/",
+        "dt": "2026-02-17T14:51:22",
+        "points": 1,
+        "submitter": "surprisetalk",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47048102",
+        "numComments": 0
+    },
+    {
         "id": "47047647",
         "title": "First k\u0101k\u0101p\u014d chick in four years hatches on Valentine's Day",
         "url": "https://simonwillison.net/2026/Feb/17/first-kakapo-chick-in-four-years/",
@@ -288,15 +298,5 @@
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=46783024",
         "numComments": 7
-    },
-    {
-        "id": "46778858",
-        "title": "Tips for getting coding agents to write good Python tests",
-        "url": "https://simonwillison.net/2026/Jan/26/tests/",
-        "dt": "2026-01-27T12:01:32",
-        "points": 1,
-        "submitter": "blenderob",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46778858",
-        "numComments": 0
     }
 ]
