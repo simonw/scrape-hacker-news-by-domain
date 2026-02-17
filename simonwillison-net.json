@@ -1,5 +1,25 @@
 [
     {
+        "id": "47043835",
+        "title": "Nano Banana Pro diff to webcomic",
+        "url": "https://simonwillison.net/2026/Feb/17/release-notes-webcomic/",
+        "dt": "2026-02-17T04:53:49",
+        "points": 1,
+        "submitter": "surprisetalk",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47043835",
+        "numComments": 0
+    },
+    {
+        "id": "47043766",
+        "title": "Towards Native Multimodal Agents",
+        "url": "https://simonwillison.net/2026/Feb/17/qwen35/",
+        "dt": "2026-02-17T04:40:29",
+        "points": 1,
+        "submitter": "surprisetalk",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47043766",
+        "numComments": 1
+    },
+    {
         "id": "47027841",
         "title": "Deep Blue",
         "url": "https://simonwillison.net/2026/Feb/15/deep-blue/",
@@ -278,25 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
         "numComments": 324
-    },
-    {
-        "id": "46766411",
-        "title": "My answers to the questions I posed about porting open source code with LLMs",
-        "url": "https://simonwillison.net/2026/Jan/11/answers/",
-        "dt": "2026-01-26T14:58:48",
-        "points": 1,
-        "submitter": "zoobab",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46766411",
-        "numComments": 0
-    },
-    {
-        "id": "46738853",
-        "title": "Wilson Lin on FastRender: a browser built by parallel agents",
-        "url": "https://simonwillison.net/2026/Jan/23/fastrender/",
-        "dt": "2026-01-23T22:28:01",
-        "points": 73,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46738853",
-        "numComments": 55
     }
 ]
