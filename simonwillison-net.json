@@ -1,5 +1,15 @@
 [
     {
+        "id": "47047647",
+        "title": "First k\u0101k\u0101p\u014d chick in four years hatches on Valentine's Day",
+        "url": "https://simonwillison.net/2026/Feb/17/first-kakapo-chick-in-four-years/",
+        "dt": "2026-02-17T14:11:53",
+        "points": 2,
+        "submitter": "surprisetalk",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47047647",
+        "numComments": 0
+    },
+    {
         "id": "47043835",
         "title": "Nano Banana Pro diff to webcomic",
         "url": "https://simonwillison.net/2026/Feb/17/release-notes-webcomic/",
@@ -288,15 +298,5 @@
         "submitter": "blenderob",
         "commentsUrl": "https://news.ycombinator.com/item?id=46778858",
         "numComments": 0
-    },
-    {
-        "id": "46770221",
-        "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
-        "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
-        "dt": "2026-01-26T19:19:40",
-        "points": 451,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46770221",
-        "numComments": 324
     }
 ]
