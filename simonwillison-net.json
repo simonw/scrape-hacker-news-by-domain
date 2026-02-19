@@ -1,5 +1,15 @@
 [
     {
+        "id": "47072440",
+        "title": "Experimenting with sponsorship for my blog and newsletter",
+        "url": "https://simonwillison.net/2026/Feb/19/sponsorship/",
+        "dt": "2026-02-19T10:54:32",
+        "points": 1,
+        "submitter": "Cyphase",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47072440",
+        "numComments": 0
+    },
+    {
         "id": "47048102",
         "title": "Quoting ROUGH DRAFT 8/2/66",
         "url": "https://simonwillison.net/2026/Feb/17/rough-draft-8266/",
@@ -84,7 +94,7 @@
         "title": "The evolution of OpenAI's mission statement",
         "url": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
         "dt": "2026-02-13T23:43:27",
-        "points": 118,
+        "points": 119,
         "submitter": "coloneltcb",
         "commentsUrl": "https://news.ycombinator.com/item?id=47009416",
         "numComments": 2
@@ -288,15 +298,5 @@
         "submitter": "Anon84",
         "commentsUrl": "https://news.ycombinator.com/item?id=46786269",
         "numComments": 0
-    },
-    {
-        "id": "46783024",
-        "title": "One Human and One Agent = One Browser from Scratch",
-        "url": "https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/",
-        "dt": "2026-01-27T17:18:20",
-        "points": 35,
-        "submitter": "pretext",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46783024",
-        "numComments": 7
     }
 ]
