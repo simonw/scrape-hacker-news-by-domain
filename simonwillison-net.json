@@ -1,5 +1,15 @@
 [
     {
+        "id": "47099160",
+        "title": "Andrej Karpathy talks about \"Claws\"",
+        "url": "https://simonwillison.net/2026/Feb/21/claws/",
+        "dt": "2026-02-21T09:53:15",
+        "points": 33,
+        "submitter": "helloplanets",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47099160",
+        "numComments": 20
+    },
+    {
         "id": "47072440",
         "title": "Experimenting with sponsorship for my blog and newsletter",
         "url": "https://simonwillison.net/2026/Feb/19/sponsorship/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "onurkanbkrc",
         "commentsUrl": "https://news.ycombinator.com/item?id=46806488",
-        "numComments": 0
-    },
-    {
-        "id": "46786269",
-        "title": "The lethal trifecta for AI agents",
-        "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
-        "dt": "2026-01-27T20:40:34",
-        "points": 1,
-        "submitter": "Anon84",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46786269",
         "numComments": 0
     }
 ]
