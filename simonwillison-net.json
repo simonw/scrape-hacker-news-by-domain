@@ -4,7 +4,7 @@
         "title": "Writing about Agentic Engineering Patterns",
         "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
         "dt": "2026-02-23T18:07:01",
-        "points": 1,
+        "points": 3,
         "submitter": "mfiguiere",
         "commentsUrl": "https://news.ycombinator.com/item?id=47126168",
         "numComments": 0
@@ -14,17 +14,17 @@
         "title": "Writing code is cheap now",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/",
         "dt": "2026-02-23T17:20:25",
-        "points": 58,
+        "points": 62,
         "submitter": "swolpers",
         "commentsUrl": "https://news.ycombinator.com/item?id=47125374",
-        "numComments": 84
+        "numComments": 98
     },
     {
         "id": "47119387",
         "title": "Red/Green TDD",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/",
         "dt": "2026-02-23T08:02:51",
-        "points": 2,
+        "points": 3,
         "submitter": "tomwphillips",
         "commentsUrl": "https://news.ycombinator.com/item?id=47119387",
         "numComments": 2
@@ -34,7 +34,7 @@
         "title": "Andrej Karpathy talks about \"Claws\"",
         "url": "https://simonwillison.net/2026/Feb/21/claws/",
         "dt": "2026-02-21T09:53:15",
-        "points": 287,
+        "points": 288,
         "submitter": "helloplanets",
         "commentsUrl": "https://news.ycombinator.com/item?id=47099160",
         "numComments": 78
