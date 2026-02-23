@@ -1,5 +1,15 @@
 [
     {
+        "id": "47119387",
+        "title": "Red/Green TDD",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/",
+        "dt": "2026-02-23T08:02:51",
+        "points": 1,
+        "submitter": "tomwphillips",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47119387",
+        "numComments": 1
+    },
+    {
         "id": "47099160",
         "title": "Andrej Karpathy talks about \"Claws\"",
         "url": "https://simonwillison.net/2026/Feb/21/claws/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "ulrischa",
         "commentsUrl": "https://news.ycombinator.com/item?id=46813077",
-        "numComments": 0
-    },
-    {
-        "id": "46806488",
-        "title": "Adding dynamic features to an aggressively cached website",
-        "url": "https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/",
-        "dt": "2026-01-29T06:21:15",
-        "points": 2,
-        "submitter": "onurkanbkrc",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46806488",
         "numComments": 0
     }
 ]
