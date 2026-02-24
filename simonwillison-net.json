@@ -1,5 +1,15 @@
 [
     {
+        "id": "47141648",
+        "title": "Writing about Agentic Engineering Patterns",
+        "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
+        "dt": "2026-02-24T19:34:43",
+        "points": 1,
+        "submitter": "Anon84",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47141648",
+        "numComments": 0
+    },
+    {
         "id": "47126168",
         "title": "Writing about Agentic Engineering Patterns",
         "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
@@ -14,10 +24,10 @@
         "title": "Writing code is cheap now",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/",
         "dt": "2026-02-23T17:20:25",
-        "points": 322,
+        "points": 327,
         "submitter": "swolpers",
         "commentsUrl": "https://news.ycombinator.com/item?id=47125374",
-        "numComments": 404
+        "numComments": 417
     },
     {
         "id": "47119387",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "TechSquidTV",
         "commentsUrl": "https://news.ycombinator.com/item?id=46857907",
-        "numComments": 0
-    },
-    {
-        "id": "46854296",
-        "title": "Running OpenClaw in Docker",
-        "url": "https://til.simonwillison.net/llms/openclaw-docker",
-        "dt": "2026-02-02T10:09:30",
-        "points": 2,
-        "submitter": "pretext",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46854296",
         "numComments": 0
     }
 ]
