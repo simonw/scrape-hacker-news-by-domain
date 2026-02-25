@@ -1,5 +1,15 @@
 [
     {
+        "id": "47159492",
+        "title": "Tldraw moves tests to closed source to avoid AI copies",
+        "url": "https://simonwillison.net/2026/Feb/25/closed-tests/",
+        "dt": "2026-02-25T23:22:55",
+        "points": 1,
+        "submitter": "jbernardo95",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47159492",
+        "numComments": 0
+    },
+    {
         "id": "47156472",
         "title": "I vibe coded my dream macOS presentation app",
         "url": "https://simonwillison.net/2026/Feb/25/present/",
@@ -44,7 +54,7 @@
         "title": "Writing code is cheap now",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/",
         "dt": "2026-02-23T17:20:25",
-        "points": 371,
+        "points": 373,
         "submitter": "swolpers",
         "commentsUrl": "https://news.ycombinator.com/item?id=47125374",
         "numComments": 485
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46886614",
-        "numComments": 1
-    },
-    {
-        "id": "46860960",
-        "title": "The Codex App",
-        "url": "https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/",
-        "dt": "2026-02-02T20:25:31",
-        "points": 2,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46860960",
         "numComments": 1
     }
 ]
