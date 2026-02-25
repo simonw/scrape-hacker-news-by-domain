@@ -1,5 +1,15 @@
 [
     {
+        "id": "47156472",
+        "title": "I vibe coded my dream macOS presentation app",
+        "url": "https://simonwillison.net/2026/Feb/25/present/",
+        "dt": "2026-02-25T19:23:41",
+        "points": 3,
+        "submitter": "MindGods",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47156472",
+        "numComments": 1
+    },
+    {
         "id": "47141997",
         "title": "Agentic Engineering Patterns \u2013 Simon Willison's Weblog",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
@@ -37,7 +47,7 @@
         "points": 366,
         "submitter": "swolpers",
         "commentsUrl": "https://news.ycombinator.com/item?id=47125374",
-        "numComments": 481
+        "numComments": 483
     },
     {
         "id": "47119387",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=46860960",
-        "numComments": 1
-    },
-    {
-        "id": "46858858",
-        "title": "A Social Network for A.I. Bots Only. No Humans Allowed",
-        "url": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/",
-        "dt": "2026-02-02T17:48:01",
-        "points": 3,
-        "submitter": "swolpers",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46858858",
         "numComments": 1
     }
 ]
