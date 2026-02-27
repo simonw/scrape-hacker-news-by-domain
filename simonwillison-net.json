@@ -1,5 +1,15 @@
 [
     {
+        "id": "47177107",
+        "title": "Agentic Engineering Patterns",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+        "dt": "2026-02-27T06:12:04",
+        "points": 1,
+        "submitter": "admp",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47177107",
+        "numComments": 0
+    },
+    {
         "id": "47159492",
         "title": "Tldraw moves tests to closed source to avoid AI copies",
         "url": "https://simonwillison.net/2026/Feb/25/closed-tests/",
@@ -288,15 +298,5 @@
         "submitter": "ck2",
         "commentsUrl": "https://news.ycombinator.com/item?id=46899808",
         "numComments": 188
-    },
-    {
-        "id": "46886614",
-        "title": "Distributing Go binaries like SQLite-scanner through PyPI using go-to-wheel",
-        "url": "https://simonwillison.net/2026/Feb/4/distributing-go-binaries/",
-        "dt": "2026-02-04T15:00:09",
-        "points": 4,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46886614",
-        "numComments": 1
     }
 ]
