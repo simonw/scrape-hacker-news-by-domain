@@ -1,13 +1,23 @@
 [
     {
+        "id": "47249343",
+        "title": "Something is afoot in the land of Qwen",
+        "url": "https://simonwillison.net/2026/Mar/4/qwen/",
+        "dt": "2026-03-04T15:55:34",
+        "points": 40,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47249343",
+        "numComments": 11
+    },
+    {
         "id": "47243272",
         "title": "Agentic Engineering Patterns",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
         "dt": "2026-03-04T05:00:37",
-        "points": 321,
+        "points": 345,
         "submitter": "r4um",
         "commentsUrl": "https://news.ycombinator.com/item?id=47243272",
-        "numComments": 172
+        "numComments": 193
     },
     {
         "id": "47193122",
@@ -87,7 +97,7 @@
         "points": 384,
         "submitter": "swolpers",
         "commentsUrl": "https://news.ycombinator.com/item?id=47125374",
-        "numComments": 499
+        "numComments": 500
     },
     {
         "id": "47119387",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46924711",
         "numComments": 1
-    },
-    {
-        "id": "46919382",
-        "title": "Running Pydantic's Monty Rust Sandboxed Python Subset in WebAssembly",
-        "url": "https://simonwillison.net/2026/Feb/6/pydantic-monty/",
-        "dt": "2026-02-06T23:03:57",
-        "points": 3,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46919382",
-        "numComments": 0
     }
 ]
