@@ -1,5 +1,15 @@
 [
     {
+        "id": "47261706",
+        "title": "Agentic Engineering Patterns: Anti-Patterns",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/",
+        "dt": "2026-03-05T14:08:08",
+        "points": 2,
+        "submitter": "goranmoomin",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47261706",
+        "numComments": 1
+    },
+    {
         "id": "47258209",
         "title": "Writing about Agentic Engineering Patterns",
         "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
@@ -14,7 +24,7 @@
         "title": "Agentic Engineering Anti Patterns",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/",
         "dt": "2026-03-05T03:36:34",
-        "points": 13,
+        "points": 14,
         "submitter": "pchristensen",
         "commentsUrl": "https://news.ycombinator.com/item?id=47257212",
         "numComments": 5
@@ -24,17 +34,17 @@
         "title": "Something is afoot in the land of Qwen",
         "url": "https://simonwillison.net/2026/Mar/4/qwen/",
         "dt": "2026-03-04T15:55:34",
-        "points": 711,
+        "points": 726,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47249343",
-        "numComments": 308
+        "numComments": 313
     },
     {
         "id": "47243272",
         "title": "Agentic Engineering Patterns",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
         "dt": "2026-03-04T05:00:37",
-        "points": 524,
+        "points": 526,
         "submitter": "r4um",
         "commentsUrl": "https://news.ycombinator.com/item?id=47243272",
         "numComments": 292
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=46963887",
         "numComments": 58
-    },
-    {
-        "id": "46955703",
-        "title": "AI doesn\u2019t reduce work, it intensifies it",
-        "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
-        "dt": "2026-02-10T05:19:00",
-        "points": 260,
-        "submitter": "walterbell",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46955703",
-        "numComments": 306
     }
 ]
