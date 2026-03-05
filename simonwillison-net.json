@@ -1,5 +1,15 @@
 [
     {
+        "id": "47258209",
+        "title": "Writing about Agentic Engineering Patterns",
+        "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
+        "dt": "2026-03-05T06:23:05",
+        "points": 1,
+        "submitter": "kristianp",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47258209",
+        "numComments": 0
+    },
+    {
         "id": "47257212",
         "title": "Agentic Engineering Anti Patterns",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/",
@@ -14,20 +24,20 @@
         "title": "Something is afoot in the land of Qwen",
         "url": "https://simonwillison.net/2026/Mar/4/qwen/",
         "dt": "2026-03-04T15:55:34",
-        "points": 599,
+        "points": 621,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47249343",
-        "numComments": 268
+        "numComments": 277
     },
     {
         "id": "47243272",
         "title": "Agentic Engineering Patterns",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
         "dt": "2026-03-04T05:00:37",
-        "points": 505,
+        "points": 507,
         "submitter": "r4um",
         "commentsUrl": "https://news.ycombinator.com/item?id=47243272",
-        "numComments": 284
+        "numComments": 286
     },
     {
         "id": "47193122",
@@ -288,15 +298,5 @@
         "submitter": "walterbell",
         "commentsUrl": "https://news.ycombinator.com/item?id=46955703",
         "numComments": 306
-    },
-    {
-        "id": "46947980",
-        "title": "AI Doesn't Reduce Work\u2013It Intensifies It",
-        "url": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/",
-        "dt": "2026-02-09T17:22:13",
-        "points": 7,
-        "submitter": "pretext",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46947980",
-        "numComments": 1
     }
 ]
