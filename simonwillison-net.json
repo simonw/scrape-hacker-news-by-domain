@@ -4,7 +4,7 @@
         "title": "Agentic Engineering Anti Patterns",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/",
         "dt": "2026-03-05T03:36:34",
-        "points": 4,
+        "points": 6,
         "submitter": "pchristensen",
         "commentsUrl": "https://news.ycombinator.com/item?id=47257212",
         "numComments": 3
@@ -14,20 +14,20 @@
         "title": "Something is afoot in the land of Qwen",
         "url": "https://simonwillison.net/2026/Mar/4/qwen/",
         "dt": "2026-03-04T15:55:34",
-        "points": 588,
+        "points": 599,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47249343",
-        "numComments": 261
+        "numComments": 268
     },
     {
         "id": "47243272",
         "title": "Agentic Engineering Patterns",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
         "dt": "2026-03-04T05:00:37",
-        "points": 504,
+        "points": 505,
         "submitter": "r4um",
         "commentsUrl": "https://news.ycombinator.com/item?id=47243272",
-        "numComments": 283
+        "numComments": 284
     },
     {
         "id": "47193122",
