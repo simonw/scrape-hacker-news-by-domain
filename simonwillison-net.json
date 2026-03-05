@@ -4,7 +4,7 @@
         "title": "Can coding agents relicense open source through a \"clean room\" implementation?",
         "url": "https://simonwillison.net/2026/Mar/5/chardet/",
         "dt": "2026-03-05T16:54:59",
-        "points": 3,
+        "points": 4,
         "submitter": "MindGods",
         "commentsUrl": "https://news.ycombinator.com/item?id=47264043",
         "numComments": 1
@@ -34,7 +34,7 @@
         "title": "Agentic Engineering Anti Patterns",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/",
         "dt": "2026-03-05T03:36:34",
-        "points": 17,
+        "points": 18,
         "submitter": "pchristensen",
         "commentsUrl": "https://news.ycombinator.com/item?id=47257212",
         "numComments": 5
@@ -44,20 +44,20 @@
         "title": "Something is afoot in the land of Qwen",
         "url": "https://simonwillison.net/2026/Mar/4/qwen/",
         "dt": "2026-03-04T15:55:34",
-        "points": 764,
+        "points": 766,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47249343",
-        "numComments": 337
+        "numComments": 340
     },
     {
         "id": "47243272",
         "title": "Agentic Engineering Patterns",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
         "dt": "2026-03-04T05:00:37",
-        "points": 526,
+        "points": 528,
         "submitter": "r4um",
         "commentsUrl": "https://news.ycombinator.com/item?id=47243272",
-        "numComments": 297
+        "numComments": 296
     },
     {
         "id": "47193122",
