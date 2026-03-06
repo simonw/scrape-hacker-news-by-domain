@@ -17,7 +17,7 @@
         "points": 19,
         "submitter": "MindGods",
         "commentsUrl": "https://news.ycombinator.com/item?id=47264043",
-        "numComments": 8
+        "numComments": 9
     },
     {
         "id": "47261706",
@@ -54,7 +54,7 @@
         "title": "Something is afoot in the land of Qwen",
         "url": "https://simonwillison.net/2026/Mar/4/qwen/",
         "dt": "2026-03-04T15:55:34",
-        "points": 776,
+        "points": 777,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47249343",
         "numComments": 353
@@ -64,10 +64,10 @@
         "title": "Agentic Engineering Patterns",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
         "dt": "2026-03-04T05:00:37",
-        "points": 536,
+        "points": 538,
         "submitter": "r4um",
         "commentsUrl": "https://news.ycombinator.com/item?id=47243272",
-        "numComments": 300
+        "numComments": 302
     },
     {
         "id": "47193122",
