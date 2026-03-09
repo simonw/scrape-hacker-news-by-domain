@@ -1,10 +1,20 @@
 [
     {
+        "id": "47311854",
+        "title": "Production query plans without production data",
+        "url": "https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/",
+        "dt": "2026-03-09T17:05:28",
+        "points": 2,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47311854",
+        "numComments": 0
+    },
+    {
         "id": "47310042",
         "title": "Perhaps not Boring Technology after all",
         "url": "https://simonwillison.net/2026/Mar/9/not-so-boring/",
         "dt": "2026-03-09T15:02:27",
-        "points": 2,
+        "points": 3,
         "submitter": "j4mie",
         "commentsUrl": "https://news.ycombinator.com/item?id=47310042",
         "numComments": 0
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=46993943",
-        "numComments": 0
-    },
-    {
-        "id": "46986438",
-        "title": "GLM-5: From Vibe Coding to Agentic Engineering",
-        "url": "https://simonwillison.net/2026/Feb/11/glm-5/",
-        "dt": "2026-02-12T08:59:19",
-        "points": 2,
-        "submitter": "onurkanbkrc",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46986438",
         "numComments": 0
     }
 ]
