@@ -1,5 +1,15 @@
 [
     {
+        "id": "47310042",
+        "title": "Perhaps not Boring Technology after all",
+        "url": "https://simonwillison.net/2026/Mar/9/not-so-boring/",
+        "dt": "2026-03-09T15:02:27",
+        "points": 1,
+        "submitter": "j4mie",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47310042",
+        "numComments": 0
+    },
+    {
         "id": "47273708",
         "title": "Compromising Cline's Production Releases just by Prompting an Issue Triager",
         "url": "https://simonwillison.net/2026/Mar/6/clinejection/",
@@ -17,7 +27,7 @@
         "points": 26,
         "submitter": "MindGods",
         "commentsUrl": "https://news.ycombinator.com/item?id=47264043",
-        "numComments": 11
+        "numComments": 12
     },
     {
         "id": "47261706",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "onurkanbkrc",
         "commentsUrl": "https://news.ycombinator.com/item?id=46986438",
-        "numComments": 0
-    },
-    {
-        "id": "46984620",
-        "title": "ChatGPT Containers can now run bash, pip/NPM install packages and download files",
-        "url": "https://simonwillison.net/2026/Jan/26/chatgpt-container",
-        "dt": "2026-02-12T03:36:21",
-        "points": 1,
-        "submitter": "ms7892",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46984620",
         "numComments": 0
     }
 ]
