@@ -1,5 +1,15 @@
 [
     {
+        "id": "47328563",
+        "title": "I vibe coded my dream macOS presentation app",
+        "url": "https://simonwillison.net/2026/Feb/25/present/",
+        "dt": "2026-03-10T20:43:36",
+        "points": 1,
+        "submitter": "alwillis",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47328563",
+        "numComments": 0
+    },
+    {
         "id": "47311854",
         "title": "Production query plans without production data",
         "url": "https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/",
@@ -288,15 +298,5 @@
         "submitter": "coloneltcb",
         "commentsUrl": "https://news.ycombinator.com/item?id=47009416",
         "numComments": 2
-    },
-    {
-        "id": "46993943",
-        "title": "An AI Agent Published a Hit Piece on Me",
-        "url": "https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/",
-        "dt": "2026-02-12T19:38:34",
-        "points": 1,
-        "submitter": "pretext",
-        "commentsUrl": "https://news.ycombinator.com/item?id=46993943",
-        "numComments": 0
     }
 ]
