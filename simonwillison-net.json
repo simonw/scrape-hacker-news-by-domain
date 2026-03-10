@@ -1,10 +1,20 @@
 [
     {
+        "id": "47329579",
+        "title": "AI should help us produce better code",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/",
+        "dt": "2026-03-10T22:30:05",
+        "points": 3,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47329579",
+        "numComments": 1
+    },
+    {
         "id": "47328563",
         "title": "I vibe coded my dream macOS presentation app",
         "url": "https://simonwillison.net/2026/Feb/25/present/",
         "dt": "2026-03-10T20:43:36",
-        "points": 1,
+        "points": 2,
         "submitter": "alwillis",
         "commentsUrl": "https://news.ycombinator.com/item?id=47328563",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "stared",
         "commentsUrl": "https://news.ycombinator.com/item?id=47017682",
         "numComments": 61
-    },
-    {
-        "id": "47009416",
-        "title": "The evolution of OpenAI's mission statement",
-        "url": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
-        "dt": "2026-02-13T23:43:27",
-        "points": 120,
-        "submitter": "coloneltcb",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47009416",
-        "numComments": 2
     }
 ]
