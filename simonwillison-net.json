@@ -4,7 +4,7 @@
         "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
         "url": "https://simonwillison.net/2026/Mar/13/liquid/",
         "dt": "2026-03-13T22:22:55",
-        "points": 1,
+        "points": 3,
         "submitter": "rdoherty",
         "commentsUrl": "https://news.ycombinator.com/item?id=47370755",
         "numComments": 0
@@ -14,7 +14,7 @@
         "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
         "url": "https://simonwillison.net/2026/Mar/13/liquid/",
         "dt": "2026-03-13T06:40:45",
-        "points": 7,
+        "points": 8,
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=47361351",
         "numComments": 0
@@ -24,7 +24,7 @@
         "title": "AI should help us produce better code",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/",
         "dt": "2026-03-12T00:30:59",
-        "points": 6,
+        "points": 7,
         "submitter": "birdculture",
         "commentsUrl": "https://news.ycombinator.com/item?id=47344620",
         "numComments": 2
@@ -34,7 +34,7 @@
         "title": "AI should help us produce better code",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/",
         "dt": "2026-03-10T22:30:05",
-        "points": 10,
+        "points": 11,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47329579",
         "numComments": 2
@@ -44,7 +44,7 @@
         "title": "I vibe coded my dream macOS presentation app",
         "url": "https://simonwillison.net/2026/Feb/25/present/",
         "dt": "2026-03-10T20:43:36",
-        "points": 2,
+        "points": 3,
         "submitter": "alwillis",
         "commentsUrl": "https://news.ycombinator.com/item?id=47328563",
         "numComments": 0
@@ -54,7 +54,7 @@
         "title": "Production query plans without production data",
         "url": "https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/",
         "dt": "2026-03-09T17:05:28",
-        "points": 2,
+        "points": 3,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=47311854",
         "numComments": 0
@@ -64,7 +64,7 @@
         "title": "Perhaps not Boring Technology after all",
         "url": "https://simonwillison.net/2026/Mar/9/not-so-boring/",
         "dt": "2026-03-09T15:02:27",
-        "points": 11,
+        "points": 12,
         "submitter": "j4mie",
         "commentsUrl": "https://news.ycombinator.com/item?id=47310042",
         "numComments": 2
@@ -74,7 +74,7 @@
         "title": "Compromising Cline's Production Releases just by Prompting an Issue Triager",
         "url": "https://simonwillison.net/2026/Mar/6/clinejection/",
         "dt": "2026-03-06T11:33:49",
-        "points": 1,
+        "points": 2,
         "submitter": "weinzierl",
         "commentsUrl": "https://news.ycombinator.com/item?id=47273708",
         "numComments": 0
@@ -84,7 +84,7 @@
         "title": "Can coding agents relicense open source through a \"clean room\" implementation?",
         "url": "https://simonwillison.net/2026/Mar/5/chardet/",
         "dt": "2026-03-05T16:54:59",
-        "points": 31,
+        "points": 32,
         "submitter": "MindGods",
         "commentsUrl": "https://news.ycombinator.com/item?id=47264043",
         "numComments": 12
@@ -94,7 +94,7 @@
         "title": "Agentic Engineering Patterns: Anti-Patterns",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/",
         "dt": "2026-03-05T14:08:08",
-        "points": 3,
+        "points": 4,
         "submitter": "goranmoomin",
         "commentsUrl": "https://news.ycombinator.com/item?id=47261706",
         "numComments": 1
