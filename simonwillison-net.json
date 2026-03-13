@@ -1,5 +1,15 @@
 [
     {
+        "id": "47370755",
+        "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
+        "url": "https://simonwillison.net/2026/Mar/13/liquid/",
+        "dt": "2026-03-13T22:22:55",
+        "points": 1,
+        "submitter": "rdoherty",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47370755",
+        "numComments": 0
+    },
+    {
         "id": "47361351",
         "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
         "url": "https://simonwillison.net/2026/Mar/13/liquid/",
@@ -288,15 +298,5 @@
         "submitter": "Philpax",
         "commentsUrl": "https://news.ycombinator.com/item?id=47027841",
         "numComments": 13
-    },
-    {
-        "id": "47025206",
-        "title": "Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt",
-        "url": "https://simonwillison.net/2026/Feb/15/cognitive-debt/",
-        "dt": "2026-02-15T16:53:45",
-        "points": 3,
-        "submitter": "latentnumber",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47025206",
-        "numComments": 1
     }
 ]
