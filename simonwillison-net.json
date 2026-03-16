@@ -1,5 +1,15 @@
 [
     {
+        "id": "47396673",
+        "title": "Shopify CEO Tobias L\u00fctke Against Liquid, Shopify's OSS Ruby Template Engine",
+        "url": "https://simonwillison.net/2026/Mar/13/liquid/",
+        "dt": "2026-03-16T09:16:12",
+        "points": 2,
+        "submitter": "talboren",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47396673",
+        "numComments": 1
+    },
+    {
         "id": "47395064",
         "title": "Coding After Coders: The End of Computer Programming as We Know It",
         "url": "https://simonwillison.net/2026/Mar/12/coding-after-coders/",
@@ -14,10 +24,10 @@
         "title": "What is agentic engineering?",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
         "dt": "2026-03-16T01:07:47",
-        "points": 135,
+        "points": 136,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=47393908",
-        "numComments": 78
+        "numComments": 81
     },
     {
         "id": "47380655",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "surprisetalk",
         "commentsUrl": "https://news.ycombinator.com/item?id=47048102",
-        "numComments": 0
-    },
-    {
-        "id": "47047647",
-        "title": "First k\u0101k\u0101p\u014d chick in four years hatches on Valentine's Day",
-        "url": "https://simonwillison.net/2026/Feb/17/first-kakapo-chick-in-four-years/",
-        "dt": "2026-02-17T14:11:53",
-        "points": 2,
-        "submitter": "surprisetalk",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47047647",
         "numComments": 0
     }
 ]
