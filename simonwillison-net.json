@@ -7,17 +7,17 @@
         "points": 1,
         "submitter": "abdelhousni",
         "commentsUrl": "https://news.ycombinator.com/item?id=47395064",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "47393908",
         "title": "What is agentic engineering?",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
         "dt": "2026-03-16T01:07:47",
-        "points": 117,
+        "points": 123,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=47393908",
-        "numComments": 70
+        "numComments": 72
     },
     {
         "id": "47380655",
@@ -164,7 +164,7 @@
         "title": "Agentic Engineering Patterns",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
         "dt": "2026-03-04T05:00:37",
-        "points": 542,
+        "points": 543,
         "submitter": "r4um",
         "commentsUrl": "https://news.ycombinator.com/item?id=47243272",
         "numComments": 313
