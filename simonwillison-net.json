@@ -1,5 +1,15 @@
 [
     {
+        "id": "47399759",
+        "title": "How Coding Agents Work",
+        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/",
+        "dt": "2026-03-16T14:46:34",
+        "points": 2,
+        "submitter": "vinhnx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47399759",
+        "numComments": 0
+    },
+    {
         "id": "47396673",
         "title": "Shopify CEO Tobias L\u00fctke Against Liquid, Shopify's OSS Ruby Template Engine",
         "url": "https://simonwillison.net/2026/Mar/13/liquid/",
@@ -27,7 +37,7 @@
         "points": 149,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=47393908",
-        "numComments": 86
+        "numComments": 87
     },
     {
         "id": "47380655",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "Cyphase",
         "commentsUrl": "https://news.ycombinator.com/item?id=47072440",
-        "numComments": 0
-    },
-    {
-        "id": "47048102",
-        "title": "Quoting ROUGH DRAFT 8/2/66",
-        "url": "https://simonwillison.net/2026/Feb/17/rough-draft-8266/",
-        "dt": "2026-02-17T14:51:22",
-        "points": 1,
-        "submitter": "surprisetalk",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47048102",
         "numComments": 0
     }
 ]
