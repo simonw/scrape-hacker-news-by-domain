@@ -1,5 +1,15 @@
 [
     {
+        "id": "47408991",
+        "title": "Coding Agents for Data Analysis",
+        "url": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/",
+        "dt": "2026-03-17T05:28:35",
+        "points": 1,
+        "submitter": "samuel246",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47408991",
+        "numComments": 0
+    },
+    {
         "id": "47399759",
         "title": "How Coding Agents Work",
         "url": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/",
@@ -288,15 +298,5 @@
         "submitter": "helloplanets",
         "commentsUrl": "https://news.ycombinator.com/item?id=47099160",
         "numComments": 78
-    },
-    {
-        "id": "47072440",
-        "title": "Experimenting with sponsorship for my blog and newsletter",
-        "url": "https://simonwillison.net/2026/Feb/19/sponsorship/",
-        "dt": "2026-02-19T10:54:32",
-        "points": 2,
-        "submitter": "Cyphase",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47072440",
-        "numComments": 0
     }
 ]
