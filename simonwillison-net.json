@@ -1,5 +1,15 @@
 [
     {
+        "id": "47430880",
+        "title": "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
+        "url": "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/",
+        "dt": "2026-03-18T20:16:51",
+        "points": 1,
+        "submitter": "mdp2021",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47430880",
+        "numComments": 0
+    },
+    {
         "id": "47408991",
         "title": "Coding Agents for Data Analysis",
         "url": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/",
@@ -288,15 +298,5 @@
         "submitter": "tomwphillips",
         "commentsUrl": "https://news.ycombinator.com/item?id=47119387",
         "numComments": 2
-    },
-    {
-        "id": "47099160",
-        "title": "Andrej Karpathy talks about \"Claws\"",
-        "url": "https://simonwillison.net/2026/Feb/21/claws/",
-        "dt": "2026-02-21T09:53:15",
-        "points": 290,
-        "submitter": "helloplanets",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47099160",
-        "numComments": 78
     }
 ]
