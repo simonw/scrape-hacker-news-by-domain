@@ -1,5 +1,15 @@
 [
     {
+        "id": "47438166",
+        "title": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally with low RAM",
+        "url": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/",
+        "dt": "2026-03-19T12:24:34",
+        "points": 1,
+        "submitter": "walterbell",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47438166",
+        "numComments": 0
+    },
+    {
         "id": "47430880",
         "title": "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
         "url": "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/",
@@ -288,15 +298,5 @@
         "submitter": "swolpers",
         "commentsUrl": "https://news.ycombinator.com/item?id=47125374",
         "numComments": 499
-    },
-    {
-        "id": "47119387",
-        "title": "Red/Green TDD",
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/",
-        "dt": "2026-02-23T08:02:51",
-        "points": 5,
-        "submitter": "tomwphillips",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47119387",
-        "numComments": 2
     }
 ]
