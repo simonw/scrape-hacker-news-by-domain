@@ -1,5 +1,15 @@
 [
     {
+        "id": "47471647",
+        "title": "Turbo Pascal Deconstructed",
+        "url": "https://simonwillison.net/2026/Mar/20/turbo-pascal/",
+        "dt": "2026-03-21T21:32:50",
+        "points": 2,
+        "submitter": "alberto-m",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47471647",
+        "numComments": 0
+    },
+    {
         "id": "47443675",
         "title": "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
         "url": "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "Anon84",
         "commentsUrl": "https://news.ycombinator.com/item?id=47141997",
-        "numComments": 0
-    },
-    {
-        "id": "47141648",
-        "title": "Writing about Agentic Engineering Patterns",
-        "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
-        "dt": "2026-02-24T19:34:43",
-        "points": 1,
-        "submitter": "Anon84",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47141648",
         "numComments": 0
     }
 ]
