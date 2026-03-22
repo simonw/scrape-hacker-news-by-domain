@@ -4,10 +4,10 @@
         "title": "Profiling Hacker News users based on their comments",
         "url": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
         "dt": "2026-03-22T00:30:19",
-        "points": 47,
+        "points": 55,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47473086",
-        "numComments": 53
+        "numComments": 60
     },
     {
         "id": "47471647",
@@ -24,7 +24,7 @@
         "title": "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
         "url": "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/",
         "dt": "2026-03-19T18:23:20",
-        "points": 82,
+        "points": 83,
         "submitter": "jt-hill",
         "commentsUrl": "https://news.ycombinator.com/item?id=47443675",
         "numComments": 23
