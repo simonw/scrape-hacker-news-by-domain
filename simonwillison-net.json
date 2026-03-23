@@ -4,7 +4,7 @@
         "title": "Profiling Hacker News users based on their comments",
         "url": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
         "dt": "2026-03-22T00:30:19",
-        "points": 85,
+        "points": 86,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47473086",
         "numComments": 83
@@ -257,7 +257,7 @@
         "points": 543,
         "submitter": "r4um",
         "commentsUrl": "https://news.ycombinator.com/item?id=47243272",
-        "numComments": 314
+        "numComments": 313
     },
     {
         "id": "47193122",
