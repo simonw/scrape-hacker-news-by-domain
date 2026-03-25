@@ -4,10 +4,10 @@
         "title": "Package Managers Need to Cool Down",
         "url": "https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/",
         "dt": "2026-03-25T01:22:31",
-        "points": 3,
+        "points": 19,
         "submitter": "abdelhousni",
         "commentsUrl": "https://news.ycombinator.com/item?id=47511972",
-        "numComments": 0
+        "numComments": 2
     },
     {
         "id": "47497154",
@@ -24,7 +24,7 @@
         "title": "Experimenting with Starlette 1.0 with Claude skills",
         "url": "https://simonwillison.net/2026/Mar/22/starlette/",
         "dt": "2026-03-23T14:56:49",
-        "points": 11,
+        "points": 12,
         "submitter": "TheTaytay",
         "commentsUrl": "https://news.ycombinator.com/item?id=47490412",
         "numComments": 4
@@ -34,7 +34,7 @@
         "title": "Profiling Hacker News users based on their comments",
         "url": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
         "dt": "2026-03-22T00:30:19",
-        "points": 86,
+        "points": 87,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47473086",
         "numComments": 85
@@ -47,7 +47,7 @@
         "points": 7,
         "submitter": "alberto-m",
         "commentsUrl": "https://news.ycombinator.com/item?id=47471647",
-        "numComments": 6
+        "numComments": 7
     },
     {
         "id": "47443675",
