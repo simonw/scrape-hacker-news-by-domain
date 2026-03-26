@@ -1,10 +1,20 @@
 [
     {
+        "id": "47531459",
+        "title": "Sorting Algorithms",
+        "url": "https://tools.simonwillison.net/sort-algorithms",
+        "dt": "2026-03-26T15:09:08",
+        "points": 2,
+        "submitter": "cromulent",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47531459",
+        "numComments": 0
+    },
+    {
         "id": "47511972",
         "title": "Package Managers Need to Cool Down",
         "url": "https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/",
         "dt": "2026-03-25T01:22:31",
-        "points": 20,
+        "points": 21,
         "submitter": "abdelhousni",
         "commentsUrl": "https://news.ycombinator.com/item?id=47511972",
         "numComments": 2
@@ -288,15 +298,5 @@
         "submitter": "r4um",
         "commentsUrl": "https://news.ycombinator.com/item?id=47243272",
         "numComments": 313
-    },
-    {
-        "id": "47193122",
-        "title": "Agentic Engineering Patterns",
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-        "dt": "2026-02-28T10:06:57",
-        "points": 2,
-        "submitter": "vinhnx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47193122",
-        "numComments": 0
     }
 ]
