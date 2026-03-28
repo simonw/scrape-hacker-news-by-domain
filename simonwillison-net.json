@@ -1,5 +1,15 @@
 [
     {
+        "id": "47550631",
+        "title": "SwiftUI Apps on macOS are fun to code",
+        "url": "https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/",
+        "dt": "2026-03-28T01:36:23",
+        "points": 3,
+        "submitter": "rdslw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47550631",
+        "numComments": 0
+    },
+    {
         "id": "47531459",
         "title": "Sorting Algorithms",
         "url": "https://tools.simonwillison.net/sort-algorithms",
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47249343",
         "numComments": 360
-    },
-    {
-        "id": "47243272",
-        "title": "Agentic Engineering Patterns",
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-        "dt": "2026-03-04T05:00:37",
-        "points": 543,
-        "submitter": "r4um",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47243272",
-        "numComments": 313
     }
 ]
