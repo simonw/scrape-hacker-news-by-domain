@@ -1,5 +1,15 @@
 [
     {
+        "id": "47561322",
+        "title": "Sorting Algorithms",
+        "url": "https://tools.simonwillison.net/sort-algorithms",
+        "dt": "2026-03-29T08:22:36",
+        "points": 4,
+        "submitter": "vinhnx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47561322",
+        "numComments": 0
+    },
+    {
         "id": "47550631",
         "title": "SwiftUI Apps on macOS are fun to code",
         "url": "https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/",
@@ -54,7 +64,7 @@
         "title": "Profiling Hacker News users based on their comments",
         "url": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
         "dt": "2026-03-22T00:30:19",
-        "points": 87,
+        "points": 88,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47473086",
         "numComments": 86
@@ -288,15 +298,5 @@
         "submitter": "pchristensen",
         "commentsUrl": "https://news.ycombinator.com/item?id=47257212",
         "numComments": 5
-    },
-    {
-        "id": "47249343",
-        "title": "Something is afoot in the land of Qwen",
-        "url": "https://simonwillison.net/2026/Mar/4/qwen/",
-        "dt": "2026-03-04T15:55:34",
-        "points": 783,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47249343",
-        "numComments": 360
     }
 ]
