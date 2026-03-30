@@ -1,5 +1,15 @@
 [
     {
+        "id": "47569835",
+        "title": "Pretext",
+        "url": "https://simonwillison.net/2026/Mar/29/pretext/",
+        "dt": "2026-03-30T02:42:29",
+        "points": 10,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47569835",
+        "numComments": 1
+    },
+    {
         "id": "47561322",
         "title": "Sorting Algorithms",
         "url": "https://tools.simonwillison.net/sort-algorithms",
@@ -288,15 +298,5 @@
         "submitter": "kristianp",
         "commentsUrl": "https://news.ycombinator.com/item?id=47258209",
         "numComments": 0
-    },
-    {
-        "id": "47257212",
-        "title": "Agentic Engineering Anti Patterns",
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/",
-        "dt": "2026-03-05T03:36:34",
-        "points": 19,
-        "submitter": "pchristensen",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47257212",
-        "numComments": 5
     }
 ]
