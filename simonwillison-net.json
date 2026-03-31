@@ -1,13 +1,23 @@
 [
     {
+        "id": "47582056",
+        "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
+        "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+        "dt": "2026-03-31T02:26:15",
+        "points": 33,
+        "submitter": "y1n0",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47582056",
+        "numComments": 18
+    },
+    {
         "id": "47575062",
         "title": "Mr. Chatterbox is a (weak) Victorian-era ethically trained model",
         "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
         "dt": "2026-03-30T14:47:09",
-        "points": 7,
+        "points": 9,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47575062",
-        "numComments": 1
+        "numComments": 3
     },
     {
         "id": "47569835",
@@ -288,15 +298,5 @@
         "submitter": "MindGods",
         "commentsUrl": "https://news.ycombinator.com/item?id=47264043",
         "numComments": 12
-    },
-    {
-        "id": "47261706",
-        "title": "Agentic Engineering Patterns: Anti-Patterns",
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/",
-        "dt": "2026-03-05T14:08:08",
-        "points": 4,
-        "submitter": "goranmoomin",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47261706",
-        "numComments": 1
     }
 ]
