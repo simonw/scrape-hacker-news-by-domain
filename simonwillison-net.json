@@ -1,5 +1,15 @@
 [
     {
+        "id": "47627419",
+        "title": "The Axios supply chain attack used individually targeted social engineering",
+        "url": "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/",
+        "dt": "2026-04-03T14:59:17",
+        "points": 3,
+        "submitter": "cmitsakis",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47627419",
+        "numComments": 1
+    },
+    {
         "id": "47582056",
         "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
         "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
@@ -288,15 +298,5 @@
         "submitter": "weinzierl",
         "commentsUrl": "https://news.ycombinator.com/item?id=47273708",
         "numComments": 0
-    },
-    {
-        "id": "47264043",
-        "title": "Can coding agents relicense open source through a \"clean room\" implementation?",
-        "url": "https://simonwillison.net/2026/Mar/5/chardet/",
-        "dt": "2026-03-05T16:54:59",
-        "points": 32,
-        "submitter": "MindGods",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47264043",
-        "numComments": 12
     }
 ]
