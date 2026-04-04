@@ -1,13 +1,23 @@
 [
     {
+        "id": "47636897",
+        "title": "This stuff is exhausting (Simon Willison on using coding agents)",
+        "url": "https://simonwillison.net/2026/Apr/2/lennys-podcast/",
+        "dt": "2026-04-04T07:56:13",
+        "points": 1,
+        "submitter": "osks",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47636897",
+        "numComments": 0
+    },
+    {
         "id": "47627419",
         "title": "The Axios supply chain attack used individually targeted social engineering",
         "url": "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/",
         "dt": "2026-04-03T14:59:17",
-        "points": 34,
+        "points": 40,
         "submitter": "cmitsakis",
         "commentsUrl": "https://news.ycombinator.com/item?id=47627419",
-        "numComments": 8
+        "numComments": 10
     },
     {
         "id": "47582056",
@@ -288,15 +298,5 @@
         "submitter": "j4mie",
         "commentsUrl": "https://news.ycombinator.com/item?id=47310042",
         "numComments": 2
-    },
-    {
-        "id": "47273708",
-        "title": "Compromising Cline's Production Releases just by Prompting an Issue Triager",
-        "url": "https://simonwillison.net/2026/Mar/6/clinejection/",
-        "dt": "2026-03-06T11:33:49",
-        "points": 2,
-        "submitter": "weinzierl",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47273708",
-        "numComments": 0
     }
 ]
