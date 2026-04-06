@@ -1,5 +1,15 @@
 [
     {
+        "id": "47656897",
+        "title": "Eight years of wanting, three months of building with AI",
+        "url": "https://simonwillison.net/2026/Apr/5/building-with-ai/",
+        "dt": "2026-04-06T04:09:41",
+        "points": 1,
+        "submitter": "doppp",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47656897",
+        "numComments": 1
+    },
+    {
         "id": "47636897",
         "title": "This stuff is exhausting (Simon Willison on using coding agents)",
         "url": "https://simonwillison.net/2026/Apr/2/lennys-podcast/",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=47311854",
         "numComments": 0
-    },
-    {
-        "id": "47310042",
-        "title": "Perhaps not Boring Technology after all",
-        "url": "https://simonwillison.net/2026/Mar/9/not-so-boring/",
-        "dt": "2026-03-09T15:02:27",
-        "points": 12,
-        "submitter": "j4mie",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47310042",
-        "numComments": 2
     }
 ]
