@@ -1,5 +1,15 @@
 [
     {
+        "id": "47681241",
+        "title": "Anthropic's Project Glasswing sounds necessary to me",
+        "url": "https://simonwillison.net/2026/Apr/7/project-glasswing/",
+        "dt": "2026-04-07T20:53:59",
+        "points": 5,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47681241",
+        "numComments": 1
+    },
+    {
         "id": "47656897",
         "title": "Eight years of wanting, three months of building with AI",
         "url": "https://simonwillison.net/2026/Apr/5/building-with-ai/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "alwillis",
         "commentsUrl": "https://news.ycombinator.com/item?id=47328563",
-        "numComments": 0
-    },
-    {
-        "id": "47311854",
-        "title": "Production query plans without production data",
-        "url": "https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/",
-        "dt": "2026-03-09T17:05:28",
-        "points": 3,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47311854",
         "numComments": 0
     }
 ]
