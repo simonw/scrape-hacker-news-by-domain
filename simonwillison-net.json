@@ -1,10 +1,20 @@
 [
     {
+        "id": "47686697",
+        "title": "GLM 5.1: Pelican Test",
+        "url": "https://simonwillison.net/2026/Apr/7/glm-51/",
+        "dt": "2026-04-08T07:38:19",
+        "points": 1,
+        "submitter": "sorenbs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47686697",
+        "numComments": 0
+    },
+    {
         "id": "47681241",
         "title": "Anthropic's Project Glasswing sounds necessary to me",
         "url": "https://simonwillison.net/2026/Apr/7/project-glasswing/",
         "dt": "2026-04-07T20:53:59",
-        "points": 44,
+        "points": 47,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47681241",
         "numComments": 7
@@ -288,15 +298,5 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47329579",
         "numComments": 2
-    },
-    {
-        "id": "47328563",
-        "title": "I vibe coded my dream macOS presentation app",
-        "url": "https://simonwillison.net/2026/Feb/25/present/",
-        "dt": "2026-03-10T20:43:36",
-        "points": 3,
-        "submitter": "alwillis",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47328563",
-        "numComments": 0
     }
 ]
