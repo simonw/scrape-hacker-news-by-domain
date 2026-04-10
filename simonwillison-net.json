@@ -1,5 +1,15 @@
 [
     {
+        "id": "47717409",
+        "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
+        "url": "https://simonwillison.net/2026/Apr/8/muse-spark/",
+        "dt": "2026-04-10T12:54:46",
+        "points": 1,
+        "submitter": "gmays",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47717409",
+        "numComments": 0
+    },
+    {
         "id": "47699703",
         "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
         "url": "https://simonwillison.net/2026/Apr/8/muse-spark/",
@@ -288,15 +298,5 @@
         "submitter": "duck",
         "commentsUrl": "https://news.ycombinator.com/item?id=47361351",
         "numComments": 0
-    },
-    {
-        "id": "47344620",
-        "title": "AI should help us produce better code",
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/",
-        "dt": "2026-03-12T00:30:59",
-        "points": 7,
-        "submitter": "birdculture",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47344620",
-        "numComments": 2
     }
 ]
