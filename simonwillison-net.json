@@ -1,5 +1,15 @@
 [
     {
+        "id": "47782610",
+        "title": "Gemini 3.1 Flash TTS \u2013 with directed prompts",
+        "url": "https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/",
+        "dt": "2026-04-15T17:47:08",
+        "points": 7,
+        "submitter": "aanet",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47782610",
+        "numComments": 2
+    },
+    {
         "id": "47717409",
         "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
         "url": "https://simonwillison.net/2026/Apr/8/muse-spark/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "rdoherty",
         "commentsUrl": "https://news.ycombinator.com/item?id=47370755",
-        "numComments": 0
-    },
-    {
-        "id": "47361351",
-        "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
-        "url": "https://simonwillison.net/2026/Mar/13/liquid/",
-        "dt": "2026-03-13T06:40:45",
-        "points": 8,
-        "submitter": "duck",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47361351",
         "numComments": 0
     }
 ]
