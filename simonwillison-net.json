@@ -1,10 +1,20 @@
 [
     {
+        "id": "47796830",
+        "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+        "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+        "dt": "2026-04-16T17:37:20",
+        "points": 352,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47796830",
+        "numComments": 76
+    },
+    {
         "id": "47782610",
         "title": "Gemini 3.1 Flash TTS \u2013 with directed prompts",
         "url": "https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/",
         "dt": "2026-04-15T17:47:08",
-        "points": 11,
+        "points": 17,
         "submitter": "aanet",
         "commentsUrl": "https://news.ycombinator.com/item?id=47782610",
         "numComments": 5
@@ -288,15 +298,5 @@
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=47380655",
         "numComments": 2
-    },
-    {
-        "id": "47370755",
-        "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
-        "url": "https://simonwillison.net/2026/Mar/13/liquid/",
-        "dt": "2026-03-13T22:22:55",
-        "points": 4,
-        "submitter": "rdoherty",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47370755",
-        "numComments": 0
     }
 ]
