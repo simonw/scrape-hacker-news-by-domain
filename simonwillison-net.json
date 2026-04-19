@@ -1,5 +1,15 @@
 [
     {
+        "id": "47820682",
+        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+        "dt": "2026-04-19T00:14:06",
+        "points": 4,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47820682",
+        "numComments": 1
+    },
+    {
         "id": "47796830",
         "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
         "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
@@ -288,15 +298,5 @@
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=47393908",
         "numComments": 94
-    },
-    {
-        "id": "47380655",
-        "title": "My fireside chat about agentic engineering at the Pragmatic Summit",
-        "url": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/",
-        "dt": "2026-03-14T20:09:28",
-        "points": 20,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47380655",
-        "numComments": 2
     }
 ]
