@@ -1,5 +1,25 @@
 [
     {
+        "id": "47824060",
+        "title": "Claude system prompts as a Git timeline",
+        "url": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/",
+        "dt": "2026-04-19T13:11:52",
+        "points": 2,
+        "submitter": "Brajeshwar",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47824060",
+        "numComments": 0
+    },
+    {
+        "id": "47823270",
+        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+        "dt": "2026-04-19T10:36:29",
+        "points": 56,
+        "submitter": "pretext",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47823270",
+        "numComments": 33
+    },
+    {
         "id": "47820682",
         "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
         "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
@@ -14,10 +34,10 @@
         "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
         "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
         "dt": "2026-04-16T17:37:20",
-        "points": 459,
+        "points": 461,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47796830",
-        "numComments": 94
+        "numComments": 95
     },
     {
         "id": "47782610",
@@ -278,25 +298,5 @@
         "submitter": "talboren",
         "commentsUrl": "https://news.ycombinator.com/item?id=47396673",
         "numComments": 1
-    },
-    {
-        "id": "47395064",
-        "title": "Coding After Coders: The End of Computer Programming as We Know It",
-        "url": "https://simonwillison.net/2026/Mar/12/coding-after-coders/",
-        "dt": "2026-03-16T03:55:29",
-        "points": 2,
-        "submitter": "abdelhousni",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47395064",
-        "numComments": 1
-    },
-    {
-        "id": "47393908",
-        "title": "What is agentic engineering?",
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
-        "dt": "2026-03-16T01:07:47",
-        "points": 165,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47393908",
-        "numComments": 94
     }
 ]
