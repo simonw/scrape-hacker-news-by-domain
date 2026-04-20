@@ -1,10 +1,20 @@
 [
     {
+        "id": "47829178",
+        "title": "Claude Token Counter, now with model comparisons",
+        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+        "dt": "2026-04-20T00:56:40",
+        "points": 36,
+        "submitter": "twapi",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47829178",
+        "numComments": 7
+    },
+    {
         "id": "47824060",
         "title": "Claude system prompts as a Git timeline",
         "url": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/",
         "dt": "2026-04-19T13:11:52",
-        "points": 2,
+        "points": 3,
         "submitter": "Brajeshwar",
         "commentsUrl": "https://news.ycombinator.com/item?id=47824060",
         "numComments": 0
@@ -14,10 +24,10 @@
         "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
         "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
         "dt": "2026-04-19T10:36:29",
-        "points": 56,
+        "points": 260,
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=47823270",
-        "numComments": 33
+        "numComments": 151
     },
     {
         "id": "47820682",
@@ -34,10 +44,10 @@
         "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
         "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
         "dt": "2026-04-16T17:37:20",
-        "points": 461,
+        "points": 462,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47796830",
-        "numComments": 95
+        "numComments": 97
     },
     {
         "id": "47782610",
@@ -288,15 +298,5 @@
         "submitter": "vinhnx",
         "commentsUrl": "https://news.ycombinator.com/item?id=47399759",
         "numComments": 0
-    },
-    {
-        "id": "47396673",
-        "title": "Shopify CEO Tobias L\u00fctke Against Liquid, Shopify's OSS Ruby Template Engine",
-        "url": "https://simonwillison.net/2026/Mar/13/liquid/",
-        "dt": "2026-03-16T09:16:12",
-        "points": 3,
-        "submitter": "talboren",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47396673",
-        "numComments": 1
     }
 ]
