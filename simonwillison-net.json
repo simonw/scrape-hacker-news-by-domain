@@ -4,10 +4,10 @@
         "title": "Claude Token Counter, now with model comparisons",
         "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
         "dt": "2026-04-20T00:56:40",
-        "points": 118,
+        "points": 130,
         "submitter": "twapi",
         "commentsUrl": "https://news.ycombinator.com/item?id=47829178",
-        "numComments": 46
+        "numComments": 48
     },
     {
         "id": "47824060",
@@ -24,10 +24,10 @@
         "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
         "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
         "dt": "2026-04-19T10:36:29",
-        "points": 328,
+        "points": 334,
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=47823270",
-        "numComments": 184
+        "numComments": 185
     },
     {
         "id": "47820682",
