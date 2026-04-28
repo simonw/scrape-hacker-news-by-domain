@@ -1,20 +1,120 @@
 [
     {
+        "id": "47928617",
+        "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
+        "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/",
+        "dt": "2026-04-27T23:22:27",
+        "points": 3,
+        "submitter": "yakkomajuri",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47928617",
+        "numComments": 0
+    },
+    {
+        "id": "47924548",
+        "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+        "url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/",
+        "dt": "2026-04-27T17:26:14",
+        "points": 3,
+        "submitter": "gmays",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47924548",
+        "numComments": 0
+    },
+    {
+        "id": "47898932",
+        "title": "GPT-5.5 Prompting Guide",
+        "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/",
+        "dt": "2026-04-25T05:30:55",
+        "points": 3,
+        "submitter": "y1n0",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47898932",
+        "numComments": 1
+    },
+    {
+        "id": "47890571",
+        "title": "Extract PDF text in the browser with LiteParse for the web",
+        "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/",
+        "dt": "2026-04-24T14:11:33",
+        "points": 1,
+        "submitter": "pierre",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47890571",
+        "numComments": 0
+    },
+    {
+        "id": "47882675",
+        "title": "Extract PDF text in the browser with LiteParse for the web",
+        "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/",
+        "dt": "2026-04-23T21:59:33",
+        "points": 5,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47882675",
+        "numComments": 0
+    },
+    {
+        "id": "47877455",
+        "title": "Is Claude Code going to cost $100/month? Probably not\u2013it's all confusing",
+        "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
+        "dt": "2026-04-23T16:08:28",
+        "points": 4,
+        "submitter": "birdculture",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47877455",
+        "numComments": 1
+    },
+    {
+        "id": "47863336",
+        "title": "Is Claude Code going to cost $100/month? Probably not\u2013it's all confusing",
+        "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
+        "dt": "2026-04-22T13:29:13",
+        "points": 2,
+        "submitter": "gmays",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47863336",
+        "numComments": 0
+    },
+    {
+        "id": "47858717",
+        "title": "Changes to GitHub Copilot Individual Plans",
+        "url": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/",
+        "dt": "2026-04-22T03:49:26",
+        "points": 2,
+        "submitter": "omer_k",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47858717",
+        "numComments": 0
+    },
+    {
+        "id": "47858272",
+        "title": "Is Claude Code going to cost $100/month? Probably not\u2014it\u2019s all very confusing",
+        "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
+        "dt": "2026-04-22T02:52:56",
+        "points": 3,
+        "submitter": "jbegley",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47858272",
+        "numComments": 1
+    },
+    {
+        "id": "47854473",
+        "title": "Where's the Raccoon with the Ham Radio?",
+        "url": "https://simonwillison.net/2026/Apr/21/gpt-image-2/",
+        "dt": "2026-04-21T21:02:45",
+        "points": 1,
+        "submitter": "metadat",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47854473",
+        "numComments": 1
+    },
+    {
         "id": "47829178",
         "title": "Claude Token Counter, now with model comparisons",
         "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
         "dt": "2026-04-20T00:56:40",
-        "points": 212,
+        "points": 224,
         "submitter": "twapi",
         "commentsUrl": "https://news.ycombinator.com/item?id=47829178",
-        "numComments": 81
+        "numComments": 83
     },
     {
         "id": "47824060",
         "title": "Claude system prompts as a Git timeline",
         "url": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/",
         "dt": "2026-04-19T13:11:52",
-        "points": 3,
+        "points": 4,
         "submitter": "Brajeshwar",
         "commentsUrl": "https://news.ycombinator.com/item?id=47824060",
         "numComments": 0
@@ -24,10 +124,10 @@
         "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
         "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
         "dt": "2026-04-19T10:36:29",
-        "points": 357,
+        "points": 370,
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=47823270",
-        "numComments": 208
+        "numComments": 218
     },
     {
         "id": "47820682",
@@ -37,14 +137,14 @@
         "points": 5,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47820682",
-        "numComments": 1
+        "numComments": 0
     },
     {
         "id": "47796830",
         "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
         "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
         "dt": "2026-04-16T17:37:20",
-        "points": 462,
+        "points": 463,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=47796830",
         "numComments": 97
@@ -198,105 +298,5 @@
         "submitter": "abdelhousni",
         "commentsUrl": "https://news.ycombinator.com/item?id=47511972",
         "numComments": 2
-    },
-    {
-        "id": "47497154",
-        "title": "Experimenting with Starlette 1.0 with Claude skills",
-        "url": "https://simonwillison.net/2026/Mar/22/starlette/",
-        "dt": "2026-03-24T00:31:17",
-        "points": 2,
-        "submitter": "linsomniac",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47497154",
-        "numComments": 0
-    },
-    {
-        "id": "47490412",
-        "title": "Experimenting with Starlette 1.0 with Claude skills",
-        "url": "https://simonwillison.net/2026/Mar/22/starlette/",
-        "dt": "2026-03-23T14:56:49",
-        "points": 12,
-        "submitter": "TheTaytay",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47490412",
-        "numComments": 4
-    },
-    {
-        "id": "47473086",
-        "title": "Profiling Hacker News users based on their comments",
-        "url": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/",
-        "dt": "2026-03-22T00:30:19",
-        "points": 88,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47473086",
-        "numComments": 86
-    },
-    {
-        "id": "47471647",
-        "title": "Turbo Pascal Deconstructed",
-        "url": "https://simonwillison.net/2026/Mar/20/turbo-pascal/",
-        "dt": "2026-03-21T21:32:50",
-        "points": 8,
-        "submitter": "alberto-m",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47471647",
-        "numComments": 7
-    },
-    {
-        "id": "47443675",
-        "title": "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
-        "url": "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/",
-        "dt": "2026-03-19T18:23:20",
-        "points": 86,
-        "submitter": "jt-hill",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47443675",
-        "numComments": 24
-    },
-    {
-        "id": "47440941",
-        "title": "Use subagents and custom agents in Codex",
-        "url": "https://simonwillison.net/2026/Mar/16/codex-subagents/",
-        "dt": "2026-03-19T15:17:23",
-        "points": 3,
-        "submitter": "gmays",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47440941",
-        "numComments": 0
-    },
-    {
-        "id": "47438166",
-        "title": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally with low RAM",
-        "url": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/",
-        "dt": "2026-03-19T12:24:34",
-        "points": 3,
-        "submitter": "walterbell",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47438166",
-        "numComments": 0
-    },
-    {
-        "id": "47430880",
-        "title": "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
-        "url": "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/",
-        "dt": "2026-03-18T20:16:51",
-        "points": 3,
-        "submitter": "mdp2021",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47430880",
-        "numComments": 0
-    },
-    {
-        "id": "47408991",
-        "title": "Coding Agents for Data Analysis",
-        "url": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/",
-        "dt": "2026-03-17T05:28:35",
-        "points": 3,
-        "submitter": "samuel246",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47408991",
-        "numComments": 0
-    },
-    {
-        "id": "47399759",
-        "title": "How Coding Agents Work",
-        "url": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/",
-        "dt": "2026-03-16T14:46:34",
-        "points": 2,
-        "submitter": "vinhnx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47399759",
-        "numComments": 0
     }
 ]
