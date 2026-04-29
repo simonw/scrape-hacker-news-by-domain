@@ -1,5 +1,15 @@
 [
     {
+        "id": "47943629",
+        "title": "What's new in pip 26.1 \u2013 lockfiles and dependency cooldowns",
+        "url": "https://simonwillison.net/2026/Apr/28/pip-261/",
+        "dt": "2026-04-29T02:42:13",
+        "points": 1,
+        "submitter": "y1n0",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47943629",
+        "numComments": 0
+    },
+    {
         "id": "47928617",
         "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
         "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/",
@@ -14,7 +24,7 @@
         "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
         "url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/",
         "dt": "2026-04-27T17:26:14",
-        "points": 4,
+        "points": 5,
         "submitter": "gmays",
         "commentsUrl": "https://news.ycombinator.com/item?id=47924548",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "cromulent",
         "commentsUrl": "https://news.ycombinator.com/item?id=47531459",
         "numComments": 0
-    },
-    {
-        "id": "47511972",
-        "title": "Package Managers Need to Cool Down",
-        "url": "https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/",
-        "dt": "2026-03-25T01:22:31",
-        "points": 21,
-        "submitter": "abdelhousni",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47511972",
-        "numComments": 2
     }
 ]
