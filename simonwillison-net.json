@@ -1,13 +1,23 @@
 [
     {
+        "id": "47959504",
+        "title": "LLM 0.32a0 is a major backwards-compatible refactor",
+        "url": "https://simonwillison.net/2026/Apr/29/llm/",
+        "dt": "2026-04-30T07:50:35",
+        "points": 2,
+        "submitter": "thebeardisred",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47959504",
+        "numComments": 0
+    },
+    {
         "id": "47957294",
-        "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+        "title": "The Zig project's rationale for their anti-AI contribution policy",
         "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
         "dt": "2026-04-30T02:15:47",
-        "points": 6,
+        "points": 280,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=47957294",
-        "numComments": 1
+        "numComments": 118
     },
     {
         "id": "47943629",
@@ -287,16 +297,6 @@
         "points": 5,
         "submitter": "vinhnx",
         "commentsUrl": "https://news.ycombinator.com/item?id=47561322",
-        "numComments": 0
-    },
-    {
-        "id": "47550631",
-        "title": "SwiftUI Apps on macOS are fun to code",
-        "url": "https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/",
-        "dt": "2026-03-28T01:36:23",
-        "points": 6,
-        "submitter": "rdslw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47550631",
         "numComments": 0
     }
 ]
