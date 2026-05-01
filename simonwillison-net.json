@@ -1,10 +1,20 @@
 [
     {
+        "id": "47977026",
+        "title": "DeepSeek V4\u2013almost on the frontier, a fraction of the price",
+        "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+        "dt": "2026-05-01T16:52:43",
+        "points": 16,
+        "submitter": "indigodaddy",
+        "commentsUrl": "https://news.ycombinator.com/item?id=47977026",
+        "numComments": 1
+    },
+    {
         "id": "47959504",
         "title": "LLM 0.32a0 is a major backwards-compatible refactor",
         "url": "https://simonwillison.net/2026/Apr/29/llm/",
         "dt": "2026-04-30T07:50:35",
-        "points": 2,
+        "points": 3,
         "submitter": "thebeardisred",
         "commentsUrl": "https://news.ycombinator.com/item?id=47959504",
         "numComments": 0
@@ -14,10 +24,10 @@
         "title": "The Zig project's rationale for their anti-AI contribution policy",
         "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
         "dt": "2026-04-30T02:15:47",
-        "points": 551,
+        "points": 668,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=47957294",
-        "numComments": 311
+        "numComments": 451
     },
     {
         "id": "47943629",
@@ -288,15 +298,5 @@
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=47569835",
         "numComments": 1
-    },
-    {
-        "id": "47561322",
-        "title": "Sorting Algorithms",
-        "url": "https://tools.simonwillison.net/sort-algorithms",
-        "dt": "2026-03-29T08:22:36",
-        "points": 5,
-        "submitter": "vinhnx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47561322",
-        "numComments": 0
     }
 ]
