@@ -1,5 +1,15 @@
 [
     {
+        "id": "48037128",
+        "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+        "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "dt": "2026-05-06T15:06:37",
+        "points": 99,
+        "submitter": "e12e",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48037128",
+        "numComments": 125
+    },
+    {
         "id": "48019437",
         "title": "Y Combinator holds $5B stake in OpenAI",
         "url": "https://simonwillison.net/2026/May/5/john-gruber/",
@@ -288,15 +298,5 @@
         "submitter": "y1n0",
         "commentsUrl": "https://news.ycombinator.com/item?id=47582056",
         "numComments": 53
-    },
-    {
-        "id": "47575062",
-        "title": "Mr. Chatterbox is a (weak) Victorian-era ethically trained model",
-        "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
-        "dt": "2026-03-30T14:47:09",
-        "points": 9,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47575062",
-        "numComments": 3
     }
 ]
