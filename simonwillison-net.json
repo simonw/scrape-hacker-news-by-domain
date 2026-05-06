@@ -1,13 +1,23 @@
 [
     {
+        "id": "48039626",
+        "title": "Live blog: Code with Claude 2026",
+        "url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/",
+        "dt": "2026-05-06T18:16:36",
+        "points": 1,
+        "submitter": "Tomte",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48039626",
+        "numComments": 0
+    },
+    {
         "id": "48037128",
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
         "dt": "2026-05-06T15:06:37",
-        "points": 99,
+        "points": 195,
         "submitter": "e12e",
         "commentsUrl": "https://news.ycombinator.com/item?id=48037128",
-        "numComments": 125
+        "numComments": 256
     },
     {
         "id": "48019437",
@@ -24,7 +34,7 @@
         "title": "DeepSeek V4 \u2013 almost on the frontier",
         "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
         "dt": "2026-05-01T16:52:43",
-        "points": 668,
+        "points": 669,
         "submitter": "indigodaddy",
         "commentsUrl": "https://news.ycombinator.com/item?id=47977026",
         "numComments": 392
@@ -44,7 +54,7 @@
         "title": "The Zig project's rationale for their anti-AI contribution policy",
         "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
         "dt": "2026-04-30T02:15:47",
-        "points": 679,
+        "points": 680,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=47957294",
         "numComments": 462
@@ -288,15 +298,5 @@
         "submitter": "cmitsakis",
         "commentsUrl": "https://news.ycombinator.com/item?id=47627419",
         "numComments": 12
-    },
-    {
-        "id": "47582056",
-        "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
-        "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
-        "dt": "2026-03-31T02:26:15",
-        "points": 93,
-        "submitter": "y1n0",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47582056",
-        "numComments": 53
     }
 ]
