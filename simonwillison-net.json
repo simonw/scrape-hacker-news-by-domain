@@ -4,7 +4,7 @@
         "title": "Live blog: Code with Claude 2026",
         "url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/",
         "dt": "2026-05-06T18:16:36",
-        "points": 1,
+        "points": 2,
         "submitter": "Tomte",
         "commentsUrl": "https://news.ycombinator.com/item?id=48039626",
         "numComments": 0
@@ -14,17 +14,17 @@
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
         "dt": "2026-05-06T15:06:37",
-        "points": 195,
+        "points": 498,
         "submitter": "e12e",
         "commentsUrl": "https://news.ycombinator.com/item?id=48037128",
-        "numComments": 256
+        "numComments": 539
     },
     {
         "id": "48019437",
         "title": "Y Combinator holds $5B stake in OpenAI",
         "url": "https://simonwillison.net/2026/May/5/john-gruber/",
         "dt": "2026-05-05T08:12:59",
-        "points": 4,
+        "points": 7,
         "submitter": "isaacfrond",
         "commentsUrl": "https://news.ycombinator.com/item?id=48019437",
         "numComments": 2
@@ -34,7 +34,7 @@
         "title": "DeepSeek V4 \u2013 almost on the frontier",
         "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
         "dt": "2026-05-01T16:52:43",
-        "points": 669,
+        "points": 670,
         "submitter": "indigodaddy",
         "commentsUrl": "https://news.ycombinator.com/item?id=47977026",
         "numComments": 392
@@ -54,7 +54,7 @@
         "title": "The Zig project's rationale for their anti-AI contribution policy",
         "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
         "dt": "2026-04-30T02:15:47",
-        "points": 680,
+        "points": 681,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=47957294",
         "numComments": 462
