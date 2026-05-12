@@ -1,10 +1,50 @@
 [
     {
+        "id": "48102767",
+        "title": "GitLab Act 2",
+        "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/",
+        "dt": "2026-05-12T00:45:27",
+        "points": 3,
+        "submitter": "digitallogic",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48102767",
+        "numComments": 0
+    },
+    {
+        "id": "48099278",
+        "title": "Using LLM in the shebang line of a script",
+        "url": "https://til.simonwillison.net/llms/llm-shebang",
+        "dt": "2026-05-11T19:06:17",
+        "points": 4,
+        "submitter": "twapi",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48099278",
+        "numComments": 0
+    },
+    {
+        "id": "48097094",
+        "title": "Learning on the Shop Floor",
+        "url": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/",
+        "dt": "2026-05-11T16:23:53",
+        "points": 3,
+        "submitter": "swolpers",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48097094",
+        "numComments": 1
+    },
+    {
+        "id": "48065107",
+        "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+        "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/",
+        "dt": "2026-05-08T16:08:37",
+        "points": 3,
+        "submitter": "Brajeshwar",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48065107",
+        "numComments": 1
+    },
+    {
         "id": "48052037",
         "title": "Notes on the xAI/Anthropic data center deal",
         "url": "https://simonwillison.net/2026/May/7/xai-anthropic/",
         "dt": "2026-05-07T17:18:27",
-        "points": 21,
+        "points": 24,
         "submitter": "droidjj",
         "commentsUrl": "https://news.ycombinator.com/item?id=48052037",
         "numComments": 1
@@ -24,17 +64,17 @@
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
         "dt": "2026-05-06T15:06:37",
-        "points": 766,
+        "points": 784,
         "submitter": "e12e",
         "commentsUrl": "https://news.ycombinator.com/item?id=48037128",
-        "numComments": 864
+        "numComments": 884
     },
     {
         "id": "48019437",
         "title": "Y Combinator holds $5B stake in OpenAI",
         "url": "https://simonwillison.net/2026/May/5/john-gruber/",
         "dt": "2026-05-05T08:12:59",
-        "points": 8,
+        "points": 9,
         "submitter": "isaacfrond",
         "commentsUrl": "https://news.ycombinator.com/item?id=48019437",
         "numComments": 2
@@ -44,10 +84,10 @@
         "title": "DeepSeek V4 \u2013 almost on the frontier",
         "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
         "dt": "2026-05-01T16:52:43",
-        "points": 672,
+        "points": 677,
         "submitter": "indigodaddy",
         "commentsUrl": "https://news.ycombinator.com/item?id=47977026",
-        "numComments": 394
+        "numComments": 397
     },
     {
         "id": "47959504",
@@ -64,7 +104,7 @@
         "title": "The Zig project's rationale for their anti-AI contribution policy",
         "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
         "dt": "2026-04-30T02:15:47",
-        "points": 681,
+        "points": 683,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=47957294",
         "numComments": 462
@@ -257,46 +297,6 @@
         "points": 2,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=47699703",
-        "numComments": 0
-    },
-    {
-        "id": "47686697",
-        "title": "GLM 5.1: Pelican Test",
-        "url": "https://simonwillison.net/2026/Apr/7/glm-51/",
-        "dt": "2026-04-08T07:38:19",
-        "points": 4,
-        "submitter": "sorenbs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47686697",
-        "numComments": 2
-    },
-    {
-        "id": "47681241",
-        "title": "Anthropic's Project Glasswing sounds necessary to me",
-        "url": "https://simonwillison.net/2026/Apr/7/project-glasswing/",
-        "dt": "2026-04-07T20:53:59",
-        "points": 57,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47681241",
-        "numComments": 13
-    },
-    {
-        "id": "47656897",
-        "title": "Eight years of wanting, three months of building with AI",
-        "url": "https://simonwillison.net/2026/Apr/5/building-with-ai/",
-        "dt": "2026-04-06T04:09:41",
-        "points": 1,
-        "submitter": "doppp",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47656897",
-        "numComments": 1
-    },
-    {
-        "id": "47636897",
-        "title": "This stuff is exhausting (Simon Willison on using coding agents)",
-        "url": "https://simonwillison.net/2026/Apr/2/lennys-podcast/",
-        "dt": "2026-04-04T07:56:13",
-        "points": 2,
-        "submitter": "osks",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47636897",
         "numComments": 0
     }
 ]
