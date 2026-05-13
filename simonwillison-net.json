@@ -1,5 +1,25 @@
 [
     {
+        "id": "48116986",
+        "title": "Using LLM in the shebang line of a script",
+        "url": "https://til.simonwillison.net/llms/llm-shebang",
+        "dt": "2026-05-13T02:03:48",
+        "points": 3,
+        "submitter": "dnw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48116986",
+        "numComments": 0
+    },
+    {
+        "id": "48112020",
+        "title": "Using LLM in the shebang line of a script",
+        "url": "https://simonwillison.net/2026/May/11/llm-shebang/",
+        "dt": "2026-05-12T18:10:46",
+        "points": 1,
+        "submitter": "Brajeshwar",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48112020",
+        "numComments": 0
+    },
+    {
         "id": "48102767",
         "title": "GitLab Act 2",
         "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/",
@@ -64,7 +84,7 @@
         "title": "Vibe coding and agentic engineering are getting closer than I'd like",
         "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
         "dt": "2026-05-06T15:06:37",
-        "points": 784,
+        "points": 787,
         "submitter": "e12e",
         "commentsUrl": "https://news.ycombinator.com/item?id=48037128",
         "numComments": 884
@@ -278,25 +298,5 @@
         "submitter": "aanet",
         "commentsUrl": "https://news.ycombinator.com/item?id=47782610",
         "numComments": 5
-    },
-    {
-        "id": "47717409",
-        "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
-        "url": "https://simonwillison.net/2026/Apr/8/muse-spark/",
-        "dt": "2026-04-10T12:54:46",
-        "points": 2,
-        "submitter": "gmays",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47717409",
-        "numComments": 0
-    },
-    {
-        "id": "47699703",
-        "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
-        "url": "https://simonwillison.net/2026/Apr/8/muse-spark/",
-        "dt": "2026-04-09T05:42:31",
-        "points": 2,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47699703",
-        "numComments": 0
     }
 ]
