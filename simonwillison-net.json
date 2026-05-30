@@ -1,5 +1,105 @@
 [
     {
+        "id": "48336258",
+        "title": "SQLite Does Not Accept Agentic Code",
+        "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
+        "dt": "2026-05-30T13:58:37",
+        "points": 1,
+        "submitter": "birdculture",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48336258",
+        "numComments": 0
+    },
+    {
+        "id": "48321617",
+        "title": "SQLite Does Not Accept Agentic Code",
+        "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
+        "dt": "2026-05-29T11:08:12",
+        "points": 6,
+        "submitter": "signa11",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48321617",
+        "numComments": 1
+    },
+    {
+        "id": "48319680",
+        "title": "Anthropic's self-reported run-rate revenue growth is wild",
+        "url": "https://simonwillison.net/2026/May/29/anthropic/",
+        "dt": "2026-05-29T06:16:57",
+        "points": 4,
+        "submitter": "pretext",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48319680",
+        "numComments": 0
+    },
+    {
+        "id": "48317601",
+        "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
+        "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/",
+        "dt": "2026-05-29T00:51:35",
+        "points": 2,
+        "submitter": "GavinAnderegg",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48317601",
+        "numComments": 2
+    },
+    {
+        "id": "48296794",
+        "title": "I think Anthropic and OpenAI have found product-market fit",
+        "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+        "dt": "2026-05-27T16:39:13",
+        "points": 1084,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48296794",
+        "numComments": 1238
+    },
+    {
+        "id": "48275098",
+        "title": "Notes on Pope Leo XIV's Encyclical on AI",
+        "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
+        "dt": "2026-05-26T04:45:29",
+        "points": 61,
+        "submitter": "pretext",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48275098",
+        "numComments": 12
+    },
+    {
+        "id": "48228321",
+        "title": "Show HN: Datasette Agent",
+        "url": "https://simonwillison.net/2026/May/21/datasette-agent/",
+        "dt": "2026-05-21T20:14:41",
+        "points": 10,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48228321",
+        "numComments": 1
+    },
+    {
+        "id": "48207450",
+        "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
+        "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/",
+        "dt": "2026-05-20T13:31:09",
+        "points": 2,
+        "submitter": "flyaway123",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48207450",
+        "numComments": 0
+    },
+    {
+        "id": "48200909",
+        "title": "Is Claude Code going to cost $100/month? Probably not\u2013it's all confusing",
+        "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
+        "dt": "2026-05-19T23:11:36",
+        "points": 4,
+        "submitter": "birdculture",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48200909",
+        "numComments": 1
+    },
+    {
+        "id": "48188183",
+        "title": "The last six months in LLMs in five minutes",
+        "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+        "dt": "2026-05-19T01:30:42",
+        "points": 803,
+        "submitter": "yakkomajuri",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48188183",
+        "numComments": 587
+    },
+    {
         "id": "48116986",
         "title": "Using LLM in the shebang line of a script",
         "url": "https://til.simonwillison.net/llms/llm-shebang",
@@ -198,105 +298,5 @@
         "submitter": "birdculture",
         "commentsUrl": "https://news.ycombinator.com/item?id=47877455",
         "numComments": 1
-    },
-    {
-        "id": "47863336",
-        "title": "Is Claude Code going to cost $100/month? Probably not\u2013it's all confusing",
-        "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
-        "dt": "2026-04-22T13:29:13",
-        "points": 2,
-        "submitter": "gmays",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47863336",
-        "numComments": 0
-    },
-    {
-        "id": "47858717",
-        "title": "Changes to GitHub Copilot Individual Plans",
-        "url": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/",
-        "dt": "2026-04-22T03:49:26",
-        "points": 2,
-        "submitter": "omer_k",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47858717",
-        "numComments": 0
-    },
-    {
-        "id": "47858272",
-        "title": "Is Claude Code going to cost $100/month? Probably not\u2014it\u2019s all very confusing",
-        "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
-        "dt": "2026-04-22T02:52:56",
-        "points": 3,
-        "submitter": "jbegley",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47858272",
-        "numComments": 1
-    },
-    {
-        "id": "47854473",
-        "title": "Where's the Raccoon with the Ham Radio?",
-        "url": "https://simonwillison.net/2026/Apr/21/gpt-image-2/",
-        "dt": "2026-04-21T21:02:45",
-        "points": 1,
-        "submitter": "metadat",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47854473",
-        "numComments": 1
-    },
-    {
-        "id": "47829178",
-        "title": "Claude Token Counter, now with model comparisons",
-        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-        "dt": "2026-04-20T00:56:40",
-        "points": 224,
-        "submitter": "twapi",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47829178",
-        "numComments": 83
-    },
-    {
-        "id": "47824060",
-        "title": "Claude system prompts as a Git timeline",
-        "url": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/",
-        "dt": "2026-04-19T13:11:52",
-        "points": 4,
-        "submitter": "Brajeshwar",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47824060",
-        "numComments": 0
-    },
-    {
-        "id": "47823270",
-        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-        "dt": "2026-04-19T10:36:29",
-        "points": 370,
-        "submitter": "pretext",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47823270",
-        "numComments": 218
-    },
-    {
-        "id": "47820682",
-        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-        "dt": "2026-04-19T00:14:06",
-        "points": 5,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47820682",
-        "numComments": 0
-    },
-    {
-        "id": "47796830",
-        "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-        "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-        "dt": "2026-04-16T17:37:20",
-        "points": 463,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47796830",
-        "numComments": 97
-    },
-    {
-        "id": "47782610",
-        "title": "Gemini 3.1 Flash TTS \u2013 with directed prompts",
-        "url": "https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/",
-        "dt": "2026-04-15T17:47:08",
-        "points": 18,
-        "submitter": "aanet",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47782610",
-        "numComments": 5
     }
 ]

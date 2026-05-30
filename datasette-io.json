@@ -1,5 +1,15 @@
 [
     {
+        "id": "48297784",
+        "title": "Datasette: An open source multi-tool for exploring and publishing data",
+        "url": "https://datasette.io/",
+        "dt": "2026-05-27T17:46:26",
+        "points": 2,
+        "submitter": "Olshansky",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48297784",
+        "numComments": 1
+    },
+    {
         "id": "45612672",
         "title": "Office MCP Registry on Datasette",
         "url": "https://lite.datasette.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Frosmur%2Fofficial-mcp-registry-database%2Fmain%2Fofficial_mcp_registry.db#/official_mcp_registry/servers",
