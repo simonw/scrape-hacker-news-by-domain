@@ -4,7 +4,7 @@
         "title": "SQLite Does Not Accept Agentic Code",
         "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
         "dt": "2026-05-30T13:58:37",
-        "points": 1,
+        "points": 2,
         "submitter": "birdculture",
         "commentsUrl": "https://news.ycombinator.com/item?id=48336258",
         "numComments": 0
@@ -24,7 +24,7 @@
         "title": "Anthropic's self-reported run-rate revenue growth is wild",
         "url": "https://simonwillison.net/2026/May/29/anthropic/",
         "dt": "2026-05-29T06:16:57",
-        "points": 4,
+        "points": 5,
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=48319680",
         "numComments": 0
@@ -44,10 +44,10 @@
         "title": "I think Anthropic and OpenAI have found product-market fit",
         "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
         "dt": "2026-05-27T16:39:13",
-        "points": 1084,
+        "points": 1087,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=48296794",
-        "numComments": 1238
+        "numComments": 1240
     },
     {
         "id": "48275098",
