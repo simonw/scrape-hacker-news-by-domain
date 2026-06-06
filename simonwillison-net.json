@@ -1,10 +1,50 @@
 [
     {
+        "id": "48421921",
+        "title": "Running Python code in a sandbox with MicroPython and WASM",
+        "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+        "dt": "2026-06-06T06:15:17",
+        "points": 8,
+        "submitter": "pretext",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48421921",
+        "numComments": 1
+    },
+    {
+        "id": "48383056",
+        "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+        "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+        "dt": "2026-06-03T12:25:14",
+        "points": 615,
+        "submitter": "pdyc",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48383056",
+        "numComments": 762
+    },
+    {
+        "id": "48346043",
+        "title": "Running Python ASGI apps in the browser via Pyodide and a service worker",
+        "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/",
+        "dt": "2026-05-31T14:41:46",
+        "points": 4,
+        "submitter": "Brajeshwar",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48346043",
+        "numComments": 0
+    },
+    {
+        "id": "48346040",
+        "title": "We contain Claude across products",
+        "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/",
+        "dt": "2026-05-31T14:41:18",
+        "points": 3,
+        "submitter": "Brajeshwar",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48346040",
+        "numComments": 0
+    },
+    {
         "id": "48336258",
         "title": "SQLite Does Not Accept Agentic Code",
         "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
         "dt": "2026-05-30T13:58:37",
-        "points": 2,
+        "points": 3,
         "submitter": "birdculture",
         "commentsUrl": "https://news.ycombinator.com/item?id=48336258",
         "numComments": 0
@@ -27,7 +67,7 @@
         "points": 5,
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=48319680",
-        "numComments": 0
+        "numComments": 1
     },
     {
         "id": "48317601",
@@ -44,17 +84,17 @@
         "title": "I think Anthropic and OpenAI have found product-market fit",
         "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
         "dt": "2026-05-27T16:39:13",
-        "points": 1087,
+        "points": 1094,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=48296794",
-        "numComments": 1240
+        "numComments": 1244
     },
     {
         "id": "48275098",
         "title": "Notes on Pope Leo XIV's Encyclical on AI",
         "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
         "dt": "2026-05-26T04:45:29",
-        "points": 61,
+        "points": 62,
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=48275098",
         "numComments": 12
@@ -94,7 +134,7 @@
         "title": "The last six months in LLMs in five minutes",
         "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
         "dt": "2026-05-19T01:30:42",
-        "points": 803,
+        "points": 804,
         "submitter": "yakkomajuri",
         "commentsUrl": "https://news.ycombinator.com/item?id=48188183",
         "numComments": 587
@@ -257,46 +297,6 @@
         "points": 5,
         "submitter": "gmays",
         "commentsUrl": "https://news.ycombinator.com/item?id=47924548",
-        "numComments": 1
-    },
-    {
-        "id": "47898932",
-        "title": "GPT-5.5 Prompting Guide",
-        "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/",
-        "dt": "2026-04-25T05:30:55",
-        "points": 3,
-        "submitter": "y1n0",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47898932",
-        "numComments": 1
-    },
-    {
-        "id": "47890571",
-        "title": "Extract PDF text in the browser with LiteParse for the web",
-        "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/",
-        "dt": "2026-04-24T14:11:33",
-        "points": 1,
-        "submitter": "pierre",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47890571",
-        "numComments": 0
-    },
-    {
-        "id": "47882675",
-        "title": "Extract PDF text in the browser with LiteParse for the web",
-        "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/",
-        "dt": "2026-04-23T21:59:33",
-        "points": 5,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47882675",
-        "numComments": 0
-    },
-    {
-        "id": "47877455",
-        "title": "Is Claude Code going to cost $100/month? Probably not\u2013it's all confusing",
-        "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
-        "dt": "2026-04-23T16:08:28",
-        "points": 4,
-        "submitter": "birdculture",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47877455",
         "numComments": 1
     }
 ]
