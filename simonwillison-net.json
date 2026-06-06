@@ -1,20 +1,30 @@
 [
     {
+        "id": "48425347",
+        "title": "Running Python code in a sandbox with MicroPython and WASM",
+        "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+        "dt": "2026-06-06T14:15:32",
+        "points": 27,
+        "submitter": "theanonymousone",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48425347",
+        "numComments": 8
+    },
+    {
         "id": "48421921",
         "title": "Running Python code in a sandbox with MicroPython and WASM",
         "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
         "dt": "2026-06-06T06:15:17",
-        "points": 8,
+        "points": 12,
         "submitter": "pretext",
         "commentsUrl": "https://news.ycombinator.com/item?id=48421921",
-        "numComments": 1
+        "numComments": 2
     },
     {
         "id": "48383056",
         "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
         "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
         "dt": "2026-06-03T12:25:14",
-        "points": 615,
+        "points": 617,
         "submitter": "pdyc",
         "commentsUrl": "https://news.ycombinator.com/item?id=48383056",
         "numComments": 762
@@ -288,15 +298,5 @@
         "submitter": "yakkomajuri",
         "commentsUrl": "https://news.ycombinator.com/item?id=47928617",
         "numComments": 0
-    },
-    {
-        "id": "47924548",
-        "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-        "url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/",
-        "dt": "2026-04-27T17:26:14",
-        "points": 5,
-        "submitter": "gmays",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47924548",
-        "numComments": 1
     }
 ]
