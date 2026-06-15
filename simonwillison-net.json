@@ -1,13 +1,93 @@
 [
     {
+        "id": "48543293",
+        "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
+        "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/",
+        "dt": "2026-06-15T16:05:13",
+        "points": 3,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48543293",
+        "numComments": 0
+    },
+    {
+        "id": "48537572",
+        "title": "Why AI hasn't replaced software engineers, and won't",
+        "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/",
+        "dt": "2026-06-15T07:02:37",
+        "points": 5,
+        "submitter": "SVI",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48537572",
+        "numComments": 0
+    },
+    {
+        "id": "48498573",
+        "title": "Claude Fable is relentlessly proactive",
+        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+        "dt": "2026-06-12T01:06:51",
+        "points": 769,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48498573",
+        "numComments": 657
+    },
+    {
+        "id": "48488304",
+        "title": "Anthropic Walks Back Policy That Could Sabotage AI Researchers Using Claude",
+        "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/",
+        "dt": "2026-06-11T09:57:19",
+        "points": 1,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48488304",
+        "numComments": 0
+    },
+    {
+        "id": "48485598",
+        "title": "Initial impressions of Claude Fable 5",
+        "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
+        "dt": "2026-06-11T02:34:41",
+        "points": 9,
+        "submitter": "gillytech",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48485598",
+        "numComments": 2
+    },
+    {
+        "id": "48471153",
+        "title": "Initial impressions of Claude Fable 5",
+        "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
+        "dt": "2026-06-10T03:42:37",
+        "points": 20,
+        "submitter": "mfiguiere",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48471153",
+        "numComments": 2
+    },
+    {
+        "id": "48470557",
+        "title": "If Claude Fable stops helping you, you'll never know",
+        "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/",
+        "dt": "2026-06-10T02:22:46",
+        "points": 8,
+        "submitter": "behnamoh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48470557",
+        "numComments": 2
+    },
+    {
+        "id": "48456586",
+        "title": "Siri AI at WWDC 2026",
+        "url": "https://simonwillison.net/2026/Jun/8/wwdc/",
+        "dt": "2026-06-09T04:51:59",
+        "points": 2,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48456586",
+        "numComments": 0
+    },
+    {
         "id": "48425347",
         "title": "Running Python code in a sandbox with MicroPython and WASM",
         "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
         "dt": "2026-06-06T14:15:32",
-        "points": 77,
+        "points": 110,
         "submitter": "theanonymousone",
         "commentsUrl": "https://news.ycombinator.com/item?id=48425347",
-        "numComments": 23
+        "numComments": 41
     },
     {
         "id": "48421921",
@@ -24,10 +104,10 @@
         "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
         "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
         "dt": "2026-06-03T12:25:14",
-        "points": 617,
+        "points": 624,
         "submitter": "pdyc",
         "commentsUrl": "https://news.ycombinator.com/item?id=48383056",
-        "numComments": 764
+        "numComments": 770
     },
     {
         "id": "48346043",
@@ -97,7 +177,7 @@
         "points": 1094,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=48296794",
-        "numComments": 1244
+        "numComments": 1245
     },
     {
         "id": "48275098",
@@ -218,85 +298,5 @@
         "submitter": "droidjj",
         "commentsUrl": "https://news.ycombinator.com/item?id=48052037",
         "numComments": 1
-    },
-    {
-        "id": "48039626",
-        "title": "Live blog: Code with Claude 2026",
-        "url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/",
-        "dt": "2026-05-06T18:16:36",
-        "points": 2,
-        "submitter": "Tomte",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48039626",
-        "numComments": 0
-    },
-    {
-        "id": "48037128",
-        "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-        "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "dt": "2026-05-06T15:06:37",
-        "points": 787,
-        "submitter": "e12e",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48037128",
-        "numComments": 885
-    },
-    {
-        "id": "48019437",
-        "title": "Y Combinator holds $5B stake in OpenAI",
-        "url": "https://simonwillison.net/2026/May/5/john-gruber/",
-        "dt": "2026-05-05T08:12:59",
-        "points": 9,
-        "submitter": "isaacfrond",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48019437",
-        "numComments": 2
-    },
-    {
-        "id": "47977026",
-        "title": "DeepSeek V4 \u2013 almost on the frontier",
-        "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-        "dt": "2026-05-01T16:52:43",
-        "points": 677,
-        "submitter": "indigodaddy",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47977026",
-        "numComments": 398
-    },
-    {
-        "id": "47959504",
-        "title": "LLM 0.32a0 is a major backwards-compatible refactor",
-        "url": "https://simonwillison.net/2026/Apr/29/llm/",
-        "dt": "2026-04-30T07:50:35",
-        "points": 3,
-        "submitter": "thebeardisred",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47959504",
-        "numComments": 0
-    },
-    {
-        "id": "47957294",
-        "title": "The Zig project's rationale for their anti-AI contribution policy",
-        "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-        "dt": "2026-04-30T02:15:47",
-        "points": 683,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47957294",
-        "numComments": 462
-    },
-    {
-        "id": "47943629",
-        "title": "What's new in pip 26.1 \u2013 lockfiles and dependency cooldowns",
-        "url": "https://simonwillison.net/2026/Apr/28/pip-261/",
-        "dt": "2026-04-29T02:42:13",
-        "points": 1,
-        "submitter": "y1n0",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47943629",
-        "numComments": 0
-    },
-    {
-        "id": "47928617",
-        "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
-        "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/",
-        "dt": "2026-04-27T23:22:27",
-        "points": 3,
-        "submitter": "yakkomajuri",
-        "commentsUrl": "https://news.ycombinator.com/item?id=47928617",
-        "numComments": 0
     }
 ]
