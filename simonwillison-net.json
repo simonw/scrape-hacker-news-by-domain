@@ -1,20 +1,30 @@
 [
     {
+        "id": "49025777",
+        "title": "Importing a front end JavaScript library without a build system",
+        "url": "https://simonwillison.net/2024/Nov/23/without-a-build-system/",
+        "dt": "2026-07-23T18:09:37",
+        "points": 1,
+        "submitter": "ulrischa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49025777",
+        "numComments": 0
+    },
+    {
         "id": "49015639",
         "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
         "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
         "dt": "2026-07-23T01:16:14",
-        "points": 241,
+        "points": 322,
         "submitter": "abhisek",
         "commentsUrl": "https://news.ycombinator.com/item?id=49015639",
-        "numComments": 204
+        "numComments": 270
     },
     {
         "id": "49000570",
         "title": "A Fireside Chat with Cat and Thariq from the Claude Code Team",
         "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/",
         "dt": "2026-07-22T01:12:48",
-        "points": 2,
+        "points": 3,
         "submitter": "vismit2000",
         "commentsUrl": "https://news.ycombinator.com/item?id=49000570",
         "numComments": 0
@@ -47,7 +57,7 @@
         "points": 38,
         "submitter": "edward",
         "commentsUrl": "https://news.ycombinator.com/item?id=48988265",
-        "numComments": 39
+        "numComments": 41
     },
     {
         "id": "48983817",
@@ -97,7 +107,7 @@
         "points": 406,
         "submitter": "droidjj",
         "commentsUrl": "https://news.ycombinator.com/item?id=48947717",
-        "numComments": 222
+        "numComments": 223
     },
     {
         "id": "48943670",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=48543293",
-        "numComments": 0
-    },
-    {
-        "id": "48537572",
-        "title": "Why AI hasn't replaced software engineers, and won't",
-        "url": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/",
-        "dt": "2026-06-15T07:02:37",
-        "points": 5,
-        "submitter": "SVI",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48537572",
         "numComments": 0
     }
 ]
