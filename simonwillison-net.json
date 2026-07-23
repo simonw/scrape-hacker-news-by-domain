@@ -1,10 +1,290 @@
 [
     {
+        "id": "49015639",
+        "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
+        "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+        "dt": "2026-07-23T01:16:14",
+        "points": 241,
+        "submitter": "abhisek",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49015639",
+        "numComments": 204
+    },
+    {
+        "id": "49000570",
+        "title": "A Fireside Chat with Cat and Thariq from the Claude Code Team",
+        "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/",
+        "dt": "2026-07-22T01:12:48",
+        "points": 2,
+        "submitter": "vismit2000",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49000570",
+        "numComments": 0
+    },
+    {
+        "id": "48994248",
+        "title": "Quoting Sam Altman",
+        "url": "https://simonwillison.net/2026/Jul/20/sam-altman/",
+        "dt": "2026-07-21T16:10:50",
+        "points": 4,
+        "submitter": "ImageXav",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48994248",
+        "numComments": 1
+    },
+    {
+        "id": "48991998",
+        "title": "A Fireside Chat with Cat and Thariq from the Claude Code Team",
+        "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/",
+        "dt": "2026-07-21T13:23:10",
+        "points": 1,
+        "submitter": "arto",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48991998",
+        "numComments": 0
+    },
+    {
+        "id": "48988265",
+        "title": "Reverse-engineering is cheap now",
+        "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
+        "dt": "2026-07-21T05:10:46",
+        "points": 38,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48988265",
+        "numComments": 39
+    },
+    {
+        "id": "48983817",
+        "title": "Reverse-engineering is cheap now",
+        "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
+        "dt": "2026-07-20T19:36:40",
+        "points": 13,
+        "submitter": "ingve",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48983817",
+        "numComments": 1
+    },
+    {
+        "id": "48966569",
+        "title": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "dt": "2026-07-19T10:03:23",
+        "points": 606,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48966569",
+        "numComments": 843
+    },
+    {
+        "id": "48958240",
+        "title": "Claude make Fable 5 permanent",
+        "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
+        "dt": "2026-07-18T14:01:49",
+        "points": 12,
+        "submitter": "Brajeshwar",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48958240",
+        "numComments": 0
+    },
+    {
+        "id": "48955805",
+        "title": "LLM Clich\u00e9 Highlighter",
+        "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
+        "dt": "2026-07-18T06:48:38",
+        "points": 1,
+        "submitter": "m_c",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48955805",
+        "numComments": 0
+    },
+    {
+        "id": "48947717",
+        "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+        "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+        "dt": "2026-07-17T14:21:51",
+        "points": 406,
+        "submitter": "droidjj",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48947717",
+        "numComments": 222
+    },
+    {
+        "id": "48943670",
+        "title": "Spot Birds Not Golf",
+        "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/",
+        "dt": "2026-07-17T05:37:35",
+        "points": 4,
+        "submitter": "zdw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48943670",
+        "numComments": 0
+    },
+    {
+        "id": "48921766",
+        "title": "lobste.rs is now running on SQLite",
+        "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/",
+        "dt": "2026-07-15T14:53:06",
+        "points": 9,
+        "submitter": "Brajeshwar",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48921766",
+        "numComments": 1
+    },
+    {
+        "id": "48843353",
+        "title": "Questions for the Team During Onboarding",
+        "url": "https://simonwillison.net/2026/Mar/6/ally-piechowski/",
+        "dt": "2026-07-09T09:47:33",
+        "points": 6,
+        "submitter": "grepsedawk",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48843353",
+        "numComments": 1
+    },
+    {
+        "id": "48839751",
+        "title": "Rewriting Bun in Rust",
+        "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/",
+        "dt": "2026-07-09T01:22:24",
+        "points": 34,
+        "submitter": "doppp",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48839751",
+        "numComments": 7
+    },
+    {
+        "id": "48829222",
+        "title": "SQLite-utils 4.0, now with database schema migrations",
+        "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/",
+        "dt": "2026-07-08T08:35:07",
+        "points": 1,
+        "submitter": "pretext",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48829222",
+        "numComments": 0
+    },
+    {
+        "id": "48823031",
+        "title": "SQLite-utils 4.0, now with database schema migrations",
+        "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/",
+        "dt": "2026-07-07T20:10:45",
+        "points": 20,
+        "submitter": "SVI",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48823031",
+        "numComments": 0
+    },
+    {
+        "id": "48818001",
+        "title": "Fable's Judgement",
+        "url": "https://simonwillison.net/2026/Jul/3/judgement/",
+        "dt": "2026-07-07T14:00:27",
+        "points": 3,
+        "submitter": "surprisetalk",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48818001",
+        "numComments": 2
+    },
+    {
+        "id": "48791708",
+        "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+        "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+        "dt": "2026-07-05T06:19:34",
+        "points": 66,
+        "submitter": "ognyankulev",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48791708",
+        "numComments": 84
+    },
+    {
+        "id": "48762040",
+        "title": "Porting the Moebius 0.2B image model to run in Claude Code on web",
+        "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/",
+        "dt": "2026-07-02T14:19:27",
+        "points": 2,
+        "submitter": "ddp26",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48762040",
+        "numComments": 0
+    },
+    {
+        "id": "48742426",
+        "title": "What's new in Claude Sonnet 5",
+        "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/",
+        "dt": "2026-07-01T04:57:42",
+        "points": 7,
+        "submitter": "ankitg12",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48742426",
+        "numComments": 0
+    },
+    {
+        "id": "48735625",
+        "title": "Show HN: Shot-scraper video tool for recording YAML-defined webapp feature demos",
+        "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/",
+        "dt": "2026-06-30T16:58:38",
+        "points": 8,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48735625",
+        "numComments": 2
+    },
+    {
+        "id": "48688448",
+        "title": "AI and Liability",
+        "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/",
+        "dt": "2026-06-26T16:21:08",
+        "points": 2,
+        "submitter": "Brajeshwar",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48688448",
+        "numComments": 0
+    },
+    {
+        "id": "48647136",
+        "title": "Prompt Injection as Role Confusion",
+        "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/",
+        "dt": "2026-06-23T16:04:27",
+        "points": 3,
+        "submitter": "Brajeshwar",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48647136",
+        "numComments": 0
+    },
+    {
+        "id": "48638268",
+        "title": "Porting Moebius 0.2B image inpainting model to run in browser with Claude Code",
+        "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/",
+        "dt": "2026-06-22T23:59:29",
+        "points": 3,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48638268",
+        "numComments": 0
+    },
+    {
+        "id": "48593731",
+        "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+        "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+        "dt": "2026-06-19T01:06:27",
+        "points": 156,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48593731",
+        "numComments": 68
+    },
+    {
+        "id": "48587383",
+        "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+        "url": "https://simonwillison.net/2026/Jun/17/glm-52/",
+        "dt": "2026-06-18T15:58:09",
+        "points": 28,
+        "submitter": "Brajeshwar",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48587383",
+        "numComments": 4
+    },
+    {
+        "id": "48580759",
+        "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+        "url": "https://simonwillison.net/2026/Jun/17/glm-52/",
+        "dt": "2026-06-18T04:18:39",
+        "points": 9,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48580759",
+        "numComments": 0
+    },
+    {
+        "id": "48552610",
+        "title": "The Fable 5 Export Controls Harm US Cyber Defense",
+        "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/",
+        "dt": "2026-06-16T09:15:19",
+        "points": 5,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=48552610",
+        "numComments": 0
+    },
+    {
         "id": "48543293",
         "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
         "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/",
         "dt": "2026-06-15T16:05:13",
-        "points": 3,
+        "points": 4,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=48543293",
         "numComments": 0
@@ -18,285 +298,5 @@
         "submitter": "SVI",
         "commentsUrl": "https://news.ycombinator.com/item?id=48537572",
         "numComments": 0
-    },
-    {
-        "id": "48498573",
-        "title": "Claude Fable is relentlessly proactive",
-        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-        "dt": "2026-06-12T01:06:51",
-        "points": 769,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48498573",
-        "numComments": 657
-    },
-    {
-        "id": "48488304",
-        "title": "Anthropic Walks Back Policy That Could Sabotage AI Researchers Using Claude",
-        "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/",
-        "dt": "2026-06-11T09:57:19",
-        "points": 1,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48488304",
-        "numComments": 0
-    },
-    {
-        "id": "48485598",
-        "title": "Initial impressions of Claude Fable 5",
-        "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
-        "dt": "2026-06-11T02:34:41",
-        "points": 9,
-        "submitter": "gillytech",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48485598",
-        "numComments": 2
-    },
-    {
-        "id": "48471153",
-        "title": "Initial impressions of Claude Fable 5",
-        "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
-        "dt": "2026-06-10T03:42:37",
-        "points": 20,
-        "submitter": "mfiguiere",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48471153",
-        "numComments": 2
-    },
-    {
-        "id": "48470557",
-        "title": "If Claude Fable stops helping you, you'll never know",
-        "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/",
-        "dt": "2026-06-10T02:22:46",
-        "points": 8,
-        "submitter": "behnamoh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48470557",
-        "numComments": 2
-    },
-    {
-        "id": "48456586",
-        "title": "Siri AI at WWDC 2026",
-        "url": "https://simonwillison.net/2026/Jun/8/wwdc/",
-        "dt": "2026-06-09T04:51:59",
-        "points": 2,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48456586",
-        "numComments": 0
-    },
-    {
-        "id": "48425347",
-        "title": "Running Python code in a sandbox with MicroPython and WASM",
-        "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
-        "dt": "2026-06-06T14:15:32",
-        "points": 110,
-        "submitter": "theanonymousone",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48425347",
-        "numComments": 41
-    },
-    {
-        "id": "48421921",
-        "title": "Running Python code in a sandbox with MicroPython and WASM",
-        "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
-        "dt": "2026-06-06T06:15:17",
-        "points": 15,
-        "submitter": "pretext",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48421921",
-        "numComments": 2
-    },
-    {
-        "id": "48383056",
-        "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-        "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-        "dt": "2026-06-03T12:25:14",
-        "points": 624,
-        "submitter": "pdyc",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48383056",
-        "numComments": 770
-    },
-    {
-        "id": "48346043",
-        "title": "Running Python ASGI apps in the browser via Pyodide and a service worker",
-        "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/",
-        "dt": "2026-05-31T14:41:46",
-        "points": 4,
-        "submitter": "Brajeshwar",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48346043",
-        "numComments": 0
-    },
-    {
-        "id": "48346040",
-        "title": "We contain Claude across products",
-        "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/",
-        "dt": "2026-05-31T14:41:18",
-        "points": 3,
-        "submitter": "Brajeshwar",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48346040",
-        "numComments": 0
-    },
-    {
-        "id": "48336258",
-        "title": "SQLite Does Not Accept Agentic Code",
-        "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
-        "dt": "2026-05-30T13:58:37",
-        "points": 3,
-        "submitter": "birdculture",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48336258",
-        "numComments": 0
-    },
-    {
-        "id": "48321617",
-        "title": "SQLite Does Not Accept Agentic Code",
-        "url": "https://simonwillison.net/2026/May/27/sqlite-agents/",
-        "dt": "2026-05-29T11:08:12",
-        "points": 6,
-        "submitter": "signa11",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48321617",
-        "numComments": 1
-    },
-    {
-        "id": "48319680",
-        "title": "Anthropic's self-reported run-rate revenue growth is wild",
-        "url": "https://simonwillison.net/2026/May/29/anthropic/",
-        "dt": "2026-05-29T06:16:57",
-        "points": 5,
-        "submitter": "pretext",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48319680",
-        "numComments": 1
-    },
-    {
-        "id": "48317601",
-        "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
-        "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/",
-        "dt": "2026-05-29T00:51:35",
-        "points": 2,
-        "submitter": "GavinAnderegg",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48317601",
-        "numComments": 2
-    },
-    {
-        "id": "48296794",
-        "title": "I think Anthropic and OpenAI have found product-market fit",
-        "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-        "dt": "2026-05-27T16:39:13",
-        "points": 1094,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48296794",
-        "numComments": 1245
-    },
-    {
-        "id": "48275098",
-        "title": "Notes on Pope Leo XIV's Encyclical on AI",
-        "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
-        "dt": "2026-05-26T04:45:29",
-        "points": 62,
-        "submitter": "pretext",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48275098",
-        "numComments": 12
-    },
-    {
-        "id": "48228321",
-        "title": "Show HN: Datasette Agent",
-        "url": "https://simonwillison.net/2026/May/21/datasette-agent/",
-        "dt": "2026-05-21T20:14:41",
-        "points": 10,
-        "submitter": "simonw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48228321",
-        "numComments": 1
-    },
-    {
-        "id": "48207450",
-        "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-        "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/",
-        "dt": "2026-05-20T13:31:09",
-        "points": 2,
-        "submitter": "flyaway123",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48207450",
-        "numComments": 0
-    },
-    {
-        "id": "48200909",
-        "title": "Is Claude Code going to cost $100/month? Probably not\u2013it's all confusing",
-        "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/",
-        "dt": "2026-05-19T23:11:36",
-        "points": 4,
-        "submitter": "birdculture",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48200909",
-        "numComments": 1
-    },
-    {
-        "id": "48188183",
-        "title": "The last six months in LLMs in five minutes",
-        "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-        "dt": "2026-05-19T01:30:42",
-        "points": 804,
-        "submitter": "yakkomajuri",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48188183",
-        "numComments": 587
-    },
-    {
-        "id": "48116986",
-        "title": "Using LLM in the shebang line of a script",
-        "url": "https://til.simonwillison.net/llms/llm-shebang",
-        "dt": "2026-05-13T02:03:48",
-        "points": 4,
-        "submitter": "dnw",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48116986",
-        "numComments": 0
-    },
-    {
-        "id": "48112020",
-        "title": "Using LLM in the shebang line of a script",
-        "url": "https://simonwillison.net/2026/May/11/llm-shebang/",
-        "dt": "2026-05-12T18:10:46",
-        "points": 2,
-        "submitter": "Brajeshwar",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48112020",
-        "numComments": 0
-    },
-    {
-        "id": "48102767",
-        "title": "GitLab Act 2",
-        "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/",
-        "dt": "2026-05-12T00:45:27",
-        "points": 3,
-        "submitter": "digitallogic",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48102767",
-        "numComments": 0
-    },
-    {
-        "id": "48099278",
-        "title": "Using LLM in the shebang line of a script",
-        "url": "https://til.simonwillison.net/llms/llm-shebang",
-        "dt": "2026-05-11T19:06:17",
-        "points": 4,
-        "submitter": "twapi",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48099278",
-        "numComments": 0
-    },
-    {
-        "id": "48097094",
-        "title": "Learning on the Shop Floor",
-        "url": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/",
-        "dt": "2026-05-11T16:23:53",
-        "points": 3,
-        "submitter": "swolpers",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48097094",
-        "numComments": 1
-    },
-    {
-        "id": "48065107",
-        "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
-        "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/",
-        "dt": "2026-05-08T16:08:37",
-        "points": 3,
-        "submitter": "Brajeshwar",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48065107",
-        "numComments": 1
-    },
-    {
-        "id": "48052037",
-        "title": "Notes on the xAI/Anthropic data center deal",
-        "url": "https://simonwillison.net/2026/May/7/xai-anthropic/",
-        "dt": "2026-05-07T17:18:27",
-        "points": 24,
-        "submitter": "droidjj",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48052037",
-        "numComments": 1
     }
 ]
