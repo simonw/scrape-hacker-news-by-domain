@@ -1,5 +1,15 @@
 [
     {
+        "id": "49090975",
+        "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+        "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/",
+        "dt": "2026-07-28T22:43:03",
+        "points": 4,
+        "submitter": "Jimmc414",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49090975",
+        "numComments": 1
+    },
+    {
         "id": "49085594",
         "title": "An opinionated guide to which AI to use to do stuff",
         "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/",
@@ -288,15 +298,5 @@
         "submitter": "Brajeshwar",
         "commentsUrl": "https://news.ycombinator.com/item?id=48587383",
         "numComments": 4
-    },
-    {
-        "id": "48580759",
-        "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
-        "url": "https://simonwillison.net/2026/Jun/17/glm-52/",
-        "dt": "2026-06-18T04:18:39",
-        "points": 9,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48580759",
-        "numComments": 0
     }
 ]
