@@ -1,10 +1,50 @@
 [
     {
+        "id": "49140081",
+        "title": "Smevals: A small eval suite for evaluating models, prompts, and harnesses",
+        "url": "https://simonwillison.net/2026/Jul/31/smevals/",
+        "dt": "2026-08-02T01:02:05",
+        "points": 5,
+        "submitter": "seahorseemoji",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49140081",
+        "numComments": 1
+    },
+    {
+        "id": "49139067",
+        "title": "Stateless MCP has recaptured my interest",
+        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+        "dt": "2026-08-01T22:22:01",
+        "points": 20,
+        "submitter": "swyx",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49139067",
+        "numComments": 2
+    },
+    {
+        "id": "49131438",
+        "title": "Stateless MCP has recaptured my interest",
+        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+        "dt": "2026-08-01T05:51:36",
+        "points": 5,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49131438",
+        "numComments": 1
+    },
+    {
+        "id": "49120141",
+        "title": "Anthropic finds three hacking incidents similar to the HuggingFace attack",
+        "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/",
+        "dt": "2026-07-31T07:35:30",
+        "points": 8,
+        "submitter": "Schlagbohrer",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49120141",
+        "numComments": 4
+    },
+    {
         "id": "49090975",
         "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
         "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/",
         "dt": "2026-07-28T22:43:03",
-        "points": 7,
+        "points": 8,
         "submitter": "Jimmc414",
         "commentsUrl": "https://news.ycombinator.com/item?id=49090975",
         "numComments": 2
@@ -14,7 +54,7 @@
         "title": "An opinionated guide to which AI to use to do stuff",
         "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/",
         "dt": "2026-07-28T15:42:41",
-        "points": 2,
+        "points": 3,
         "submitter": "Brajeshwar",
         "commentsUrl": "https://news.ycombinator.com/item?id=49085594",
         "numComments": 0
@@ -44,10 +84,10 @@
         "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
         "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
         "dt": "2026-07-23T01:16:14",
-        "points": 585,
+        "points": 587,
         "submitter": "abhisek",
         "commentsUrl": "https://news.ycombinator.com/item?id=49015639",
-        "numComments": 448
+        "numComments": 450
     },
     {
         "id": "49000570",
@@ -107,7 +147,7 @@
         "points": 608,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=48966569",
-        "numComments": 849
+        "numComments": 853
     },
     {
         "id": "48958240",
@@ -134,7 +174,7 @@
         "title": "Kimi K3, and what we can still learn from the pelican benchmark",
         "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
         "dt": "2026-07-17T14:21:51",
-        "points": 406,
+        "points": 407,
         "submitter": "droidjj",
         "commentsUrl": "https://news.ycombinator.com/item?id=48947717",
         "numComments": 223
@@ -258,45 +298,5 @@
         "submitter": "Brajeshwar",
         "commentsUrl": "https://news.ycombinator.com/item?id=48688448",
         "numComments": 0
-    },
-    {
-        "id": "48647136",
-        "title": "Prompt Injection as Role Confusion",
-        "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/",
-        "dt": "2026-06-23T16:04:27",
-        "points": 3,
-        "submitter": "Brajeshwar",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48647136",
-        "numComments": 0
-    },
-    {
-        "id": "48638268",
-        "title": "Porting Moebius 0.2B image inpainting model to run in browser with Claude Code",
-        "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/",
-        "dt": "2026-06-22T23:59:29",
-        "points": 3,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48638268",
-        "numComments": 0
-    },
-    {
-        "id": "48593731",
-        "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-        "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-        "dt": "2026-06-19T01:06:27",
-        "points": 156,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48593731",
-        "numComments": 68
-    },
-    {
-        "id": "48587383",
-        "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
-        "url": "https://simonwillison.net/2026/Jun/17/glm-52/",
-        "dt": "2026-06-18T15:58:09",
-        "points": 28,
-        "submitter": "Brajeshwar",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48587383",
-        "numComments": 4
     }
 ]
