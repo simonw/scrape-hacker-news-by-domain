@@ -1,30 +1,120 @@
 [
     {
+        "id": "49586337",
+        "title": "TIL: Using Blender with coding agents on macOS",
+        "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+        "dt": "2026-09-06T13:25:24.000000Z",
+        "points": 1,
+        "submitter": "kyisaiah47",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49586337",
+        "numComments": 0
+    },
+    {
+        "id": "49583457",
+        "title": "Using Blender with coding agents on macOS",
+        "url": "https://til.simonwillison.net/llms/blender-coding-agents-macos",
+        "dt": "2026-09-06T04:56:40.000000Z",
+        "points": 8,
+        "submitter": "theanonymousone",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49583457",
+        "numComments": 0
+    },
+    {
+        "id": "49575143",
+        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+        "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+        "dt": "2026-09-05T10:32:09.000000Z",
+        "points": 69,
+        "submitter": "Bluestein",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49575143",
+        "numComments": 113
+    },
+    {
+        "id": "49575122",
+        "title": "The Pelican comparison grid for Astra is pretty interesting",
+        "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
+        "dt": "2026-09-05T10:28:53.000000Z",
+        "points": 25,
+        "submitter": "csmantle",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49575122",
+        "numComments": 7
+    },
+    {
+        "id": "49559252",
+        "title": "GPT\u20116 Astra",
+        "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+        "dt": "2026-09-04T01:08:54.000000Z",
+        "points": 1,
+        "submitter": "doppp",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49559252",
+        "numComments": 0
+    },
+    {
+        "id": "49550061",
+        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+        "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+        "dt": "2026-09-03T14:02:47.000000Z",
+        "points": 2,
+        "submitter": "torutofu",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49550061",
+        "numComments": 0
+    },
+    {
+        "id": "49536718",
+        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+        "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+        "dt": "2026-09-02T14:23:12.000000Z",
+        "points": 2,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49536718",
+        "numComments": 1
+    },
+    {
+        "id": "49531576",
+        "title": "GeoJSON Map Viewer",
+        "url": "https://tools.simonwillison.net/geojson",
+        "dt": "2026-09-02T04:02:18.000000Z",
+        "points": 1,
+        "submitter": "vismit2000",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49531576",
+        "numComments": 0
+    },
+    {
+        "id": "49530472",
+        "title": "Claude Fable 5.1 made me a nice animated pelican",
+        "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+        "dt": "2026-09-02T01:05:52.000000Z",
+        "points": 62,
+        "submitter": "elsewhen",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49530472",
+        "numComments": 19
+    },
+    {
         "id": "49527396",
         "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
         "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
         "dt": "2026-09-01T20:07:57.000000Z",
-        "points": 93,
+        "points": 494,
         "submitter": "timpera",
         "commentsUrl": "https://news.ycombinator.com/item?id=49527396",
-        "numComments": 54
+        "numComments": 259
     },
     {
         "id": "49504625",
         "title": "Understanding ChatGPT Work",
         "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
         "dt": "2026-08-31T01:28:22.000000Z",
-        "points": 344,
+        "points": 351,
         "submitter": "gmays",
         "commentsUrl": "https://news.ycombinator.com/item?id=49504625",
-        "numComments": 194
+        "numComments": 197
     },
     {
         "id": "49497950",
         "title": "Hy4 Preview",
         "url": "https://simonwillison.net/2026/Aug/29/hy4/",
         "dt": "2026-08-30T12:06:10.000000Z",
-        "points": 3,
+        "points": 4,
         "submitter": "kyisaiah47",
         "commentsUrl": "https://news.ycombinator.com/item?id=49497950",
         "numComments": 0
@@ -34,7 +124,7 @@
         "title": "LLM Clich\u00e9 Highlighter",
         "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
         "dt": "2026-08-28T10:44:42.000000Z",
-        "points": 26,
+        "points": 27,
         "submitter": "rzk",
         "commentsUrl": "https://news.ycombinator.com/item?id=49476802",
         "numComments": 3
@@ -167,7 +257,7 @@
         "points": 386,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=49131438",
-        "numComments": 225
+        "numComments": 224
     },
     {
         "id": "49120141",
@@ -207,96 +297,6 @@
         "points": 4,
         "submitter": "saikatsg",
         "commentsUrl": "https://news.ycombinator.com/item?id=49061434",
-        "numComments": 0
-    },
-    {
-        "id": "49025777",
-        "title": "Importing a front end JavaScript library without a build system",
-        "url": "https://simonwillison.net/2024/Nov/23/without-a-build-system/",
-        "dt": "2026-07-23T18:09:37.000000Z",
-        "points": 1,
-        "submitter": "ulrischa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49025777",
-        "numComments": 0
-    },
-    {
-        "id": "49015639",
-        "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
-        "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-        "dt": "2026-07-23T01:16:14.000000Z",
-        "points": 587,
-        "submitter": "abhisek",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49015639",
-        "numComments": 450
-    },
-    {
-        "id": "49000570",
-        "title": "A Fireside Chat with Cat and Thariq from the Claude Code Team",
-        "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/",
-        "dt": "2026-07-22T01:12:48.000000Z",
-        "points": 3,
-        "submitter": "vismit2000",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49000570",
-        "numComments": 0
-    },
-    {
-        "id": "48994248",
-        "title": "Quoting Sam Altman",
-        "url": "https://simonwillison.net/2026/Jul/20/sam-altman/",
-        "dt": "2026-07-21T16:10:50.000000Z",
-        "points": 4,
-        "submitter": "ImageXav",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48994248",
-        "numComments": 1
-    },
-    {
-        "id": "48991998",
-        "title": "A Fireside Chat with Cat and Thariq from the Claude Code Team",
-        "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/",
-        "dt": "2026-07-21T13:23:10.000000Z",
-        "points": 1,
-        "submitter": "arto",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48991998",
-        "numComments": 0
-    },
-    {
-        "id": "48988265",
-        "title": "Reverse-engineering is cheap now",
-        "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
-        "dt": "2026-07-21T05:10:46.000000Z",
-        "points": 39,
-        "submitter": "edward",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48988265",
-        "numComments": 41
-    },
-    {
-        "id": "48983817",
-        "title": "Reverse-engineering is cheap now",
-        "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/",
-        "dt": "2026-07-20T19:36:40.000000Z",
-        "points": 13,
-        "submitter": "ingve",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48983817",
-        "numComments": 1
-    },
-    {
-        "id": "48966569",
-        "title": "Claude Code uses Bun written in Rust now",
-        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-        "dt": "2026-07-19T10:03:23.000000Z",
-        "points": 608,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48966569",
-        "numComments": 853
-    },
-    {
-        "id": "48958240",
-        "title": "Claude make Fable 5 permanent",
-        "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/",
-        "dt": "2026-07-18T14:01:49.000000Z",
-        "points": 12,
-        "submitter": "Brajeshwar",
-        "commentsUrl": "https://news.ycombinator.com/item?id=48958240",
         "numComments": 0
     }
 ]
