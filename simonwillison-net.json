@@ -1,23 +1,13 @@
 [
     {
-        "id": "49623976",
-        "title": "Quoting Terence Tao: \u00abincentives... of no longer sharing promising research\u00bb",
-        "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
-        "dt": "2026-09-09T10:05:17.000000Z",
-        "points": 16,
-        "submitter": "mdp2021",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49623976",
-        "numComments": 7
-    },
-    {
         "id": "49621697",
         "title": "The Navier\u2013Stokes Millennium Prize Problem",
         "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
         "dt": "2026-09-09T05:55:39.000000Z",
-        "points": 205,
+        "points": 223,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=49621697",
-        "numComments": 194
+        "numComments": 224
     },
     {
         "id": "49609686",
@@ -57,7 +47,7 @@
         "points": 69,
         "submitter": "Bluestein",
         "commentsUrl": "https://news.ycombinator.com/item?id=49575143",
-        "numComments": 116
+        "numComments": 118
     },
     {
         "id": "49575122",
@@ -127,7 +117,7 @@
         "points": 494,
         "submitter": "timpera",
         "commentsUrl": "https://news.ycombinator.com/item?id=49527396",
-        "numComments": 260
+        "numComments": 261
     },
     {
         "id": "49504625",
@@ -298,5 +288,15 @@
         "submitter": "Schlagbohrer",
         "commentsUrl": "https://news.ycombinator.com/item?id=49120141",
         "numComments": 4
+    },
+    {
+        "id": "49090975",
+        "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+        "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/",
+        "dt": "2026-07-28T22:43:03.000000Z",
+        "points": 8,
+        "submitter": "Jimmc414",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49090975",
+        "numComments": 2
     }
 ]
