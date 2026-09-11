@@ -1,10 +1,20 @@
 [
     {
+        "id": "49655359",
+        "title": "LLM 0.35",
+        "url": "https://simonwillison.net/2026/Sep/7/llm/",
+        "dt": "2026-09-11T08:51:45.000000Z",
+        "points": 1,
+        "submitter": "hnrprtlpdb",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49655359",
+        "numComments": 0
+    },
+    {
         "id": "49621697",
         "title": "The Navier\u2013Stokes Millennium Prize Problem",
         "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
         "dt": "2026-09-09T05:55:39.000000Z",
-        "points": 226,
+        "points": 227,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=49621697",
         "numComments": 236
@@ -288,15 +298,5 @@
         "submitter": "Schlagbohrer",
         "commentsUrl": "https://news.ycombinator.com/item?id=49120141",
         "numComments": 4
-    },
-    {
-        "id": "49090975",
-        "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-        "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/",
-        "dt": "2026-07-28T22:43:03.000000Z",
-        "points": 8,
-        "submitter": "Jimmc414",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49090975",
-        "numComments": 2
     }
 ]
