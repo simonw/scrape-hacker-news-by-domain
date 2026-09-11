@@ -1,5 +1,15 @@
 [
     {
+        "id": "49659689",
+        "title": "Native is now the future of mobile at Shopify",
+        "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+        "dt": "2026-09-11T15:03:42.000000Z",
+        "points": 1,
+        "submitter": "hnp9j9qtda",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49659689",
+        "numComments": 1
+    },
+    {
         "id": "49655359",
         "title": "LLM 0.35",
         "url": "https://simonwillison.net/2026/Sep/7/llm/",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=49131438",
         "numComments": 224
-    },
-    {
-        "id": "49120141",
-        "title": "Anthropic finds three hacking incidents similar to the HuggingFace attack",
-        "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/",
-        "dt": "2026-07-31T07:35:30.000000Z",
-        "points": 8,
-        "submitter": "Schlagbohrer",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49120141",
-        "numComments": 4
     }
 ]
