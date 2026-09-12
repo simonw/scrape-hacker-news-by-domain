@@ -1,5 +1,15 @@
 [
     {
+        "id": "49668914",
+        "title": "OpenAI agents attacked RubyGems back in May",
+        "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+        "dt": "2026-09-12T04:46:43.000000Z",
+        "points": 32,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49668914",
+        "numComments": 1
+    },
+    {
         "id": "49659689",
         "title": "Native is now the future of mobile at Shopify",
         "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
@@ -24,7 +34,7 @@
         "title": "The Navier\u2013Stokes Millennium Prize Problem",
         "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
         "dt": "2026-09-09T05:55:39.000000Z",
-        "points": 229,
+        "points": 230,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=49621697",
         "numComments": 237
@@ -288,15 +298,5 @@
         "submitter": "swyx",
         "commentsUrl": "https://news.ycombinator.com/item?id=49139067",
         "numComments": 2
-    },
-    {
-        "id": "49131438",
-        "title": "Stateless MCP has recaptured my interest",
-        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-        "dt": "2026-08-01T05:51:36.000000Z",
-        "points": 386,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49131438",
-        "numComments": 224
     }
 ]
