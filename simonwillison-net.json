@@ -1,5 +1,15 @@
 [
     {
+        "id": "49681038",
+        "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+        "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+        "dt": "2026-09-13T07:28:27",
+        "points": 1,
+        "submitter": "tosh",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49681038",
+        "numComments": 0
+    },
+    {
         "id": "49677163",
         "title": "Comment: Feeling Sad about AI",
         "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
@@ -14,7 +24,7 @@
         "title": "OpenAI agents attacked RubyGems back in May",
         "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
         "dt": "2026-09-12T04:46:43",
-        "points": 35,
+        "points": 36,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=49668914",
         "numComments": 1
@@ -44,7 +54,7 @@
         "title": "The Navier\u2013Stokes Millennium Prize Problem",
         "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
         "dt": "2026-09-09T05:55:39",
-        "points": 231,
+        "points": 233,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=49621697",
         "numComments": 237
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "BiteCode_dev",
         "commentsUrl": "https://news.ycombinator.com/item?id=49197512",
-        "numComments": 1
-    },
-    {
-        "id": "49140081",
-        "title": "Smevals: A small eval suite for evaluating models, prompts, and harnesses",
-        "url": "https://simonwillison.net/2026/Jul/31/smevals/",
-        "dt": "2026-08-02T01:02:05",
-        "points": 6,
-        "submitter": "seahorseemoji",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49140081",
         "numComments": 1
     }
 ]
