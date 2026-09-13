@@ -1,5 +1,15 @@
 [
     {
+        "id": "49677163",
+        "title": "Comment: Feeling Sad about AI",
+        "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+        "dt": "2026-09-12T21:02:27.000000Z",
+        "points": 2,
+        "submitter": "abdelhousni",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49677163",
+        "numComments": 0
+    },
+    {
         "id": "49668914",
         "title": "OpenAI agents attacked RubyGems back in May",
         "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
@@ -288,15 +298,5 @@
         "submitter": "seahorseemoji",
         "commentsUrl": "https://news.ycombinator.com/item?id=49140081",
         "numComments": 1
-    },
-    {
-        "id": "49139067",
-        "title": "Stateless MCP has recaptured my interest",
-        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-        "dt": "2026-08-01T22:22:01.000000Z",
-        "points": 21,
-        "submitter": "swyx",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49139067",
-        "numComments": 2
     }
 ]
