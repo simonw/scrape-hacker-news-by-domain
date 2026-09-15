@@ -1,10 +1,20 @@
 [
     {
+        "id": "49711570",
+        "title": "So you want to use OpenRouter?",
+        "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+        "dt": "2026-09-15T12:34:06",
+        "points": 1,
+        "submitter": "hndhyc0bdt",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49711570",
+        "numComments": 0
+    },
+    {
         "id": "49681038",
         "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
         "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
         "dt": "2026-09-13T07:28:27",
-        "points": 2,
+        "points": 3,
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=49681038",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "bonsai_spool",
         "commentsUrl": "https://news.ycombinator.com/item?id=49218317",
         "numComments": 0
-    },
-    {
-        "id": "49197512",
-        "title": "An AI model from Meta also hacked another company during testing",
-        "url": "https://simonwillison.net/tags/accidental-cyberattacks/",
-        "dt": "2026-08-06T14:50:04",
-        "points": 4,
-        "submitter": "BiteCode_dev",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49197512",
-        "numComments": 1
     }
 ]
