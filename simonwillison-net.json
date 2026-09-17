@@ -1,5 +1,15 @@
 [
     {
+        "id": "49737061",
+        "title": "Using Blender with coding agents on macOS",
+        "url": "https://til.simonwillison.net/llms/blender-coding-agents-macos",
+        "dt": "2026-09-17T06:20:18",
+        "points": 3,
+        "submitter": "activatedgeek",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49737061",
+        "numComments": 1
+    },
+    {
         "id": "49711570",
         "title": "So you want to use OpenRouter?",
         "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
@@ -288,15 +298,5 @@
         "submitter": "882542F3884314B",
         "commentsUrl": "https://news.ycombinator.com/item?id=49220609",
         "numComments": 434
-    },
-    {
-        "id": "49218317",
-        "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-        "dt": "2026-08-08T02:13:40",
-        "points": 1,
-        "submitter": "bonsai_spool",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49218317",
-        "numComments": 0
     }
 ]
