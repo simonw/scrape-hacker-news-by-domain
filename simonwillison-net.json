@@ -1,5 +1,15 @@
 [
     {
+        "id": "49775281",
+        "title": "Self-generated prompt injections in compaction summaries",
+        "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+        "dt": "2026-09-20T12:41:45",
+        "points": 2,
+        "submitter": "hn9zmdcaou",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49775281",
+        "numComments": 0
+    },
+    {
         "id": "49737061",
         "title": "Using Blender with coding agents on macOS",
         "url": "https://til.simonwillison.net/llms/blender-coding-agents-macos",
@@ -288,15 +298,5 @@
         "submitter": "spenvo",
         "commentsUrl": "https://news.ycombinator.com/item?id=49227253",
         "numComments": 5
-    },
-    {
-        "id": "49220609",
-        "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-        "dt": "2026-08-08T10:57:44",
-        "points": 434,
-        "submitter": "882542F3884314B",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49220609",
-        "numComments": 434
     }
 ]
