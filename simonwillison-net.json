@@ -1,5 +1,15 @@
 [
     {
+        "id": "49796843",
+        "title": "Jev introduces a new shape of LLM",
+        "url": "https://simonwillison.net/2026/Sep/21/jev/",
+        "dt": "2026-09-22T04:38:31",
+        "points": 16,
+        "submitter": "benwerd",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49796843",
+        "numComments": 1
+    },
+    {
         "id": "49775281",
         "title": "Self-generated prompt injections in compaction summaries",
         "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
@@ -288,15 +298,5 @@
         "submitter": "ilamont",
         "commentsUrl": "https://news.ycombinator.com/item?id=49230984",
         "numComments": 1
-    },
-    {
-        "id": "49227253",
-        "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-        "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
-        "dt": "2026-08-09T00:39:17",
-        "points": 17,
-        "submitter": "spenvo",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49227253",
-        "numComments": 5
     }
 ]
