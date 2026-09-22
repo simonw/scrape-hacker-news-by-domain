@@ -1,13 +1,23 @@
 [
     {
+        "id": "49799746",
+        "title": "MCP was always a bad idea?",
+        "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
+        "dt": "2026-09-22T11:48:24",
+        "points": 1,
+        "submitter": "hnp9j9qtda",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49799746",
+        "numComments": 1
+    },
+    {
         "id": "49796843",
         "title": "Jev introduces a new shape of LLM",
         "url": "https://simonwillison.net/2026/Sep/21/jev/",
         "dt": "2026-09-22T04:38:31",
-        "points": 16,
+        "points": 41,
         "submitter": "benwerd",
         "commentsUrl": "https://news.ycombinator.com/item?id=49796843",
-        "numComments": 1
+        "numComments": 10
     },
     {
         "id": "49775281",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "raybb",
         "commentsUrl": "https://news.ycombinator.com/item?id=49253263",
-        "numComments": 1
-    },
-    {
-        "id": "49230984",
-        "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-        "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
-        "dt": "2026-08-09T12:58:18",
-        "points": 2,
-        "submitter": "ilamont",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49230984",
         "numComments": 1
     }
 ]
