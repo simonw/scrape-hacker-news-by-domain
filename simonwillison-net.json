@@ -1,5 +1,15 @@
 [
     {
+        "id": "49815230",
+        "title": "The Creative Spirit of Who Framed Roger Rabbit",
+        "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
+        "dt": "2026-09-23T12:41:37",
+        "points": 2,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49815230",
+        "numComments": 0
+    },
+    {
         "id": "49813189",
         "title": "Using Llama-cpp-Python grammars to generate JSON",
         "url": "https://til.simonwillison.net/llms/llama-cpp-python-grammars",
@@ -54,10 +64,10 @@
         "title": "Jev introduces a new shape of LLM",
         "url": "https://simonwillison.net/2026/Sep/21/jev/",
         "dt": "2026-09-22T04:38:31",
-        "points": 47,
+        "points": 49,
         "submitter": "benwerd",
         "commentsUrl": "https://news.ycombinator.com/item?id=49796843",
-        "numComments": 16
+        "numComments": 17
     },
     {
         "id": "49775281",
@@ -288,15 +298,5 @@
         "submitter": "rzk",
         "commentsUrl": "https://news.ycombinator.com/item?id=49476802",
         "numComments": 3
-    },
-    {
-        "id": "49405117",
-        "title": "Software Engineering in the Agentic Era",
-        "url": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
-        "dt": "2026-08-23T00:20:21",
-        "points": 35,
-        "submitter": "silverpiranha",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49405117",
-        "numComments": 11
     }
 ]
