@@ -4,7 +4,7 @@
         "title": "Evaluating smolvm as a sandbox for untrusted Python and JavaScript",
         "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
         "dt": "2026-09-22T21:55:53",
-        "points": 1,
+        "points": 2,
         "submitter": "binsquare",
         "commentsUrl": "https://news.ycombinator.com/item?id=49808722",
         "numComments": 0
@@ -27,7 +27,7 @@
         "points": 47,
         "submitter": "benwerd",
         "commentsUrl": "https://news.ycombinator.com/item?id=49796843",
-        "numComments": 15
+        "numComments": 16
     },
     {
         "id": "49775281",
