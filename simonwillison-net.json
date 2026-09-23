@@ -1,5 +1,35 @@
 [
     {
+        "id": "49813189",
+        "title": "Using Llama-cpp-Python grammars to generate JSON",
+        "url": "https://til.simonwillison.net/llms/llama-cpp-python-grammars",
+        "dt": "2026-09-23T08:32:21",
+        "points": 1,
+        "submitter": "Bluestein",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49813189",
+        "numComments": 0
+    },
+    {
+        "id": "49812887",
+        "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+        "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+        "dt": "2026-09-23T07:46:22",
+        "points": 2,
+        "submitter": "theanonymousone",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49812887",
+        "numComments": 0
+    },
+    {
+        "id": "49812718",
+        "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+        "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+        "dt": "2026-09-23T07:20:05",
+        "points": 2,
+        "submitter": "coffee",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49812718",
+        "numComments": 0
+    },
+    {
         "id": "49808722",
         "title": "Evaluating smolvm as a sandbox for untrusted Python and JavaScript",
         "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
@@ -268,35 +298,5 @@
         "submitter": "silverpiranha",
         "commentsUrl": "https://news.ycombinator.com/item?id=49405117",
         "numComments": 11
-    },
-    {
-        "id": "49362463",
-        "title": "Mojo is now open source",
-        "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
-        "dt": "2026-08-19T14:52:48",
-        "points": 4,
-        "submitter": "jonathandeamer",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49362463",
-        "numComments": 1
-    },
-    {
-        "id": "49327560",
-        "title": "I Blog",
-        "url": "https://simonwillison.net/series/blogging/",
-        "dt": "2026-08-17T07:38:57",
-        "points": 1,
-        "submitter": "janandonly",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49327560",
-        "numComments": 0
-    },
-    {
-        "id": "49324985",
-        "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-        "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-        "dt": "2026-08-16T23:45:09",
-        "points": 802,
-        "submitter": "bilsbie",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49324985",
-        "numComments": 385
     }
 ]
