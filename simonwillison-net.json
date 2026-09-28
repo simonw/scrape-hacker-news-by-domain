@@ -1,10 +1,20 @@
 [
     {
+        "id": "49879526",
+        "title": "A case of Muse leaking personal information and keeping it for itself",
+        "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+        "dt": "2026-09-28T15:24:45",
+        "points": 1,
+        "submitter": "mseri",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49879526",
+        "numComments": 0
+    },
+    {
         "id": "49876160",
         "title": "2026 in LLMs (So Far)",
         "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
         "dt": "2026-09-28T11:04:19",
-        "points": 2,
+        "points": 3,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=49876160",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=49536718",
         "numComments": 1
-    },
-    {
-        "id": "49531576",
-        "title": "GeoJSON Map Viewer",
-        "url": "https://tools.simonwillison.net/geojson",
-        "dt": "2026-09-02T04:02:18",
-        "points": 1,
-        "submitter": "vismit2000",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49531576",
-        "numComments": 0
     }
 ]
