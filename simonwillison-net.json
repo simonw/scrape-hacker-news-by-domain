@@ -1,5 +1,15 @@
 [
     {
+        "id": "49883175",
+        "title": "2026 in LLMs (So Far)",
+        "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+        "dt": "2026-09-28T19:28:42",
+        "points": 2,
+        "submitter": "jasoncartwright",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49883175",
+        "numComments": 0
+    },
+    {
         "id": "49879526",
         "title": "A case of Muse leaking personal information and keeping it for itself",
         "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
@@ -14,7 +24,7 @@
         "title": "2026 in LLMs (So Far)",
         "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
         "dt": "2026-09-28T11:04:19",
-        "points": 3,
+        "points": 4,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=49876160",
         "numComments": 0
@@ -288,15 +298,5 @@
         "submitter": "torutofu",
         "commentsUrl": "https://news.ycombinator.com/item?id=49550061",
         "numComments": 0
-    },
-    {
-        "id": "49536718",
-        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-        "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-        "dt": "2026-09-02T14:23:12",
-        "points": 3,
-        "submitter": "tosh",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49536718",
-        "numComments": 1
     }
 ]
