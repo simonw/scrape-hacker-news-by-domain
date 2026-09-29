@@ -1,5 +1,15 @@
 [
     {
+        "id": "49893799",
+        "title": "2026 in LLMs (So Far)",
+        "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+        "dt": "2026-09-29T14:21:00",
+        "points": 1,
+        "submitter": "sidcool",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49893799",
+        "numComments": 0
+    },
+    {
         "id": "49888261",
         "title": "2026 in LLMs (so far)",
         "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
@@ -288,15 +298,5 @@
         "submitter": "csmantle",
         "commentsUrl": "https://news.ycombinator.com/item?id=49575122",
         "numComments": 7
-    },
-    {
-        "id": "49559252",
-        "title": "GPT\u20116 Astra",
-        "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-        "dt": "2026-09-04T01:08:54",
-        "points": 1,
-        "submitter": "doppp",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49559252",
-        "numComments": 0
     }
 ]
