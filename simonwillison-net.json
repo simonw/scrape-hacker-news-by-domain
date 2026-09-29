@@ -1,10 +1,20 @@
 [
     {
+        "id": "49888261",
+        "title": "2026 in LLMs (so far)",
+        "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+        "dt": "2026-09-29T04:24:36",
+        "points": 1,
+        "submitter": "matt_d",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49888261",
+        "numComments": 0
+    },
+    {
         "id": "49883175",
         "title": "2026 in LLMs (So Far)",
         "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
         "dt": "2026-09-28T19:28:42",
-        "points": 2,
+        "points": 3,
         "submitter": "jasoncartwright",
         "commentsUrl": "https://news.ycombinator.com/item?id=49883175",
         "numComments": 0
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "doppp",
         "commentsUrl": "https://news.ycombinator.com/item?id=49559252",
-        "numComments": 0
-    },
-    {
-        "id": "49550061",
-        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-        "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-        "dt": "2026-09-03T14:02:47",
-        "points": 2,
-        "submitter": "torutofu",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49550061",
         "numComments": 0
     }
 ]
