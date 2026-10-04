@@ -1,5 +1,15 @@
 [
     {
+        "id": "49949235",
+        "title": "We're going to need default hard budget caps on pretty much everything",
+        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+        "dt": "2026-10-04T00:20:16",
+        "points": 229,
+        "submitter": "elffjs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49949235",
+        "numComments": 125
+    },
+    {
         "id": "49893799",
         "title": "2026 in LLMs (So Far)",
         "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
@@ -288,15 +298,5 @@
         "submitter": "Bluestein",
         "commentsUrl": "https://news.ycombinator.com/item?id=49575143",
         "numComments": 126
-    },
-    {
-        "id": "49575122",
-        "title": "The Pelican comparison grid for Astra is pretty interesting",
-        "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
-        "dt": "2026-09-05T10:28:53",
-        "points": 27,
-        "submitter": "csmantle",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49575122",
-        "numComments": 7
     }
 ]
