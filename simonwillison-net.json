@@ -1,10 +1,30 @@
 [
     {
+        "id": "49981417",
+        "title": "Scrimshaw Jukebox",
+        "url": "https://tools.simonwillison.net/scrimshaw-jukebox",
+        "dt": "2026-10-06T17:17:52",
+        "points": 1,
+        "submitter": "jonas21",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49981417",
+        "numComments": 0
+    },
+    {
+        "id": "49980690",
+        "title": "Scrimshaw Jukebox",
+        "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+        "dt": "2026-10-06T16:21:22",
+        "points": 1,
+        "submitter": "rdslw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49980690",
+        "numComments": 0
+    },
+    {
         "id": "49949235",
         "title": "We're going to need default hard budget caps on pretty much everything",
         "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
         "dt": "2026-10-04T00:20:16",
-        "points": 633,
+        "points": 636,
         "submitter": "elffjs",
         "commentsUrl": "https://news.ycombinator.com/item?id=49949235",
         "numComments": 310
@@ -278,25 +298,5 @@
         "submitter": "kyisaiah47",
         "commentsUrl": "https://news.ycombinator.com/item?id=49586337",
         "numComments": 0
-    },
-    {
-        "id": "49583457",
-        "title": "Using Blender with coding agents on macOS",
-        "url": "https://til.simonwillison.net/llms/blender-coding-agents-macos",
-        "dt": "2026-09-06T04:56:40",
-        "points": 10,
-        "submitter": "theanonymousone",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49583457",
-        "numComments": 0
-    },
-    {
-        "id": "49575143",
-        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-        "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-        "dt": "2026-09-05T10:32:09",
-        "points": 69,
-        "submitter": "Bluestein",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49575143",
-        "numComments": 126
     }
 ]
