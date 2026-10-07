@@ -1,5 +1,15 @@
 [
     {
+        "id": "49995052",
+        "title": "EmbeddingGemma 2",
+        "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+        "dt": "2026-10-07T16:27:39",
+        "points": 1,
+        "submitter": "hn9zmdcaou",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49995052",
+        "numComments": 1
+    },
+    {
         "id": "49981417",
         "title": "Scrimshaw Jukebox",
         "url": "https://tools.simonwillison.net/scrimshaw-jukebox",
@@ -288,15 +298,5 @@
         "submitter": "kyisaiah47",
         "commentsUrl": "https://news.ycombinator.com/item?id=49609686",
         "numComments": 1
-    },
-    {
-        "id": "49586337",
-        "title": "TIL: Using Blender with coding agents on macOS",
-        "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-        "dt": "2026-09-06T13:25:24",
-        "points": 1,
-        "submitter": "kyisaiah47",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49586337",
-        "numComments": 0
     }
 ]
