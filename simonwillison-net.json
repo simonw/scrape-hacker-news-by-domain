@@ -1,5 +1,15 @@
 [
     {
+        "id": "49995246",
+        "title": "LLM-OpenAI-Decisions 0.1a0",
+        "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+        "dt": "2026-10-07T16:40:50",
+        "points": 3,
+        "submitter": "hn1rig3rak",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49995246",
+        "numComments": 0
+    },
+    {
         "id": "49995052",
         "title": "EmbeddingGemma 2",
         "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
@@ -288,15 +298,5 @@
         "submitter": "tosh",
         "commentsUrl": "https://news.ycombinator.com/item?id=49621697",
         "numComments": 239
-    },
-    {
-        "id": "49609686",
-        "title": "Research acceleration: The view inside OpenAI",
-        "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
-        "dt": "2026-09-08T12:52:38",
-        "points": 2,
-        "submitter": "kyisaiah47",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49609686",
-        "numComments": 1
     }
 ]
