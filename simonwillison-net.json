@@ -1,5 +1,15 @@
 [
     {
+        "id": "50021023",
+        "title": "A new feature for my blog, built using my voice",
+        "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+        "dt": "2026-10-09T14:27:39",
+        "points": 1,
+        "submitter": "raahelb",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50021023",
+        "numComments": 0
+    },
+    {
         "id": "50004159",
         "title": "Ben Affleck on Machine Learning and Computer Vision",
         "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
@@ -54,10 +64,10 @@
         "title": "We're going to need default hard budget caps on pretty much everything",
         "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
         "dt": "2026-10-04T00:20:16",
-        "points": 645,
+        "points": 646,
         "submitter": "elffjs",
         "commentsUrl": "https://news.ycombinator.com/item?id=49949235",
-        "numComments": 312
+        "numComments": 314
     },
     {
         "id": "49893799",
@@ -288,15 +298,5 @@
         "submitter": "hnp9j9qtda",
         "commentsUrl": "https://news.ycombinator.com/item?id=49659689",
         "numComments": 1
-    },
-    {
-        "id": "49655359",
-        "title": "LLM 0.35",
-        "url": "https://simonwillison.net/2026/Sep/7/llm/",
-        "dt": "2026-09-11T08:51:45",
-        "points": 1,
-        "submitter": "hnrprtlpdb",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49655359",
-        "numComments": 0
     }
 ]
