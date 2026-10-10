@@ -1,10 +1,20 @@
 [
     {
+        "id": "50032609",
+        "title": "Deno Is Joining Cloudflare",
+        "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+        "dt": "2026-10-10T13:13:04",
+        "points": 2,
+        "submitter": "hnisjafx40",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50032609",
+        "numComments": 0
+    },
+    {
         "id": "50021023",
         "title": "A new feature for my blog, built using my voice",
         "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
         "dt": "2026-10-09T14:27:39",
-        "points": 8,
+        "points": 9,
         "submitter": "raahelb",
         "commentsUrl": "https://news.ycombinator.com/item?id=50021023",
         "numComments": 0
@@ -287,16 +297,6 @@
         "points": 38,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=49668914",
-        "numComments": 1
-    },
-    {
-        "id": "49659689",
-        "title": "Native is now the future of mobile at Shopify",
-        "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
-        "dt": "2026-09-11T15:03:42",
-        "points": 2,
-        "submitter": "hnp9j9qtda",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49659689",
         "numComments": 1
     }
 ]
