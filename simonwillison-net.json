@@ -1,5 +1,15 @@
 [
     {
+        "id": "50063448",
+        "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+        "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+        "dt": "2026-10-12T21:42:07",
+        "points": 1,
+        "submitter": "elffjs",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50063448",
+        "numComments": 0
+    },
+    {
         "id": "50032609",
         "title": "Deno Is Joining Cloudflare",
         "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
@@ -288,15 +298,5 @@
         "submitter": "abdelhousni",
         "commentsUrl": "https://news.ycombinator.com/item?id=49677163",
         "numComments": 0
-    },
-    {
-        "id": "49668914",
-        "title": "OpenAI agents attacked RubyGems back in May",
-        "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-        "dt": "2026-09-12T04:46:43",
-        "points": 38,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49668914",
-        "numComments": 1
     }
 ]
