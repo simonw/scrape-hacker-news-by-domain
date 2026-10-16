@@ -1,5 +1,15 @@
 [
     {
+        "id": "50114061",
+        "title": "Chirp Pong \u2013 uses microphones and audio for networked game play",
+        "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+        "dt": "2026-10-16T04:25:02",
+        "points": 1,
+        "submitter": "havaloc",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50114061",
+        "numComments": 1
+    },
+    {
         "id": "50104358",
         "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
         "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
@@ -288,15 +298,5 @@
         "submitter": "activatedgeek",
         "commentsUrl": "https://news.ycombinator.com/item?id=49737061",
         "numComments": 1
-    },
-    {
-        "id": "49711570",
-        "title": "So you want to use OpenRouter?",
-        "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
-        "dt": "2026-09-15T12:34:06",
-        "points": 2,
-        "submitter": "hndhyc0bdt",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49711570",
-        "numComments": 0
     }
 ]
