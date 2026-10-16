@@ -1,5 +1,15 @@
 [
     {
+        "id": "50118863",
+        "title": "Redesigning Source Control at Anthropic",
+        "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+        "dt": "2026-10-16T14:34:47",
+        "points": 26,
+        "submitter": "hn9zmdcaou",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50118863",
+        "numComments": 26
+    },
+    {
         "id": "50114061",
         "title": "Chirp Pong \u2013 uses microphones and audio for networked game play",
         "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
@@ -288,15 +298,5 @@
         "submitter": "hn9zmdcaou",
         "commentsUrl": "https://news.ycombinator.com/item?id=49775281",
         "numComments": 0
-    },
-    {
-        "id": "49737061",
-        "title": "Using Blender with coding agents on macOS",
-        "url": "https://til.simonwillison.net/llms/blender-coding-agents-macos",
-        "dt": "2026-09-17T06:20:18",
-        "points": 6,
-        "submitter": "activatedgeek",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49737061",
-        "numComments": 1
     }
 ]
