@@ -1,5 +1,15 @@
 [
     {
+        "id": "50149396",
+        "title": "A new feature for my blog, built using my voice",
+        "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+        "dt": "2026-10-19T07:24:28",
+        "points": 1,
+        "submitter": "edward",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50149396",
+        "numComments": 0
+    },
+    {
         "id": "50118863",
         "title": "Redesigning Source Control at Anthropic",
         "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
@@ -288,15 +298,5 @@
         "submitter": "benwerd",
         "commentsUrl": "https://news.ycombinator.com/item?id=49796843",
         "numComments": 20
-    },
-    {
-        "id": "49775281",
-        "title": "Self-generated prompt injections in compaction summaries",
-        "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
-        "dt": "2026-09-20T12:41:45",
-        "points": 2,
-        "submitter": "hn9zmdcaou",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49775281",
-        "numComments": 0
     }
 ]
