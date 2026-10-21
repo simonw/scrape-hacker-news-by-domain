@@ -16,26 +16,13 @@ jobs:
       with:
         python-version: "3.12"
         cache: "pip"
-    - name: Cache Playwright browsers
-      uses: actions/cache@v4
-      with:
-        path: ~/.cache/ms-playwright/
-        key: ${{ runner.os }}-browsers
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
-    - name: Install Playwright dependencies
+    - name: Fetch from Algolia HN Search API
       run: |
-        shot-scraper install
-    - name: Scrape
-      run: |        
-        shot-scraper javascript \
-          "https://news.ycombinator.com/from?site=simonwillison.net" \
-          -i scrape.js -o simonwillison-net-new.json
-        sleep 5
-        shot-scraper javascript \
-          "https://news.ycombinator.com/from?site=datasette.io" \
-          -i scrape.js -o datasette-io-new.json
+        python fetch.py simonwillison.net simonwillison-net-new.json
+        python fetch.py datasette.io datasette-io-new.json
     - name: Generate commit message
       run: |
         echo "$(date -u)" > /tmp/commit.txt
