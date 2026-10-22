@@ -1,5 +1,15 @@
 [
     {
+        "id": "50189189",
+        "title": "eMudhra Intermediate CA Compromise",
+        "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+        "dt": "2026-10-21T23:43:33",
+        "points": 2,
+        "submitter": "abdelhousni",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50189189",
+        "numComments": 1
+    },
+    {
         "id": "50177597",
         "title": "Battle Drones\u2013a vibe coded RTS with audio-based multiplayer",
         "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "coffee",
         "commentsUrl": "https://news.ycombinator.com/item?id=49812718",
-        "numComments": 0
-    },
-    {
-        "id": "49808722",
-        "title": "Evaluating smolvm as a sandbox for untrusted Python and JavaScript",
-        "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-        "dt": "2026-09-22T21:55:53",
-        "points": 2,
-        "submitter": "binsquare",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49808722",
         "numComments": 0
     }
 ]
