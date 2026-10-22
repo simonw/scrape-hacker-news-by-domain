@@ -1,5 +1,15 @@
 [
     {
+        "id": "50198325",
+        "title": "Battle Drones\u2013a vibe coded RTS with audio-based multiplayer",
+        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+        "dt": "2026-10-22T17:20:45",
+        "points": 1,
+        "submitter": "krunck",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50198325",
+        "numComments": 0
+    },
+    {
         "id": "50189189",
         "title": "eMudhra Intermediate CA Compromise",
         "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "theanonymousone",
         "commentsUrl": "https://news.ycombinator.com/item?id=49812887",
-        "numComments": 0
-    },
-    {
-        "id": "49812718",
-        "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
-        "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-        "dt": "2026-09-23T07:20:05",
-        "points": 2,
-        "submitter": "coffee",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49812718",
         "numComments": 0
     }
 ]
