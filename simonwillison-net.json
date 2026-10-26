@@ -1,5 +1,15 @@
 [
     {
+        "id": "50248368",
+        "title": "Battle Drones",
+        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+        "dt": "2026-10-26T18:14:32",
+        "points": 1,
+        "submitter": "colinprince",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50248368",
+        "numComments": 1
+    },
+    {
         "id": "50198325",
         "title": "Battle Drones\u2013a vibe coded RTS with audio-based multiplayer",
         "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "Bluestein",
         "commentsUrl": "https://news.ycombinator.com/item?id=49813189",
-        "numComments": 0
-    },
-    {
-        "id": "49812887",
-        "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-        "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-        "dt": "2026-09-23T07:46:22",
-        "points": 3,
-        "submitter": "theanonymousone",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49812887",
         "numComments": 0
     }
 ]
