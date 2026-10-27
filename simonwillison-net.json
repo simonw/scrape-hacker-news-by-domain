@@ -1,5 +1,15 @@
 [
     {
+        "id": "50256393",
+        "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+        "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+        "dt": "2026-10-27T09:11:20",
+        "points": 1,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50256393",
+        "numComments": 0
+    },
+    {
         "id": "50248368",
         "title": "Battle Drones",
         "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "thunderbong",
         "commentsUrl": "https://news.ycombinator.com/item?id=49815230",
-        "numComments": 0
-    },
-    {
-        "id": "49813189",
-        "title": "Using Llama-cpp-Python grammars to generate JSON",
-        "url": "https://til.simonwillison.net/llms/llama-cpp-python-grammars",
-        "dt": "2026-09-23T08:32:21",
-        "points": 1,
-        "submitter": "Bluestein",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49813189",
         "numComments": 0
     }
 ]
