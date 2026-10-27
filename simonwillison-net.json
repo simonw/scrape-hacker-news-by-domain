@@ -1,5 +1,15 @@
 [
     {
+        "id": "50263175",
+        "title": "Seam Cutter",
+        "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+        "dt": "2026-10-27T17:57:37",
+        "points": 3,
+        "submitter": "hn9zmdcaou",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50263175",
+        "numComments": 0
+    },
+    {
         "id": "50256393",
         "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
         "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=49824314",
-        "numComments": 0
-    },
-    {
-        "id": "49815230",
-        "title": "The Creative Spirit of Who Framed Roger Rabbit",
-        "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
-        "dt": "2026-09-23T12:41:37",
-        "points": 3,
-        "submitter": "thunderbong",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49815230",
         "numComments": 0
     }
 ]
