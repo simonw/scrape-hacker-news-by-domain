@@ -1,5 +1,15 @@
 [
     {
+        "id": "50303018",
+        "title": "Building a multiplayer game world with autonomous Fable-class models",
+        "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+        "dt": "2026-10-30T12:31:15",
+        "points": 1,
+        "submitter": "ZeljkoS",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50303018",
+        "numComments": 0
+    },
+    {
         "id": "50273753",
         "title": "The October inflection point for vibe game development",
         "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
@@ -288,15 +298,5 @@
         "submitter": "hn9zmdcaou",
         "commentsUrl": "https://news.ycombinator.com/item?id=49830096",
         "numComments": 1
-    },
-    {
-        "id": "49824948",
-        "title": "Shadow roots, explained with live examples",
-        "url": "https://tools.simonwillison.net/shadow-roots",
-        "dt": "2026-09-24T01:13:15",
-        "points": 2,
-        "submitter": "vismit2000",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49824948",
-        "numComments": 0
     }
 ]
