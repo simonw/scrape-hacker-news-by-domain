@@ -1,5 +1,15 @@
 [
     {
+        "id": "50319873",
+        "title": "GPT-6.1 Terra",
+        "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+        "dt": "2026-10-31T20:32:17",
+        "points": 9,
+        "submitter": "hnisjafx40",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50319873",
+        "numComments": 2
+    },
+    {
         "id": "50303018",
         "title": "Building a multiplayer game world with autonomous Fable-class models",
         "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
@@ -288,15 +298,5 @@
         "submitter": "torutofu",
         "commentsUrl": "https://news.ycombinator.com/item?id=49830323",
         "numComments": 0
-    },
-    {
-        "id": "49830096",
-        "title": "Cloudflare Python Workers are now generally available",
-        "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
-        "dt": "2026-09-24T13:09:38",
-        "points": 1,
-        "submitter": "hn9zmdcaou",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49830096",
-        "numComments": 1
     }
 ]
