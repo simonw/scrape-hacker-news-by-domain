@@ -1,5 +1,15 @@
 [
     {
+        "id": "50336840",
+        "title": "The U.S. Census Bureau and \"Super Intelligence\"",
+        "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+        "dt": "2026-11-02T13:55:45",
+        "points": 3,
+        "submitter": "torutofu",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50336840",
+        "numComments": 1
+    },
+    {
         "id": "50319873",
         "title": "GPT-6.1 Terra",
         "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
@@ -287,16 +297,6 @@
         "points": 5,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=49876160",
-        "numComments": 0
-    },
-    {
-        "id": "49830323",
-        "title": "Shadow roots, explained with live examples",
-        "url": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
-        "dt": "2026-09-24T13:30:40",
-        "points": 1,
-        "submitter": "torutofu",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49830323",
         "numComments": 0
     }
 ]
