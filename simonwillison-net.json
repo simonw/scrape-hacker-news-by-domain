@@ -1,5 +1,15 @@
 [
     {
+        "id": "50355251",
+        "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+        "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+        "dt": "2026-11-03T17:40:00",
+        "points": 65,
+        "submitter": "theanonymousone",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50355251",
+        "numComments": 6
+    },
+    {
         "id": "50336840",
         "title": "The U.S. Census Bureau and \"Super Intelligence\"",
         "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "mseri",
         "commentsUrl": "https://news.ycombinator.com/item?id=49879526",
-        "numComments": 0
-    },
-    {
-        "id": "49876160",
-        "title": "2026 in LLMs (So Far)",
-        "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
-        "dt": "2026-09-28T11:04:19",
-        "points": 5,
-        "submitter": "lumpa",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49876160",
         "numComments": 0
     }
 ]
