@@ -4,10 +4,10 @@
         "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
         "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
         "dt": "2026-11-03T17:40:00",
-        "points": 593,
+        "points": 614,
         "submitter": "theanonymousone",
         "commentsUrl": "https://news.ycombinator.com/item?id=50355251",
-        "numComments": 176
+        "numComments": 180
     },
     {
         "id": "50336840",
@@ -44,7 +44,7 @@
         "title": "The October inflection point for vibe game development",
         "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
         "dt": "2026-10-28T14:03:31",
-        "points": 44,
+        "points": 45,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=50273753",
         "numComments": 51
