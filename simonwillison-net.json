@@ -4,10 +4,10 @@
         "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
         "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
         "dt": "2026-11-03T17:40:00",
-        "points": 663,
+        "points": 673,
         "submitter": "theanonymousone",
         "commentsUrl": "https://news.ycombinator.com/item?id=50355251",
-        "numComments": 193
+        "numComments": 196
     },
     {
         "id": "50336840",
@@ -77,7 +77,7 @@
         "points": 2,
         "submitter": "colinprince",
         "commentsUrl": "https://news.ycombinator.com/item?id=50248368",
-        "numComments": 1
+        "numComments": 2
     },
     {
         "id": "50198325",
