@@ -1,5 +1,15 @@
 [
     {
+        "id": "50421075",
+        "title": "Hide your slop PR descriptions behind <details><summary>",
+        "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+        "dt": "2026-11-09T04:28:49",
+        "points": 3,
+        "submitter": "acossta",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50421075",
+        "numComments": 0
+    },
+    {
         "id": "50419657",
         "title": "Parse_number() as a SQLite extension: C vs. Rust",
         "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
@@ -287,16 +297,6 @@
         "points": 2,
         "submitter": "matt_d",
         "commentsUrl": "https://news.ycombinator.com/item?id=49888261",
-        "numComments": 0
-    },
-    {
-        "id": "49883175",
-        "title": "2026 in LLMs (So Far)",
-        "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
-        "dt": "2026-09-28T19:28:42",
-        "points": 3,
-        "submitter": "jasoncartwright",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49883175",
         "numComments": 0
     }
 ]
