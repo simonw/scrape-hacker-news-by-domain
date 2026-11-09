@@ -1,5 +1,15 @@
 [
     {
+        "id": "50419657",
+        "title": "Parse_number() as a SQLite extension: C vs. Rust",
+        "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+        "dt": "2026-11-09T01:04:19",
+        "points": 1,
+        "submitter": "sshah03",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50419657",
+        "numComments": 0
+    },
+    {
         "id": "50355251",
         "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
         "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "jasoncartwright",
         "commentsUrl": "https://news.ycombinator.com/item?id=49883175",
-        "numComments": 0
-    },
-    {
-        "id": "49879526",
-        "title": "A case of Muse leaking personal information and keeping it for itself",
-        "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-        "dt": "2026-09-28T15:24:45",
-        "points": 2,
-        "submitter": "mseri",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49879526",
         "numComments": 0
     }
 ]
