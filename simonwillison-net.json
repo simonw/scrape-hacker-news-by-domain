@@ -1,10 +1,20 @@
 [
     {
+        "id": "50447258",
+        "title": "A simple Python implementation of the ReAct pattern for LLMs",
+        "url": "https://til.simonwillison.net/llms/python-react-pattern",
+        "dt": "2026-11-10T22:33:34",
+        "points": 2,
+        "submitter": "auraham",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50447258",
+        "numComments": 0
+    },
+    {
         "id": "50434310",
         "title": "Locating the source of a mysterious beep",
         "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
         "dt": "2026-11-10T00:10:46",
-        "points": 313,
+        "points": 315,
         "submitter": "bigwheels",
         "commentsUrl": "https://news.ycombinator.com/item?id=50434310",
         "numComments": 163
@@ -288,15 +298,5 @@
         "submitter": "rdslw",
         "commentsUrl": "https://news.ycombinator.com/item?id=49980690",
         "numComments": 0
-    },
-    {
-        "id": "49949235",
-        "title": "We're going to need default hard budget caps on pretty much everything",
-        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-        "dt": "2026-10-04T00:20:16",
-        "points": 652,
-        "submitter": "elffjs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49949235",
-        "numComments": 313
     }
 ]
