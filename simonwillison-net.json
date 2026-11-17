@@ -1,5 +1,15 @@
 [
     {
+        "id": "50539299",
+        "title": "GPT-6.2 Astra and GPT-6.2 Sol",
+        "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+        "dt": "2026-11-17T22:40:23",
+        "points": 2,
+        "submitter": "acossta",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50539299",
+        "numComments": 0
+    },
+    {
         "id": "50534295",
         "title": "Full server-side Datasette Python app in the browser with service workers",
         "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
@@ -288,15 +298,5 @@
         "submitter": "theanonymousone",
         "commentsUrl": "https://news.ycombinator.com/item?id=50004159",
         "numComments": 2
-    },
-    {
-        "id": "49995246",
-        "title": "LLM-OpenAI-Decisions 0.1a0",
-        "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
-        "dt": "2026-10-07T16:40:50",
-        "points": 3,
-        "submitter": "hn1rig3rak",
-        "commentsUrl": "https://news.ycombinator.com/item?id=49995246",
-        "numComments": 0
     }
 ]
