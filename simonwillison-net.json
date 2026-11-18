@@ -1,5 +1,15 @@
 [
     {
+        "id": "50545038",
+        "title": "External Sandboxes for Coding Agents",
+        "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+        "dt": "2026-11-18T11:35:24",
+        "points": 2,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50545038",
+        "numComments": 1
+    },
+    {
         "id": "50539299",
         "title": "GPT-6.2 Astra and GPT-6.2 Sol",
         "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
@@ -288,15 +298,5 @@
         "submitter": "raahelb",
         "commentsUrl": "https://news.ycombinator.com/item?id=50021023",
         "numComments": 0
-    },
-    {
-        "id": "50004159",
-        "title": "Ben Affleck on Machine Learning and Computer Vision",
-        "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-        "dt": "2026-10-08T10:39:46",
-        "points": 5,
-        "submitter": "theanonymousone",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50004159",
-        "numComments": 2
     }
 ]
