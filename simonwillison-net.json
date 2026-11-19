@@ -1,5 +1,15 @@
 [
     {
+        "id": "50558092",
+        "title": "The PSF end-of-year fundraiser",
+        "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+        "dt": "2026-11-19T09:57:18",
+        "points": 1,
+        "submitter": "lumpa",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50558092",
+        "numComments": 0
+    },
+    {
         "id": "50545038",
         "title": "External Sandboxes for Coding Agents",
         "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
@@ -287,16 +297,6 @@
         "points": 3,
         "submitter": "hnisjafx40",
         "commentsUrl": "https://news.ycombinator.com/item?id=50032609",
-        "numComments": 0
-    },
-    {
-        "id": "50021023",
-        "title": "A new feature for my blog, built using my voice",
-        "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-        "dt": "2026-10-09T14:27:39",
-        "points": 10,
-        "submitter": "raahelb",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50021023",
         "numComments": 0
     }
 ]
