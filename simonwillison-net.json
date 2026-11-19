@@ -100,16 +100,6 @@
         "numComments": 0
     },
     {
-        "id": "50419657",
-        "title": "Parse_number() as a SQLite extension: C vs. Rust",
-        "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-        "dt": "2026-11-09T01:04:19",
-        "points": 2,
-        "submitter": "sshah03",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50419657",
-        "numComments": 0
-    },
-    {
         "id": "50355251",
         "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
         "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
@@ -130,16 +120,6 @@
         "numComments": 54
     },
     {
-        "id": "50319873",
-        "title": "GPT-6.1 Terra",
-        "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-        "dt": "2026-10-31T20:32:17",
-        "points": 16,
-        "submitter": "hnisjafx40",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50319873",
-        "numComments": 4
-    },
-    {
         "id": "50303018",
         "title": "Building a multiplayer game world with autonomous Fable-class models",
         "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
@@ -158,16 +138,6 @@
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=50273753",
         "numComments": 54
-    },
-    {
-        "id": "50263175",
-        "title": "Seam Cutter",
-        "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
-        "dt": "2026-10-27T17:57:37",
-        "points": 4,
-        "submitter": "hn9zmdcaou",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50263175",
-        "numComments": 1
     },
     {
         "id": "50256393",
@@ -197,16 +167,6 @@
         "points": 4,
         "submitter": "krunck",
         "commentsUrl": "https://news.ycombinator.com/item?id=50198325",
-        "numComments": 1
-    },
-    {
-        "id": "50189189",
-        "title": "eMudhra Intermediate CA Compromise",
-        "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
-        "dt": "2026-10-21T23:43:33",
-        "points": 2,
-        "submitter": "abdelhousni",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50189189",
         "numComments": 1
     },
     {
@@ -280,16 +240,6 @@
         "numComments": 0
     },
     {
-        "id": "50063448",
-        "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-        "dt": "2026-10-12T21:42:07",
-        "points": 6,
-        "submitter": "elffjs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50063448",
-        "numComments": 0
-    },
-    {
         "id": "50032609",
         "title": "Deno Is Joining Cloudflare",
         "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
@@ -297,6 +247,56 @@
         "points": 3,
         "submitter": "hnisjafx40",
         "commentsUrl": "https://news.ycombinator.com/item?id=50032609",
+        "numComments": 0
+    },
+    {
+        "id": "50004159",
+        "title": "Ben Affleck on Machine Learning and Computer Vision",
+        "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+        "dt": "2026-10-08T10:39:46",
+        "points": 5,
+        "submitter": "theanonymousone",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50004159",
+        "numComments": 2
+    },
+    {
+        "id": "49995246",
+        "title": "LLM-OpenAI-Decisions 0.1a0",
+        "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+        "dt": "2026-10-07T16:40:50",
+        "points": 3,
+        "submitter": "hn1rig3rak",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49995246",
+        "numComments": 0
+    },
+    {
+        "id": "49995052",
+        "title": "EmbeddingGemma 2",
+        "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+        "dt": "2026-10-07T16:27:39",
+        "points": 1,
+        "submitter": "hn9zmdcaou",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49995052",
+        "numComments": 1
+    },
+    {
+        "id": "49981417",
+        "title": "Scrimshaw Jukebox",
+        "url": "https://tools.simonwillison.net/scrimshaw-jukebox",
+        "dt": "2026-10-06T17:17:52",
+        "points": 2,
+        "submitter": "jonas21",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49981417",
+        "numComments": 0
+    },
+    {
+        "id": "49980690",
+        "title": "Scrimshaw Jukebox",
+        "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+        "dt": "2026-10-06T16:21:22",
+        "points": 1,
+        "submitter": "rdslw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=49980690",
         "numComments": 0
     }
 ]
