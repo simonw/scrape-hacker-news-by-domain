@@ -4,7 +4,7 @@
         "title": "Muru \u2013 AI-assisted Rust server for Python apps by mod_WSGI's creator",
         "url": "https://simonwillison.net/2026/Nov/21/muru/",
         "dt": "2026-11-22T09:57:01",
-        "points": 6,
+        "points": 16,
         "submitter": "joshcsimmons",
         "commentsUrl": "https://news.ycombinator.com/item?id=50597959",
         "numComments": 0
@@ -14,7 +14,7 @@
         "title": "The PSF end-of-year fundraiser",
         "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
         "dt": "2026-11-19T09:57:18",
-        "points": 1,
+        "points": 2,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=50558092",
         "numComments": 0
@@ -24,7 +24,7 @@
         "title": "External Sandboxes for Coding Agents",
         "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
         "dt": "2026-11-18T11:35:24",
-        "points": 4,
+        "points": 5,
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=50545038",
         "numComments": 2
@@ -34,7 +34,7 @@
         "title": "GPT-6.2 Astra and GPT-6.2 Sol",
         "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
         "dt": "2026-11-17T22:40:23",
-        "points": 4,
+        "points": 5,
         "submitter": "acossta",
         "commentsUrl": "https://news.ycombinator.com/item?id=50539299",
         "numComments": 0
@@ -44,7 +44,7 @@
         "title": "Full server-side Datasette Python app in the browser with service workers",
         "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
         "dt": "2026-11-17T16:52:36",
-        "points": 2,
+        "points": 3,
         "submitter": "simonw",
         "commentsUrl": "https://news.ycombinator.com/item?id=50534295",
         "numComments": 0
@@ -54,7 +54,7 @@
         "title": "LLM-Anthropic 0.31",
         "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
         "dt": "2026-11-12T08:48:58",
-        "points": 6,
+        "points": 7,
         "submitter": "millspore",
         "commentsUrl": "https://news.ycombinator.com/item?id=50464645",
         "numComments": 1
@@ -64,7 +64,7 @@
         "title": "Yonkers Rises",
         "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
         "dt": "2026-11-11T07:54:51",
-        "points": 2,
+        "points": 3,
         "submitter": "jimauthors",
         "commentsUrl": "https://news.ycombinator.com/item?id=50450803",
         "numComments": 0
@@ -74,7 +74,7 @@
         "title": "A simple Python implementation of the ReAct pattern for LLMs",
         "url": "https://til.simonwillison.net/llms/python-react-pattern",
         "dt": "2026-11-10T22:33:34",
-        "points": 2,
+        "points": 3,
         "submitter": "auraham",
         "commentsUrl": "https://news.ycombinator.com/item?id=50447258",
         "numComments": 0
