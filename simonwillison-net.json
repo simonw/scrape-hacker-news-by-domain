@@ -1,5 +1,15 @@
 [
     {
+        "id": "50619882",
+        "title": "Datasette-Arrows 0.1a0",
+        "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+        "dt": "2026-11-23T21:50:04",
+        "points": 4,
+        "submitter": "floornext",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50619882",
+        "numComments": 0
+    },
+    {
         "id": "50597959",
         "title": "Muru \u2013 AI-assisted Rust server for Python apps by mod_WSGI's creator",
         "url": "https://simonwillison.net/2026/Nov/21/muru/",
@@ -7,7 +17,7 @@
         "points": 78,
         "submitter": "joshcsimmons",
         "commentsUrl": "https://news.ycombinator.com/item?id=50597959",
-        "numComments": 11
+        "numComments": 12
     },
     {
         "id": "50558092",
@@ -287,16 +297,6 @@
         "points": 1,
         "submitter": "nizarmah",
         "commentsUrl": "https://news.ycombinator.com/item?id=50076511",
-        "numComments": 0
-    },
-    {
-        "id": "50063448",
-        "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-        "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-        "dt": "2026-10-12T21:42:07",
-        "points": 6,
-        "submitter": "elffjs",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50063448",
         "numComments": 0
     }
 ]
