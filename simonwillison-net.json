@@ -1,5 +1,15 @@
 [
     {
+        "id": "50636242",
+        "title": "Three LLM inflection points in twelve months",
+        "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+        "dt": "2026-11-24T23:18:20",
+        "points": 1,
+        "submitter": "iLuddite",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50636242",
+        "numComments": 0
+    },
+    {
         "id": "50622196",
         "title": "Ladybird's First Alpha Release",
         "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
@@ -288,15 +298,5 @@
         "submitter": "havaloc",
         "commentsUrl": "https://news.ycombinator.com/item?id=50114061",
         "numComments": 16
-    },
-    {
-        "id": "50104358",
-        "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-        "dt": "2026-10-15T14:40:03",
-        "points": 1,
-        "submitter": "surprisetalk",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50104358",
-        "numComments": 1
     }
 ]
