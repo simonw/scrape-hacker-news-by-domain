@@ -1,5 +1,15 @@
 [
     {
+        "id": "50622196",
+        "title": "Ladybird's First Alpha Release",
+        "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+        "dt": "2026-11-24T01:19:09",
+        "points": 1,
+        "submitter": "thunderbong",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50622196",
+        "numComments": 0
+    },
+    {
         "id": "50619882",
         "title": "Datasette-Arrows 0.1a0",
         "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
@@ -288,15 +298,5 @@
         "submitter": "surprisetalk",
         "commentsUrl": "https://news.ycombinator.com/item?id=50104358",
         "numComments": 1
-    },
-    {
-        "id": "50076511",
-        "title": "Quoting Geoffrey Huntley",
-        "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-        "dt": "2026-10-13T18:38:16",
-        "points": 1,
-        "submitter": "nizarmah",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50076511",
-        "numComments": 0
     }
 ]
