@@ -1,5 +1,15 @@
 [
     {
+        "id": "50641114",
+        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+        "dt": "2026-11-25T11:24:54",
+        "points": 4,
+        "submitter": "omegaSigma95",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50641114",
+        "numComments": 0
+    },
+    {
         "id": "50640390",
         "title": "GPT 6.2 Astra Solves a Historical Mystery",
         "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
@@ -288,15 +298,5 @@
         "submitter": "erikwiffin",
         "commentsUrl": "https://news.ycombinator.com/item?id=50173389",
         "numComments": 3
-    },
-    {
-        "id": "50149396",
-        "title": "A new feature for my blog, built using my voice",
-        "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-        "dt": "2026-10-19T07:24:28",
-        "points": 1,
-        "submitter": "edward",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50149396",
-        "numComments": 0
     }
 ]
