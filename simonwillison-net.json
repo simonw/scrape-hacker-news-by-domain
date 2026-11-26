@@ -1,5 +1,15 @@
 [
     {
+        "id": "50657504",
+        "title": "Three LLM inflection points in twelve months",
+        "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+        "dt": "2026-11-26T17:35:44",
+        "points": 1,
+        "submitter": "codeclimber",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50657504",
+        "numComments": 0
+    },
+    {
         "id": "50641114",
         "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
         "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
@@ -288,15 +298,5 @@
         "submitter": "red369",
         "commentsUrl": "https://news.ycombinator.com/item?id=50177597",
         "numComments": 0
-    },
-    {
-        "id": "50173389",
-        "title": "Battle Drones\u2013a vibe coded RTS with audio-based multiplayer",
-        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-        "dt": "2026-10-20T22:10:44",
-        "points": 8,
-        "submitter": "erikwiffin",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50173389",
-        "numComments": 3
     }
 ]
