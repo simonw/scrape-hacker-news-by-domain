@@ -1,5 +1,15 @@
 [
     {
+        "id": "50669837",
+        "title": "Three LLM inflection points in twelve months",
+        "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+        "dt": "2026-11-27T18:08:01",
+        "points": 1,
+        "submitter": "theanonymousone",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50669837",
+        "numComments": 0
+    },
+    {
         "id": "50657504",
         "title": "Three LLM inflection points in twelve months",
         "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
@@ -288,15 +298,5 @@
         "submitter": "abdelhousni",
         "commentsUrl": "https://news.ycombinator.com/item?id=50189189",
         "numComments": 1
-    },
-    {
-        "id": "50177597",
-        "title": "Battle Drones\u2013a vibe coded RTS with audio-based multiplayer",
-        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-        "dt": "2026-10-21T08:23:42",
-        "points": 2,
-        "submitter": "red369",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50177597",
-        "numComments": 0
     }
 ]
