@@ -1,5 +1,15 @@
 [
     {
+        "id": "50676195",
+        "title": "Sqlite3_rsync: Database Remote-Copy Tool for SQLite",
+        "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+        "dt": "2026-11-28T09:54:14",
+        "points": 1,
+        "submitter": "joshcsimmons",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50676195",
+        "numComments": 0
+    },
+    {
         "id": "50669837",
         "title": "Three LLM inflection points in twelve months",
         "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
@@ -287,16 +297,6 @@
         "points": 4,
         "submitter": "krunck",
         "commentsUrl": "https://news.ycombinator.com/item?id=50198325",
-        "numComments": 1
-    },
-    {
-        "id": "50189189",
-        "title": "eMudhra Intermediate CA Compromise",
-        "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
-        "dt": "2026-10-21T23:43:33",
-        "points": 2,
-        "submitter": "abdelhousni",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50189189",
         "numComments": 1
     }
 ]
