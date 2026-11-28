@@ -1,5 +1,15 @@
 [
     {
+        "id": "50678708",
+        "title": "Datasette-Charts 0.4a0",
+        "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+        "dt": "2026-11-28T15:36:02",
+        "points": 1,
+        "submitter": "ac-ciano",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50678708",
+        "numComments": 1
+    },
+    {
         "id": "50676195",
         "title": "Sqlite3_rsync: Database Remote-Copy Tool for SQLite",
         "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
@@ -288,15 +298,5 @@
         "submitter": "colinprince",
         "commentsUrl": "https://news.ycombinator.com/item?id=50248368",
         "numComments": 2
-    },
-    {
-        "id": "50198325",
-        "title": "Battle Drones\u2013a vibe coded RTS with audio-based multiplayer",
-        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-        "dt": "2026-10-22T17:20:45",
-        "points": 4,
-        "submitter": "krunck",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50198325",
-        "numComments": 1
     }
 ]
