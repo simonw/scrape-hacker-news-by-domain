@@ -1,5 +1,15 @@
 [
     {
+        "id": "50680097",
+        "title": "Code-driven AI illustrations more useful than images from dedicated image models",
+        "url": "https://simonwillison.net/2026/Nov/28/code-driven-ai-illustrations/",
+        "dt": "2026-11-28T17:46:08",
+        "points": 4,
+        "submitter": "simonw",
+        "commentsUrl": "https://news.ycombinator.com/item?id=50680097",
+        "numComments": 0
+    },
+    {
         "id": "50678708",
         "title": "Datasette-Charts 0.4a0",
         "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
@@ -288,15 +298,5 @@
         "submitter": "lumpa",
         "commentsUrl": "https://news.ycombinator.com/item?id=50256393",
         "numComments": 0
-    },
-    {
-        "id": "50248368",
-        "title": "Battle Drones",
-        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-        "dt": "2026-10-26T18:14:32",
-        "points": 2,
-        "submitter": "colinprince",
-        "commentsUrl": "https://news.ycombinator.com/item?id=50248368",
-        "numComments": 2
     }
 ]
